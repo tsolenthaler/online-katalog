@@ -9,9 +9,9 @@ from collections import defaultdict
 import fitz
 
 
-def extract_titles(pdf_path: str) -> list[str]:
+def extract_books(pdf_path: str) -> list[dict[str, str]]:
     doc = fitz.open(pdf_path)
-    titles: list[str] = []
+    books: list[dict[str, str]] = []
 
     for page in doc:
         words = page.get_text("words")
@@ -46,35 +46,37 @@ def extract_titles(pdf_path: str) -> list[str]:
             if not candidate_lines:
                 continue
 
-            # 3 lines in block usually means number + title + author.
-            x_limit = 300 if len(lines) >= 3 else 470
-
             title_words: list[str] = []
+            author_words: list[str] = []
             for line_no in candidate_lines:
                 line_words = sorted(lines[line_no], key=lambda item: item[0])
                 for word in line_words:
                     x0, y0, x1, y1, text, _, _, _ = word
                     _ = (y0, x1, y1)
-                    if x0 < x_limit:
+                    if x0 < 300:
                         title_words.append(text)
+                    elif x0 < 470:
+                        author_words.append(text)
 
             title = " ".join(title_words)
             title = re.sub(r"\s+", " ", title).strip()
+            author = " ".join(author_words)
+            author = re.sub(r"\s+", " ", author).strip()
 
             if not title or title.startswith("©") or title in {"Titel", "Titel-Liste"}:
                 continue
 
-            titles.append(title)
+            books.append({"title": title, "author": author})
 
-    return titles
+    return books
 
 
-def write_csv(output_path: str, titles: list[str]) -> None:
+def write_csv(output_path: str, books: list[dict[str, str]]) -> None:
     with open(output_path, "w", newline="", encoding="utf-8") as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(["title"])
-        for title in titles:
-            writer.writerow([title])
+        writer.writerow(["title", "author"])
+        for book in books:
+            writer.writerow([book["title"], book["author"]])
 
 
 def parse_args() -> argparse.Namespace:
@@ -94,9 +96,9 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    titles = extract_titles(args.pdf)
-    write_csv(args.out, titles)
-    print(f"Exported {len(titles)} titles to {args.out}")
+    books = extract_books(args.pdf)
+    write_csv(args.out, books)
+    print(f"Exported {len(books)} entries to {args.out}")
 
 
 if __name__ == "__main__":

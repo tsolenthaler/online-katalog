@@ -10,6 +10,8 @@
 * Suche nach Autor
 * Suche in einem Eingabe-Feld
 * Responsive / Als Mobile Web App abrufbar
+* Statistik nach Autor
+* Statistik nach Genre
 
 
 ## Anforderungen
