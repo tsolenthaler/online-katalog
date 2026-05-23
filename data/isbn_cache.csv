@@ -1,3 +1,18 @@
 cache_key,title,author,isbn,matched_title,matched_author,confidence,source
 ronja raubertochter|astrid lindgren,Ronja Räubertochter,"Lindgren, Astrid",9783789108112,Ronja Räubertochter Astrid Lindgren,"Lindgren, Astrid",0.7778,dnb
 die unendliche geschichte|michael ende,Die unendliche Geschichte,"Ende, Michael",9783522202602,Die unendliche Geschichte Michael Ende,"Ende, Michael",0.8452,dnb
+der medicus von saragossa|noah gordon,checked,Der Medicus von Saragossa,"Gordon, Noah",,,,,not_found
+die schwarzen bruder|lisa tetzner,checked,Die schwarzen Brüder,"Tetzner, Lisa",,,,,not_found
+die rote zora|kurt held,checked,Die rote Zora,"Held, Kurt",,,,,not_found
+das doppelte lottchen|erich kastner,checked,Das doppelte Lottchen,"Kästner, Erich",,,,,not_found
+in 80 tagen um die welt|jules verne,checked,In 80 Tagen um die Welt,"Verne, Jules",,,,,not_found
+meine ersten weihnachtsgeschichten|kunzler behncke rosmarie,checked,Meine ersten Weihnachtsgeschichten,Künzler-Behncke Rosmarie,,,,,not_found
+frohe weihnachten liebes christkind|sigrid heuck,checked,"Frohe Weihnachten, liebes Christkind!","Heuck, Sigrid",,,,,not_found
+onkel toms hutte|harriet beecher stowe,checked,Onkel Toms Hütte,"Stowe, Harriet Beecher",,,,,not_found
+mein name ist eugen|klaus schadelin,checked,Mein Name ist Eugen,"Schädelin, Klaus",,,,,not_found
+bad sonder|catherine de clercq,checked,Bad Sonder,"Clercq, Catherine de",,,,,not_found
+wir warten aufs christkind|christina franke,checked,Wir warten aufs Christkind,"Franke, Christina",,,,,not_found
+die schonsten fruhlings und ostergeschichten|corinna gieseler,checked,Die schönsten Frühlings und Ostergeschichten,"Gieseler, Corinna",,,,,not_found
+die sticker|elisabeth gerter,checked,Die Sticker,"Gerter, Elisabeth",,,,,not_found
+der medicus|noah gordon,checked,Der Medicus,"Gordon, Noah",,,,,not_found
+hier kommt lola|isabel abedi,checked,Hier kommt Lola!,"Abedi, Isabel",,,,,not_found
