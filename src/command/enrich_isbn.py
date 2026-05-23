@@ -466,7 +466,24 @@ def main() -> None:
         raise ValueError("At least one source must be configured.")
 
     if not input_csv.exists():
-        raise FileNotFoundError(f"Input file not found: {input_csv}")
+        script_dir = Path(__file__).resolve().parent
+        repo_root = script_dir.parent.parent
+
+        fallbacks: list[Path] = []
+        if not input_csv.is_absolute():
+            fallbacks.append(repo_root / input_csv)
+            # Common shorthand: --in books.csv -> data/books.csv
+            if input_csv.parent == Path("."):
+                fallbacks.append(repo_root / "data" / input_csv.name)
+
+        resolved = next((candidate for candidate in fallbacks if candidate.exists()), None)
+        if resolved is not None:
+            input_csv = resolved
+        else:
+            searched = [str(input_csv)] + [str(path) for path in fallbacks]
+            raise FileNotFoundError(
+                "Input file not found. Checked: " + ", ".join(searched)
+            )
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
 
