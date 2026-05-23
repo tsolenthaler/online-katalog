@@ -68,17 +68,21 @@ def load_isbn_cache(cache_csv: Path) -> dict[str, CachedLookup]:
             except ValueError:
                 confidence = 0.0
 
+            normalized_isbn = isbn_digits(isbn) if isbn else ""
+            has_valid_isbn = bool(normalized_isbn and (is_valid_isbn10(normalized_isbn) or is_valid_isbn13(normalized_isbn)))
+
             if status == "checked" or (not isbn and status != "found"):
                 cache[key] = CachedLookup(found=False)
                 continue
 
-            if not isbn:
+            if not has_valid_isbn:
+                cache[key] = CachedLookup(found=False)
                 continue
 
             cache[key] = CachedLookup(
                 found=True,
                 match=MatchResult(
-                    isbn=isbn,
+                    isbn=normalized_isbn,
                     matched_title=(row.get("matched_title") or "").strip(),
                     matched_author=(row.get("matched_author") or "").strip(),
                     confidence=confidence,
@@ -157,6 +161,20 @@ def normalize_author_for_compare(author: str) -> str:
     return normalize_text(author)
 
 
+def normalize_author_for_query(author: str) -> list[str]:
+    author = clean_visible_text(author)
+    if not author:
+        return []
+
+    variants: set[str] = set(umlaut_variants(author))
+    if "," in author:
+        parts = [part.strip() for part in author.split(",", maxsplit=1)]
+        if len(parts) == 2 and parts[0] and parts[1]:
+            variants.update(umlaut_variants(f"{parts[1]} {parts[0]}"))
+
+    return [variant for variant in variants if variant.strip()]
+
+
 def normalize_title_for_query(title: str) -> str:
     # Remove common catalog noise so external APIs can match better.
     title = re.sub(r"\s*-\s*band\s*\d+\s*-\s*", " ", title, flags=re.IGNORECASE)
@@ -195,13 +213,19 @@ def umlaut_variants(value: str) -> list[str]:
 
 def build_query_variants(title: str, author: str) -> list[tuple[str, str]]:
     base_title = normalize_title_for_query(title)
-    base_author = author.strip()
+    base_author_variants = normalize_author_for_query(author)
 
     variants: list[tuple[str, str]] = []
     seen: set[tuple[str, str]] = set()
 
     for t in umlaut_variants(base_title):
-        author_variants = umlaut_variants(base_author) if base_author else [""]
+        key = (t, "")
+        if key not in seen:
+            seen.add(key)
+            variants.append(key)
+
+    for t in umlaut_variants(base_title):
+        author_variants = base_author_variants or [""]
         for a in author_variants:
             key = (t, a)
             if key not in seen:
@@ -383,15 +407,21 @@ def find_best_match(
     docs_cache: dict[tuple[str, str, str, str], list[dict[str, Any]]],
     request_delay: float,
     sources: list[str],
+    verbose: bool,
 ) -> MatchResult | None:
-    best_doc: dict[str, Any] | None = None
-    best_source = ""
-    best_score = -1.0
-
     for source in sources:
+        best_doc: dict[str, Any] | None = None
+        best_score = -1.0
+
         for q_title, q_author in build_query_variants(title=title, author=author):
             cache_key = (source, q_title.strip(), q_author.strip(), title.strip())
             if cache_key not in docs_cache:
+                if verbose:
+                    author_info = q_author if q_author else "<no author>"
+                    print(
+                        f"  -> query {source}: title=\"{q_title}\" author=\"{author_info}\"",
+                        flush=True,
+                    )
                 docs_cache[cache_key] = fetch_docs_from_source(source=source, title=q_title, author=q_author)
                 if request_delay > 0:
                     time.sleep(request_delay)
@@ -409,25 +439,24 @@ def find_best_match(
                 if score > best_score:
                     best_score = score
                     best_doc = doc
-                    best_source = source
 
-    if not best_doc or best_score < min_confidence:
-        return None
+        if best_doc and best_score >= min_confidence:
+            chosen_isbn = pick_preferred_isbn([str(value) for value in best_doc.get("isbn", [])])
+            if not chosen_isbn:
+                continue
 
-    chosen_isbn = pick_preferred_isbn([str(value) for value in best_doc.get("isbn", [])])
-    if not chosen_isbn:
-        return None
+            authors = best_doc.get("author_name", []) or []
+            matched_author = str(authors[0]) if authors else ""
 
-    authors = best_doc.get("author_name", []) or []
-    matched_author = str(authors[0]) if authors else ""
+            return MatchResult(
+                isbn=chosen_isbn,
+                matched_title=str(best_doc.get("title", "")),
+                matched_author=matched_author,
+                confidence=round(best_score, 4),
+                source=source,
+            )
 
-    return MatchResult(
-        isbn=chosen_isbn,
-        matched_title=str(best_doc.get("title", "")),
-        matched_author=matched_author,
-        confidence=round(best_score, 4),
-        source=best_source or "unknown",
-    )
+    return None
 
 
 def enrich_csv(
@@ -476,7 +505,7 @@ def enrich_csv(
             title = (row.get("title") or "").strip()
             author = (row.get("author") or "").strip()
 
-            if verbose and (total == 1 or total % max(progress_every, 1) == 0):
+            if verbose:
                 preview = title if len(title) <= 70 else title[:67] + "..."
                 print(f"[{total}] Processing: {preview}", flush=True)
 
@@ -522,6 +551,7 @@ def enrich_csv(
                             docs_cache=docs_cache,
                             request_delay=request_delay,
                             sources=sources,
+                            verbose=verbose,
                         )
                 except Exception:
                     match = None

@@ -72,6 +72,7 @@ Das Script gibt standardmaessig Status aus:
 - Eingabe-/Ausgabedatei
 - Verwendete Quellen
 - Fortschritt alle `n` Zeilen
+- Jede Abfrage mit Titel/Autor pro Quelle wird im Terminal ausgegeben
 - Treffer-Meldungen mit ISBN, Quelle und Confidence
 - Cache-Nutzung (`Loaded cache entries`, `from cache`, `Cache hits`)
 - Abschluss mit Anzahl verarbeiteter Zeilen und Treffer
@@ -101,6 +102,7 @@ Das Script speichert gefundene ISBNs sofort in einer Cache-Datei und kann dadurc
 - Default-Cache: `data/isbn_cache.csv`
 - Schluessel: normalisierter `title` + normalisierter `author`
 - Inhalt pro Cache-Zeile: cache_key, status, title, author, isbn, matched_title, matched_author, confidence, source
+- Reihenfolge der Quellen: zuerst `openlibrary`, danach Fallback auf `dnb`
 
 Wichtig fuer Abbruchsicherheit:
 
