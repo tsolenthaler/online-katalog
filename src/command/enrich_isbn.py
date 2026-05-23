@@ -14,6 +14,7 @@ import json
 import re
 import time
 import unicodedata
+import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -23,6 +24,9 @@ from urllib.request import urlopen
 
 
 OPENLIBRARY_SEARCH_URL = "https://openlibrary.org/search.json"
+DNB_SRU_URL = "https://services.dnb.de/sru/dnb"
+
+SRU_NS = {"srw": "http://www.loc.gov/zing/srw/", "marc": "http://www.loc.gov/MARC21/slim"}
 
 
 @dataclass
@@ -43,6 +47,12 @@ def normalize_text(value: str) -> str:
     return value
 
 
+def clean_visible_text(value: str) -> str:
+    value = "".join(ch for ch in value if ch.isprintable() or ch in "\t\n\r")
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
 def normalize_author_for_compare(author: str) -> str:
     author = author.strip()
     if not author:
@@ -52,6 +62,63 @@ def normalize_author_for_compare(author: str) -> str:
         if len(parts) == 2:
             author = f"{parts[1]} {parts[0]}"
     return normalize_text(author)
+
+
+def normalize_title_for_query(title: str) -> str:
+    # Remove common catalog noise so external APIs can match better.
+    title = re.sub(r"\s*-\s*band\s*\d+\s*-\s*", " ", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s*-\s*teil\s*\d+\s*-\s*", " ", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s*\(.*?\)\s*", " ", title)
+    title = re.sub(r"\s+", " ", title).strip(" -,:;")
+    return title
+
+
+def umlaut_variants(value: str) -> list[str]:
+    if not value:
+        return []
+
+    variants = {value}
+    replace_map = {
+        "ä": "ae",
+        "ö": "oe",
+        "ü": "ue",
+        "Ä": "Ae",
+        "Ö": "Oe",
+        "Ü": "Ue",
+        "ß": "ss",
+    }
+
+    as_ae = value
+    for src, dst in replace_map.items():
+        as_ae = as_ae.replace(src, dst)
+    variants.add(as_ae)
+
+    as_plain = unicodedata.normalize("NFKD", value)
+    as_plain = "".join(ch for ch in as_plain if not unicodedata.combining(ch))
+    variants.add(as_plain)
+
+    return [v.strip() for v in variants if v.strip()]
+
+
+def build_query_variants(title: str, author: str) -> list[tuple[str, str]]:
+    base_title = normalize_title_for_query(title)
+    base_author = author.strip()
+
+    variants: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+
+    for t in umlaut_variants(base_title):
+        author_variants = umlaut_variants(base_author) if base_author else [""]
+        for a in author_variants:
+            key = (t, a)
+            if key not in seen:
+                seen.add(key)
+                variants.append(key)
+
+    if not variants:
+        variants.append((title.strip(), author.strip()))
+
+    return variants
 
 
 def isbn_digits(raw: str) -> str:
@@ -151,35 +218,105 @@ def fetch_openlibrary_docs(title: str, author: str, limit: int = 10) -> list[dic
     return [doc for doc in docs if isinstance(doc, dict)]
 
 
+def fetch_dnb_docs(title: str, author: str, limit: int = 10) -> list[dict[str, Any]]:
+    query_text = " ".join(part for part in [title.strip(), author.strip()] if part).strip()
+    if not query_text:
+        return []
+
+    params = {
+        "version": "1.1",
+        "operation": "searchRetrieve",
+        "recordSchema": "MARC21-xml",
+        "maximumRecords": str(limit),
+        "query": query_text,
+    }
+    url = f"{DNB_SRU_URL}?{urlencode(params)}"
+
+    with urlopen(url, timeout=20) as response:  # noqa: S310
+        payload = response.read().decode("utf-8")
+
+    root = ET.fromstring(payload)
+    docs: list[dict[str, Any]] = []
+
+    for record in root.findall(".//marc:record", SRU_NS):
+        title_parts = [
+            clean_visible_text(node.text or "")
+            for node in record.findall("./marc:datafield[@tag='245']/marc:subfield", SRU_NS)
+            if clean_visible_text(node.text or "")
+        ]
+        title_text = " ".join(title_parts)
+
+        authors_primary = [
+            clean_visible_text(node.text or "")
+            for node in record.findall("./marc:datafield[@tag='100']/marc:subfield[@code='a']", SRU_NS)
+            if clean_visible_text(node.text or "")
+        ]
+        authors_secondary = [
+            clean_visible_text(node.text or "")
+            for node in record.findall("./marc:datafield[@tag='700']/marc:subfield[@code='a']", SRU_NS)
+            if clean_visible_text(node.text or "")
+        ]
+        authors = authors_primary + authors_secondary
+
+        isbn_values = [
+            clean_visible_text(node.text or "")
+            for node in record.findall("./marc:datafield[@tag='020']/marc:subfield[@code='a']", SRU_NS)
+            if clean_visible_text(node.text or "")
+        ]
+
+        docs.append(
+            {
+                "title": title_text,
+                "author_name": authors,
+                "isbn": isbn_values,
+            }
+        )
+
+    return docs
+
+
+def fetch_docs_from_source(source: str, title: str, author: str) -> list[dict[str, Any]]:
+    if source == "openlibrary":
+        return fetch_openlibrary_docs(title=title, author=author)
+    if source == "dnb":
+        return fetch_dnb_docs(title=title, author=author)
+    return []
+
+
 def find_best_match(
     title: str,
     author: str,
     min_confidence: float,
-    docs_cache: dict[tuple[str, str], list[dict[str, Any]]],
+    docs_cache: dict[tuple[str, str, str, str], list[dict[str, Any]]],
     request_delay: float,
+    sources: list[str],
 ) -> MatchResult | None:
-    cache_key = (title.strip(), author.strip())
-    if cache_key not in docs_cache:
-        docs_cache[cache_key] = fetch_openlibrary_docs(title=title, author=author)
-        if request_delay > 0:
-            time.sleep(request_delay)
-
-    docs = docs_cache[cache_key]
     best_doc: dict[str, Any] | None = None
+    best_source = ""
     best_score = -1.0
 
-    for doc in docs:
-        isbns = doc.get("isbn", []) or []
-        if not isinstance(isbns, list):
-            continue
-        chosen_isbn = pick_preferred_isbn([str(value) for value in isbns])
-        if not chosen_isbn:
-            continue
+    for source in sources:
+        for q_title, q_author in build_query_variants(title=title, author=author):
+            cache_key = (source, q_title.strip(), q_author.strip(), title.strip())
+            if cache_key not in docs_cache:
+                docs_cache[cache_key] = fetch_docs_from_source(source=source, title=q_title, author=q_author)
+                if request_delay > 0:
+                    time.sleep(request_delay)
 
-        score = score_candidate(title, author, doc)
-        if score > best_score:
-            best_score = score
-            best_doc = doc
+            docs = docs_cache[cache_key]
+            for doc in docs:
+                isbns = doc.get("isbn", []) or []
+                if not isinstance(isbns, list):
+                    continue
+                chosen_isbn = pick_preferred_isbn([str(value) for value in isbns])
+                if not chosen_isbn:
+                    continue
+
+                score = score_candidate(title, author, doc)
+                if score > best_score:
+                    best_score = score
+                    best_doc = doc
+                    best_source = source
 
     if not best_doc or best_score < min_confidence:
         return None
@@ -196,6 +333,7 @@ def find_best_match(
         matched_title=str(best_doc.get("title", "")),
         matched_author=matched_author,
         confidence=round(best_score, 4),
+        source=best_source or "unknown",
     )
 
 
@@ -205,8 +343,9 @@ def enrich_csv(
     min_confidence: float,
     request_delay: float,
     max_rows: int | None,
+    sources: list[str],
 ) -> tuple[int, int]:
-    docs_cache: dict[tuple[str, str], list[dict[str, Any]]] = {}
+    docs_cache: dict[tuple[str, str, str, str], list[dict[str, Any]]] = {}
 
     with input_csv.open("r", encoding="utf-8", newline="") as in_file, output_csv.open(
         "w", encoding="utf-8", newline=""
@@ -252,6 +391,7 @@ def enrich_csv(
                         min_confidence=min_confidence,
                         docs_cache=docs_cache,
                         request_delay=request_delay,
+                        sources=sources,
                     )
                 except Exception:
                     match = None
@@ -298,6 +438,11 @@ def parse_args() -> argparse.Namespace:
         help="Delay between API requests in seconds (default: 0.12)",
     )
     parser.add_argument(
+        "--sources",
+        default="openlibrary,dnb",
+        help="Comma separated lookup sources (default: openlibrary,dnb)",
+    )
+    parser.add_argument(
         "--max-rows",
         type=int,
         default=None,
@@ -311,6 +456,14 @@ def main() -> None:
 
     input_csv = Path(args.input_csv)
     output_csv = Path(args.output_csv)
+    sources = [part.strip().lower() for part in args.sources.split(",") if part.strip()]
+
+    valid_sources = {"openlibrary", "dnb"}
+    invalid_sources = [source for source in sources if source not in valid_sources]
+    if invalid_sources:
+        raise ValueError(f"Unknown sources: {', '.join(invalid_sources)}")
+    if not sources:
+        raise ValueError("At least one source must be configured.")
 
     if not input_csv.exists():
         raise FileNotFoundError(f"Input file not found: {input_csv}")
@@ -323,6 +476,7 @@ def main() -> None:
         min_confidence=args.min_confidence,
         request_delay=max(args.delay, 0.0),
         max_rows=args.max_rows,
+        sources=sources,
     )
 
     print(f"Processed {total} rows")
