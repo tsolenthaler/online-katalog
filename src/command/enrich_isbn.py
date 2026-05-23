@@ -38,12 +38,18 @@ class MatchResult:
     source: str = "openlibrary"
 
 
+@dataclass
+class CachedLookup:
+    found: bool
+    match: MatchResult | None = None
+
+
 def build_cache_key(title: str, author: str) -> str:
     return f"{normalize_text(title)}|{normalize_author_for_compare(author)}"
 
 
-def load_isbn_cache(cache_csv: Path) -> dict[str, MatchResult]:
-    cache: dict[str, MatchResult] = {}
+def load_isbn_cache(cache_csv: Path) -> dict[str, CachedLookup]:
+    cache: dict[str, CachedLookup] = {}
     if not cache_csv.exists():
         return cache
 
@@ -51,34 +57,52 @@ def load_isbn_cache(cache_csv: Path) -> dict[str, MatchResult]:
         reader = csv.DictReader(cache_file)
         for row in reader:
             key = (row.get("cache_key") or "").strip()
-            isbn = (row.get("isbn") or "").strip()
-            if not key or not isbn:
+            if not key:
                 continue
 
+            status = (row.get("status") or "").strip().lower()
+            isbn = (row.get("isbn") or "").strip()
             confidence_raw = (row.get("confidence") or "").strip()
             try:
                 confidence = float(confidence_raw) if confidence_raw else 0.0
             except ValueError:
                 confidence = 0.0
 
-            cache[key] = MatchResult(
-                isbn=isbn,
-                matched_title=(row.get("matched_title") or "").strip(),
-                matched_author=(row.get("matched_author") or "").strip(),
-                confidence=confidence,
-                source=(row.get("source") or "cache").strip() or "cache",
+            if status == "checked" or (not isbn and status != "found"):
+                cache[key] = CachedLookup(found=False)
+                continue
+
+            if not isbn:
+                continue
+
+            cache[key] = CachedLookup(
+                found=True,
+                match=MatchResult(
+                    isbn=isbn,
+                    matched_title=(row.get("matched_title") or "").strip(),
+                    matched_author=(row.get("matched_author") or "").strip(),
+                    confidence=confidence,
+                    source=(row.get("source") or "cache").strip() or "cache",
+                ),
             )
 
     return cache
 
 
-def append_isbn_cache(cache_csv: Path, cache_key: str, title: str, author: str, match: MatchResult) -> None:
+def append_isbn_cache(
+    cache_csv: Path,
+    cache_key: str,
+    title: str,
+    author: str,
+    lookup: CachedLookup,
+) -> None:
     exists = cache_csv.exists()
     cache_csv.parent.mkdir(parents=True, exist_ok=True)
 
     with cache_csv.open("a", encoding="utf-8", newline="") as cache_file:
         fieldnames = [
             "cache_key",
+            "status",
             "title",
             "author",
             "isbn",
@@ -94,13 +118,14 @@ def append_isbn_cache(cache_csv: Path, cache_key: str, title: str, author: str, 
         writer.writerow(
             {
                 "cache_key": cache_key,
+                "status": "found" if lookup.found else "checked",
                 "title": title,
                 "author": author,
-                "isbn": match.isbn,
-                "matched_title": match.matched_title,
-                "matched_author": match.matched_author,
-                "confidence": f"{match.confidence:.4f}",
-                "source": match.source,
+                "isbn": lookup.match.isbn if lookup.match else "",
+                "matched_title": lookup.match.matched_title if lookup.match else "",
+                "matched_author": lookup.match.matched_author if lookup.match else "",
+                "confidence": f"{lookup.match.confidence:.4f}" if lookup.match else "",
+                "source": lookup.match.source if lookup.match else "not_found",
             }
         )
         cache_file.flush()
@@ -470,19 +495,26 @@ def enrich_csv(
             if title:
                 cache_key = build_cache_key(title, author)
                 cached = isbn_cache.get(cache_key)
-                if cached:
-                    match = cached
+                should_search = cached is None
+
+                if cached and cached.found and cached.match:
+                    match = cached.match
                     cache_hits += 1
                     if verbose:
                         print(
                             f"  -> ISBN {match.isbn} from cache (source {match.source}, confidence {match.confidence:.4f})",
                             flush=True,
                         )
+                elif cached and not cached.found:
+                    match = None
+                    should_search = False
+                    if verbose:
+                        print("  -> already checked, no ISBN found", flush=True)
                 else:
                     match = None
 
                 try:
-                    if match is None:
+                    if should_search and match is None:
                         match = find_best_match(
                             title=title,
                             author=author,
@@ -508,8 +540,13 @@ def enrich_csv(
                         )
 
                     if cached is None:
-                        isbn_cache[cache_key] = match
-                        append_isbn_cache(cache_csv, cache_key, title, author, match)
+                        lookup = CachedLookup(found=True, match=match)
+                        isbn_cache[cache_key] = lookup
+                        append_isbn_cache(cache_csv, cache_key, title, author, lookup)
+                elif cached is None:
+                    lookup = CachedLookup(found=False)
+                    isbn_cache[cache_key] = lookup
+                    append_isbn_cache(cache_csv, cache_key, title, author, lookup)
 
             writer.writerow(enriched)
             out_file.flush()

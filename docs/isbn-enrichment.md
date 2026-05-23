@@ -100,12 +100,13 @@ Das Script speichert gefundene ISBNs sofort in einer Cache-Datei und kann dadurc
 
 - Default-Cache: `data/isbn_cache.csv`
 - Schluessel: normalisierter `title` + normalisierter `author`
-- Inhalt pro Cache-Zeile: cache_key, title, author, isbn, matched_title, matched_author, confidence, source
+- Inhalt pro Cache-Zeile: cache_key, status, title, author, isbn, matched_title, matched_author, confidence, source
 
 Wichtig fuer Abbruchsicherheit:
 
 - Jede Ausgabezeile wird sofort in die Ausgabe-CSV geschrieben (flush).
 - Jeder neue Treffer wird sofort in die Cache-CSV angehaengt (flush).
+- Auch bereits gepruefte Titel ohne Treffer werden in der Cache-CSV gemerkt und bei naechsten Laeufen uebersprungen.
 - Beim naechsten Lauf werden Cache-Eintraege geladen und bevorzugt verwendet.
 
 ## Ausgabeformat
