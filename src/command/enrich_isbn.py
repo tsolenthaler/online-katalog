@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import os
 import re
 import time
 import unicodedata
@@ -46,6 +47,11 @@ class CachedLookup:
 
 def build_cache_key(title: str, author: str) -> str:
     return f"{normalize_text(title)}|{normalize_author_for_compare(author)}"
+
+
+def flush_to_disk(handle: Any) -> None:
+    handle.flush()
+    os.fsync(handle.fileno())
 
 
 def load_isbn_cache(cache_csv: Path) -> dict[str, CachedLookup]:
@@ -132,7 +138,7 @@ def append_isbn_cache(
                 "source": lookup.match.source if lookup.match else "not_found",
             }
         )
-        cache_file.flush()
+        flush_to_disk(cache_file)
 
 
 def normalize_text(value: str) -> str:
@@ -494,6 +500,7 @@ def enrich_csv(
         output_fields = fieldnames + ["isbn", "matched_title", "matched_author", "confidence", "source"]
         writer = csv.DictWriter(out_file, fieldnames=output_fields)
         writer.writeheader()
+        flush_to_disk(out_file)
 
         total = 0
         found = 0
@@ -579,7 +586,7 @@ def enrich_csv(
                     append_isbn_cache(cache_csv, cache_key, title, author, lookup)
 
             writer.writerow(enriched)
-            out_file.flush()
+        flush_to_disk(out_file)
 
         if verbose:
             print(f"Finished processing rows: {total}", flush=True)
