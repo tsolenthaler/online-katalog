@@ -29,6 +29,7 @@ Hinweis: Wenn `--in books.csv` verwendet wird und die Datei im Root nicht existi
 - `--delay <sekunden>`: Wartezeit zwischen API-Requests (default: `0.12`)
 - `--max-rows <n>`: Nur erste `n` Zeilen verarbeiten (Testzwecke)
 - `--sources <liste>`: Komma-getrennte Quellen (default: `openlibrary,dnb`)
+- `--cache <pfad>`: Persistenter ISBN-Cache als CSV (default: `data/isbn_cache.csv`)
 - `--progress-every <n>`: Fortschritt alle `n` Zeilen ausgeben (default: `50`)
 - `--quiet`: Lauf ohne Live-Ausgabe
 
@@ -52,6 +53,18 @@ Nur DNB verwenden:
 python3 enrich_isbn.py --in books.csv --out data/books_with_isbn.csv --sources dnb
 ```
 
+Voller Lauf mit persistentem Cache:
+
+```bash
+python3 enrich_isbn.py --in books.csv --out data/books_with_isbn.csv --cache data/isbn_cache.csv
+```
+
+Lauf fortsetzen nach Abbruch (gleicher Cache):
+
+```bash
+python3 enrich_isbn.py --in books.csv --out data/books_with_isbn.csv --cache data/isbn_cache.csv --progress-every 25
+```
+
 ## Live-Feedback waehrend der Ausfuehrung
 
 Das Script gibt standardmaessig Status aus:
@@ -60,6 +73,7 @@ Das Script gibt standardmaessig Status aus:
 - Verwendete Quellen
 - Fortschritt alle `n` Zeilen
 - Treffer-Meldungen mit ISBN, Quelle und Confidence
+- Cache-Nutzung (`Loaded cache entries`, `from cache`, `Cache hits`)
 - Abschluss mit Anzahl verarbeiteter Zeilen und Treffer
 
 Beispielausgabe:
@@ -68,14 +82,31 @@ Beispielausgabe:
 Reading input: .../data/books.csv
 Writing output: data/books_with_isbn.csv
 Using sources: openlibrary, dnb
+Loaded cache entries: 120
 [50] Processing: ...
+  -> ISBN 978... from cache (source dnb, confidence 0.84)
   -> ISBN 978... via dnb (confidence 0.84)
 Finished processing rows: 500
 Matches found so far: 132
+Cache hits: 87
 Processed 500 rows
 ISBN found for 132 rows
 Output written to data/books_with_isbn.csv
 ```
+
+## Cache und Resume
+
+Das Script speichert gefundene ISBNs sofort in einer Cache-Datei und kann dadurch nach einem Abbruch weiterarbeiten, ohne bereits gefundene Treffer erneut ueber externe APIs zu suchen.
+
+- Default-Cache: `data/isbn_cache.csv`
+- Schluessel: normalisierter `title` + normalisierter `author`
+- Inhalt pro Cache-Zeile: cache_key, title, author, isbn, matched_title, matched_author, confidence, source
+
+Wichtig fuer Abbruchsicherheit:
+
+- Jede Ausgabezeile wird sofort in die Ausgabe-CSV geschrieben (flush).
+- Jeder neue Treffer wird sofort in die Cache-CSV angehaengt (flush).
+- Beim naechsten Lauf werden Cache-Eintraege geladen und bevorzugt verwendet.
 
 ## Ausgabeformat
 
