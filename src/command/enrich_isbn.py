@@ -344,8 +344,15 @@ def enrich_csv(
     request_delay: float,
     max_rows: int | None,
     sources: list[str],
+    verbose: bool,
+    progress_every: int,
 ) -> tuple[int, int]:
     docs_cache: dict[tuple[str, str, str, str], list[dict[str, Any]]] = {}
+
+    if verbose:
+        print(f"Reading input: {input_csv}", flush=True)
+        print(f"Writing output: {output_csv}", flush=True)
+        print(f"Using sources: {', '.join(sources)}", flush=True)
 
     with input_csv.open("r", encoding="utf-8", newline="") as in_file, output_csv.open(
         "w", encoding="utf-8", newline=""
@@ -370,6 +377,10 @@ def enrich_csv(
             total += 1
             title = (row.get("title") or "").strip()
             author = (row.get("author") or "").strip()
+
+            if verbose and (total == 1 or total % max(progress_every, 1) == 0):
+                preview = title if len(title) <= 70 else title[:67] + "..."
+                print(f"[{total}] Processing: {preview}", flush=True)
 
             enriched = dict(row)
             enriched.setdefault("author", author)
@@ -403,8 +414,17 @@ def enrich_csv(
                     enriched["matched_author"] = match.matched_author
                     enriched["confidence"] = f"{match.confidence:.4f}"
                     enriched["source"] = match.source
+                    if verbose:
+                        print(
+                            f"  -> ISBN {match.isbn} via {match.source} (confidence {match.confidence:.4f})",
+                            flush=True,
+                        )
 
             writer.writerow(enriched)
+
+        if verbose:
+            print(f"Finished processing rows: {total}", flush=True)
+            print(f"Matches found so far: {found}", flush=True)
 
     return total, found
 
@@ -447,6 +467,17 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=None,
         help="Optional limit for processed rows (useful for testing)",
+    )
+    parser.add_argument(
+        "--quiet",
+        action="store_true",
+        help="Disable live progress output",
+    )
+    parser.add_argument(
+        "--progress-every",
+        type=int,
+        default=50,
+        help="Print progress every N rows (default: 50)",
     )
     return parser.parse_args()
 
@@ -494,6 +525,8 @@ def main() -> None:
         request_delay=max(args.delay, 0.0),
         max_rows=args.max_rows,
         sources=sources,
+        verbose=not args.quiet,
+        progress_every=max(args.progress_every, 1),
     )
 
     print(f"Processed {total} rows")
