@@ -38,6 +38,74 @@ class MatchResult:
     source: str = "openlibrary"
 
 
+def build_cache_key(title: str, author: str) -> str:
+    return f"{normalize_text(title)}|{normalize_author_for_compare(author)}"
+
+
+def load_isbn_cache(cache_csv: Path) -> dict[str, MatchResult]:
+    cache: dict[str, MatchResult] = {}
+    if not cache_csv.exists():
+        return cache
+
+    with cache_csv.open("r", encoding="utf-8", newline="") as cache_file:
+        reader = csv.DictReader(cache_file)
+        for row in reader:
+            key = (row.get("cache_key") or "").strip()
+            isbn = (row.get("isbn") or "").strip()
+            if not key or not isbn:
+                continue
+
+            confidence_raw = (row.get("confidence") or "").strip()
+            try:
+                confidence = float(confidence_raw) if confidence_raw else 0.0
+            except ValueError:
+                confidence = 0.0
+
+            cache[key] = MatchResult(
+                isbn=isbn,
+                matched_title=(row.get("matched_title") or "").strip(),
+                matched_author=(row.get("matched_author") or "").strip(),
+                confidence=confidence,
+                source=(row.get("source") or "cache").strip() or "cache",
+            )
+
+    return cache
+
+
+def append_isbn_cache(cache_csv: Path, cache_key: str, title: str, author: str, match: MatchResult) -> None:
+    exists = cache_csv.exists()
+    cache_csv.parent.mkdir(parents=True, exist_ok=True)
+
+    with cache_csv.open("a", encoding="utf-8", newline="") as cache_file:
+        fieldnames = [
+            "cache_key",
+            "title",
+            "author",
+            "isbn",
+            "matched_title",
+            "matched_author",
+            "confidence",
+            "source",
+        ]
+        writer = csv.DictWriter(cache_file, fieldnames=fieldnames)
+        if not exists:
+            writer.writeheader()
+
+        writer.writerow(
+            {
+                "cache_key": cache_key,
+                "title": title,
+                "author": author,
+                "isbn": match.isbn,
+                "matched_title": match.matched_title,
+                "matched_author": match.matched_author,
+                "confidence": f"{match.confidence:.4f}",
+                "source": match.source,
+            }
+        )
+        cache_file.flush()
+
+
 def normalize_text(value: str) -> str:
     value = unicodedata.normalize("NFKD", value)
     value = "".join(ch for ch in value if not unicodedata.combining(ch))
@@ -340,6 +408,7 @@ def find_best_match(
 def enrich_csv(
     input_csv: Path,
     output_csv: Path,
+    cache_csv: Path,
     min_confidence: float,
     request_delay: float,
     max_rows: int | None,
@@ -348,10 +417,14 @@ def enrich_csv(
     progress_every: int,
 ) -> tuple[int, int]:
     docs_cache: dict[tuple[str, str, str, str], list[dict[str, Any]]] = {}
+    isbn_cache = load_isbn_cache(cache_csv)
+    cache_hits = 0
 
     if verbose:
         print(f"Reading input: {input_csv}", flush=True)
         print(f"Writing output: {output_csv}", flush=True)
+        print(f"Using cache: {cache_csv}", flush=True)
+        print(f"Loaded cache entries: {len(isbn_cache)}", flush=True)
         print(f"Using sources: {', '.join(sources)}", flush=True)
 
     with input_csv.open("r", encoding="utf-8", newline="") as in_file, output_csv.open(
@@ -395,15 +468,29 @@ def enrich_csv(
             )
 
             if title:
+                cache_key = build_cache_key(title, author)
+                cached = isbn_cache.get(cache_key)
+                if cached:
+                    match = cached
+                    cache_hits += 1
+                    if verbose:
+                        print(
+                            f"  -> ISBN {match.isbn} from cache (source {match.source}, confidence {match.confidence:.4f})",
+                            flush=True,
+                        )
+                else:
+                    match = None
+
                 try:
-                    match = find_best_match(
-                        title=title,
-                        author=author,
-                        min_confidence=min_confidence,
-                        docs_cache=docs_cache,
-                        request_delay=request_delay,
-                        sources=sources,
-                    )
+                    if match is None:
+                        match = find_best_match(
+                            title=title,
+                            author=author,
+                            min_confidence=min_confidence,
+                            docs_cache=docs_cache,
+                            request_delay=request_delay,
+                            sources=sources,
+                        )
                 except Exception:
                     match = None
 
@@ -414,17 +501,23 @@ def enrich_csv(
                     enriched["matched_author"] = match.matched_author
                     enriched["confidence"] = f"{match.confidence:.4f}"
                     enriched["source"] = match.source
-                    if verbose:
+                    if verbose and cached is None:
                         print(
                             f"  -> ISBN {match.isbn} via {match.source} (confidence {match.confidence:.4f})",
                             flush=True,
                         )
 
+                    if cached is None:
+                        isbn_cache[cache_key] = match
+                        append_isbn_cache(cache_csv, cache_key, title, author, match)
+
             writer.writerow(enriched)
+            out_file.flush()
 
         if verbose:
             print(f"Finished processing rows: {total}", flush=True)
             print(f"Matches found so far: {found}", flush=True)
+            print(f"Cache hits: {cache_hits}", flush=True)
 
     return total, found
 
@@ -444,6 +537,12 @@ def parse_args() -> argparse.Namespace:
         dest="output_csv",
         default="data/books_with_isbn.csv",
         help="Output CSV path (default: data/books_with_isbn.csv)",
+    )
+    parser.add_argument(
+        "--cache",
+        dest="cache_csv",
+        default="data/isbn_cache.csv",
+        help="CSV cache for found ISBNs (default: data/isbn_cache.csv)",
     )
     parser.add_argument(
         "--min-confidence",
@@ -487,6 +586,7 @@ def main() -> None:
 
     input_csv = Path(args.input_csv)
     output_csv = Path(args.output_csv)
+    cache_csv = Path(args.cache_csv)
     sources = [part.strip().lower() for part in args.sources.split(",") if part.strip()]
 
     valid_sources = {"openlibrary", "dnb"}
@@ -517,10 +617,12 @@ def main() -> None:
             )
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
+    cache_csv.parent.mkdir(parents=True, exist_ok=True)
 
     total, found = enrich_csv(
         input_csv=input_csv,
         output_csv=output_csv,
+        cache_csv=cache_csv,
         min_confidence=args.min_confidence,
         request_delay=max(args.delay, 0.0),
         max_rows=args.max_rows,
