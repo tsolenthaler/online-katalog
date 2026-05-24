@@ -468,6 +468,7 @@ def find_best_match(
 def enrich_csv(
     input_csv: Path,
     output_csv: Path,
+    not_found_csv: Path,
     cache_csv: Path,
     min_confidence: float,
     request_delay: float,
@@ -482,14 +483,17 @@ def enrich_csv(
 
     if verbose:
         print(f"Reading input: {input_csv}", flush=True)
-        print(f"Writing output: {output_csv}", flush=True)
+        print(f"Writing found output: {output_csv}", flush=True)
+        print(f"Writing not-found output: {not_found_csv}", flush=True)
         print(f"Using cache: {cache_csv}", flush=True)
         print(f"Loaded cache entries: {len(isbn_cache)}", flush=True)
         print(f"Using sources: {', '.join(sources)}", flush=True)
 
-    with input_csv.open("r", encoding="utf-8", newline="") as in_file, output_csv.open(
-        "w", encoding="utf-8", newline=""
-    ) as out_file:
+    with (
+        input_csv.open("r", encoding="utf-8", newline="") as in_file,
+        output_csv.open("w", encoding="utf-8", newline="") as out_file,
+        not_found_csv.open("w", encoding="utf-8", newline="") as not_found_file,
+    ):
         reader = csv.DictReader(in_file)
         fieldnames = list(reader.fieldnames or [])
         if "title" not in fieldnames:
@@ -501,6 +505,10 @@ def enrich_csv(
         writer = csv.DictWriter(out_file, fieldnames=output_fields)
         writer.writeheader()
         flush_to_disk(out_file)
+
+        not_found_writer = csv.DictWriter(not_found_file, fieldnames=fieldnames)
+        not_found_writer.writeheader()
+        flush_to_disk(not_found_file)
 
         total = 0
         found = 0
@@ -516,8 +524,10 @@ def enrich_csv(
                 preview = title if len(title) <= 70 else title[:67] + "..."
                 print(f"[{total}] Processing: {preview}", flush=True)
 
-            enriched = dict(row)
-            enriched.setdefault("author", author)
+            base_row = dict(row)
+            base_row.setdefault("author", author)
+
+            enriched = dict(base_row)
             enriched.update(
                 {
                     "isbn": "",
@@ -528,6 +538,7 @@ def enrich_csv(
                 }
             )
 
+            match = None
             if title:
                 cache_key = build_cache_key(title, author)
                 cached = isbn_cache.get(cache_key)
@@ -585,8 +596,13 @@ def enrich_csv(
                     isbn_cache[cache_key] = lookup
                     append_isbn_cache(cache_csv, cache_key, title, author, lookup)
 
-            writer.writerow(enriched)
+            if match:
+                writer.writerow(enriched)
+            else:
+                not_found_writer.writerow(base_row)
+
         flush_to_disk(out_file)
+        flush_to_disk(not_found_file)
 
         if verbose:
             print(f"Finished processing rows: {total}", flush=True)
@@ -610,7 +626,13 @@ def parse_args() -> argparse.Namespace:
         "--out",
         dest="output_csv",
         default="data/books_with_isbn.csv",
-        help="Output CSV path (default: data/books_with_isbn.csv)",
+        help="Output CSV path for rows with ISBN (default: data/books_with_isbn.csv)",
+    )
+    parser.add_argument(
+        "--not-found",
+        dest="not_found_csv",
+        default="data/books_without_isbn.csv",
+        help="Output CSV path for rows without ISBN (default: data/books_without_isbn.csv)",
     )
     parser.add_argument(
         "--cache",
@@ -660,6 +682,7 @@ def main() -> None:
 
     input_csv = Path(args.input_csv)
     output_csv = Path(args.output_csv)
+    not_found_csv = Path(args.not_found_csv)
     cache_csv = Path(args.cache_csv)
     sources = [part.strip().lower() for part in args.sources.split(",") if part.strip()]
 
@@ -691,11 +714,13 @@ def main() -> None:
             )
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
+    not_found_csv.parent.mkdir(parents=True, exist_ok=True)
     cache_csv.parent.mkdir(parents=True, exist_ok=True)
 
     total, found = enrich_csv(
         input_csv=input_csv,
         output_csv=output_csv,
+        not_found_csv=not_found_csv,
         cache_csv=cache_csv,
         min_confidence=args.min_confidence,
         request_delay=max(args.delay, 0.0),
@@ -706,8 +731,9 @@ def main() -> None:
     )
 
     print(f"Processed {total} rows")
-    print(f"ISBN found for {found} rows")
-    print(f"Output written to {output_csv}")
+    print(f"ISBN found for {found} rows ({total - found} not found)")
+    print(f"Found output written to {output_csv}")
+    print(f"Not-found output written to {not_found_csv}")
 
 
 if __name__ == "__main__":
