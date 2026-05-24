@@ -14,17 +14,26 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import os
 import re
 import time
 from dataclasses import dataclass
+from html import unescape
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote_plus
-from urllib.request import urlopen
+from urllib.error import HTTPError, URLError
+from urllib.parse import parse_qs, quote_plus, unquote, urlparse
+from urllib.request import Request, urlopen
 
 
-GOOGLE_BOOKS_URL = "https://www.googleapis.com/books/v1/volumes"
+GOOGLE_SEARCH_URL = "https://www.google.com/search"
+GOOGLE_BOOKS_DETAIL_BASE = "https://books.google.com/books"
+GOOGLE_BOOKS_API_URL = "https://www.googleapis.com/books/v1/volumes"
+DEFAULT_USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
 
 @dataclass
@@ -92,6 +101,156 @@ def choose_best_isbn(candidates: list[str]) -> str | None:
     valid10 = [value for value in normalized if is_valid_isbn10(value)]
     if valid10:
         return valid10[0]
+
+    return None
+
+
+def fetch_text(url: str, timeout: int = 20) -> str:
+    req = Request(
+        url,
+        headers={
+            "User-Agent": DEFAULT_USER_AGENT,
+            "Accept-Language": "de-CH,de;q=0.9,en;q=0.8",
+        },
+    )
+    with urlopen(req, timeout=timeout) as response:  # noqa: S310
+        return response.read().decode("utf-8", "ignore")
+
+
+def build_search_query(title: str, author: str) -> str:
+    return " ".join(part for part in [title.strip(), author.strip()] if part).strip()
+
+
+def build_google_search_url(query: str) -> str:
+    # udm=36 matches the Google books-like result view requested by the user.
+    return f"{GOOGLE_SEARCH_URL}?udm=36&q={quote_plus(query)}"
+
+
+def decode_google_redirect(href: str) -> str | None:
+    if not href:
+        return None
+
+    href = unescape(href)
+    if href.startswith("/url?"):
+        parsed = urlparse(href)
+        params = parse_qs(parsed.query)
+        candidate = params.get("q", [""])[0] or params.get("url", [""])[0]
+        candidate = unquote(candidate)
+        if candidate.startswith("http://") or candidate.startswith("https://"):
+            return candidate
+        return None
+
+    if href.startswith("http://") or href.startswith("https://"):
+        return href
+
+    return None
+
+
+def extract_result_links(search_html: str) -> list[str]:
+    links: list[str] = []
+    seen: set[str] = set()
+
+    for match in re.finditer(r'href="([^"]+)"', search_html):
+        href = match.group(1)
+        decoded = decode_google_redirect(href)
+        if not decoded:
+            continue
+
+        if "google." in urlparse(decoded).netloc and "/search" in decoded:
+            continue
+
+        if decoded in seen:
+            continue
+
+        seen.add(decoded)
+        links.append(decoded)
+
+    return links
+
+
+def find_first_books_result_url(search_html: str) -> str | None:
+    links = extract_result_links(search_html)
+    for link in links:
+        netloc = urlparse(link).netloc.lower()
+        if "books.google" in netloc:
+            return link
+
+    for link in links:
+        netloc = urlparse(link).netloc.lower()
+        if "google." in netloc:
+            continue
+        return link
+
+    return None
+
+
+def extract_isbn_candidates_from_text(text: str) -> list[str]:
+    candidates: list[str] = []
+
+    patterns = [
+        r'"type"\s*:\s*"ISBN_13"\s*,\s*"identifier"\s*:\s*"([0-9Xx\- ]+)"',
+        r'"type"\s*:\s*"ISBN_10"\s*,\s*"identifier"\s*:\s*"([0-9Xx\- ]+)"',
+        r'ISBN(?:-13)?\s*[:\-]?\s*([0-9][0-9Xx\- ]{11,20})',
+        r'ISBN(?:-10)?\s*[:\-]?\s*([0-9Xx][0-9Xx\- ]{8,15})',
+    ]
+
+    for pattern in patterns:
+        for match in re.findall(pattern, text, flags=re.IGNORECASE):
+            value = str(match).strip()
+            if value:
+                candidates.append(value)
+
+    # Last-resort broad scan for 13-digit ISBNs in page text.
+    for match in re.findall(r'\b97[89][0-9\- ]{10,20}\b', text):
+        candidates.append(match)
+
+    return candidates
+
+
+def fetch_google_books_api_match(query: str, max_results: int = 10) -> MatchResult | None:
+    url = f"{GOOGLE_BOOKS_API_URL}?q={quote_plus(query)}&maxResults={max(1, min(max_results, 40))}"
+    payload = fetch_text(url)
+    parsed = json.loads(payload)
+    items = parsed.get("items", []) if isinstance(parsed, dict) else []
+    if not isinstance(items, list):
+        return None
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        volume_info = item.get("volumeInfo")
+        if not isinstance(volume_info, dict):
+            continue
+
+        identifiers = volume_info.get("industryIdentifiers")
+        if not isinstance(identifiers, list):
+            continue
+
+        raw_candidates: list[str] = []
+        for ident in identifiers:
+            if not isinstance(ident, dict):
+                continue
+            raw_value = ident.get("identifier")
+            if isinstance(raw_value, str) and raw_value.strip():
+                raw_candidates.append(raw_value.strip())
+
+        chosen = choose_best_isbn(raw_candidates)
+        if not chosen:
+            continue
+
+        matched_title = str(volume_info.get("title") or "").strip()
+        matched_authors = volume_info.get("authors")
+        if isinstance(matched_authors, list):
+            author_values = [str(value).strip() for value in matched_authors if str(value).strip()]
+        else:
+            author_values = []
+
+        return MatchResult(
+            isbn=chosen,
+            matched_title=matched_title,
+            matched_author=", ".join(author_values),
+            source="google_books_api",
+        )
 
     return None
 
@@ -169,60 +328,40 @@ def append_cache(
 
 
 def fetch_google_match(title: str, author: str, max_results: int = 10) -> MatchResult | None:
-    query = " ".join(part for part in [title.strip(), author.strip()] if part).strip()
+    query = build_search_query(title=title, author=author)
     if not query:
         return None
 
-    url = f"{GOOGLE_BOOKS_URL}?q={quote_plus(query)}&maxResults={max(1, min(max_results, 40))}"
-    with urlopen(url, timeout=20) as response:  # noqa: S310
-        payload = response.read().decode("utf-8")
+    # Primary flow requested by user:
+    # 1) Search on google.com with udm=36
+    # 2) Take first result
+    # 3) Read ISBN from result detail page
+    search_url = build_google_search_url(query)
 
-    import json
+    try:
+        search_html = fetch_text(search_url)
+        first_result = find_first_books_result_url(search_html)
+        if first_result:
+            detail_html = fetch_text(first_result)
+            candidates = extract_isbn_candidates_from_text(detail_html)
+            chosen = choose_best_isbn(candidates)
+            if chosen:
+                title_match = re.search(r"<title>(.*?)</title>", detail_html, flags=re.IGNORECASE | re.DOTALL)
+                matched_title = ""
+                if title_match:
+                    matched_title = re.sub(r"\s+", " ", unescape(title_match.group(1))).strip()
 
-    parsed = json.loads(payload)
-    items = parsed.get("items", []) if isinstance(parsed, dict) else []
-    if not isinstance(items, list):
-        return None
+                return MatchResult(
+                    isbn=chosen,
+                    matched_title=matched_title,
+                    matched_author="",
+                    source="google_search_first_result",
+                )
+    except (HTTPError, URLError, TimeoutError, ValueError):
+        pass
 
-    for item in items:
-        if not isinstance(item, dict):
-            continue
-        volume_info = item.get("volumeInfo")
-        if not isinstance(volume_info, dict):
-            continue
-
-        identifiers = volume_info.get("industryIdentifiers")
-        if not isinstance(identifiers, list):
-            continue
-
-        raw_candidates: list[str] = []
-        for ident in identifiers:
-            if not isinstance(ident, dict):
-                continue
-            raw_value = ident.get("identifier")
-            if isinstance(raw_value, str) and raw_value.strip():
-                raw_candidates.append(raw_value.strip())
-
-        chosen = choose_best_isbn(raw_candidates)
-        if not chosen:
-            continue
-
-        matched_title = str(volume_info.get("title") or "").strip()
-
-        matched_authors = volume_info.get("authors")
-        if isinstance(matched_authors, list):
-            author_values = [str(value).strip() for value in matched_authors if str(value).strip()]
-        else:
-            author_values = []
-        matched_author = ", ".join(author_values)
-
-        return MatchResult(
-            isbn=chosen,
-            matched_title=matched_title,
-            matched_author=matched_author,
-        )
-
-    return None
+    # Robust fallback when Google HTML blocks bot traffic (enablejs/429).
+    return fetch_google_books_api_match(query=query, max_results=max_results)
 
 
 def process_missing(
@@ -233,6 +372,7 @@ def process_missing(
     delay_seconds: float,
     max_rows: int | None,
     max_results: int,
+    respect_missing_cache: bool,
     verbose: bool,
 ) -> tuple[int, int]:
     cache = load_cache(cache_csv)
@@ -286,11 +426,17 @@ def process_missing(
                 if verbose:
                     print(f"[{total}] cache hit: {title} -> {match.isbn}", flush=True)
             elif cached and not cached.found:
+                if respect_missing_cache:
+                    if verbose:
+                        print(f"[{total}] cache says not found: {title}", flush=True)
+                else:
+                    if verbose:
+                        print(f"[{total}] rechecking cached not-found: {title}", flush=True)
+                    cached = None
+
+            if cached is None and match is None:
                 if verbose:
-                    print(f"[{total}] cache says not found: {title}", flush=True)
-            else:
-                if verbose:
-                    print(f"[{total}] querying Google Books: {title}", flush=True)
+                    print(f"[{total}] querying Google Search -> first result: {title}", flush=True)
                 try:
                     match = fetch_google_match(title=title, author=author, max_results=max_results)
                 except Exception:
@@ -376,6 +522,11 @@ def parse_args() -> argparse.Namespace:
         help="Google Books maxResults per query (default: 10, max: 40)",
     )
     parser.add_argument(
+        "--respect-missing-cache",
+        action="store_true",
+        help="Do not retry rows previously cached as not found",
+    )
+    parser.add_argument(
         "--quiet",
         action="store_true",
         help="Disable progress logging",
@@ -406,6 +557,7 @@ def main() -> None:
         delay_seconds=max(0.0, args.delay),
         max_rows=args.max_rows,
         max_results=args.max_results,
+        respect_missing_cache=args.respect_missing_cache,
         verbose=not args.quiet,
     )
 
