@@ -9,6 +9,18 @@ from collections import defaultdict
 import fitz
 
 
+def normalize_author(author: str) -> str:
+    """Normalize author names like 'Lastname, Firstname' to 'Firstname Lastname'."""
+    author = re.sub(r"\s+", " ", author).strip()
+    if "," not in author:
+        return author
+
+    parts = [part.strip() for part in author.split(",") if part.strip()]
+    if len(parts) == 2:
+        return f"{parts[1]} {parts[0]}".strip()
+    return author
+
+
 def extract_books(pdf_path: str) -> list[dict[str, str]]:
     doc = fitz.open(pdf_path)
     books: list[dict[str, str]] = []
@@ -62,6 +74,7 @@ def extract_books(pdf_path: str) -> list[dict[str, str]]:
             title = re.sub(r"\s+", " ", title).strip()
             author = " ".join(author_words)
             author = re.sub(r"\s+", " ", author).strip()
+            author = normalize_author(author)
 
             if not title or title.startswith("©") or title in {"Titel", "Titel-Liste"}:
                 continue
