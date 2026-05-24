@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Online-Katalog | Bibliothek Stein AR</title>
+    <meta
+      name="description"
+      content="Online-Katalog mit Suche nach Titel, Autor und Genre inklusive Cover-Vorschau."
+    />
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="page-bg" aria-hidden="true"></div>
+
+    <header class="hero">
+      <p class="hero__kicker">Bibliothek Stein AR</p>
+      <h1>Online-Katalog</h1>
+      <p class="hero__lead">
+        Durchsuche den Bestand nach Titel, Autor oder Rubrik und entdecke Bücher mit Cover und Kurzinfos.
+      </p>
+    </header>
+
+    <main class="layout">
+      <section class="panel panel--filters" aria-label="Filter und Suche">
+        <div class="panel__head">
+          <h2>Suche</h2>
+          <button id="resetFilters" type="button" class="ghost-btn">Zurücksetzen</button>
+        </div>
+
+        <label for="searchInput">Suchbegriff</label>
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Titel, Autor, Genre oder ISBN"
+          autocomplete="off"
+        />
+
+        <div class="filter-grid">
+          <div>
+            <label for="authorSelect">Autor</label>
+            <select id="authorSelect">
+              <option value="">Alle Autoren</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="genreSelect">Genre / Rubrik</label>
+            <select id="genreSelect">
+              <option value="">Alle Genres</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="stats" aria-live="polite">
+          <article class="stat-card">
+            <span class="stat-card__label">Titel gesamt</span>
+            <strong id="totalCount">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Treffer</span>
+            <strong id="resultCount">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Mit Cover</span>
+            <strong id="coverCount">0</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel panel--results" aria-label="Suchergebnisse">
+        <div class="panel__head">
+          <h2>Ergebnisse</h2>
+          <p id="activeFilters" class="active-filters">Alle Bücher</p>
+        </div>
+        <div id="results" class="results-grid"></div>
+      </section>
+
+      <section class="panel panel--charts" aria-label="Statistik">
+        <div>
+          <h3>Top Autoren</h3>
+          <ol id="topAuthors" class="rank-list"></ol>
+        </div>
+        <div>
+          <h3>Top Genres</h3>
+          <ol id="topGenres" class="rank-list"></ol>
+        </div>
+      </section>
+    </main>
+
+    <template id="bookCardTemplate">
+      <article class="book-card">
+        <div class="book-card__cover-wrap">
+          <img class="book-card__cover" alt="" loading="lazy" />
+        </div>
+        <div class="book-card__body">
+          <h3 class="book-card__title"></h3>
+          <p class="book-card__author"></p>
+          <p class="book-card__desc"></p>
+          <div class="book-card__meta"></div>
+          <ul class="book-card__tags"></ul>
+        </div>
+      </article>
+    </template>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
