@@ -38,5 +38,14 @@ Dann im Browser aufrufen: `http://localhost:8000`
 ## Web-Katalog Dateien
 
 * `index.html`: UI fuer Suche, Filter und Statistik
+* `book.html`: Detailansicht eines einzelnen Buchs
 * `assets/styles.css`: responsives Design
 * `assets/app.js`: Laden von `data/catalog.json`, Filterlogik, Rendering
+* `assets/book.js`: Routing und Rendering fuer Detailseite
+
+## Detailseiten-Routing
+
+Die Detailseite wird ueber den Query-Parameter `book` aufgerufen:
+
+* Mit ISBN: `book.html?book=9783522202602`
+* Ohne ISBN (Fallback auf interne ID): `book.html?book=row-12`

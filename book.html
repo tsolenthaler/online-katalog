@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buchdetails | Bibliothek Stein AR</title>
+    <meta
+      name="description"
+      content="Detailansicht mit Buchcover, Beschreibung, Genre und ähnlichen Titeln."
+    />
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="page-bg" aria-hidden="true"></div>
+
+    <p class="top-link">
+      <a class="back-link" href="index.html">← Zurück zur Suche</a>
+    </p>
+
+    <header class="hero">
+      <p class="hero__kicker">Bibliothek Stein AR</p>
+      <h1 id="bookTitle">Buchdetails</h1>
+      <p id="bookAuthor" class="hero__lead"></p>
+    </header>
+
+    <main class="detail-layout">
+      <section class="panel" aria-label="Coveransicht">
+        <img id="bookCover" class="detail-cover" alt="" loading="lazy" />
+      </section>
+
+      <section class="panel" aria-label="Buchinformationen">
+        <p id="bookMeta" class="detail-meta"></p>
+        <p id="bookDescription" class="detail-description"></p>
+        <ul id="bookGenres" class="detail-tags"></ul>
+      </section>
+
+      <section class="panel" aria-label="Ähnliche Bücher" style="grid-column: 1 / -1;">
+        <h2>Ähnliche Titel</h2>
+        <div id="relatedBooks" class="related-grid"></div>
+      </section>
+    </main>
+
+    <script src="assets/book.js" defer></script>
+  </body>
+</html>

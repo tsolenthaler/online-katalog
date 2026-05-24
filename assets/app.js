@@ -175,6 +175,7 @@ function makeBookCard(item) {
   const desc = node.querySelector(".book-card__desc");
   const meta = node.querySelector(".book-card__meta");
   const tags = node.querySelector(".book-card__tags");
+  const detailLink = node.querySelector(".book-card__link");
 
   title.textContent = item.title || "Ohne Titel";
   author.textContent = item.author || "Autor unbekannt";
@@ -204,6 +205,10 @@ function makeBookCard(item) {
     li.textContent = genre;
     tags.appendChild(li);
   }
+
+  const routeValue = item.isbn || item.id || "";
+  detailLink.href = `book.html?book=${encodeURIComponent(routeValue)}`;
+  detailLink.setAttribute("aria-label", `Details zu ${item.title || "Buch"} anzeigen`);
 
   return node;
 }

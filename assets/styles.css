@@ -276,6 +276,19 @@ select:focus {
   background: color-mix(in srgb, var(--accent) 8%, white);
 }
 
+.book-card__link {
+  margin-top: auto;
+  align-self: flex-start;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.book-card__link:hover {
+  text-decoration: underline;
+}
+
 .panel--charts {
   display: grid;
   gap: 1rem;
@@ -321,6 +334,100 @@ select:focus {
   background: color-mix(in srgb, var(--paper) 65%, white);
 }
 
+.top-link {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 1.2rem 1rem 0;
+}
+
+.back-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.detail-layout {
+  max-width: 1100px;
+  margin: 0 auto 3rem;
+  padding: 0 1rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
+}
+
+.detail-cover {
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: linear-gradient(160deg, rgba(220, 109, 54, 0.2), rgba(15, 118, 110, 0.22));
+  min-height: 420px;
+  object-fit: cover;
+}
+
+.detail-meta {
+  margin: 0;
+  color: var(--muted);
+}
+
+.detail-description {
+  margin: 0.7rem 0 0;
+  color: var(--ink-soft);
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.detail-tags {
+  margin: 1rem 0 0;
+  padding: 0;
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.detail-tags li {
+  border: 1px solid color-mix(in srgb, var(--accent) 38%, white);
+  color: var(--accent);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  padding: 0.16rem 0.55rem;
+  background: color-mix(in srgb, var(--accent) 8%, white);
+}
+
+.related-grid {
+  margin-top: 0.8rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.related-item {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.65rem;
+  background: #fff;
+}
+
+.related-item a {
+  text-decoration: none;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.related-item a:hover {
+  color: var(--accent);
+}
+
+.related-item p {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
 @keyframes rise {
   from {
     opacity: 0;
@@ -342,5 +449,14 @@ select:focus {
   .book-card {
     grid-template-columns: 84px 1fr;
     min-height: 160px;
+  }
+
+  .detail-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-cover {
+    min-height: 320px;
+    max-height: 480px;
   }
 }
