@@ -14,7 +14,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import json
 import os
 import re
 import time
@@ -27,9 +26,7 @@ from urllib.parse import parse_qs, quote_plus, unquote, urlparse
 from urllib.request import Request, urlopen
 
 
-GOOGLE_SEARCH_URL = "https://www.google.com/search"
-GOOGLE_BOOKS_DETAIL_BASE = "https://books.google.com/books"
-GOOGLE_BOOKS_API_URL = "https://www.googleapis.com/books/v1/volumes"
+GOOGLE_SEARCH_URL = "https://www.google.ch/search"
 DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -118,12 +115,16 @@ def fetch_text(url: str, timeout: int = 20) -> str:
 
 
 def build_search_query(title: str, author: str) -> str:
-    return " ".join(part for part in [title.strip(), author.strip()] if part).strip()
+    title = title.strip()
+    author = author.strip()
+    if title and author:
+        return f"{title},{author}"
+    return title or author
 
 
 def build_google_search_url(query: str) -> str:
-    # udm=36 matches the Google books-like result view requested by the user.
-    return f"{GOOGLE_SEARCH_URL}?udm=36&q={quote_plus(query)}"
+    # Keep this URL format fixed to match the requested query style.
+    return f"{GOOGLE_SEARCH_URL}?q={quote_plus(query)}&hl=de&gl=ch&udm=36"
 
 
 def decode_google_redirect(href: str) -> str | None:
@@ -207,54 +208,6 @@ def extract_isbn_candidates_from_text(text: str) -> list[str]:
     return candidates
 
 
-def fetch_google_books_api_match(query: str, max_results: int = 10) -> MatchResult | None:
-    url = f"{GOOGLE_BOOKS_API_URL}?q={quote_plus(query)}&maxResults={max(1, min(max_results, 40))}"
-    payload = fetch_text(url)
-    parsed = json.loads(payload)
-    items = parsed.get("items", []) if isinstance(parsed, dict) else []
-    if not isinstance(items, list):
-        return None
-
-    for item in items:
-        if not isinstance(item, dict):
-            continue
-        volume_info = item.get("volumeInfo")
-        if not isinstance(volume_info, dict):
-            continue
-
-        identifiers = volume_info.get("industryIdentifiers")
-        if not isinstance(identifiers, list):
-            continue
-
-        raw_candidates: list[str] = []
-        for ident in identifiers:
-            if not isinstance(ident, dict):
-                continue
-            raw_value = ident.get("identifier")
-            if isinstance(raw_value, str) and raw_value.strip():
-                raw_candidates.append(raw_value.strip())
-
-        chosen = choose_best_isbn(raw_candidates)
-        if not chosen:
-            continue
-
-        matched_title = str(volume_info.get("title") or "").strip()
-        matched_authors = volume_info.get("authors")
-        if isinstance(matched_authors, list):
-            author_values = [str(value).strip() for value in matched_authors if str(value).strip()]
-        else:
-            author_values = []
-
-        return MatchResult(
-            isbn=chosen,
-            matched_title=matched_title,
-            matched_author=", ".join(author_values),
-            source="google_books_api",
-        )
-
-    return None
-
-
 def load_cache(cache_csv: Path) -> dict[str, CachedLookup]:
     cache: dict[str, CachedLookup] = {}
     if not cache_csv.exists():
@@ -327,7 +280,7 @@ def append_cache(
         flush_to_disk(handle)
 
 
-def fetch_google_match(title: str, author: str, max_results: int = 10) -> MatchResult | None:
+def fetch_google_match(title: str, author: str, verbose: bool = False) -> MatchResult | None:
     query = build_search_query(title=title, author=author)
     if not query:
         return None
@@ -337,6 +290,8 @@ def fetch_google_match(title: str, author: str, max_results: int = 10) -> MatchR
     # 2) Take first result
     # 3) Read ISBN from result detail page
     search_url = build_google_search_url(query)
+    if verbose:
+        print(f"    search_url={search_url}", flush=True)
 
     try:
         search_html = fetch_text(search_url)
@@ -359,9 +314,7 @@ def fetch_google_match(title: str, author: str, max_results: int = 10) -> MatchR
                 )
     except (HTTPError, URLError, TimeoutError, ValueError):
         pass
-
-    # Robust fallback when Google HTML blocks bot traffic (enablejs/429).
-    return fetch_google_books_api_match(query=query, max_results=max_results)
+    return None
 
 
 def process_missing(
@@ -371,7 +324,6 @@ def process_missing(
     cache_csv: Path,
     delay_seconds: float,
     max_rows: int | None,
-    max_results: int,
     respect_missing_cache: bool,
     verbose: bool,
 ) -> tuple[int, int]:
@@ -438,7 +390,7 @@ def process_missing(
                 if verbose:
                     print(f"[{total}] querying Google Search -> first result: {title}", flush=True)
                 try:
-                    match = fetch_google_match(title=title, author=author, max_results=max_results)
+                    match = fetch_google_match(title=title, author=author, verbose=verbose)
                 except Exception:
                     match = None
 
@@ -516,12 +468,6 @@ def parse_args() -> argparse.Namespace:
         help="Optional limit of rows to process",
     )
     parser.add_argument(
-        "--max-results",
-        type=int,
-        default=10,
-        help="Google Books maxResults per query (default: 10, max: 40)",
-    )
-    parser.add_argument(
         "--respect-missing-cache",
         action="store_true",
         help="Do not retry rows previously cached as not found",
@@ -556,7 +502,6 @@ def main() -> None:
         cache_csv=cache_csv,
         delay_seconds=max(0.0, args.delay),
         max_rows=args.max_rows,
-        max_results=args.max_results,
         respect_missing_cache=args.respect_missing_cache,
         verbose=not args.quiet,
     )
