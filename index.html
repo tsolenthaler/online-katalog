@@ -32,8 +32,12 @@
       <section class="panel panel--filters" aria-label="Filter und Suche">
         <div class="panel__head">
           <h2>Suche</h2>
-          <button id="resetFilters" type="button" class="ghost-btn">Zurücksetzen</button>
+          <div class="panel__actions">
+            <button id="shareSearch" type="button" class="ghost-btn">Link teilen</button>
+            <button id="resetFilters" type="button" class="ghost-btn">Zurücksetzen</button>
+          </div>
         </div>
+        <p id="shareStatus" class="share-status" aria-live="polite"></p>
 
         <label for="searchInput">Suchbegriff</label>
         <input

@@ -12,6 +12,8 @@ const elements = {
   searchInput: document.querySelector("#searchInput"),
   authorSelect: document.querySelector("#authorSelect"),
   genreSelect: document.querySelector("#genreSelect"),
+  shareSearch: document.querySelector("#shareSearch"),
+  shareStatus: document.querySelector("#shareStatus"),
   resetFilters: document.querySelector("#resetFilters"),
   totalCount: document.querySelector("#totalCount"),
   resultCount: document.querySelector("#resultCount"),
@@ -70,6 +72,34 @@ function buildSearchQueryFromState() {
   }
   const query = params.toString();
   return query ? `?${query}` : "";
+}
+
+function buildShareUrl() {
+  return `${window.location.origin}${window.location.pathname}${buildSearchQueryFromState()}`;
+}
+
+async function copyTextToClipboard(value) {
+  if (navigator.clipboard && window.isSecureContext) {
+    await navigator.clipboard.writeText(value);
+    return;
+  }
+
+  const textArea = document.createElement("textarea");
+  textArea.value = value;
+  textArea.setAttribute("readonly", "true");
+  textArea.style.position = "absolute";
+  textArea.style.left = "-9999px";
+  document.body.appendChild(textArea);
+  textArea.select();
+  const success = document.execCommand("copy");
+  document.body.removeChild(textArea);
+  if (!success) {
+    throw new Error("copy-failed");
+  }
+}
+
+function showShareStatus(message) {
+  elements.shareStatus.textContent = message;
 }
 
 async function loadCatalog() {
@@ -307,6 +337,16 @@ function wireEvents() {
     elements.genreSelect.value = "";
 
     renderResults();
+  });
+
+  elements.shareSearch.addEventListener("click", async () => {
+    try {
+      const url = buildShareUrl();
+      await copyTextToClipboard(url);
+      showShareStatus("Such-Link in die Zwischenablage kopiert.");
+    } catch (_err) {
+      showShareStatus("Kopieren fehlgeschlagen. URL bitte manuell aus der Adressleiste kopieren.");
+    }
   });
 }
 

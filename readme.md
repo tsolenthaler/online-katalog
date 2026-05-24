@@ -65,6 +65,9 @@ Beispiel:
 
 `index.html?q=geschichte&author=Ende,%20Michael&genre=Fantasy`
 
+In der Suche gibt es zusaetzlich den Button "Link teilen", der den aktuellen
+Filter-Link in die Zwischenablage kopiert.
+
 ## Quellen auf Detailseite
 
 Auf `book.html` werden klickbare Quellenlinks angezeigt, z. B.:
