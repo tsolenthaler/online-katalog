@@ -57,6 +57,21 @@ function applyStateFromUrl() {
   state.genre = (params.get("genre") || "").trim();
 }
 
+function buildSearchQueryFromState() {
+  const params = new URLSearchParams();
+  if (state.search.trim()) {
+    params.set("q", state.search.trim());
+  }
+  if (state.author.trim()) {
+    params.set("author", state.author.trim());
+  }
+  if (state.genre.trim()) {
+    params.set("genre", state.genre.trim());
+  }
+  const query = params.toString();
+  return query ? `?${query}` : "";
+}
+
 async function loadCatalog() {
   for (const path of DATA_CANDIDATES) {
     try {
@@ -231,7 +246,9 @@ function makeBookCard(item) {
   }
 
   const routeValue = item.isbn || item.id || "";
-  detailLink.href = `book.html?book=${encodeURIComponent(routeValue)}`;
+  const searchQuery = buildSearchQueryFromState();
+  const returnTo = `index.html${searchQuery}`;
+  detailLink.href = `book.html?book=${encodeURIComponent(routeValue)}&returnTo=${encodeURIComponent(returnTo)}`;
   detailLink.setAttribute("aria-label", `Details zu ${item.title || "Buch"} anzeigen`);
 
   return node;

@@ -50,6 +50,9 @@ Die Detailseite wird ueber den Query-Parameter `book` aufgerufen:
 * Mit ISBN: `book.html?book=9783522202602`
 * Ohne ISBN (Fallback auf interne ID): `book.html?book=row-12`
 
+Beim Wechsel von der Suche zur Detailseite wird der aktuelle Filterzustand als
+`returnTo` mitgegeben. Der Link "Zurueck zur Suche" stellt diesen Zustand wieder her.
+
 ## Deep-Link Suche
 
 Die Suchseite akzeptiert URL-Parameter und aktualisiert sie live beim Filtern:

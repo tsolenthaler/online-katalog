@@ -1,6 +1,7 @@
 const DATA_CANDIDATES = ["data/catalog.json", "data/catalog_sample.json"];
 
 const elements = {
+  backToSearch: document.querySelector("#backToSearch"),
   title: document.querySelector("#bookTitle"),
   author: document.querySelector("#bookAuthor"),
   cover: document.querySelector("#bookCover"),
@@ -43,6 +44,24 @@ async function loadCatalog() {
 function getRouteParam() {
   const params = new URLSearchParams(window.location.search);
   return (params.get("book") || "").trim();
+}
+
+function getReturnToParam() {
+  const params = new URLSearchParams(window.location.search);
+  return (params.get("returnTo") || "").trim();
+}
+
+function sanitizeReturnTo(value) {
+  if (!value) {
+    return "index.html";
+  }
+  if (value.startsWith("http://") || value.startsWith("https://") || value.startsWith("//")) {
+    return "index.html";
+  }
+  if (!value.startsWith("index.html") && !value.startsWith("./index.html") && !value.startsWith("/index.html")) {
+    return "index.html";
+  }
+  return value;
 }
 
 function findBook(items, routeValue) {
@@ -158,12 +177,12 @@ function renderGenres(genres) {
   }
 }
 
-function makeRelatedItem(item) {
+function makeRelatedItem(item, returnTo) {
   const box = document.createElement("article");
   box.className = "related-item";
 
   const link = document.createElement("a");
-  link.href = `book.html?book=${encodeURIComponent(item.isbn || item.id || "")}`;
+  link.href = `book.html?book=${encodeURIComponent(item.isbn || item.id || "")}&returnTo=${encodeURIComponent(returnTo)}`;
   link.textContent = item.title || "Ohne Titel";
 
   const info = document.createElement("p");
@@ -173,7 +192,7 @@ function makeRelatedItem(item) {
   return box;
 }
 
-function renderRelated(items, current) {
+function renderRelated(items, current, returnTo) {
   const currentKey = current.isbn || current.id || "";
   const currentGenres = Array.isArray(current.genres) ? current.genres : [];
 
@@ -204,12 +223,12 @@ function renderRelated(items, current) {
 
   const fragment = document.createDocumentFragment();
   for (const item of related) {
-    fragment.appendChild(makeRelatedItem(item));
+    fragment.appendChild(makeRelatedItem(item, returnTo));
   }
   elements.related.appendChild(fragment);
 }
 
-function renderBook(book, allItems) {
+function renderBook(book, allItems, returnTo) {
   document.title = `${book.title || "Buchdetails"} | Bibliothek Stein AR`;
   setText(elements.title, book.title, "Ohne Titel");
   setText(elements.author, book.author, "Autor unbekannt");
@@ -239,7 +258,7 @@ function renderBook(book, allItems) {
 
   const genres = Array.isArray(book.genres) ? book.genres : [];
   renderGenres(genres);
-  renderRelated(allItems, book);
+  renderRelated(allItems, book, returnTo);
 }
 
 function renderGlobalError(message) {
@@ -258,6 +277,9 @@ function renderGlobalError(message) {
 
 async function init() {
   const routeValue = getRouteParam();
+  const returnTo = sanitizeReturnTo(getReturnToParam());
+  elements.backToSearch.href = returnTo;
+
   if (!routeValue) {
     renderGlobalError("Kein Buchparameter gefunden. Bitte aus der Suche öffnen.");
     return;
@@ -270,7 +292,7 @@ async function init() {
       renderGlobalError("Der Titel wurde im aktuellen Katalog nicht gefunden.");
       return;
     }
-    renderBook(book, items);
+    renderBook(book, items, returnTo);
   } catch (_err) {
     renderGlobalError("Katalog konnte nicht geladen werden. Bitte zuerst data/catalog.json erzeugen.");
   }
