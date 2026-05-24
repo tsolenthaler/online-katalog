@@ -373,6 +373,22 @@ select:focus {
   color: var(--muted);
 }
 
+.detail-sources {
+  margin: 0.45rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.detail-sources a {
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.detail-sources a:hover {
+  text-decoration: underline;
+}
+
 .detail-description {
   margin: 0.7rem 0 0;
   color: var(--ink-soft);

@@ -49,3 +49,23 @@ Die Detailseite wird ueber den Query-Parameter `book` aufgerufen:
 
 * Mit ISBN: `book.html?book=9783522202602`
 * Ohne ISBN (Fallback auf interne ID): `book.html?book=row-12`
+
+## Deep-Link Suche
+
+Die Suchseite akzeptiert URL-Parameter und aktualisiert sie live beim Filtern:
+
+* `q`: Suchtext
+* `author`: exakter Autorname
+* `genre`: exaktes Genre
+
+Beispiel:
+
+`index.html?q=geschichte&author=Ende,%20Michael&genre=Fantasy`
+
+## Quellen auf Detailseite
+
+Auf `book.html` werden klickbare Quellenlinks angezeigt, z. B.:
+
+* OpenLibrary
+* DNB
+* Google Books (wenn vorhanden)

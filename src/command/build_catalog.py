@@ -374,6 +374,7 @@ def main() -> None:
             title = str(row.get("title") or "").strip()
             author = str(row.get("author") or "").strip()
             isbn = isbn_digits(str(row.get("isbn") or "").strip())
+            isbn_source = str(row.get("source") or "").strip()
 
             if not isbn:
                 without_isbn += 1
@@ -391,6 +392,7 @@ def main() -> None:
                         "genres": [],
                         "genre": "",
                         "metadata_source": "",
+                        "isbn_source": isbn_source,
                         "search_text": build_search_text(title=title, author=author, genres=[], description=""),
                     }
                 )
@@ -427,6 +429,7 @@ def main() -> None:
                     "genres": genres,
                     "genre": genres[0] if genres else "",
                     "metadata_source": metadata_source,
+                    "isbn_source": isbn_source,
                     "search_text": build_search_text(
                         title=title,
                         author=author,

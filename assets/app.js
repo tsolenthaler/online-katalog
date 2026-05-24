@@ -33,6 +33,30 @@ function normalize(value) {
     .trim();
 }
 
+function syncUrlFromState() {
+  const params = new URLSearchParams();
+  if (state.search.trim()) {
+    params.set("q", state.search.trim());
+  }
+  if (state.author.trim()) {
+    params.set("author", state.author.trim());
+  }
+  if (state.genre.trim()) {
+    params.set("genre", state.genre.trim());
+  }
+
+  const query = params.toString();
+  const next = `${window.location.pathname}${query ? `?${query}` : ""}`;
+  window.history.replaceState({}, "", next);
+}
+
+function applyStateFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  state.search = (params.get("q") || "").trim();
+  state.author = (params.get("author") || "").trim();
+  state.genre = (params.get("genre") || "").trim();
+}
+
 async function loadCatalog() {
   for (const path of DATA_CANDIDATES) {
     try {
@@ -237,6 +261,7 @@ function renderResults() {
   summarizeFilterState();
   renderRanking(elements.topAuthors, computeTop(state.filtered, (item) => item.author, 8), "Keine Autor-Daten");
   renderRanking(elements.topGenres, computeTopGenre(state.filtered, 8), "Keine Genre-Daten");
+  syncUrlFromState();
 }
 
 function wireEvents() {
@@ -281,6 +306,8 @@ async function init() {
     const items = await loadCatalog();
     state.items = items;
 
+    applyStateFromUrl();
+
     buildOptions(
       items.map((item) => item.author || ""),
       elements.authorSelect,
@@ -292,6 +319,22 @@ async function init() {
       elements.genreSelect,
       "Alle Genres"
     );
+
+    const authorValues = new Set(items.map((item) => item.author || ""));
+    if (state.author && !authorValues.has(state.author)) {
+      state.author = "";
+    }
+
+    const genreValues = new Set(
+      items.flatMap((item) => (Array.isArray(item.genres) ? item.genres : []))
+    );
+    if (state.genre && !genreValues.has(state.genre)) {
+      state.genre = "";
+    }
+
+    elements.searchInput.value = state.search;
+    elements.authorSelect.value = state.author;
+    elements.genreSelect.value = state.genre;
 
     wireEvents();
     renderResults();

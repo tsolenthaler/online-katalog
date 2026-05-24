@@ -5,6 +5,7 @@ const elements = {
   author: document.querySelector("#bookAuthor"),
   cover: document.querySelector("#bookCover"),
   meta: document.querySelector("#bookMeta"),
+  sources: document.querySelector("#bookSources"),
   description: document.querySelector("#bookDescription"),
   genres: document.querySelector("#bookGenres"),
   related: document.querySelector("#relatedBooks"),
@@ -64,6 +65,84 @@ function findBook(items, routeValue) {
 
 function setText(element, value, fallback) {
   element.textContent = value && String(value).trim() ? String(value).trim() : fallback;
+}
+
+function addSourceLink(linkMap, key, label, href) {
+  if (!href || !label || linkMap.has(key)) {
+    return;
+  }
+  linkMap.set(key, { label, href });
+}
+
+function buildSourceLinks(book) {
+  const links = new Map();
+  const isbn = String(book.isbn || "").trim();
+  const isbnSource = String(book.isbn_source || "").trim().toLowerCase();
+  const metadataSource = String(book.metadata_source || "").trim().toLowerCase();
+
+  if (isbnSource === "dnb") {
+    addSourceLink(
+      links,
+      "dnb",
+      "DNB",
+      `https://portal.dnb.de/opac.htm?method=simpleSearch&query=${encodeURIComponent(isbn || book.title || "")}`
+    );
+  }
+
+  if (isbnSource === "openlibrary" || metadataSource.includes("openlibrary")) {
+    addSourceLink(
+      links,
+      "openlibrary",
+      "OpenLibrary",
+      isbn ? `https://openlibrary.org/isbn/${encodeURIComponent(isbn)}` : "https://openlibrary.org/"
+    );
+  }
+
+  if (metadataSource.includes("google_books")) {
+    addSourceLink(
+      links,
+      "google_books",
+      "Google Books",
+      isbn
+        ? `https://books.google.com/books?vid=ISBN${encodeURIComponent(isbn)}`
+        : "https://books.google.com/"
+    );
+  }
+
+  if (!links.size) {
+    if (isbn) {
+      addSourceLink(
+        links,
+        "dnb",
+        "DNB",
+        `https://portal.dnb.de/opac.htm?method=simpleSearch&query=${encodeURIComponent(isbn)}`
+      );
+      addSourceLink(
+        links,
+        "openlibrary",
+        "OpenLibrary",
+        `https://openlibrary.org/isbn/${encodeURIComponent(isbn)}`
+      );
+    } else {
+      addSourceLink(links, "dnb", "DNB", "https://www.dnb.de/");
+      addSourceLink(links, "openlibrary", "OpenLibrary", "https://openlibrary.org/");
+    }
+  }
+
+  return [...links.values()];
+}
+
+function renderSourceLinks(book) {
+  const links = buildSourceLinks(book);
+  if (!links.length) {
+    elements.sources.textContent = "";
+    return;
+  }
+
+  const chunks = links.map(
+    (entry) => `<a href="${entry.href}" target="_blank" rel="noopener noreferrer">${entry.label}</a>`
+  );
+  elements.sources.innerHTML = `Quelle: ${chunks.join(" | ")}`;
 }
 
 function renderGenres(genres) {
@@ -150,6 +229,7 @@ function renderBook(book, allItems) {
     meta.push(`Quelle: ${book.metadata_source}`);
   }
   setText(elements.meta, meta.join(" | "), "Keine weiteren Metadaten verfügbar.");
+  renderSourceLinks(book);
 
   setText(
     elements.description,
@@ -166,6 +246,7 @@ function renderGlobalError(message) {
   setText(elements.title, "Buch nicht gefunden", "Buch nicht gefunden");
   setText(elements.author, "", "");
   setText(elements.meta, "", "");
+  setText(elements.sources, "", "");
   setText(elements.description, message, message);
   elements.genres.innerHTML = "";
   elements.related.innerHTML = "";
