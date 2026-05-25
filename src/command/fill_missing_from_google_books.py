@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import os
 import re
 import time
@@ -22,11 +23,13 @@ from html import unescape
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qs, quote_plus, unquote, urlparse
+from urllib.parse import parse_qs, parse_qsl, quote, quote_plus, unquote, urlencode, urlparse, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 
-GOOGLE_SEARCH_URL = "https://www.google.ch/search"
+GOOGLE_SEARCH_URL = "https://www.google.com/search"
+GOOGLE_BOOKS_API_URL = "https://www.googleapis.com/books/v1/volumes"
+DUCKDUCKGO_HTML_URL = "https://duckduckgo.com/html/"
 DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -103,6 +106,7 @@ def choose_best_isbn(candidates: list[str]) -> str | None:
 
 
 def fetch_text(url: str, timeout: int = 20) -> str:
+    url = sanitize_url(url)
     req = Request(
         url,
         headers={
@@ -112,6 +116,17 @@ def fetch_text(url: str, timeout: int = 20) -> str:
     )
     with urlopen(req, timeout=timeout) as response:  # noqa: S310
         return response.read().decode("utf-8", "ignore")
+
+
+def sanitize_url(url: str) -> str:
+    parts = urlsplit(url)
+    if not parts.scheme or not parts.netloc:
+        return url
+
+    safe_path = quote(parts.path, safe="/%:@-._~")
+    safe_query = urlencode(parse_qsl(parts.query, keep_blank_values=True), doseq=True)
+    safe_fragment = quote(parts.fragment, safe="")
+    return urlunsplit((parts.scheme, parts.netloc, safe_path, safe_query, safe_fragment))
 
 
 def build_search_query(title: str, author: str) -> str:
@@ -185,9 +200,108 @@ def find_first_result_url(search_html: str) -> str | None:
         parsed = urlparse(link)
         netloc = parsed.netloc.lower()
         path = parsed.path or ""
+        if netloc.startswith("support.google."):
+            continue
         if "google." in netloc and (path in blocked_paths or path.startswith("/policies")):
             continue
         return link
+
+    return None
+
+
+def find_first_books_result_url(search_html: str) -> str | None:
+    for link in extract_result_links(search_html):
+        parsed = urlparse(link)
+        netloc = parsed.netloc.lower()
+        path = (parsed.path or "").lower()
+        if "books.google" in netloc:
+            return link
+        if path.startswith("/books/edition") or path.startswith("/books"):
+            return link
+    return None
+
+
+def build_books_detail_url(volume_id: str) -> str:
+    return f"https://www.google.com/books/edition/_/{quote(volume_id)}?hl=de&gbpv=0"
+
+
+def find_first_books_result_via_api(title: str, author: str) -> str | None:
+    query_parts = []
+    if title.strip():
+        query_parts.append(f'intitle:"{title.strip()}"')
+    if author.strip():
+        query_parts.append(f'inauthor:"{author.strip()}"')
+    query = " ".join(query_parts).strip() or build_search_query(title, author)
+    if not query:
+        return None
+
+    params = {
+        "q": query,
+        "maxResults": "1",
+        "printType": "books",
+        "projection": "lite",
+        "langRestrict": "de",
+    }
+    url = f"{GOOGLE_BOOKS_API_URL}?{urlencode(params)}"
+    payload = fetch_text(url)
+    data = json.loads(payload)
+
+    items = data.get("items")
+    if not isinstance(items, list) or not items:
+        return None
+
+    first = items[0] if isinstance(items[0], dict) else {}
+    volume_id = str(first.get("id") or "").strip()
+    if volume_id:
+        return build_books_detail_url(volume_id)
+
+    volume_info = first.get("volumeInfo") if isinstance(first.get("volumeInfo"), dict) else {}
+    info_link = str(volume_info.get("infoLink") or "").strip()
+    if info_link.startswith("http://") or info_link.startswith("https://"):
+        return info_link
+
+    return None
+
+
+def decode_duckduckgo_result_link(href: str) -> str | None:
+    if not href:
+        return None
+
+    href = unescape(href)
+    if href.startswith("//"):
+        href = f"https:{href}"
+
+    if href.startswith("https://duckduckgo.com/l/") or href.startswith("http://duckduckgo.com/l/"):
+        parsed = urlparse(href)
+        params = parse_qs(parsed.query)
+        candidate = params.get("uddg", [""])[0]
+        candidate = unquote(candidate)
+        if candidate.startswith("http://") or candidate.startswith("https://"):
+            return candidate
+        return None
+
+    if href.startswith("http://") or href.startswith("https://"):
+        return href
+
+    return None
+
+
+def find_first_books_result_via_duckduckgo(title: str, author: str) -> str | None:
+    terms = " ".join(part for part in [title.strip(), author.strip()] if part).strip()
+    if not terms:
+        return None
+
+    query = f"site:books.google.com {terms}"
+    search_url = f"{DUCKDUCKGO_HTML_URL}?{urlencode({'q': query})}"
+    html = fetch_text(search_url)
+
+    for match in re.finditer(r'href="([^"]+)"', html):
+        candidate = decode_duckduckgo_result_link(match.group(1))
+        if not candidate:
+            continue
+        netloc = urlparse(candidate).netloc.lower()
+        if "books.google" in netloc:
+            return candidate
 
     return None
 
@@ -303,22 +417,50 @@ def fetch_google_match(title: str, author: str, verbose: bool = False) -> MatchR
     try:
         search_html = fetch_text(search_url)
         first_result = find_first_result_url(search_html)
+        books_first_result = find_first_books_result_url(search_html)
+        detail_candidates: list[str] = []
         if first_result:
-            detail_html = fetch_text(first_result)
+            detail_candidates.append(first_result)
+        if books_first_result and books_first_result not in detail_candidates:
+            detail_candidates.append(books_first_result)
+
+        if not detail_candidates:
+            try:
+                api_result = find_first_books_result_via_api(title=title, author=author)
+            except (HTTPError, URLError, TimeoutError, ValueError, json.JSONDecodeError):
+                api_result = None
+            if api_result:
+                detail_candidates.append(api_result)
+
+        if not detail_candidates:
+            try:
+                ddg_result = find_first_books_result_via_duckduckgo(title=title, author=author)
+            except (HTTPError, URLError, TimeoutError, ValueError):
+                ddg_result = None
+            if ddg_result:
+                detail_candidates.append(ddg_result)
+
+        for detail_url in detail_candidates:
+            if verbose:
+                print(f"    detail_url={detail_url}", flush=True)
+
+            detail_html = fetch_text(detail_url)
             candidates = extract_isbn_candidates_from_text(detail_html)
             chosen = choose_best_isbn(candidates)
-            if chosen:
-                title_match = re.search(r"<title>(.*?)</title>", detail_html, flags=re.IGNORECASE | re.DOTALL)
-                matched_title = ""
-                if title_match:
-                    matched_title = re.sub(r"\s+", " ", unescape(title_match.group(1))).strip()
+            if not chosen:
+                continue
 
-                return MatchResult(
-                    isbn=chosen,
-                    matched_title=matched_title,
-                    matched_author="",
-                    source="google_search_first_result",
-                )
+            title_match = re.search(r"<title>(.*?)</title>", detail_html, flags=re.IGNORECASE | re.DOTALL)
+            matched_title = ""
+            if title_match:
+                matched_title = re.sub(r"\s+", " ", unescape(title_match.group(1))).strip()
+
+            return MatchResult(
+                isbn=chosen,
+                matched_title=matched_title,
+                matched_author="",
+                source="google_search_first_result",
+            )
     except (HTTPError, URLError, TimeoutError, ValueError):
         pass
     return None
