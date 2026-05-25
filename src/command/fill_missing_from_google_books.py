@@ -169,16 +169,23 @@ def extract_result_links(search_html: str) -> list[str]:
     return links
 
 
-def find_first_books_result_url(search_html: str) -> str | None:
+def find_first_result_url(search_html: str) -> str | None:
     links = extract_result_links(search_html)
-    for link in links:
-        netloc = urlparse(link).netloc.lower()
-        if "books.google" in netloc:
-            return link
+
+    # Use the first real search result in page order as requested.
+    # Ignore internal Google utility pages that are not actual result targets.
+    blocked_paths = {
+        "/preferences",
+        "/advanced_search",
+        "/setprefs",
+        "/support",
+    }
 
     for link in links:
-        netloc = urlparse(link).netloc.lower()
-        if "google." in netloc:
+        parsed = urlparse(link)
+        netloc = parsed.netloc.lower()
+        path = parsed.path or ""
+        if "google." in netloc and (path in blocked_paths or path.startswith("/policies")):
             continue
         return link
 
@@ -295,7 +302,7 @@ def fetch_google_match(title: str, author: str, verbose: bool = False) -> MatchR
 
     try:
         search_html = fetch_text(search_url)
-        first_result = find_first_books_result_url(search_html)
+        first_result = find_first_result_url(search_html)
         if first_result:
             detail_html = fetch_text(first_result)
             candidates = extract_isbn_candidates_from_text(detail_html)
