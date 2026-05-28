@@ -48,6 +48,28 @@
 
         <p class="share-status">Ergebnisse werden erst auf der Suchseite geladen.</p>
       </section>
+
+      <section class="panel" aria-label="Katalogstatistik">
+        <div class="panel__head">
+          <h2>Statistik</h2>
+        </div>
+        <div class="stats" aria-live="polite">
+          <article class="stat-card">
+            <span class="stat-card__label">Bücher</span>
+            <strong id="landingBookCount">-</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Autoren</span>
+            <strong id="landingAuthorCount">-</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Genres</span>
+            <strong id="landingGenreCount">-</strong>
+          </article>
+        </div>
+      </section>
     </main>
+
+    <script src="assets/landing-stats.js" defer></script>
   </body>
 </html>
