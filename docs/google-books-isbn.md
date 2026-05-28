@@ -44,6 +44,16 @@ source .env
 set +a
 ```
 
+### Variante C: direkt als Script-Parameter
+
+Du kannst den Key auch direkt beim Aufruf uebergeben:
+
+```bash
+python3 fill_missing_from_google_books.py --api-key "dein_api_key"
+```
+
+Hinweis: Diese Variante ist bequem, aber weniger sicher, weil der Key in der Shell-Historie landen kann.
+
 ## Standardlauf
 
 Aus dem Projekt-Root:
