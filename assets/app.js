@@ -78,6 +78,15 @@ function buildShareUrl() {
   return `${window.location.origin}${window.location.pathname}${buildSearchQueryFromState()}`;
 }
 
+function hasActiveSearch() {
+  return Boolean(state.search.trim() || state.author.trim() || state.genre.trim());
+}
+
+function getCurrentPageName() {
+  const parts = window.location.pathname.split("/").filter(Boolean);
+  return parts.length ? parts[parts.length - 1] : "search.html";
+}
+
 async function copyTextToClipboard(value) {
   if (navigator.clipboard && window.isSecureContext) {
     await navigator.clipboard.writeText(value);
@@ -222,6 +231,11 @@ function matches(item) {
 }
 
 function summarizeFilterState() {
+  if (!hasActiveSearch()) {
+    elements.activeFilters.textContent = "Suche starten";
+    return;
+  }
+
   const chips = [];
   if (state.search) {
     chips.push(`Suche: ${state.search}`);
@@ -233,7 +247,7 @@ function summarizeFilterState() {
     chips.push(`Genre: ${state.genre}`);
   }
 
-  elements.activeFilters.textContent = chips.length ? chips.join(" | ") : "Alle Bücher";
+  elements.activeFilters.textContent = chips.join(" | ");
 }
 
 function makeBookCard(item) {
@@ -277,7 +291,7 @@ function makeBookCard(item) {
 
   const routeValue = item.isbn || item.id || "";
   const searchQuery = buildSearchQueryFromState();
-  const returnTo = `index.html${searchQuery}`;
+  const returnTo = `${getCurrentPageName()}${searchQuery}`;
   detailLink.href = `book.html?book=${encodeURIComponent(routeValue)}&returnTo=${encodeURIComponent(returnTo)}`;
   detailLink.setAttribute("aria-label", `Details zu ${item.title || "Buch"} anzeigen`);
 
@@ -285,13 +299,19 @@ function makeBookCard(item) {
 }
 
 function renderResults() {
-  state.filtered = state.items.filter(matches);
+  if (hasActiveSearch()) {
+    state.filtered = state.items.filter(matches);
+  } else {
+    state.filtered = [];
+  }
 
   elements.results.innerHTML = "";
   if (!state.filtered.length) {
     const empty = document.createElement("div");
     empty.className = "empty-state";
-    empty.textContent = "Keine Treffer gefunden. Bitte Suche oder Filter anpassen.";
+    empty.textContent = hasActiveSearch()
+      ? "Keine Treffer gefunden. Bitte Suche oder Filter anpassen."
+      : "Suche starten, um Ergebnisse anzuzeigen.";
     elements.results.appendChild(empty);
   } else {
     const fragment = document.createDocumentFragment();

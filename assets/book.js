@@ -53,13 +53,21 @@ function getReturnToParam() {
 
 function sanitizeReturnTo(value) {
   if (!value) {
-    return "index.html";
+    return "search.html";
   }
   if (value.startsWith("http://") || value.startsWith("https://") || value.startsWith("//")) {
-    return "index.html";
+    return "search.html";
   }
-  if (!value.startsWith("index.html") && !value.startsWith("./index.html") && !value.startsWith("/index.html")) {
-    return "index.html";
+  const allowedPrefixes = [
+    "index.html",
+    "./index.html",
+    "/index.html",
+    "search.html",
+    "./search.html",
+    "/search.html",
+  ];
+  if (!allowedPrefixes.some((prefix) => value.startsWith(prefix))) {
+    return "search.html";
   }
   return value;
 }

@@ -79,6 +79,20 @@ h3 {
   gap: 1rem;
 }
 
+.layout--landing {
+  max-width: 760px;
+}
+
+.landing-search {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.landing-search__submit {
+  justify-self: start;
+  padding: 0.6rem 1rem;
+}
+
 .panel {
   background: rgba(255, 253, 248, 0.88);
   border: 1px solid var(--line);
