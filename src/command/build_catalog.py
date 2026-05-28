@@ -288,6 +288,62 @@ def build_search_text(title: str, author: str, genres: list[str], description: s
     return normalize_text(raw)
 
 
+def resolve_optional_input_path(path_value: str) -> Path:
+    path = Path(path_value)
+    if path.exists():
+        return path
+
+    script_dir = Path(__file__).resolve().parent
+    repo_root = script_dir.parent.parent
+    fallback = repo_root / path
+    if fallback.exists():
+        return fallback
+
+    return path
+
+
+def load_manual_overrides(path: Path, verbose: bool) -> tuple[dict[str, dict[str, str]], dict[str, dict[str, str]]]:
+    by_title: dict[str, dict[str, str]] = {}
+    by_isbn: dict[str, dict[str, str]] = {}
+
+    if not path.exists():
+        if verbose:
+            print(f"Manual override file not found (ignored): {path}", flush=True)
+        return by_title, by_isbn
+
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        fieldnames = list(reader.fieldnames or [])
+        required = {"title", "author", "isbn"}
+        if not required.issubset(set(fieldnames)):
+            raise ValueError(
+                f"Manual override CSV requires columns: title, author, isbn (got: {', '.join(fieldnames)})"
+            )
+
+        for row in reader:
+            title = str(row.get("title") or "").strip()
+            author = str(row.get("author") or "").strip()
+            isbn = isbn_digits(str(row.get("isbn") or "").strip())
+            if not title or not author or not isbn:
+                continue
+
+            entry = {
+                "title": title,
+                "author": author,
+                "isbn": isbn,
+            }
+
+            title_key = normalize_text(title)
+            if title_key:
+                by_title[title_key] = entry
+            by_isbn[isbn] = entry
+
+    if verbose:
+        print(f"Loaded manual overrides: {len(by_title)} by title, {len(by_isbn)} by ISBN", flush=True)
+
+    return by_title, by_isbn
+
+
 def fetch_metadata_for_isbn(
     isbn: str,
     cache: dict[str, dict[str, Any]],
@@ -352,6 +408,15 @@ def parse_args() -> argparse.Namespace:
         help="JSON cache for fetched metadata (default: data/catalog_metadata_cache.json)",
     )
     parser.add_argument(
+        "--manual-overrides",
+        dest="manual_overrides_csv",
+        default="data/manual_catalog_overrides.csv",
+        help=(
+            "Optional CSV with columns title,author,isbn. "
+            "Matching rows are forced to these values (default: data/manual_catalog_overrides.csv)"
+        ),
+    )
+    parser.add_argument(
         "--max-rows",
         type=int,
         default=None,
@@ -380,26 +445,22 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
 
-    input_csv = Path(args.input_csv)
+    input_csv = resolve_optional_input_path(args.input_csv)
     output_json = Path(args.output_json)
     cache_json = Path(args.cache_json)
+    manual_overrides_csv = resolve_optional_input_path(args.manual_overrides_csv)
     request_delay = max(args.delay, 0.0)
     progress_every = max(args.progress_every, 1)
     verbose = not args.quiet
 
     if not input_csv.exists():
-        script_dir = Path(__file__).resolve().parent
-        repo_root = script_dir.parent.parent
-        fallback = repo_root / input_csv
-        if fallback.exists():
-            input_csv = fallback
-        else:
-            raise FileNotFoundError(f"Input CSV not found: {input_csv}")
+        raise FileNotFoundError(f"Input CSV not found: {input_csv}")
 
     output_json.parent.mkdir(parents=True, exist_ok=True)
     cache_json.parent.mkdir(parents=True, exist_ok=True)
 
     cache = load_cache(cache_json)
+    overrides_by_title, overrides_by_isbn = load_manual_overrides(manual_overrides_csv, verbose=verbose)
 
     if verbose:
         print(f"Reading input: {input_csv}", flush=True)
@@ -411,6 +472,7 @@ def main() -> None:
     total = 0
     with_metadata = 0
     without_isbn = 0
+    manual_overrides_applied = 0
 
     with input_csv.open("r", encoding="utf-8", newline="") as handle:
         reader = csv.DictReader(handle)
@@ -431,6 +493,25 @@ def main() -> None:
             author = str(row.get("author") or "").strip()
             isbn = isbn_digits(str(row.get("isbn") or "").strip())
             isbn_source = str(row.get("source") or "").strip()
+
+            override_entry = None
+            title_key = normalize_text(title)
+            if isbn and isbn in overrides_by_isbn:
+                override_entry = overrides_by_isbn[isbn]
+            elif title_key and title_key in overrides_by_title:
+                override_entry = overrides_by_title[title_key]
+
+            if override_entry is not None:
+                title = override_entry["title"]
+                author = override_entry["author"]
+                isbn = override_entry["isbn"]
+                isbn_source = "manual_override"
+                manual_overrides_applied += 1
+                if verbose:
+                    print(
+                        f"  -> manual override applied: title='{title}' author='{author}' isbn={isbn}",
+                        flush=True,
+                    )
 
             if not isbn:
                 without_isbn += 1
@@ -509,6 +590,7 @@ def main() -> None:
         "total_rows": total,
         "rows_with_metadata": with_metadata,
         "rows_without_isbn": without_isbn,
+        "manual_overrides_applied": manual_overrides_applied,
         "items": items,
     }
 
@@ -522,6 +604,7 @@ def main() -> None:
     print(f"Processed rows: {total}")
     print(f"Rows with metadata: {with_metadata}")
     print(f"Rows without ISBN: {without_isbn}")
+    print(f"Manual overrides applied: {manual_overrides_applied}")
     print(f"Catalog written to {output_json}")
     print(f"Metadata cache written to {cache_json}")
 

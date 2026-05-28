@@ -105,6 +105,68 @@ def build_cache_key(title: str, author: str) -> str:
     return f"{normalize_text(title)}|{normalize_text(author)}"
 
 
+def resolve_optional_input_path(path_value: str) -> Path:
+    path = Path(path_value)
+    if path.exists():
+        return path
+
+    script_dir = Path(__file__).resolve().parent
+    repo_root = script_dir.parent.parent
+    fallback = repo_root / path
+    if fallback.exists():
+        return fallback
+
+    return path
+
+
+def load_manual_overrides(path: Path, quiet: bool) -> dict[str, dict[str, str]]:
+    overrides_by_title: dict[str, dict[str, str]] = {}
+
+    if not path.exists():
+        if not quiet:
+            print(f"Manual override file not found (ignored): {path}", flush=True)
+        return overrides_by_title
+
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        fieldnames = list(reader.fieldnames or [])
+        required = {"title", "author", "isbn"}
+        if not required.issubset(set(fieldnames)):
+            raise ValueError(
+                f"Manual override CSV requires columns: title, author, isbn (got: {', '.join(fieldnames)})"
+            )
+
+        for row in reader:
+            title = str(row.get("title") or "").strip()
+            author = str(row.get("author") or "").strip()
+            isbn = isbn_digits(str(row.get("isbn") or "").strip())
+            if not title or not author or not isbn:
+                continue
+
+            title_key = normalize_text(title)
+            if not title_key:
+                continue
+
+            overrides_by_title[title_key] = {
+                "title": title,
+                "author": author,
+                "isbn": isbn,
+            }
+
+    if not quiet:
+        print(f"Loaded manual overrides (title match): {len(overrides_by_title)}", flush=True)
+
+    return overrides_by_title
+
+
+def isbn_type_for(value: str) -> str:
+    if len(value) == 13:
+        return "ISBN_13"
+    if len(value) == 10:
+        return "ISBN_10"
+    return ""
+
+
 def isbn_digits(raw: str) -> str:
     return re.sub(r"[^0-9Xx]", "", raw).upper()
 
@@ -352,6 +414,15 @@ def parse_args() -> argparse.Namespace:
         help="Cache CSV to avoid duplicate API calls (default: data/google_books_cache.csv)",
     )
     parser.add_argument(
+        "--manual-overrides",
+        dest="manual_overrides_csv",
+        default="data/manual_catalog_overrides.csv",
+        help=(
+            "Optional CSV with columns title,author,isbn. "
+            "Rows matching by title are used before cache/API (default: data/manual_catalog_overrides.csv)"
+        ),
+    )
+    parser.add_argument(
         "--catalog-json-out",
         dest="catalog_json_out",
         default="data/catalog_google.json",
@@ -398,11 +469,12 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
 
-    input_csv = Path(args.input_csv)
+    input_csv = resolve_optional_input_path(args.input_csv)
     output_csv = Path(args.output_csv)
     missing_output_csv = Path(args.missing_output_csv)
     cache_csv = Path(args.cache_csv)
     catalog_json_out = Path(args.catalog_json_out)
+    manual_overrides_csv = resolve_optional_input_path(args.manual_overrides_csv)
 
     if not input_csv.exists():
         raise SystemExit(f"Input CSV not found: {input_csv}")
@@ -410,10 +482,12 @@ def main() -> None:
     api_key = args.api_key or os.getenv("GOOGLE_BOOKS_API_KEY", "")
 
     cache = load_cache(cache_csv)
+    overrides_by_title = load_manual_overrides(manual_overrides_csv, quiet=args.quiet)
     api_calls = 0
     found_count = 0
     cache_hits = 0
     quota_skipped = 0
+    manual_override_hits = 0
     catalog_items: list[dict[str, Any]] = []
 
     with input_csv.open("r", encoding="utf-8", newline="") as src:
@@ -459,15 +533,36 @@ def main() -> None:
             title = str(row.get("title") or "").strip()
             author = str(row.get("author") or "").strip()
             cache_key = build_cache_key(title=title, author=author)
+            title_key = normalize_text(title)
 
             from_cache = False
-            result = cache.get(cache_key)
+            result: LookupResult | None = None
 
             if not args.quiet:
                 display_author = author if author else "-"
                 print(f"[{idx}/{len(rows)}] query: title='{title}' author='{display_author}'", flush=True)
 
-            if result is not None:
+            override_entry = overrides_by_title.get(title_key) if title_key else None
+            if override_entry is not None:
+                manual_override_hits += 1
+                result = LookupResult(
+                    found=True,
+                    isbn=override_entry["isbn"],
+                    isbn_type=isbn_type_for(override_entry["isbn"]),
+                    matched_title=override_entry["title"],
+                    matched_author=override_entry["author"],
+                    status="manual_override",
+                )
+                if not args.quiet:
+                    print(
+                        "  -> manual override: "
+                        f"isbn={result.isbn} title='{result.matched_title}' author='{result.matched_author}'",
+                        flush=True,
+                    )
+            else:
+                result = cache.get(cache_key)
+
+            if override_entry is None and result is not None:
                 from_cache = True
                 cache_hits += 1
                 if not args.quiet:
@@ -475,7 +570,7 @@ def main() -> None:
                         f"  -> cache hit: status={result.status} isbn={result.isbn or '-'}",
                         flush=True,
                     )
-            else:
+            elif override_entry is None:
                 if api_calls >= args.max_requests:
                     result = LookupResult(found=False, status="quota_guard_reached")
                     quota_skipped += 1
@@ -510,6 +605,9 @@ def main() -> None:
                             )
                         else:
                             print(f"  -> no isbn found: status={result.status}", flush=True)
+
+            if result is None:
+                result = LookupResult(found=False, status="not_found")
 
             if result.found:
                 found_count += 1
@@ -591,6 +689,7 @@ def main() -> None:
         print(f"Found ISBNs: {found_count}", flush=True)
         print(f"API calls this run: {api_calls}", flush=True)
         print(f"Cache hits: {cache_hits}", flush=True)
+        print(f"Manual override hits: {manual_override_hits}", flush=True)
         print(f"Skipped by quota guard: {quota_skipped}", flush=True)
         print(f"Found output: {output_csv}", flush=True)
         print(f"Missing output: {missing_output_csv}", flush=True)
