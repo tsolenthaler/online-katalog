@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-28T06:23:53.087106+00:00",
+  "generated_at": "2026-05-28T06:31:43.531367+00:00",
   "source_csv": "data/missing.csv",
-  "total_rows": 3,
-  "rows_with_isbn": 3,
-  "rows_missing": 0,
+  "total_rows": 5223,
+  "rows_with_isbn": 131,
+  "rows_missing": 5092,
   "items": [
     {
       "id": "9783486808179",
       "title": "Astrid Lindgren, Ronja Räubertochter",
       "author": "Sonja Müller-Schamell",
       "isbn": "9783486808179",
-      "cover_url": "",
+      "cover_url": "https://books.google.com/books/content?id=I0xvSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "description": "",
       "genres": [],
       "genre": "",
@@ -36,13 +36,1805 @@
       "title": "Weiblichkeitsdarstellung im Buch \"Die rote Zora und ihre Bande\" von Kurt Held",
       "author": "Britta Wiese",
       "isbn": "9783346641564",
+      "cover_url": "https://books.google.com/books/content?id=wrxuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Studienarbeit aus dem Jahr 2020 im Fachbereich Germanistik - Neuere Deutsche Literatur, Note: 2,5, Universität Bielefeld, Sprache: Deutsch, Abstract: Wie wird Weiblichkeit in „Die rote Zora und ihre Bande“ aus dem Jahr 1941 dargestellt? Für diese Analyse wird im Voraus auf das Konstrukt Geschlecht eingegangen und dara...",
+      "genres": [
+        "Literary Criticism"
+      ],
+      "genre": "Literary Criticism",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "weiblichkeitsdarstellung im buch die rote zora und ihre bande von kurt held britta wiese literary criticism studienarbeit aus dem jahr 2020 im fachbereich germanistik neuere deutsche literatur note 2 5 universitat bielefeld sprache deutsch abstract wie wird weiblichkeit in die rote zora und ihre bande aus dem jahr 1941 dargestellt fur diese analyse wird im voraus auf das konstrukt geschlecht eingegangen und dara"
+    },
+    {
+      "id": "9783401075754",
+      "title": "Frohe Weihnachten, liebes Christkind!",
+      "author": "Sigrid Heuck",
+      "isbn": "9783401075754",
+      "cover_url": "https://books.google.com/books/content?id=gAoBPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Der kleine Engel, der viel lieber Fussball spielen würde, wird von Petrus auf die Erde geschickt. Er soll die Einladungen zum Geburtstagsfest des Christkindes verteilen. Er hat genau 24 Tage Zeit.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "frohe weihnachten liebes christkind sigrid heuck der kleine engel der viel lieber fussball spielen wurde wird von petrus auf die erde geschickt er soll die einladungen zum geburtstagsfest des christkindes verteilen er hat genau 24 tage zeit"
+    },
+    {
+      "id": "9783290114701",
+      "title": "Mein Name ist Eugen",
+      "author": "Klaus Schädelin",
+      "isbn": "9783290114701",
+      "cover_url": "https://books.google.com/books/content?id=yqdz8nNK1YEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Vier Jungs und viele Missgeschicke: In \"Mein Name ist Eugen\" geht es um vier Jungs: Eugen, Wrigley, Eduard und Bäschteli. Diese vier Jugns hauen aus einem Ferienlager ab und gehen auf Reisen quer durch die Schweiz. Während dieser Reise erleben sie viele Abenteuer. Sie retten einem Jodler-Club fast das Leben, sehen den...",
+      "genres": [
+        "Religion"
+      ],
+      "genre": "Religion",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "mein name ist eugen klaus schadelin religion vier jungs und viele missgeschicke in mein name ist eugen geht es um vier jungs eugen wrigley eduard und baschteli diese vier jugns hauen aus einem ferienlager ab und gehen auf reisen quer durch die schweiz wahrend dieser reise erleben sie viele abenteuer sie retten einem jodler club fast das leben sehen den"
+    },
+    {
+      "id": "9783858823557",
+      "title": "Bad Sonder",
+      "author": "Catherine De Clercq",
+      "isbn": "9783858823557",
+      "cover_url": "https://books.google.com/books/content?id=_b6aAwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Das geheimnisvolle Mädchengesicht zwischen den Seerosen Hoch über Teufen thront das Bad Sonder und blickt über die Ausserrhoder Gemeinde hinweg zum Alpstein. Einst ein bekanntes Hotel und Kurhaus, wird das stattliche Haus heute als Sonderschulwohnheim genutzt. Die dicken Steinmauern wüssten vieles aus der wechselvolle...",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "bad sonder catherine de clercq das geheimnisvolle madchengesicht zwischen den seerosen hoch uber teufen thront das bad sonder und blickt uber die ausserrhoder gemeinde hinweg zum alpstein einst ein bekanntes hotel und kurhaus wird das stattliche haus heute als sonderschulwohnheim genutzt die dicken steinmauern wussten vieles aus der wechselvolle"
+    },
+    {
+      "id": "9783293003262",
+      "title": "Die Sticker",
+      "author": "Elisabeth Gerter",
+      "isbn": "9783293003262",
       "cover_url": "",
       "description": "",
       "genres": [],
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "weiblichkeitsdarstellung im buch die rote zora und ihre bande von kurt held britta wiese"
+      "search_text": "die sticker elisabeth gerter"
+    },
+    {
+      "id": "9783641119201",
+      "title": "Der Medicus",
+      "author": "Noah Gordon",
+      "isbn": "9783641119201",
+      "cover_url": "https://books.google.com/books/content?id=Tv-lqQ-_lpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Der Waisenjunge Rob findet bei einem Bader Schutz und wird sein gelehriger Schüler. Nach dem Tod seines Meisters bricht er nach Persien auf, denn dort, im fernen Isfahan, lehrt Avicenna, der berühmteste aller Ärzte. Rob trotzt mutig den Gefahren seiner weiten Reise, Hunger, Pest und den Überfällen religiöser Fanatiker...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der medicus noah gordon fiction der waisenjunge rob findet bei einem bader schutz und wird sein gelehriger schuler nach dem tod seines meisters bricht er nach persien auf denn dort im fernen isfahan lehrt avicenna der beruhmteste aller arzte rob trotzt mutig den gefahren seiner weiten reise hunger pest und den uberfallen religioser fanatiker"
+    },
+    {
+      "id": "9783464800874",
+      "title": "Hier kommt Lola!",
+      "author": "Silke Fokken",
+      "isbn": "9783464800874",
+      "cover_url": "https://books.google.com/books/content?id=19zzOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "hier kommt lola silke fokken"
+    },
+    {
+      "id": "9783314104183",
+      "title": "Engel, Hase, Bommelmütze",
+      "author": "Brigitte Weninger",
+      "isbn": "9783314104183",
+      "cover_url": "https://books.google.com/books/content?id=2fpKtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "engel hase bommelmutze brigitte weninger"
+    },
+    {
+      "id": "9783522181853",
+      "title": "Die Abenteuer des starken Wanja",
+      "author": "Otfried Preußler",
+      "isbn": "9783522181853",
+      "cover_url": "https://books.google.com/books/content?id=cS6FcgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die abenteuer des starken wanja otfried preu ler"
+    },
+    {
+      "id": "9783785555095",
+      "title": "Der kleine Elch und das Weihnachtswunder",
+      "author": "Thilo",
+      "isbn": "9783785555095",
+      "cover_url": "https://books.google.com/books/content?id=rcKzbwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Jussi, der kleine Elch, möchte wissen, ob es den Weihnachtsmann wirklich gibt. Bei seiner nächtlichen Suche stösst er tatsächlich auf den alten Mann samt Rentierschlitten. Ein Rentier ist verletzt und so darf Jussi sogar beim Schlittenziehen helfen - eine aufregende Nacht. Ab 7.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine elch und das weihnachtswunder thilo jussi der kleine elch mochte wissen ob es den weihnachtsmann wirklich gibt bei seiner nachtlichen suche stosst er tatsachlich auf den alten mann samt rentierschlitten ein rentier ist verletzt und so darf jussi sogar beim schlittenziehen helfen eine aufregende nacht ab 7"
+    },
+    {
+      "id": "9783838757957",
+      "title": "Laura sucht den Weihnachtsmann",
+      "author": "Klaus Baumgart, Cornelia Neudert",
+      "isbn": "9783838757957",
+      "cover_url": "https://books.google.com/books/content?id=uu3sAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Lauras kleinem Bruder Tommy ist der ganze Weihnachtstrubel zu viel: Mama und Papa haben keine Zeit, und die Nikoläuse in den Kaufhäusern sind gar keine richtigen Weihnachtsmänner! Tommy ist überzeugt: \"Den Weihnachtsmann gibt's gar nicht in echt!\" Laura will Tommy helfen. Aber wie? Zum Glück hat sie ihren Stern. Der b...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "laura sucht den weihnachtsmann klaus baumgart cornelia neudert juvenile fiction lauras kleinem bruder tommy ist der ganze weihnachtstrubel zu viel mama und papa haben keine zeit und die nikolause in den kaufhausern sind gar keine richtigen weihnachtsmanner tommy ist uberzeugt den weihnachtsmann gibt s gar nicht in echt laura will tommy helfen aber wie zum gluck hat sie ihren stern der b"
+    },
+    {
+      "id": "9783847658344",
+      "title": "Adventskalender einmal anders",
+      "author": "Christiane Siegert",
+      "isbn": "9783847658344",
+      "cover_url": "https://books.google.com/books/content?id=BU5qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Was wäre Weihnachten ohne die Adventszeit? Und was wäre die ohne Adventskalender? Doch ein Adventskalender muss nicht immer mit Schokolade gefüllt sein. Er kann genauso randvoll mit Erzählungen und Geschichten sein, die uns das Warten auf Weihnachten verkürzen. Und wer sagt, dass nur Kinder auf Weinachten warten? Gesc...",
+      "genres": [
+        "Literary Collections"
+      ],
+      "genre": "Literary Collections",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "adventskalender einmal anders christiane siegert literary collections was ware weihnachten ohne die adventszeit und was ware die ohne adventskalender doch ein adventskalender muss nicht immer mit schokolade gefullt sein er kann genauso randvoll mit erzahlungen und geschichten sein die uns das warten auf weihnachten verkurzen und wer sagt dass nur kinder auf weinachten warten gesc"
+    },
+    {
+      "id": "9783862722884",
+      "title": "Igraine Ohnefurcht",
+      "author": "Cornelia Funke",
+      "isbn": "9783862722884",
+      "cover_url": "https://books.google.com/books/content?id=u9QuCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Nach dem großen Erfolg ihres Märchenromans DRACHENREITER nun eine witzige Ritter- und Zaubergeschichte im unverwechselbaren, packenden Funke-Stil und mit stimmungsvollen Illustrationen der Autorin. Auf Burg Bibernell ist wirklich was los! Jeder Stein hat sein Geheimnis, und selbst der Burggraben birgt mehr als nur Was...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "igraine ohnefurcht cornelia funke juvenile fiction nach dem gro en erfolg ihres marchenromans drachenreiter nun eine witzige ritter und zaubergeschichte im unverwechselbaren packenden funke stil und mit stimmungsvollen illustrationen der autorin auf burg bibernell ist wirklich was los jeder stein hat sein geheimnis und selbst der burggraben birgt mehr als nur was"
+    },
+    {
+      "id": "9783522300841",
+      "title": "Die Dreierbande und der verdächtige Fotograf",
+      "author": "Hermien Stellmacher, Joachim Schultz",
+      "isbn": "9783522300841",
+      "cover_url": "https://books.google.com/books/content?id=NzEtAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die dreierbande und der verdachtige fotograf hermien stellmacher joachim schultz"
+    },
+    {
+      "id": "9783464605721",
+      "title": "Fette Fische",
+      "author": "Cornelia Witzmann",
+      "isbn": "9783464605721",
+      "cover_url": "https://books.google.com/books/content?id=IN7bAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "fette fische cornelia witzmann"
+    },
+    {
+      "id": "9783781722262",
+      "title": "Emma traut sich was",
+      "author": "Maja von Vogel",
+      "isbn": "9783781722262",
+      "cover_url": "https://books.google.com/books/content?id=UhAIPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Neues von Emma, die dank Omas Hilfe alle Montags-Katastrophen in Familie, Wohngemeinschaft, Schule und erster Liebe bewältigt. Ab 11.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "emma traut sich was maja von vogel neues von emma die dank omas hilfe alle montags katastrophen in familie wohngemeinschaft schule und erster liebe bewaltigt ab 11"
+    },
+    {
+      "id": "9783841500489",
+      "title": "Für alle Fälle Emma",
+      "author": "Maja von Vogel",
+      "isbn": "9783841500489",
+      "cover_url": "https://books.google.com/books/content?id=yeZcMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "fur alle falle emma maja von vogel"
+    },
+    {
+      "id": "9783785557389",
+      "title": "Nikolausgeschichten",
+      "author": "Elisabeth Zöller",
+      "isbn": "9783785557389",
+      "cover_url": "https://books.google.com/books/content?id=eodnPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "nikolausgeschichten elisabeth zoller"
+    },
+    {
+      "id": "9783570137048",
+      "title": "Der kleine Drache Kokosnuss und die starken Wikinger",
+      "author": "Ingo Siegner",
+      "isbn": "9783570137048",
+      "cover_url": "https://books.google.com/books/content?id=033QRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Kokosnuss und seine Freunde treffen einen einsamen Wikinger. Gudröd wurde von den anderen verstossen, weil er angeblich das Trinkhorn des Anführers gestohlen hat. Natürlich will Kokosnuss seine Unschuld beweisen. So stechen sie mit einem selbst gebauten Boot in See und suchen die Wikinger. Ab 7.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine drache kokosnuss und die starken wikinger ingo siegner kokosnuss und seine freunde treffen einen einsamen wikinger gudrod wurde von den anderen verstossen weil er angeblich das trinkhorn des anfuhrers gestohlen hat naturlich will kokosnuss seine unschuld beweisen so stechen sie mit einem selbst gebauten boot in see und suchen die wikinger ab 7"
+    },
+    {
+      "id": "9783473364770",
+      "title": "Fußballfieber",
+      "author": "Fabian Lenk",
+      "isbn": "9783473364770",
+      "cover_url": "https://books.google.com/books/content?id=CHY6jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "fu ballfieber fabian lenk"
+    },
+    {
+      "id": "9783473477449",
+      "title": "Leserabe: Klassenreise an die See",
+      "author": "Heike Wiechmann",
+      "isbn": "9783473477449",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "leserabe klassenreise an die see heike wiechmann"
+    },
+    {
+      "id": "9783733601447",
+      "title": "Liliane Susewind – Ein Nilpferd auf dem Zebrastreifen",
+      "author": "Tanya Stewner",
+      "isbn": "9783733601447",
+      "cover_url": "https://books.google.com/books/content?id=uqneCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Immer lustig, immer spannend: Liliane Susewinds Abenteuer für die jüngsten Fans! Von Bestsellerautorin Tanya Stewner – mit großer Fibelschrift und fröhlich-bunten Bildern Lilli kann mit Tieren sprechen! Und das ist gut so, denn im Zoo wird ihre Hilfe dringend gebraucht: Sie soll herausfinden, warum das kleine Nilpferd...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "liliane susewind ein nilpferd auf dem zebrastreifen tanya stewner juvenile fiction immer lustig immer spannend liliane susewinds abenteuer fur die jungsten fans von bestsellerautorin tanya stewner mit gro er fibelschrift und frohlich bunten bildern lilli kann mit tieren sprechen und das ist gut so denn im zoo wird ihre hilfe dringend gebraucht sie soll herausfinden warum das kleine nilpferd"
+    },
+    {
+      "id": "9783473385393",
+      "title": "Der kleine Drache und der Monsterhund",
+      "author": "Inge Meyer-Dietrich, Almud Kunert",
+      "isbn": "9783473385393",
+      "cover_url": "https://books.google.com/books/content?id=Ww80SQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [
+        "Dogs"
+      ],
+      "genre": "Dogs",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine drache und der monsterhund inge meyer dietrich almud kunert dogs"
+    },
+    {
+      "id": "9783781722286",
+      "title": "Verrückt nach Emma",
+      "author": "Maja von Vogel",
+      "isbn": "9783781722286",
+      "cover_url": "https://books.google.com/books/content?id=R1aCJwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Neues aus Emmas kunterbuntem Leben: Jetzt hat sie auch noch die Klassenkasse verschlampt und muss Geld verdienen ... Ab 11.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "verruckt nach emma maja von vogel neues aus emmas kunterbuntem leben jetzt hat sie auch noch die klassenkasse verschlampt und muss geld verdienen ab 11"
+    },
+    {
+      "id": "9786052942932",
+      "title": "Robinson Crusoe - Daniel Defoe (Stage-2)",
+      "author": "Daniel Defoe",
+      "isbn": "9786052942932",
+      "cover_url": "https://books.google.com/books/content?id=gTP-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "R obinson Crusoe by Daniel Defoe is one of the first adventure stories ever written. It chronicles Crusoe, and eventually his servant Friday, after he becomes shipwrecked on an island. Not just a piece of literary history, Crusoe is also a thrilling tale and an excellent commentary on imperialism and the foundation of...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "robinson crusoe daniel defoe stage 2 daniel defoe fiction r obinson crusoe by daniel defoe is one of the first adventure stories ever written it chronicles crusoe and eventually his servant friday after he becomes shipwrecked on an island not just a piece of literary history crusoe is also a thrilling tale and an excellent commentary on imperialism and the foundation of"
+    },
+    {
+      "id": "9783841500304",
+      "title": "Die fabelhaften Vier",
+      "author": "Martina Dierks",
+      "isbn": "9783841500304",
+      "cover_url": "https://books.google.com/books/content?id=8ujxpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die fabelhaften vier martina dierks"
+    },
+    {
+      "id": "9783838701134",
+      "title": "Die Tore der Welt",
+      "author": "Ken Follett",
+      "isbn": "9783838701134",
+      "cover_url": "https://books.google.com/books/content?id=xGWLIfT477EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "England im Jahre 1327. Vier junge Menschen versuchen in England ihr Glück zu machen: der rebellische Merthin, ein Nachfahre des großen Baumeisters Jack. Sein Bruder Ralph, der in den Ritterstand aufstrebt. Das Mädchen Caris, das sich nach Freiheit sehnt. Und Gwenda, die Tochter eines Taglöhners, die nur der Liebe folg...",
+      "genres": [
+        "Architecture"
+      ],
+      "genre": "Architecture",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die tore der welt ken follett architecture england im jahre 1327 vier junge menschen versuchen in england ihr gluck zu machen der rebellische merthin ein nachfahre des gro en baumeisters jack sein bruder ralph der in den ritterstand aufstrebt das madchen caris das sich nach freiheit sehnt und gwenda die tochter eines taglohners die nur der liebe folg"
+    },
+    {
+      "id": "9783857915321",
+      "title": "Blätterteig und Völkerball",
+      "author": "Tony Ettlin",
+      "isbn": "9783857915321",
+      "cover_url": "https://books.google.com/books/content?id=NoUI0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Wenige Schritte vom Dorfplatz Stans beginnt die Schmiedgasse, eine Gasse mit einem besonderen Zusammengehörigkeitsgefühl. In dieser Gasse übernahmen 1956 Tony Ettlins Eltern eine Bäckerei. Mit sorgfältig gezeichneten Erinnerungen erzählt Tony Ettlin zuerst von seinen ersten sechs Jahren auf einem Bauernhof ausserhalb...",
+      "genres": [
+        "Biography & Autobiography"
+      ],
+      "genre": "Biography & Autobiography",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "blatterteig und volkerball tony ettlin biography autobiography wenige schritte vom dorfplatz stans beginnt die schmiedgasse eine gasse mit einem besonderen zusammengehorigkeitsgefuhl in dieser gasse ubernahmen 1956 tony ettlins eltern eine backerei mit sorgfaltig gezeichneten erinnerungen erzahlt tony ettlin zuerst von seinen ersten sechs jahren auf einem bauernhof ausserhalb"
+    },
+    {
+      "id": "9783646926071",
+      "title": "Seelen",
+      "author": "Stephenie Meyer",
+      "isbn": "9783646926071",
+      "cover_url": "https://books.google.com/books/content?id=oNobAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Planet Erde, irgendwann in der Zukunft. Sogenannte Seelen haben sich in den Körpern der Menschen eingenistet und ihre Kontrolle übernommen. Als die Rebellin Melanie von der Seele Wanda in Besitz genommen wird, setzt sie alles daran, nicht aus ihrem Körper verdrängt zu werden. Denn Melanie hat ein Ziel: Sie will ihren...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "seelen stephenie meyer juvenile fiction planet erde irgendwann in der zukunft sogenannte seelen haben sich in den korpern der menschen eingenistet und ihre kontrolle ubernommen als die rebellin melanie von der seele wanda in besitz genommen wird setzt sie alles daran nicht aus ihrem korper verdrangt zu werden denn melanie hat ein ziel sie will ihren"
+    },
+    {
+      "id": "9783641132743",
+      "title": "Der Katalane",
+      "author": "Noah Gordon",
+      "isbn": "9783641132743",
+      "cover_url": "https://books.google.com/books/content?id=Tm8SAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Mit der Kraft des spanischen Weins Nachdem er Zeuge eines kaltblütigen Mordes wurde, versteckt sich Josep vier lange Jahre in Frankreich. Nun, zurück in seinem Heimatdorf in Katalonien, will er sich seinen Lebenstraum erfüllen: vollmundigen Wein auf dem Gut seiner Väter zu keltern. Doch die Reben sind vertrocknet, die...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der katalane noah gordon fiction mit der kraft des spanischen weins nachdem er zeuge eines kaltblutigen mordes wurde versteckt sich josep vier lange jahre in frankreich nun zuruck in seinem heimatdorf in katalonien will er sich seinen lebenstraum erfullen vollmundigen wein auf dem gut seiner vater zu keltern doch die reben sind vertrocknet die"
+    },
+    {
+      "id": "9783837304299",
+      "title": "Der kleine König",
+      "author": "Gabriele Blum, Hedwig Munck, Markus Langer",
+      "isbn": "9783837304299",
+      "cover_url": "https://books.google.com/books/content?id=_LMgngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "7 neue von den 14 Buchgeschichten (BA 5/08) über den durch das TV-Sandmännchen bekannten \"kleinen König\", der zusammen mit seinen 5 Tierfreunden und seiner Cousine, der kleinen Prinzessin, manches Abenteuer besteht und Problemchen meistert. Mit Situationskomik und Sprachwitz wird von den Aufregungen der Vorweihnachtsz...",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine konig gabriele blum hedwig munck markus langer 7 neue von den 14 buchgeschichten ba 5 08 uber den durch das tv sandmannchen bekannten kleinen konig der zusammen mit seinen 5 tierfreunden und seiner cousine der kleinen prinzessin manches abenteuer besteht und problemchen meistert mit situationskomik und sprachwitz wird von den aufregungen der vorweihnachtsz"
+    },
+    {
+      "id": "9783401808918",
+      "title": "Gepardensommer",
+      "author": "Katja Brandis",
+      "isbn": "9783401808918",
+      "cover_url": "https://books.google.com/books/content?id=yg_ADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Wenn aus einem Abenteuertrip eine Reise zu sich selbst wird! Für alle Leserinnnen, die dem Ruf der Freiheit in die weite Welt folgen wollen. Vor allem aber für alle größer gewordenen Woodwalkers-Fans. Auf Lilly wartet ein unvergessliches Erlebnis: Sie darf auf einer Farm in Namibia mitarbeiten, die sich dem Schutz der...",
+      "genres": [
+        "Young Adult Fiction"
+      ],
+      "genre": "Young Adult Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "gepardensommer katja brandis young adult fiction wenn aus einem abenteuertrip eine reise zu sich selbst wird fur alle leserinnnen die dem ruf der freiheit in die weite welt folgen wollen vor allem aber fur alle gro er gewordenen woodwalkers fans auf lilly wartet ein unvergessliches erlebnis sie darf auf einer farm in namibia mitarbeiten die sich dem schutz der"
+    },
+    {
+      "id": "9783841500502",
+      "title": "Emma will's wissen",
+      "author": "Maja von Vogel",
+      "isbn": "9783841500502",
+      "cover_url": "https://books.google.com/books/content?id=CxUtuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "emma will s wissen maja von vogel"
+    },
+    {
+      "id": "9783464900987",
+      "title": "Neues vom Räuber Hotzenplotz : 5 - 10 Jahre ; nach Motiven des Buches von Otfried Preußler",
+      "author": "Otfried Preussler",
+      "isbn": "9783464900987",
+      "cover_url": "https://books.google.com/books/content?id=iGxpzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "neues vom rauber hotzenplotz 5 10 jahre nach motiven des buches von otfried preu ler otfried preussler"
+    },
+    {
+      "id": "9783644204119",
+      "title": "Die Chemie des Todes",
+      "author": "Simon Beckett",
+      "isbn": "9783644204119",
+      "cover_url": "https://books.google.com/books/content?id=Q_5sAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Der fesselnde Auftakt der Thriller-Reihe um Dr. David Hunter führt in die faszinierende Welt der forensischen Anthropologie. Ein Muss für Fans von cleveren Thrillern. Sterben kann ewig dauern ... aber der menschliche Körper beginnt kaum fünf Minuten nach dem Tod zu verwesen – und wird dann zu einem gigantischen Festsc...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die chemie des todes simon beckett fiction der fesselnde auftakt der thriller reihe um dr david hunter fuhrt in die faszinierende welt der forensischen anthropologie ein muss fur fans von cleveren thrillern sterben kann ewig dauern aber der menschliche korper beginnt kaum funf minuten nach dem tod zu verwesen und wird dann zu einem gigantischen festsc"
+    },
+    {
+      "id": "9783423713689",
+      "title": "Spielmacher - Fünf Asse",
+      "author": "Andreas Schlüter, Irene Margil",
+      "isbn": "9783423713689",
+      "cover_url": "https://books.google.com/books/content?id=z5JePgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Das seien die Ängste einer Generation, die schon am eigenen Videorekorder verzweifele.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "spielmacher funf asse andreas schluter irene margil das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+    },
+    {
+      "id": "9783423713627",
+      "title": "Fünf Asse",
+      "author": "Andreas Schlüter, Irene Margil",
+      "isbn": "9783423713627",
+      "cover_url": "https://books.google.com/books/content?id=DTJdPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Das seien die Ängste einer Generation, die schon am eigenen Videorekorder verzweifele.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "funf asse andreas schluter irene margil das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+    },
+    {
+      "id": "9783423713610",
+      "title": "Ein Fall für Kommissar Maroni",
+      "author": "Jürg Obrist",
+      "isbn": "9783423713610",
+      "cover_url": "https://books.google.com/books/content?id=-OZSPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Eine Sammlung von 40 peppig illustrierten Minikrimis zum Mitraten. Ab 9.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "ein fall fur kommissar maroni jurg obrist eine sammlung von 40 peppig illustrierten minikrimis zum mitraten ab 9"
+    },
+    {
+      "id": "9783789141690",
+      "title": "Astrid-Lindgren-Edition : die schönsten Romane und Erzählungen für Kinder. 8. Madita",
+      "author": "Astrid Lindgren",
+      "isbn": "9783789141690",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "astrid lindgren edition die schonsten romane und erzahlungen fur kinder 8 madita astrid lindgren"
+    },
+    {
+      "id": "9783401811048",
+      "title": "Der Elefantentempel",
+      "author": "Katja Brandis",
+      "isbn": "9783401811048",
+      "cover_url": "https://books.google.com/books/content?id=pfohEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Ein Sommer in Thailand zum Träumen schön. Ein Sommer voller Höhen und Tiefen. Ricarda hat ganz besondere Pläne für die Sommerferien: eine Reise nach Thailand in ein Elefantencamp mit ihrer besten Freundin Sophia. Eigentlich sollte es die schönste Zeit ihres Lebens werden, doch als die beiden angekommen sind, fliegen s...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der elefantentempel katja brandis juvenile fiction ein sommer in thailand zum traumen schon ein sommer voller hohen und tiefen ricarda hat ganz besondere plane fur die sommerferien eine reise nach thailand in ein elefantencamp mit ihrer besten freundin sophia eigentlich sollte es die schonste zeit ihres lebens werden doch als die beiden angekommen sind fliegen s"
+    },
+    {
+      "id": "9783407627902",
+      "title": "\"Als Opa alles auf den Kopf stellte\" im Unterricht",
+      "author": "Gerald Merkel",
+      "isbn": "9783407627902",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "als opa alles auf den kopf stellte im unterricht gerald merkel"
+    },
+    {
+      "id": "9783551316479",
+      "title": "Meine nicht ganz normale Familie 1: Ferien im Schrank",
+      "author": "Annette Roeder",
+      "isbn": "9783551316479",
+      "cover_url": "https://books.google.com/books/content?id=Ejg5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Was macht man, wenn die eigenen vier Wände schrabbelig, die Möbel unbequem, das Klo dauerverstopft und das Geld knapp ist? Man zieht für ein paar Wochen ins Möbelparadies – so wie Anton und seine Familie. Bei Couch & Co gibt es schließlich genügend Zimmer, die nur darauf warten, dass mal jemand in ihnen wohnt!",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "meine nicht ganz normale familie 1 ferien im schrank annette roeder juvenile fiction was macht man wenn die eigenen vier wande schrabbelig die mobel unbequem das klo dauerverstopft und das geld knapp ist man zieht fur ein paar wochen ins mobelparadies so wie anton und seine familie bei couch co gibt es schlie lich genugend zimmer die nur darauf warten dass mal jemand in ihnen wohnt"
+    },
+    {
+      "id": "9783760749808",
+      "title": "Lotta & Knuffel",
+      "author": "Berit Bach",
+      "isbn": "9783760749808",
+      "cover_url": "https://books.google.com/books/content?id=9XTJQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "lotta knuffel berit bach"
+    },
+    {
+      "id": "9783833936395",
+      "title": "Gregs Filmtagebuch - Endlich berühmt!",
+      "author": "Jeff Kinney",
+      "isbn": "9783833936395",
+      "cover_url": "https://books.google.com/books/content?id=Ef3LSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Wer sich immer schon mal gefragt hat, wie ein Film gemacht wird, der ist nicht allein. Dem Autor und Illustrator Jeff Kinney gings nicht anders. Als die 20th Century Fox in Hollywood seinen Bestseller GREGS TAGEBUCH zu einem Realfilm umsetzte, war die Chance gekommen. Licht ins Dunkel zu bringen. Jeff Kinney konnte mi...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "gregs filmtagebuch endlich beruhmt jeff kinney juvenile fiction wer sich immer schon mal gefragt hat wie ein film gemacht wird der ist nicht allein dem autor und illustrator jeff kinney gings nicht anders als die 20th century fox in hollywood seinen bestseller gregs tagebuch zu einem realfilm umsetzte war die chance gekommen licht ins dunkel zu bringen jeff kinney konnte mi"
+    },
+    {
+      "id": "9783423714136",
+      "title": "Stromschnelle - Fünf Asse",
+      "author": "Andreas Schlüter",
+      "isbn": "9783423714136",
+      "cover_url": "https://books.google.com/books/content?id=50DhQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Seine Kinderbücher sieht er deshalb auch als eine längst überfällige Kampfansage an die These, Computer würden die Kinder vereinsamen lassen, und \"wer Computer spiele, lese nicht\". Das seien die Ängste einer Generation, die schon am eigenen Videorekorder verzweifele.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "stromschnelle funf asse andreas schluter seine kinderbucher sieht er deshalb auch als eine langst uberfallige kampfansage an die these computer wurden die kinder vereinsamen lassen und wer computer spiele lese nicht das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+    },
+    {
+      "id": "9783423714150",
+      "title": "Die Rätsel der Alhambra",
+      "author": "Markus Spang",
+      "isbn": "9783423714150",
+      "cover_url": "https://books.google.com/books/content?id=Kf3PQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "In ihrem neuen Rätselabenteuer zum Mitraten folgen Anna, Fred und Opa Drechsel während des Spanienurlaubs einem vertrackten Rätselparcours durch die bekannte Maurenburg Alhambra. Für Mädchen und Jungs ab 10.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die ratsel der alhambra markus spang in ihrem neuen ratselabenteuer zum mitraten folgen anna fred und opa drechsel wahrend des spanienurlaubs einem vertrackten ratselparcours durch die bekannte maurenburg alhambra fur madchen und jungs ab 10"
+    },
+    {
+      "id": "9783791514253",
+      "title": "Herr Rot in Not",
+      "author": "Salah Naoura",
+      "isbn": "9783791514253",
+      "cover_url": "https://books.google.com/books/content?id=TK3LSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Dennis Mutter will ihrem blöden neuen Freund einen knallroten Super-Flausch-Bademantel zu Weihnachten schenken und ausgerechnet er soll den auch noch vom Laden abholen. Auf dem Nachhauseweg findet er einen halbnackten alten Mann im Schnee - und der braucht den Mantel doch viel dringender ...",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "herr rot in not salah naoura dennis mutter will ihrem bloden neuen freund einen knallroten super flausch bademantel zu weihnachten schenken und ausgerechnet er soll den auch noch vom laden abholen auf dem nachhauseweg findet er einen halbnackten alten mann im schnee und der braucht den mantel doch viel dringender"
+    },
+    {
+      "id": "9783644200418",
+      "title": "Leichenblässe",
+      "author": "Simon Beckett",
+      "isbn": "9783644200418",
+      "cover_url": "https://books.google.com/books/content?id=4AFtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Sein dritter Fall führt den forensischen Anthropologen David Hunter zu einem grausamen Serienmörder in den Smoky Mountains ... Bei seinem letzten Einsatz ist der forensische Anthropologe David Hunter nur knapp dem Tod entronnen. Von einer vollständigen Genesung ist er weit entfernt und zweifelt, ob er seinem Beruf noc...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "leichenblasse simon beckett fiction sein dritter fall fuhrt den forensischen anthropologen david hunter zu einem grausamen serienmorder in den smoky mountains bei seinem letzten einsatz ist der forensische anthropologe david hunter nur knapp dem tod entronnen von einer vollstandigen genesung ist er weit entfernt und zweifelt ob er seinem beruf noc"
+    },
+    {
+      "id": "9783401809472",
+      "title": "Koalaträume",
+      "author": "Katja Brandis",
+      "isbn": "9783401809472",
+      "cover_url": "https://books.google.com/books/content?id=9poMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Katja Brandis reist in ihrer Geschichte ans andere Ende der Welt - und geradewegs in ein unglaubliches Abenteuer ... Die angehende Zootierpflegerin Juli wird nach Australien eingeladen und darf dort vier Wochen lang in einem Wildpark mit Koalas, Kängurus und Emus arbeiten. Immer wieder ist es der junge Aboriginal Coli...",
+      "genres": [
+        "Young Adult Fiction"
+      ],
+      "genre": "Young Adult Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "koalatraume katja brandis young adult fiction katja brandis reist in ihrer geschichte ans andere ende der welt und geradewegs in ein unglaubliches abenteuer die angehende zootierpflegerin juli wird nach australien eingeladen und darf dort vier wochen lang in einem wildpark mit koalas kangurus und emus arbeiten immer wieder ist es der junge aboriginal coli"
+    },
+    {
+      "id": "9783401027623",
+      "title": "Alles Lüge",
+      "author": "Anatol Feid",
+      "isbn": "9783401027623",
+      "cover_url": "https://books.google.com/books/content?id=FcX-ewEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "alles luge anatol feid"
+    },
+    {
+      "id": "9783570139288",
+      "title": "3 Drachengeschichten",
+      "author": "Patricia Schröder",
+      "isbn": "9783570139288",
+      "cover_url": "https://books.google.com/books/content?id=tSo3AwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Drei überaus witzig erzählte neue Drachengeschichten nach dem bewährten Vor- und Selbstlesekonzept der Reihe. Ab 6.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "3 drachengeschichten patricia schroder drei uberaus witzig erzahlte neue drachengeschichten nach dem bewahrten vor und selbstlesekonzept der reihe ab 6"
+    },
+    {
+      "id": "9783641041878",
+      "title": "Erst ich ein Stück, dann du - Sophie im Land der Zauberponys",
+      "author": "Patricia Schröder",
+      "isbn": "9783641041878",
+      "cover_url": "https://books.google.com/books/content?id=omak4hNokUQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Die erfolgreiche Kinderbuchreihe mit bewährtem Konzept für das gemeinsame Lesenlernen und –üben Sophie gerät auf wundersame Weise in das magische Feenreich und trifft dort auf das Zauberpony Perlauge. Von ihm erfährt das Mädchen, dass es nicht zufällig in dieser funkelnden Wunderwelt gelandet ist: Denn das Feenreich i...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "erst ich ein stuck dann du sophie im land der zauberponys patricia schroder juvenile fiction die erfolgreiche kinderbuchreihe mit bewahrtem konzept fur das gemeinsame lesenlernen und uben sophie gerat auf wundersame weise in das magische feenreich und trifft dort auf das zauberpony perlauge von ihm erfahrt das madchen dass es nicht zufallig in dieser funkelnden wunderwelt gelandet ist denn das feenreich i"
+    },
+    {
+      "id": "9783502151548",
+      "title": "Maskottchen",
+      "author": "Mark Kurzem",
+      "isbn": "9783502151548",
+      "cover_url": "",
+      "description": "",
+      "genres": [
+        "Fathers and sons"
+      ],
+      "genre": "Fathers and sons",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "maskottchen mark kurzem fathers and sons"
+    },
+    {
+      "id": "9783839892541",
+      "title": "Verwesung (Jubiläumsaktion)",
+      "author": "Simon Beckett",
+      "isbn": "9783839892541",
+      "cover_url": "https://books.google.com/books/content?id=uQHLsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "verwesung jubilaumsaktion simon beckett"
+    },
+    {
+      "id": "9798568344971",
+      "title": "Die Schatzinsel",
+      "author": "Robert Louis Stevenson",
+      "isbn": "9798568344971",
+      "cover_url": "https://books.google.com/books/content?id=t-YMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Die Schatzinsel by Robert Louis Stevenson",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die schatzinsel robert louis stevenson die schatzinsel by robert louis stevenson"
+    },
+    {
+      "id": "9783464800850",
+      "title": "Nils Holgersson",
+      "author": "Selma Lagerlöf",
+      "isbn": "9783464800850",
+      "cover_url": "https://books.google.com/books/content?id=AfxjPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "nils holgersson selma lagerlof"
+    },
+    {
+      "id": "9783785556764",
+      "title": "Lola Schwesterherz",
+      "author": "Isabel Abedi",
+      "isbn": "9783785556764",
+      "cover_url": "https://books.google.com/books/content?id=b-zlSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Lola ist ganz aus dem Häuschen, weil ihre Mutter ein Baby erwartet. Sie freut sich riesig auf den kleinen Bruder und bemüht sich um einen Babysitter-Job, um den Umgang mit äJungs-Babysä zu üben. Schliesslich will sie alles richtig machen, wenn der Kleine endlich da ist ... Ab 9.",
+      "genres": [
+        "Children's stories"
+      ],
+      "genre": "Children's stories",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "lola schwesterherz isabel abedi children s stories lola ist ganz aus dem hauschen weil ihre mutter ein baby erwartet sie freut sich riesig auf den kleinen bruder und bemuht sich um einen babysitter job um den umgang mit ajungs babysa zu uben schliesslich will sie alles richtig machen wenn der kleine endlich da ist ab 9"
+    },
+    {
+      "id": "9783551520227",
+      "title": "Wolfenblut",
+      "author": "Di Toft",
+      "isbn": "9783551520227",
+      "cover_url": "https://books.google.com/books/content?id=_813AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Die telepathisch verbundenen Freunde Woody und Nat sind in Frankreich auf Vampirjagd. Unterstützt werden sie durch eine Zirkustruppe nicht menschlicher Wesen und die Agentin Alex. Doch die Vampire sind in der Übermacht und auch ihr Erzfeind Lucas Scale gibt nicht auf. Ab 11.",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "wolfenblut di toft juvenile fiction die telepathisch verbundenen freunde woody und nat sind in frankreich auf vampirjagd unterstutzt werden sie durch eine zirkustruppe nicht menschlicher wesen und die agentin alex doch die vampire sind in der ubermacht und auch ihr erzfeind lucas scale gibt nicht auf ab 11"
+    },
+    {
+      "id": "9783522621113",
+      "title": "Momo",
+      "author": "Michael Ende",
+      "isbn": "9783522621113",
+      "cover_url": "https://books.google.com/books/content?id=ryE3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Weltbestseller, Klassiker, Kultbuch – für Mädchen und Jungen ab 12 Jahren Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Ze...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "momo michael ende juvenile fiction weltbestseller klassiker kultbuch fur madchen und jungen ab 12 jahren momo ein kleines struppiges madchen lebt am rande einer gro stadt in den ruinen eines amphitheaters sie besitzt nichts als das was sie findet oder was man ihr schenkt und eine au ergewohnliche gabe sie hort menschen zu und schenkt ihnen ze"
+    },
+    {
+      "id": "9783570139240",
+      "title": "Anton und das Geheimnis im Finsterwald",
+      "author": "Patricia Schröder",
+      "isbn": "9783570139240",
+      "cover_url": "https://books.google.com/books/content?id=THUckgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Der 9-jährige Anton wohnt in den Ferien wieder bei seiner Tante Thea in deren windschiefem Haus am Waldrand. Doch diesmal erscheint Anton der Wald bedrohlich. Sind die gruseligen Geschichten über Gnunome und Werwölfe der 7-jährigen Janna schuld? Für gemeinsames Vor- und Selberlesen ab 6.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "anton und das geheimnis im finsterwald patricia schroder der 9 jahrige anton wohnt in den ferien wieder bei seiner tante thea in deren windschiefem haus am waldrand doch diesmal erscheint anton der wald bedrohlich sind die gruseligen geschichten uber gnunome und werwolfe der 7 jahrigen janna schuld fur gemeinsames vor und selberlesen ab 6"
+    },
+    {
+      "id": "9783486808179",
+      "title": "Astrid Lindgren, Ronja Räubertochter",
+      "author": "Sonja Müller-Schamell",
+      "isbn": "9783486808179",
+      "cover_url": "https://books.google.com/books/content?id=I0xvSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "astrid lindgren ronja raubertochter sonja muller schamell"
+    },
+    {
+      "id": "9783862740727",
+      "title": "Der kleine Ritter Trenk",
+      "author": "Kirsten Boie",
+      "isbn": "9783862740727",
+      "cover_url": "https://books.google.com/books/content?id=r5qkBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Auf ins Leseabenteuer! Mit Ritterglück und Drachenmut Leibeigen geboren, leibeigen gestorben, leibeigen ein Leben lang - ja, so heißt es wohl! Aber ist es nicht schrecklich ungerecht, das alle Bauern ihrem Ritter gehören und kein bisschen sich selbst? Das findet jedenfalls der Bauernjunge Trenk. Er will es einmal bess...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine ritter trenk kirsten boie juvenile fiction auf ins leseabenteuer mit rittergluck und drachenmut leibeigen geboren leibeigen gestorben leibeigen ein leben lang ja so hei t es wohl aber ist es nicht schrecklich ungerecht das alle bauern ihrem ritter gehoren und kein bisschen sich selbst das findet jedenfalls der bauernjunge trenk er will es einmal bess"
+    },
+    {
+      "id": "9783641064082",
+      "title": "Aschenputtel",
+      "author": "Kristina Ohlsson",
+      "isbn": "9783641064082",
+      "cover_url": "https://books.google.com/books/content?id=sStJI2S_ZGMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Der Start der packenden Bestsellerreihe aus Schweden: »Wer auf klassische skandinavische Krimis steht, macht mit diesem Buch alles richtig.« NDR Info Hochsommer in Schweden. Es regnet Bindfäden. Der voll besetzte Schnellzug nach Stockholm muss außerplanmäßig halten. Eine junge Frau tritt hinaus aufs Bahngleis, um unge...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "aschenputtel kristina ohlsson fiction der start der packenden bestsellerreihe aus schweden wer auf klassische skandinavische krimis steht macht mit diesem buch alles richtig ndr info hochsommer in schweden es regnet bindfaden der voll besetzte schnellzug nach stockholm muss au erplanma ig halten eine junge frau tritt hinaus aufs bahngleis um unge"
+    },
+    {
+      "id": "9783407811042",
+      "title": "Seekers - Die Suche beginnt",
+      "author": "Erin Hunter",
+      "isbn": "9783407811042",
+      "cover_url": "https://books.google.com/books/content?id=r0XzwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "»Ich werde tun, was du gesagt hast, und zu dem Ort des endlosen Eises gehen. Und vielleicht, wenn das wirklich der Ort ist, an dem die Seelen tanzen, werde ich auch dich dort finden.« Hoch im Norden Amerikas machen sich drei junge Bären, jeder auf sich gestellt, auf eine außergewöhnliche Reise. Lusa, die kleine Schwar...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "seekers die suche beginnt erin hunter juvenile fiction ich werde tun was du gesagt hast und zu dem ort des endlosen eises gehen und vielleicht wenn das wirklich der ort ist an dem die seelen tanzen werde ich auch dich dort finden hoch im norden amerikas machen sich drei junge baren jeder auf sich gestellt auf eine au ergewohnliche reise lusa die kleine schwar"
+    },
+    {
+      "id": "9788203123801",
+      "title": "Wir kinder vom Bahnhof Zoo",
+      "author": "Christiane F. (psevd. for Vera Christiane Felsherinow)",
+      "isbn": "9788203123801",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "wir kinder vom bahnhof zoo christiane f psevd for vera christiane felsherinow"
+    },
+    {
+      "id": "9783505128622",
+      "title": "DORK Diaries, Band 03",
+      "author": "Rachel Renée Russell",
+      "isbn": "9783505128622",
+      "cover_url": "https://books.google.com/books/content?id=0aOxpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Die erste Regel für echte DORKs: kaum aus einem Schlamassel heraus, möglichst unverzüglich ins nächste Fettnäpfchen treten. Und niemand beherzigt diese Regel so gewissenhaft wie Nikki. Als sie bei einem Familienausflug mit ihrer kleinen Schwester auf der Karaokebühne landet, befindet sich ausgerechnet MacKenzie – abso...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dork diaries band 03 rachel renee russell juvenile fiction die erste regel fur echte dorks kaum aus einem schlamassel heraus moglichst unverzuglich ins nachste fettnapfchen treten und niemand beherzigt diese regel so gewissenhaft wie nikki als sie bei einem familienausflug mit ihrer kleinen schwester auf der karaokebuhne landet befindet sich ausgerechnet mackenzie abso"
+    },
+    {
+      "id": "9783104017518",
+      "title": "Das mit mir und Romeo",
+      "author": "Dagmar Chidolue",
+      "isbn": "9783104017518",
+      "cover_url": "https://books.google.com/books/content?id=fU9tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Eine süße Freundschaftsgeschichte über zwei, die sich am Anfang nocht nicht einmal ansehen wollen, für Mädchen ab 10 Das hat Julia gerade noch gefehlt: Ihre neue Klasse bricht in johlendes Gelächter aus, als die Lehrerin sie mit Namen vorstellt, denn es gibt einen Schüler, der Romeo heißt. Na toll! Reicht es denn etwa...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "das mit mir und romeo dagmar chidolue juvenile fiction eine su e freundschaftsgeschichte uber zwei die sich am anfang nocht nicht einmal ansehen wollen fur madchen ab 10 das hat julia gerade noch gefehlt ihre neue klasse bricht in johlendes gelachter aus als die lehrerin sie mit namen vorstellt denn es gibt einen schuler der romeo hei t na toll reicht es denn etwa"
+    },
+    {
+      "id": "9783401508412",
+      "title": "Störenfrieda 01. Lauter Krachgeschichten",
+      "author": "Jana Frey",
+      "isbn": "9783401508412",
+      "cover_url": "https://books.google.com/books/content?id=VKkAjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "storenfrieda 01 lauter krachgeschichten jana frey"
+    },
+    {
+      "id": "9783570154809",
+      "title": "Drei Rittergeschichten",
+      "author": "Patricia Schröder",
+      "isbn": "9783570154809",
+      "cover_url": "https://books.google.com/books/content?id=V3_WuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Drei abenteuerliche Rittergeschichten in einem Band. Ritter Fürchtemich schickt seine beiden Söhne hinaus in die Welt, ein echtes Drachenabenteuer zu bestehen, Geisterritter Gustav versucht kettenrasselnd seine Burg zu retten und Knappe Julius kämpft gegen einen Bären ... Ritter haben's wirklich nicht leicht! Patricia...",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "drei rittergeschichten patricia schroder drei abenteuerliche rittergeschichten in einem band ritter furchtemich schickt seine beiden sohne hinaus in die welt ein echtes drachenabenteuer zu bestehen geisterritter gustav versucht kettenrasselnd seine burg zu retten und knappe julius kampft gegen einen baren ritter haben s wirklich nicht leicht patricia"
+    },
+    {
+      "id": "9783522503167",
+      "title": "Die Sherlock-Holmes-Academy",
+      "author": "Holly Watson",
+      "isbn": "9783522503167",
+      "cover_url": "https://books.google.com/books/content?id=0umapwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Trudy and her new friend Marlene start to crack codes and learn to be detectives in the boarding school with other boys and girls in the Scottish moor.",
+      "genres": [
+        "Boarding schools"
+      ],
+      "genre": "Boarding schools",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die sherlock holmes academy holly watson boarding schools trudy and her new friend marlene start to crack codes and learn to be detectives in the boarding school with other boys and girls in the scottish moor"
+    },
+    {
+      "id": "9783473981250",
+      "title": "Werner Färber, Wie viele Level hat dein Leben?",
+      "author": "Karolina Fell",
+      "isbn": "9783473981250",
+      "cover_url": "https://books.google.com/books/content?id=tIrOuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "werner farber wie viele level hat dein leben karolina fell"
+    },
+    {
+      "id": "9783834606488",
+      "title": "Verletzt",
+      "author": "Stella Negri",
+      "isbn": "9783834606488",
+      "cover_url": "https://books.google.com/books/content?id=IqcmQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "verletzt stella negri"
+    },
+    {
+      "id": "9783551313430",
+      "title": "Rick 01: Wie man seine durchgeknallte Familie überlebt",
+      "author": "Antje Szillat",
+      "isbn": "9783551313430",
+      "cover_url": "https://books.google.com/books/content?id=kQGRoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "rick 01 wie man seine durchgeknallte familie uberlebt antje szillat"
+    },
+    {
+      "id": "9783522303156",
+      "title": "Papa auf der Spur",
+      "author": "Katrin Stehle",
+      "isbn": "9783522303156",
+      "cover_url": "https://books.google.com/books/content?id=ITX2ugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "papa auf der spur katrin stehle"
+    },
+    {
+      "id": "9783789142673",
+      "title": "Codewort 007 - Alarm im Advent",
+      "author": "Antonia Michaelis",
+      "isbn": "9783789142673",
+      "cover_url": "https://books.google.com/books/content?id=4mTnuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "codewort 007 alarm im advent antonia michaelis"
+    },
+    {
+      "id": "9783641080402",
+      "title": "Tausendschön",
+      "author": "Kristina Ohlsson",
+      "isbn": "9783641080402",
+      "cover_url": "https://books.google.com/books/content?id=3O3uCtariQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Komplex, intelligent und überraschend! Der zweite Fall für die schwedische Ermittlerin Fredrika Bergman. Ein junges Mädchen wird am Mittsommerabend überfallen und vergewaltigt. Fünfzehn Jahre später stirbt ein Mann bei einem Unfall mit Fahrerflucht, doch niemand scheint ihn zu vermissen. Zeitgleich begehen ein Pfarrer...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "tausendschon kristina ohlsson fiction komplex intelligent und uberraschend der zweite fall fur die schwedische ermittlerin fredrika bergman ein junges madchen wird am mittsommerabend uberfallen und vergewaltigt funfzehn jahre spater stirbt ein mann bei einem unfall mit fahrerflucht doch niemand scheint ihn zu vermissen zeitgleich begehen ein pfarrer"
+    },
+    {
+      "id": "9783426554692",
+      "title": "Die Kastellanin",
+      "author": "Iny Lorentz",
+      "isbn": "9783426554692",
+      "cover_url": "https://books.google.com/books/content?id=lS9sAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Sinnlich, lebensfroh und voller dramatischer Verwicklungen - die spannende Fortsetzung der »Wanderhure« von Iny Lorentz Marie und ihr Ehemann Michel Adler leben glücklich und voller Liebe zusammen. Ihr Glück scheint vollkommen, als sie ein Kind erwartet. Doch dann muss Michel in den Kampf gegen die aufständischen Huss...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die kastellanin iny lorentz fiction sinnlich lebensfroh und voller dramatischer verwicklungen die spannende fortsetzung der wanderhure von iny lorentz marie und ihr ehemann michel adler leben glucklich und voller liebe zusammen ihr gluck scheint vollkommen als sie ein kind erwartet doch dann muss michel in den kampf gegen die aufstandischen huss"
+    },
+    {
+      "id": "9783426554708",
+      "title": "Die Tochter der Wanderhure",
+      "author": "Iny Lorentz",
+      "isbn": "9783426554708",
+      "cover_url": "https://books.google.com/books/content?id=nAZuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Ein neues Kapitel in der historischen Saga um die Wanderhure Marie und ihre Familie Mehr als zwölf Jahre sind vergangen, seit Marie ihre letzten Abenteuer bestehen musste. Glücklich und zufrieden lebt sie mit ihrem Mann auf Burg Kibitzstein – bis ihr Gönner, der Würzburger Fürstbischof, stirbt: Seinem Nachfolger sind...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die tochter der wanderhure iny lorentz fiction ein neues kapitel in der historischen saga um die wanderhure marie und ihre familie mehr als zwolf jahre sind vergangen seit marie ihre letzten abenteuer bestehen musste glucklich und zufrieden lebt sie mit ihrem mann auf burg kibitzstein bis ihr gonner der wurzburger furstbischof stirbt seinem nachfolger sind"
+    },
+    {
+      "id": "9783426662458",
+      "title": "Töchter der Sünde",
+      "author": "Iny Lorentz",
+      "isbn": "9783426662458",
+      "cover_url": "https://books.google.com/books/content?id=yJKwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Een jonge edelman die in 1450 een jonge abdis naar Rome moet begeleiden speelt ongeweten een rol in de machtsstrijd tussen de Duitse keizer Frederik III en paus Nicolaas V.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "tochter der sunde iny lorentz een jonge edelman die in 1450 een jonge abdis naar rome moet begeleiden speelt ongeweten een rol in de machtsstrijd tussen de duitse keizer frederik iii en paus nicolaas v"
+    },
+    {
+      "id": "9783522620741",
+      "title": "Dolphin Rider",
+      "author": "Markus Bennemann",
+      "isbn": "9783522620741",
+      "cover_url": "https://books.google.com/books/content?id=BQkcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Robbys ganze Leidenschaft gilt dem Surfen, und weil er zu den besten gehört, fehlt es nie an Bewunderern. Doch was sich dann am Strand von Sylt ereignet, ist einzigartig: Ein Delfin taucht auf und genießt zusammen mit dem jungen Surfer das ungestüme Spiel der Wellen. Und mehr: Das Tier lässt zu, dass Robby auf seinem...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dolphin rider markus bennemann juvenile fiction robbys ganze leidenschaft gilt dem surfen und weil er zu den besten gehort fehlt es nie an bewunderern doch was sich dann am strand von sylt ereignet ist einzigartig ein delfin taucht auf und genie t zusammen mit dem jungen surfer das ungestume spiel der wellen und mehr das tier lasst zu dass robby auf seinem"
+    },
+    {
+      "id": "9783442753376",
+      "title": "Eine zweite Chance",
+      "author": "Karin Alvtegen",
+      "isbn": "9783442753376",
+      "cover_url": "https://books.google.com/books/content?id=IOaxNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Die 45-jährige Helena zieht von Stockholm nach Norrland und eröffnet ein Hotel. Als ihr Mann sie verlässt, liegt alles in Scherben. Anders Strandberg ist finanziell unabhängig, doch das Leben kann er nicht geniessen. Schliesslich führt ihn das Schicksal im Helenas kleines Hotel.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "eine zweite chance karin alvtegen die 45 jahrige helena zieht von stockholm nach norrland und eroffnet ein hotel als ihr mann sie verlasst liegt alles in scherben anders strandberg ist finanziell unabhangig doch das leben kann er nicht geniessen schliesslich fuhrt ihn das schicksal im helenas kleines hotel"
+    },
+    {
+      "id": "9783785572153",
+      "title": "Lesepiraten - Kleiner Hund in großer Gefahr",
+      "author": "Bengt Birck",
+      "isbn": "9783785572153",
+      "cover_url": "https://books.google.com/books/content?id=wCjNlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "lesepiraten kleiner hund in gro er gefahr bengt birck"
+    },
+    {
+      "id": "9783785574355",
+      "title": "Mein Freund, der Orca",
+      "author": "Annette Moser",
+      "isbn": "9783785574355",
+      "cover_url": "https://books.google.com/books/content?id=2K9pkQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Wie unheimlich! Erst verfolgen Alex und Oliver mit ihrem Ruderboot ein verdächtiges Schiff, dann werden sie von einem Seeungeheuer angegriffen! Der Beginn eines spannenden Abenteuers, an dessen Ende die Freunde sogar einen Orca aus der Gefangenschaft befreien können! Zum Vor- und Selberlesen ab 6.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "mein freund der orca annette moser wie unheimlich erst verfolgen alex und oliver mit ihrem ruderboot ein verdachtiges schiff dann werden sie von einem seeungeheuer angegriffen der beginn eines spannenden abenteuers an dessen ende die freunde sogar einen orca aus der gefangenschaft befreien konnen zum vor und selberlesen ab 6"
+    },
+    {
+      "id": "9783401066394",
+      "title": "Störenfrieda und der Rückwärtsflohmarkt",
+      "author": "Jana Frey",
+      "isbn": "9783401066394",
+      "cover_url": "https://books.google.com/books/content?id=WKG4pwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Viel Aufregung für die Grossfamilie der 7-jährigen, kessen Frieda. 10 neue Episoden erzählen z.B. von Friedas Flohmarktverkauf von nur scheinbar Überflüssigem oder dem Überlisten des verhassten Babysitters. Frech-witziger Spass zum Vorlesen ab 6 oder für fortgeschrittene Leseanfänger ab 8.",
+      "genres": [
+        "Girls"
+      ],
+      "genre": "Girls",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "storenfrieda und der ruckwartsflohmarkt jana frey girls viel aufregung fur die grossfamilie der 7 jahrigen kessen frieda 10 neue episoden erzahlen z b von friedas flohmarktverkauf von nur scheinbar uberflussigem oder dem uberlisten des verhassten babysitters frech witziger spass zum vorlesen ab 6 oder fur fortgeschrittene leseanfanger ab 8"
+    },
+    {
+      "id": "9783401067056",
+      "title": "Störenfrieda auf Hängebauchschweinsafari",
+      "author": "Jana Frey",
+      "isbn": "9783401067056",
+      "cover_url": "",
+      "description": "ÄStörenfriedaä wird die 7-jährige kesse Frieda genannt, die in 10 neuen Episoden mit ihren Ideen ihre Grossfamilie, den knurrigen Nachbarn und alle anderen auf Trab hält. Ein turbulenter Spass zum Vorlesen ab 6 oder für fortgeschrittene Leseanfänger ab 8.",
+      "genres": [
+        "Girls"
+      ],
+      "genre": "Girls",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "storenfrieda auf hangebauchschweinsafari jana frey girls astorenfriedaa wird die 7 jahrige kesse frieda genannt die in 10 neuen episoden mit ihren ideen ihre grossfamilie den knurrigen nachbarn und alle anderen auf trab halt ein turbulenter spass zum vorlesen ab 6 oder fur fortgeschrittene leseanfanger ab 8"
+    },
+    {
+      "id": "9783401067407",
+      "title": "Störenfrieda und der Glitzerclub",
+      "author": "Jana Frey",
+      "isbn": "9783401067407",
+      "cover_url": "https://books.google.com/books/content?id=G-LRMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "storenfrieda und der glitzerclub jana frey"
+    },
+    {
+      "id": "9783440136997",
+      "title": "Die drei ??? Kids, Band 54, Zombie-Alarm (drei Fragezeichen Kids)",
+      "author": "Ben Nevis",
+      "isbn": "9783440136997",
+      "cover_url": "https://books.google.com/books/content?id=LI7hBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Plötzlich erklang über ihnen ein lang gezogener Schrei. Den drei ??? fuhr der Schreck in die Glieder. Bob ließ fast das Papier fallen. \"Das kommt von Deck!\" rief Peter. \"Lasst uns lieber abhauen!\" Bei einem alten Schiffswrack finden die drei ??? eine geheimnisvolle Flaschenpost. Sie stammt von einem Schiffbrüchigen, d...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die drei kids band 54 zombie alarm drei fragezeichen kids ben nevis juvenile fiction plotzlich erklang uber ihnen ein lang gezogener schrei den drei fuhr der schreck in die glieder bob lie fast das papier fallen das kommt von deck rief peter lasst uns lieber abhauen bei einem alten schiffswrack finden die drei eine geheimnisvolle flaschenpost sie stammt von einem schiffbruchigen d"
+    },
+    {
+      "id": "9783440137000",
+      "title": "Die drei ??? Kids, Band 55, Der schwarze Joker (drei Fragezeichen Kids)",
+      "author": "Boris Pfeiffer",
+      "isbn": "9783440137000",
+      "cover_url": "https://books.google.com/books/content?id=vY3hBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Peter biss sich auf die Lippen. \"Freunde!\", flüsterte er. \"Ich glaube zwar nicht an Geister, aber das hier klingt wirklich unheimlich. Könnte es sein, dass in Rocky Beach ein Geist umgeht, der sich 'Der schwarze Joker' nennt?\" Eine unheimliche Gestalt spielt den Bewohnern von Rocky Beach böse Streiche! Als auch noch T...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die drei kids band 55 der schwarze joker drei fragezeichen kids boris pfeiffer juvenile fiction peter biss sich auf die lippen freunde flusterte er ich glaube zwar nicht an geister aber das hier klingt wirklich unheimlich konnte es sein dass in rocky beach ein geist umgeht der sich der schwarze joker nennt eine unheimliche gestalt spielt den bewohnern von rocky beach bose streiche als auch noch t"
+    },
+    {
+      "id": "9783789141553",
+      "title": "Michel und Klein-Ida aus Lönneberga",
+      "author": "Astrid Lindgren",
+      "isbn": "9783789141553",
+      "cover_url": "https://books.google.com/books/content?id=sO4jp1Q03WIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Unfug denkt man sich nicht aus, Unfug wird von ganz allein: Die drei Geschichten handeln in Lönneberga auf Katthult. Kenner wissen, dass auf diesem Bauernhof Michel und die kleine Ida mit ihren Eltern wohnen. Und dass im kühlen Schweden solch turbulente Geschichten passieren, das würde man kaum glauben. Was immer der...",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "michel und klein ida aus lonneberga astrid lindgren unfug denkt man sich nicht aus unfug wird von ganz allein die drei geschichten handeln in lonneberga auf katthult kenner wissen dass auf diesem bauernhof michel und die kleine ida mit ihren eltern wohnen und dass im kuhlen schweden solch turbulente geschichten passieren das wurde man kaum glauben was immer der"
+    },
+    {
+      "id": "9783849009045",
+      "title": "Interpretationshilfe Deutsch: WOLFGANG HERRNDORF: Tschick",
+      "author": "Werner Kramper",
+      "isbn": "9783849009045",
+      "cover_url": "https://books.google.com/books/content?id=6_vGrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "interpretationshilfe deutsch wolfgang herrndorf tschick werner kramper"
+    },
+    {
+      "id": "9783462305289",
+      "title": "Bretonische Verhältnisse",
+      "author": "Jean-Luc Bannalec",
+      "isbn": "9783462305289",
+      "cover_url": "https://books.google.com/books/content?id=G_RlAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Ein mysteriöser Mord in der idyllischen Bretagne – Kommissar Dupin ermittelt in seinem ersten Fall voller Geheimnisse und Überraschungen! In Bretonische Verhältnisse, dem ersten Band der Krimi-Reihe von Jean-Luc Bannalec, wird der hochbetagte Inhaber des legendären Hotels Central in Pont Aven brutal erstochen. Kommiss...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "bretonische verhaltnisse jean luc bannalec fiction ein mysterioser mord in der idyllischen bretagne kommissar dupin ermittelt in seinem ersten fall voller geheimnisse und uberraschungen in bretonische verhaltnisse dem ersten band der krimi reihe von jean luc bannalec wird der hochbetagte inhaber des legendaren hotels central in pont aven brutal erstochen kommiss"
+    },
+    {
+      "id": "9783505131608",
+      "title": "Ein Fall für dich und das Tiger-Team, Band 50",
+      "author": "Thomas Brezina",
+      "isbn": "9783505131608",
+      "cover_url": "https://books.google.com/books/content?id=XkSuNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "ein fall fur dich und das tiger team band 50 thomas brezina"
+    },
+    {
+      "id": "9783505111594",
+      "title": "Verschwörung am Höllenstein",
+      "author": "Thomas Brezina",
+      "isbn": "9783505111594",
+      "cover_url": "https://books.google.com/books/content?id=xI8OPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "verschworung am hollenstein thomas brezina"
+    },
+    {
+      "id": "9783505130335",
+      "title": "Ein Fall für dich und das Tiger-Team",
+      "author": "Thomas Brezina",
+      "isbn": "9783505130335",
+      "cover_url": "https://books.google.com/books/content?id=QWrTNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "ein fall fur dich und das tiger team thomas brezina"
+    },
+    {
+      "id": "9783551315045",
+      "title": "Die drei ??? Kids: Das Rätsel der Könige",
+      "author": "Ulf Blanck",
+      "isbn": "9783551315045",
+      "cover_url": "https://books.google.com/books/content?id=0YzdjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die drei kids das ratsel der konige ulf blanck juvenile fiction"
+    },
+    {
+      "id": "9783440505359",
+      "title": "Die drei ??? Kids, 57, Der Weihnachtsdieb (drei Fragezeichen Kids)",
+      "author": "Boris Pfeiffer, Ulf Blanck",
+      "isbn": "9783440505359",
+      "cover_url": "https://books.google.com/books/content?id=2vVyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Justus, Peter und Bob sind beste Freunde und Detektive! Zusammen haben die drei ??? schon viele knifflige Fälle gelöst. Ganz Rocky Beach ist in Weihnachtsstimmung. Der Baum ist geschmückt und Justus, Peter und Bob können die Bescherung kaum noch erwarten. Doch plötzlich verschwinden die Geschenke! Die drei ??? Kids si...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die drei kids 57 der weihnachtsdieb drei fragezeichen kids boris pfeiffer ulf blanck juvenile fiction justus peter und bob sind beste freunde und detektive zusammen haben die drei schon viele knifflige falle gelost ganz rocky beach ist in weihnachtsstimmung der baum ist geschmuckt und justus peter und bob konnen die bescherung kaum noch erwarten doch plotzlich verschwinden die geschenke die drei kids si"
+    },
+    {
+      "id": "9783641122102",
+      "title": "Erst ich ein Stück, dann du - Delfine",
+      "author": "Bettina Obrecht",
+      "isbn": "9783641122102",
+      "cover_url": "https://books.google.com/books/content?id=3Y8bAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Wenn das Lesen für Leseanfänger noch mühsam ist, heißt es in vielen Familien: »Lass uns gemeinsam lesen. Erst ich ein Stück, dann du. Wir wechseln uns ab.« Deswegen ist unsere beliebte Erstleser-Reihe »Erst ich ein Stück, dann du« speziell für das gemeinsame Lesen konzipiert: * Leseabschnitte für die erfahrenen Vorles...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "erst ich ein stuck dann du delfine bettina obrecht juvenile fiction wenn das lesen fur leseanfanger noch muhsam ist hei t es in vielen familien lass uns gemeinsam lesen erst ich ein stuck dann du wir wechseln uns ab deswegen ist unsere beliebte erstleser reihe erst ich ein stuck dann du speziell fur das gemeinsame lesen konzipiert leseabschnitte fur die erfahrenen vorles"
+    },
+    {
+      "id": "9783641094188",
+      "title": "Eisiger Dienstag",
+      "author": "Nicci French",
+      "isbn": "9783641094188",
+      "cover_url": "https://books.google.com/books/content?id=5jJZPiQPEEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Bei einer Routinekontrolle macht eine Sozialarbeiterin in der Wohnung der psychisch kranken Michelle Doyce einen grausamen Fund: Auf dem Sofa sitzt ein nackter Mann, der offensichtlich schon seit Tagen tot ist. Doch aus Michelle sind keine zusammenhängenden Sätze herauszubekommen. Hat sie den Mann getötet? Frustriert...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "eisiger dienstag nicci french fiction bei einer routinekontrolle macht eine sozialarbeiterin in der wohnung der psychisch kranken michelle doyce einen grausamen fund auf dem sofa sitzt ein nackter mann der offensichtlich schon seit tagen tot ist doch aus michelle sind keine zusammenhangenden satze herauszubekommen hat sie den mann getotet frustriert"
+    },
+    {
+      "id": "9783462306934",
+      "title": "Bretonische Brandung",
+      "author": "Jean-Luc Bannalec",
+      "isbn": "9783462306934",
+      "cover_url": "https://books.google.com/books/content?id=K1BmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Ein raffinierter Krimi voller verblüffender Wendungen, feinsinnigem Humor und der atemberaubenden Schönheit der Glénan-Inseln - Kommissar Dupins zweiter Fall führt ihn in ein gefährliches Labyrinth von Verstrickungen. Zehn Seemeilen vor Concarneau an der bretonischen Küste: Die sagenumwobenen Glénan-Inseln wirken mit...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "bretonische brandung jean luc bannalec fiction ein raffinierter krimi voller verbluffender wendungen feinsinnigem humor und der atemberaubenden schonheit der glenan inseln kommissar dupins zweiter fall fuhrt ihn in ein gefahrliches labyrinth von verstrickungen zehn seemeilen vor concarneau an der bretonischen kuste die sagenumwobenen glenan inseln wirken mit"
+    },
+    {
+      "id": "9783733600020",
+      "title": "Vollendet",
+      "author": "Neal Shusterman",
+      "isbn": "9783733600020",
+      "cover_url": "https://books.google.com/books/content?id=MUhvAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Jeder hat das Recht zu leben - bis zu seinem 13. Geburtstag ... Der 16-jährige Connor hat ständig Ärger. Risa lebt in einem überfüllten Waisenhaus. Lev ist das wohlbehütete Kind strenggläubiger Eltern. So unterschiedlich die drei auch sind, eines haben sie gemeinsam: Sie sind auf der Flucht. Vor einem Staat, in dem El...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "vollendet neal shusterman juvenile fiction jeder hat das recht zu leben bis zu seinem 13 geburtstag der 16 jahrige connor hat standig arger risa lebt in einem uberfullten waisenhaus lev ist das wohlbehutete kind strengglaubiger eltern so unterschiedlich die drei auch sind eines haben sie gemeinsam sie sind auf der flucht vor einem staat in dem el"
+    },
+    {
+      "id": "9783869926506",
+      "title": "Anne Frank",
+      "author": "Anne Frank, Annelies Marie Frank",
+      "isbn": "9783869926506",
+      "cover_url": "https://books.google.com/books/content?id=TnqwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Das Tagebuch der Anne Frank hier in neuer Übersetzung ins Deutsche: Annelies Marie Frank, \"Anne\", wurde in Frankfurt am Main geboren. Als sie viereinhalb Jahre alt war, zog ihre Familie 1934 in die Niederlande, nachdem Adolf Hitler und die Nazipartei die Kontrolle über Deutschland übernommen hatten. Sie verbrachte die...",
+      "genres": [
+        "Biography & Autobiography"
+      ],
+      "genre": "Biography & Autobiography",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "anne frank anne frank annelies marie frank biography autobiography das tagebuch der anne frank hier in neuer ubersetzung ins deutsche annelies marie frank anne wurde in frankfurt am main geboren als sie viereinhalb jahre alt war zog ihre familie 1934 in die niederlande nachdem adolf hitler und die nazipartei die kontrolle uber deutschland ubernommen hatten sie verbrachte die"
+    },
+    {
+      "id": "9783492963732",
+      "title": "Frostglut",
+      "author": "Jennifer Estep",
+      "isbn": "9783492963732",
+      "cover_url": "https://books.google.com/books/content?id=lwwVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Gwen ist am Ziel ihrer Träume angelangt: Endlich hat sie ein richtiges Date mit dem Spartaner Logan. Doch dann macht ihr ausgerechnet dessen Vater einen Strich durch die Rechnung. Er verhaftet Gwen und klagt sie an, mit dem Gott Loki im Bunde zu stehen und ihm die Flucht ermöglicht zu haben. Nun droht ihr nicht nur Ar...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "frostglut jennifer estep fiction gwen ist am ziel ihrer traume angelangt endlich hat sie ein richtiges date mit dem spartaner logan doch dann macht ihr ausgerechnet dessen vater einen strich durch die rechnung er verhaftet gwen und klagt sie an mit dem gott loki im bunde zu stehen und ihm die flucht ermoglicht zu haben nun droht ihr nicht nur ar"
+    },
+    {
+      "id": "9783551315137",
+      "title": "Ich, Lilly und der Rest der Welt",
+      "author": "Alexandra Maxeiner",
+      "isbn": "9783551315137",
+      "cover_url": "https://books.google.com/books/content?id=EuDrjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "ich lilly und der rest der welt alexandra maxeiner juvenile fiction"
+    },
+    {
+      "id": "9783551650757",
+      "title": "Piratten!",
+      "author": "Michael Peinkofer",
+      "isbn": "9783551650757",
+      "cover_url": "https://books.google.com/books/content?id=w2X3ZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "piratten michael peinkofer"
+    },
+    {
+      "id": "9783407746559",
+      "title": "Seekers 05. Feuer im Himmel",
+      "author": "Erin Hunter",
+      "isbn": "9783407746559",
+      "cover_url": "https://books.google.com/books/content?id=nsPIjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "seekers 05 feuer im himmel erin hunter"
+    },
+    {
+      "id": "9783641108588",
+      "title": "Der Kuss der Göttin",
+      "author": "Aprilynne Pike",
+      "isbn": "9783641108588",
+      "cover_url": "https://books.google.com/books/content?id=FS5AAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Liebe, Schicksal und göttliche Macht Die 17-jährige Tavia ist ein Wunder: Sie hat als Einzige einen Flugzeugabsturz überlebt. Doch plötzlich hat sie Visionen von einem seltsam altertümlich wirkenden Jungen, der sie vor einer großen Gefahr warnt. Und bald wird sie von mysteriösen Männern verfolgt. Tavia flieht gemeinsa...",
+      "genres": [
+        "Young Adult Fiction"
+      ],
+      "genre": "Young Adult Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kuss der gottin aprilynne pike young adult fiction liebe schicksal und gottliche macht die 17 jahrige tavia ist ein wunder sie hat als einzige einen flugzeugabsturz uberlebt doch plotzlich hat sie visionen von einem seltsam altertumlich wirkenden jungen der sie vor einer gro en gefahr warnt und bald wird sie von mysteriosen mannern verfolgt tavia flieht gemeinsa"
+    },
+    {
+      "id": "9783104028453",
+      "title": "Traumsammler",
+      "author": "Khaled Hosseini",
+      "isbn": "9783104028453",
+      "cover_url": "https://books.google.com/books/content?id=cApsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Der Nr.1-Spiegel-Bestseller! Millionen Leser haben auf seinen neuen Roman gewartet: In ›Traumsammler‹ erzählt Khaled Hosseini die bewegende Geschichte zweier Geschwister aus einem kleinen afghanischen Dorf. Pari ist drei Jahre alt, ihr Bruder Abdullah zehn, als der Vater sie auf einem Fußmarsch quer durch die Wüste na...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "traumsammler khaled hosseini fiction der nr 1 spiegel bestseller millionen leser haben auf seinen neuen roman gewartet in traumsammler erzahlt khaled hosseini die bewegende geschichte zweier geschwister aus einem kleinen afghanischen dorf pari ist drei jahre alt ihr bruder abdullah zehn als der vater sie auf einem fu marsch quer durch die wuste na"
+    },
+    {
+      "id": "9783789106835",
+      "title": "Die Olchis werden Fussballmeister",
+      "author": "Erhard Dietl",
+      "isbn": "9783789106835",
+      "cover_url": "https://books.google.com/books/content?id=Qf3QQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die olchis werden fussballmeister erhard dietl"
+    },
+    {
+      "id": "9783791504872",
+      "title": "Als der Weihnachtsmann vom Himmel fiel",
+      "author": "Cornelia Funke",
+      "isbn": "9783791504872",
+      "cover_url": "https://books.google.com/books/content?id=qPn1ZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "als der weihnachtsmann vom himmel fiel cornelia funke"
+    },
+    {
+      "id": "9783644216419",
+      "title": "Der Hof",
+      "author": "Simon Beckett",
+      "isbn": "9783644216419",
+      "cover_url": "https://books.google.com/books/content?id=_xSZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Bestsellerautor Simon Beckett von seiner besten Seite: Psychologische Hochspannung der Meisterklasse! Ein abgelegener, heruntergekommener Hof in Südfrankreich. Es ist brütend heiß. Fliegen umschwirren die grunzenden, halbwilden Schweine, die im Dreck nach Futter stöbern. In der baufälligen Scheune liegt der junge Engl...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der hof simon beckett fiction bestsellerautor simon beckett von seiner besten seite psychologische hochspannung der meisterklasse ein abgelegener heruntergekommener hof in sudfrankreich es ist brutend hei fliegen umschwirren die grunzenden halbwilden schweine die im dreck nach futter stobern in der baufalligen scheune liegt der junge engl"
+    },
+    {
+      "id": "9788490198391",
+      "title": "Noah",
+      "author": "Sebastian Fitzek",
+      "isbn": "9788490198391",
+      "cover_url": "https://books.google.com/books/content?id=Du8tBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "El autor del best seller Terapia vuelve a electrizar a los lectores con una trama arrolladora. Él no recuerda su propio nombre. No sabe de dónde proviene. No logra recordar cómo llegó a Berlín y cuánto hace que vive en la calle. Los sin techo con los que vagabundea por la ciudad lo llaman Noah, porque lleva ese nombre...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "noah sebastian fitzek fiction el autor del best seller terapia vuelve a electrizar a los lectores con una trama arrolladora el no recuerda su propio nombre no sabe de donde proviene no logra recordar como llego a berlin y cuanto hace que vive en la calle los sin techo con los que vagabundea por la ciudad lo llaman noah porque lleva ese nombre"
+    },
+    {
+      "id": "9783505128639",
+      "title": "DORK Diaries, Band 04",
+      "author": "Rachel Renée Russell",
+      "isbn": "9783505128639",
+      "cover_url": "https://books.google.com/books/content?id=KfLnuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Zusammen mit ihrem Schwarm Brandon und ihren zwei allerbesten Freundinnen will Nikki das örtliche Tierheim retten. Dafür wagt sie sich sogar buchstäblich aufs Glatteis!",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dork diaries band 04 rachel renee russell juvenile fiction zusammen mit ihrem schwarm brandon und ihren zwei allerbesten freundinnen will nikki das ortliche tierheim retten dafur wagt sie sich sogar buchstablich aufs glatteis"
+    },
+    {
+      "id": "9783505131165",
+      "title": "DORK Diaries, Band 01",
+      "author": "Rachel Renée Russell",
+      "isbn": "9783505131165",
+      "cover_url": "https://books.google.com/books/content?id=cdp-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Neue Schule. Neue fiese Zicke. Neuer Schwarm. Neues Tagebuch ..., damit Nikki den ganzen Kram mal loswerden kann ...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dork diaries band 01 rachel renee russell juvenile fiction neue schule neue fiese zicke neuer schwarm neues tagebuch damit nikki den ganzen kram mal loswerden kann"
+    },
+    {
+      "id": "9783505131257",
+      "title": "DORK Diaries, Band 05",
+      "author": "Rachel Renée Russell",
+      "isbn": "9783505131257",
+      "cover_url": "https://books.google.com/books/content?id=FC6yNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Eigentlich wollte Nikki als knallharte Journalistin für die Schülerzeitung „skandalöse Zustände“ und „hochbrisante Tatsachen“ aufdecken. Doch dank ihrer Erzfeindin MacKenzie landet sie stattdessen in der Ratgeberkolumne! Und damit ist das Chaos natürlich vorprogrammiert ...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dork diaries band 05 rachel renee russell juvenile fiction eigentlich wollte nikki als knallharte journalistin fur die schulerzeitung skandalose zustande und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos naturlich vorprogrammiert"
+    },
+    {
+      "id": "9783505131868",
+      "title": "DORK Diaries, Band 05",
+      "author": "Rachel Renée Russell",
+      "isbn": "9783505131868",
+      "cover_url": "https://books.google.com/books/content?id=c9p-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Eigentlich wollte Nikki als knallharte Journalistin für die Schülerzeitung \"skandalöse Zustände\" und \"hochbrisante Tatsachen\" aufdecken. Doch dank ihrer Erzfeindin MacKenzie landet sie stattdessen in der Ratgeberkolumne! Und damit ist das Chaos natürlich vorprogrammiert ...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "dork diaries band 05 rachel renee russell juvenile fiction eigentlich wollte nikki als knallharte journalistin fur die schulerzeitung skandalose zustande und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos naturlich vorprogrammiert"
+    },
+    {
+      "id": "9783743204515",
+      "title": "Silbengeschichten zum Lesenlernen - Katzengeschichten",
+      "author": "Marlene Jablonski",
+      "isbn": "9783743204515",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "silbengeschichten zum lesenlernen katzengeschichten marlene jablonski"
+    },
+    {
+      "id": "9783732012671",
+      "title": "R.O.M. (Band 3) - Im Tempel des Bösen",
+      "author": "Christian Tielmann",
+      "isbn": "9783732012671",
+      "cover_url": "https://books.google.com/books/content?id=3Xp3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Drei Freunde. Unheimliche Geschehnisse. R.O.M. In Rom geschehen unheimliche Einbrüche: Immer nachts. Immer übers Dach. Immer trifft es Unschuldige. Meander und Olivia beschleicht ein schlimmer Verdacht. Steckt ihr Freund Remus dahinter, der sich immer merkwürdiger verhält? Oder vielleicht der unheimliche Gott, dem Rem...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "r o m band 3 im tempel des bosen christian tielmann juvenile fiction drei freunde unheimliche geschehnisse r o m in rom geschehen unheimliche einbruche immer nachts immer ubers dach immer trifft es unschuldige meander und olivia beschleicht ein schlimmer verdacht steckt ihr freund remus dahinter der sich immer merkwurdiger verhalt oder vielleicht der unheimliche gott dem rem"
+    },
+    {
+      "id": "9783732004157",
+      "title": "5 Sterne für Lola (Band 8)",
+      "author": "Isabel Abedi",
+      "isbn": "9783732004157",
+      "cover_url": "https://books.google.com/books/content?id=Pkt4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "In Lolas Leben wimmelt es vor Krisen. Mama hat eine Baby-Krise. Tante Lisbeth hat eine Verlobungs-Krise. Und Lolas beste Freundin Flo hat eine Enzo-Krise. (Das ist eine Krise, die man bekommt, wenn ein Pflegebruder einzieht, für den die Bezeichnung \"schwer erziehbar\" noch harmlos ist.) Aber die gefährlichste Krise von...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "5 sterne fur lola band 8 isabel abedi juvenile fiction in lolas leben wimmelt es vor krisen mama hat eine baby krise tante lisbeth hat eine verlobungs krise und lolas beste freundin flo hat eine enzo krise das ist eine krise die man bekommt wenn ein pflegebruder einzieht fur den die bezeichnung schwer erziehbar noch harmlos ist aber die gefahrlichste krise von"
+    },
+    {
+      "id": "9783702658809",
+      "title": "Finnas Pferde",
+      "author": "Claudia Gürtler",
+      "isbn": "9783702658809",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "finnas pferde claudia gurtler"
+    },
+    {
+      "id": "9783473368709",
+      "title": "Trubel auf Burg Drachenstein",
+      "author": "Margit Auer",
+      "isbn": "9783473368709",
+      "cover_url": "https://books.google.com/books/content?id=1psVngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "trubel auf burg drachenstein margit auer"
+    },
+    {
+      "id": "9783462046229",
+      "title": "Bretonisches Gold",
+      "author": "Jean-Luc Bannalec",
+      "isbn": "9783462046229",
+      "cover_url": "https://books.google.com/books/content?id=nfvknQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "genres": [
+        "Brittany (France)"
+      ],
+      "genre": "Brittany (France)",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "bretonisches gold jean luc bannalec brittany france"
+    },
+    {
+      "id": "9783789112898",
+      "title": "Die Olchis auf dem Schulfest",
+      "author": "Erhard Dietl",
+      "isbn": "9783789112898",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die olchis auf dem schulfest erhard dietl"
+    },
+    {
+      "id": "9783641133245",
+      "title": "Erst ich ein Stück, dann du! - Nanuk - Ein kleiner Eisbär findet Freunde",
+      "author": "Patricia Schröder",
+      "isbn": "9783641133245",
+      "cover_url": "https://books.google.com/books/content?id=OjKbAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Die erfolgreiche Kinderbuchreihe mit bewährtem Konzept für das gemeinsame Lesenlernen und –üben Der kleine Eisbär Nanuk wohnt hoch oben im Norden, wo er den ganzen Tag draußen herumtollen und im Eismeer tauchen kann. Nur ein bisschen einsam ist es hier. Doch das ändert sich, als eines Tages ziemlich bunte Geschöpfe au...",
+      "genres": [
+        "Juvenile Fiction"
+      ],
+      "genre": "Juvenile Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "erst ich ein stuck dann du nanuk ein kleiner eisbar findet freunde patricia schroder juvenile fiction die erfolgreiche kinderbuchreihe mit bewahrtem konzept fur das gemeinsame lesenlernen und uben der kleine eisbar nanuk wohnt hoch oben im norden wo er den ganzen tag drau en herumtollen und im eismeer tauchen kann nur ein bisschen einsam ist es hier doch das andert sich als eines tages ziemlich bunte geschopfe au"
+    },
+    {
+      "id": "9783401075754",
+      "title": "Frohe Weihnachten, liebes Christkind!",
+      "author": "Sigrid Heuck",
+      "isbn": "9783401075754",
+      "cover_url": "https://books.google.com/books/content?id=gAoBPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Der kleine Engel, der viel lieber Fussball spielen würde, wird von Petrus auf die Erde geschickt. Er soll die Einladungen zum Geburtstagsfest des Christkindes verteilen. Er hat genau 24 Tage Zeit.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "frohe weihnachten liebes christkind sigrid heuck der kleine engel der viel lieber fussball spielen wurde wird von petrus auf die erde geschickt er soll die einladungen zum geburtstagsfest des christkindes verteilen er hat genau 24 tage zeit"
+    },
+    {
+      "id": "9783570137048",
+      "title": "Der kleine Drache Kokosnuss und die starken Wikinger",
+      "author": "Ingo Siegner",
+      "isbn": "9783570137048",
+      "cover_url": "https://books.google.com/books/content?id=033QRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Kokosnuss und seine Freunde treffen einen einsamen Wikinger. Gudröd wurde von den anderen verstossen, weil er angeblich das Trinkhorn des Anführers gestohlen hat. Natürlich will Kokosnuss seine Unschuld beweisen. So stechen sie mit einem selbst gebauten Boot in See und suchen die Wikinger. Ab 7.",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der kleine drache kokosnuss und die starken wikinger ingo siegner kokosnuss und seine freunde treffen einen einsamen wikinger gudrod wurde von den anderen verstossen weil er angeblich das trinkhorn des anfuhrers gestohlen hat naturlich will kokosnuss seine unschuld beweisen so stechen sie mit einem selbst gebauten boot in see und suchen die wikinger ab 7"
+    },
+    {
+      "id": "9798568344971",
+      "title": "Die Schatzinsel",
+      "author": "Robert Louis Stevenson",
+      "isbn": "9798568344971",
+      "cover_url": "https://books.google.com/books/content?id=t-YMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Die Schatzinsel by Robert Louis Stevenson",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die schatzinsel robert louis stevenson die schatzinsel by robert louis stevenson"
+    },
+    {
+      "id": "9783641132743",
+      "title": "Der Katalane",
+      "author": "Noah Gordon",
+      "isbn": "9783641132743",
+      "cover_url": "https://books.google.com/books/content?id=Tm8SAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Mit der Kraft des spanischen Weins Nachdem er Zeuge eines kaltblütigen Mordes wurde, versteckt sich Josep vier lange Jahre in Frankreich. Nun, zurück in seinem Heimatdorf in Katalonien, will er sich seinen Lebenstraum erfüllen: vollmundigen Wein auf dem Gut seiner Väter zu keltern. Doch die Reben sind vertrocknet, die...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "der katalane noah gordon fiction mit der kraft des spanischen weins nachdem er zeuge eines kaltblutigen mordes wurde versteckt sich josep vier lange jahre in frankreich nun zuruck in seinem heimatdorf in katalonien will er sich seinen lebenstraum erfullen vollmundigen wein auf dem gut seiner vater zu keltern doch die reben sind vertrocknet die"
+    },
+    {
+      "id": "9783644200418",
+      "title": "Leichenblässe",
+      "author": "Simon Beckett",
+      "isbn": "9783644200418",
+      "cover_url": "https://books.google.com/books/content?id=4AFtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Sein dritter Fall führt den forensischen Anthropologen David Hunter zu einem grausamen Serienmörder in den Smoky Mountains ... Bei seinem letzten Einsatz ist der forensische Anthropologe David Hunter nur knapp dem Tod entronnen. Von einer vollständigen Genesung ist er weit entfernt und zweifelt, ob er seinem Beruf noc...",
+      "genres": [
+        "Fiction"
+      ],
+      "genre": "Fiction",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "leichenblasse simon beckett fiction sein dritter fall fuhrt den forensischen anthropologen david hunter zu einem grausamen serienmorder in den smoky mountains bei seinem letzten einsatz ist der forensische anthropologe david hunter nur knapp dem tod entronnen von einer vollstandigen genesung ist er weit entfernt und zweifelt ob er seinem beruf noc"
+    },
+    {
+      "id": "9783785556764",
+      "title": "Lola Schwesterherz",
+      "author": "Isabel Abedi",
+      "isbn": "9783785556764",
+      "cover_url": "https://books.google.com/books/content?id=b-zlSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Lola ist ganz aus dem Häuschen, weil ihre Mutter ein Baby erwartet. Sie freut sich riesig auf den kleinen Bruder und bemüht sich um einen Babysitter-Job, um den Umgang mit äJungs-Babysä zu üben. Schliesslich will sie alles richtig machen, wenn der Kleine endlich da ist ... Ab 9.",
+      "genres": [
+        "Children's stories"
+      ],
+      "genre": "Children's stories",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "lola schwesterherz isabel abedi children s stories lola ist ganz aus dem hauschen weil ihre mutter ein baby erwartet sie freut sich riesig auf den kleinen bruder und bemuht sich um einen babysitter job um den umgang mit ajungs babysa zu uben schliesslich will sie alles richtig machen wenn der kleine endlich da ist ab 9"
     }
   ]
 }
