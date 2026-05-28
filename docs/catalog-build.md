@@ -77,3 +77,18 @@ python3 build_catalog.py --max-rows 25 --out data/catalog_sample.json --progress
 ```bash
 python3 build_catalog.py --in data/books_with_isbn.csv --out data/catalog.json --delay 0.15 --progress-every 25
 ```
+
+## Kataloge zusammenfuehren
+
+Wenn zusaetzlich `data/catalog_google.json` vorliegt, kannst du beide JSON-Dateien in die finale Webseite-Datei zusammenfuehren:
+
+```bash
+python3 merge_catalogs.py --base data/catalog.json --google data/catalog_google.json --out data/catalog.json
+```
+
+Das Merge-Script:
+
+- verwendet `catalog.json` als primaere Quelle
+- ergaenzt fehlende Felder aus `catalog_google.json`
+- fuegt neue Google-Treffer hinzu
+- entfernt doppelte ISBNs innerhalb der Eingabedateien
