@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-28T06:45:05.500609+00:00",
+  "generated_at": "2026-05-28T06:47:22.918856+00:00",
   "source_catalogs": [
     "data/catalog.json",
     "data/catalog_google.json"
   ],
   "total_rows": 534,
   "rows_with_metadata": 162,
-  "base_duplicate_merges": 21,
-  "google_duplicate_merges": 7,
+  "base_duplicate_merges": 0,
+  "google_duplicate_merges": 131,
   "cross_catalog_merges": 0,
   "items": [
     {
@@ -5921,7 +5921,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die schwarzen bruder annette sutter"
+      "search_text": "die schwarzen br der annette sutter"
     },
     {
       "id": "9783346641564",
@@ -5936,7 +5936,7 @@
       "genre": "Literary Criticism",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "weiblichkeitsdarstellung im buch die rote zora und ihre bande von kurt held britta wiese literary criticism studienarbeit aus dem jahr 2020 im fachbereich germanistik neuere deutsche literatur note 2 5 universitat bielefeld sprache deutsch abstract wie wird weiblichkeit in die rote zora und ihre bande aus dem jahr 1941 dargestellt fur diese analyse wird im voraus auf das konstrukt geschlecht eingegangen und dara"
+      "search_text": "weiblichkeitsdarstellung im buch die rote zora und ihre bande von kurt held britta wiese literary criticism studienarbeit aus dem jahr 2020 im fachbereich germanistik neuere deutsche literatur note 2 5 universit t bielefeld sprache deutsch abstract wie wird weiblichkeit in die rote zora und ihre bande aus dem jahr 1941 dargestellt f r diese analyse wird im voraus auf das konstrukt geschlecht eingegangen und dara"
     },
     {
       "id": "9783401075754",
@@ -5964,7 +5964,7 @@
       "genre": "Religion",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "mein name ist eugen klaus schadelin religion vier jungs und viele missgeschicke in mein name ist eugen geht es um vier jungs eugen wrigley eduard und baschteli diese vier jugns hauen aus einem ferienlager ab und gehen auf reisen quer durch die schweiz wahrend dieser reise erleben sie viele abenteuer sie retten einem jodler club fast das leben sehen den"
+      "search_text": "mein name ist eugen klaus sch delin religion vier jungs und viele missgeschicke in mein name ist eugen geht es um vier jungs eugen wrigley eduard und b schteli diese vier jugns hauen aus einem ferienlager ab und gehen auf reisen quer durch die schweiz w hrend dieser reise erleben sie viele abenteuer sie retten einem jodler club fast das leben sehen den"
     },
     {
       "id": "9783858823557",
@@ -5977,7 +5977,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "bad sonder catherine de clercq das geheimnisvolle madchengesicht zwischen den seerosen hoch uber teufen thront das bad sonder und blickt uber die ausserrhoder gemeinde hinweg zum alpstein einst ein bekanntes hotel und kurhaus wird das stattliche haus heute als sonderschulwohnheim genutzt die dicken steinmauern wussten vieles aus der wechselvolle"
+      "search_text": "bad sonder catherine de clercq das geheimnisvolle m dchengesicht zwischen den seerosen hoch ber teufen thront das bad sonder und blickt ber die ausserrhoder gemeinde hinweg zum alpstein einst ein bekanntes hotel und kurhaus wird das stattliche haus heute als sonderschulwohnheim genutzt die dicken steinmauern w ssten vieles aus der wechselvolle"
     },
     {
       "id": "9783293003262",
@@ -6005,7 +6005,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der medicus noah gordon fiction der waisenjunge rob findet bei einem bader schutz und wird sein gelehriger schuler nach dem tod seines meisters bricht er nach persien auf denn dort im fernen isfahan lehrt avicenna der beruhmteste aller arzte rob trotzt mutig den gefahren seiner weiten reise hunger pest und den uberfallen religioser fanatiker"
+      "search_text": "der medicus noah gordon fiction der waisenjunge rob findet bei einem bader schutz und wird sein gelehriger sch ler nach dem tod seines meisters bricht er nach persien auf denn dort im fernen isfahan lehrt avicenna der ber hmteste aller rzte rob trotzt mutig den gefahren seiner weiten reise hunger pest und den berf llen religi ser fanatiker"
     },
     {
       "id": "9783464800874",
@@ -6031,7 +6031,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "engel hase bommelmutze brigitte weninger"
+      "search_text": "engel hase bommelm tze brigitte weninger"
     },
     {
       "id": "9783522181853",
@@ -6057,7 +6057,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der kleine elch und das weihnachtswunder thilo jussi der kleine elch mochte wissen ob es den weihnachtsmann wirklich gibt bei seiner nachtlichen suche stosst er tatsachlich auf den alten mann samt rentierschlitten ein rentier ist verletzt und so darf jussi sogar beim schlittenziehen helfen eine aufregende nacht ab 7"
+      "search_text": "der kleine elch und das weihnachtswunder thilo jussi der kleine elch m chte wissen ob es den weihnachtsmann wirklich gibt bei seiner n chtlichen suche st sst er tats chlich auf den alten mann samt rentierschlitten ein rentier ist verletzt und so darf jussi sogar beim schlittenziehen helfen eine aufregende nacht ab 7"
     },
     {
       "id": "9783838757957",
@@ -6072,7 +6072,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "laura sucht den weihnachtsmann klaus baumgart cornelia neudert juvenile fiction lauras kleinem bruder tommy ist der ganze weihnachtstrubel zu viel mama und papa haben keine zeit und die nikolause in den kaufhausern sind gar keine richtigen weihnachtsmanner tommy ist uberzeugt den weihnachtsmann gibt s gar nicht in echt laura will tommy helfen aber wie zum gluck hat sie ihren stern der b"
+      "search_text": "laura sucht den weihnachtsmann klaus baumgart cornelia neudert juvenile fiction lauras kleinem bruder tommy ist der ganze weihnachtstrubel zu viel mama und papa haben keine zeit und die nikol use in den kaufh usern sind gar keine richtigen weihnachtsm nner tommy ist berzeugt den weihnachtsmann gibt s gar nicht in echt laura will tommy helfen aber wie zum gl ck hat sie ihren stern der b"
     },
     {
       "id": "9783847658344",
@@ -6087,7 +6087,7 @@
       "genre": "Literary Collections",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "adventskalender einmal anders christiane siegert literary collections was ware weihnachten ohne die adventszeit und was ware die ohne adventskalender doch ein adventskalender muss nicht immer mit schokolade gefullt sein er kann genauso randvoll mit erzahlungen und geschichten sein die uns das warten auf weihnachten verkurzen und wer sagt dass nur kinder auf weinachten warten gesc"
+      "search_text": "adventskalender einmal anders christiane siegert literary collections was w re weihnachten ohne die adventszeit und was w re die ohne adventskalender doch ein adventskalender muss nicht immer mit schokolade gef llt sein er kann genauso randvoll mit erz hlungen und geschichten sein die uns das warten auf weihnachten verk rzen und wer sagt dass nur kinder auf weinachten warten gesc"
     },
     {
       "id": "9783862722884",
@@ -6102,7 +6102,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "igraine ohnefurcht cornelia funke juvenile fiction nach dem gro en erfolg ihres marchenromans drachenreiter nun eine witzige ritter und zaubergeschichte im unverwechselbaren packenden funke stil und mit stimmungsvollen illustrationen der autorin auf burg bibernell ist wirklich was los jeder stein hat sein geheimnis und selbst der burggraben birgt mehr als nur was"
+      "search_text": "igraine ohnefurcht cornelia funke juvenile fiction nach dem gro en erfolg ihres m rchenromans drachenreiter nun eine witzige ritter und zaubergeschichte im unverwechselbaren packenden funke stil und mit stimmungsvollen illustrationen der autorin auf burg bibernell ist wirklich was los jeder stein hat sein geheimnis und selbst der burggraben birgt mehr als nur was"
     },
     {
       "id": "9783522300841",
@@ -6115,7 +6115,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die dreierbande und der verdachtige fotograf hermien stellmacher joachim schultz"
+      "search_text": "die dreierbande und der verd chtige fotograf hermien stellmacher joachim schultz"
     },
     {
       "id": "9783464605721",
@@ -6141,7 +6141,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "emma traut sich was maja von vogel neues von emma die dank omas hilfe alle montags katastrophen in familie wohngemeinschaft schule und erster liebe bewaltigt ab 11"
+      "search_text": "emma traut sich was maja von vogel neues von emma die dank omas hilfe alle montags katastrophen in familie wohngemeinschaft schule und erster liebe bew ltigt ab 11"
     },
     {
       "id": "9783841500489",
@@ -6154,7 +6154,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "fur alle falle emma maja von vogel"
+      "search_text": "f r alle f lle emma maja von vogel"
     },
     {
       "id": "9783785557389",
@@ -6167,7 +6167,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "nikolausgeschichten elisabeth zoller"
+      "search_text": "nikolausgeschichten elisabeth z ller"
     },
     {
       "id": "9783570137048",
@@ -6221,7 +6221,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "liliane susewind ein nilpferd auf dem zebrastreifen tanya stewner juvenile fiction immer lustig immer spannend liliane susewinds abenteuer fur die jungsten fans von bestsellerautorin tanya stewner mit gro er fibelschrift und frohlich bunten bildern lilli kann mit tieren sprechen und das ist gut so denn im zoo wird ihre hilfe dringend gebraucht sie soll herausfinden warum das kleine nilpferd"
+      "search_text": "liliane susewind ein nilpferd auf dem zebrastreifen tanya stewner juvenile fiction immer lustig immer spannend liliane susewinds abenteuer f r die j ngsten fans von bestsellerautorin tanya stewner mit gro er fibelschrift und fr hlich bunten bildern lilli kann mit tieren sprechen und das ist gut so denn im zoo wird ihre hilfe dringend gebraucht sie soll herausfinden warum das kleine nilpferd"
     },
     {
       "id": "9783473385393",
@@ -6249,7 +6249,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "verruckt nach emma maja von vogel neues aus emmas kunterbuntem leben jetzt hat sie auch noch die klassenkasse verschlampt und muss geld verdienen ab 11"
+      "search_text": "verr ckt nach emma maja von vogel neues aus emmas kunterbuntem leben jetzt hat sie auch noch die klassenkasse verschlampt und muss geld verdienen ab 11"
     },
     {
       "id": "9786052942932",
@@ -6292,7 +6292,7 @@
       "genre": "Architecture",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die tore der welt ken follett architecture england im jahre 1327 vier junge menschen versuchen in england ihr gluck zu machen der rebellische merthin ein nachfahre des gro en baumeisters jack sein bruder ralph der in den ritterstand aufstrebt das madchen caris das sich nach freiheit sehnt und gwenda die tochter eines taglohners die nur der liebe folg"
+      "search_text": "die tore der welt ken follett architecture england im jahre 1327 vier junge menschen versuchen in england ihr gl ck zu machen der rebellische merthin ein nachfahre des gro en baumeisters jack sein bruder ralph der in den ritterstand aufstrebt das m dchen caris das sich nach freiheit sehnt und gwenda die tochter eines tagl hners die nur der liebe folg"
     },
     {
       "id": "9783857915321",
@@ -6307,7 +6307,7 @@
       "genre": "Biography & Autobiography",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "blatterteig und volkerball tony ettlin biography autobiography wenige schritte vom dorfplatz stans beginnt die schmiedgasse eine gasse mit einem besonderen zusammengehorigkeitsgefuhl in dieser gasse ubernahmen 1956 tony ettlins eltern eine backerei mit sorgfaltig gezeichneten erinnerungen erzahlt tony ettlin zuerst von seinen ersten sechs jahren auf einem bauernhof ausserhalb"
+      "search_text": "bl tterteig und v lkerball tony ettlin biography autobiography wenige schritte vom dorfplatz stans beginnt die schmiedgasse eine gasse mit einem besonderen zusammengeh rigkeitsgef hl in dieser gasse bernahmen 1956 tony ettlins eltern eine b ckerei mit sorgf ltig gezeichneten erinnerungen erz hlt tony ettlin zuerst von seinen ersten sechs jahren auf einem bauernhof ausserhalb"
     },
     {
       "id": "9783646926071",
@@ -6322,7 +6322,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "seelen stephenie meyer juvenile fiction planet erde irgendwann in der zukunft sogenannte seelen haben sich in den korpern der menschen eingenistet und ihre kontrolle ubernommen als die rebellin melanie von der seele wanda in besitz genommen wird setzt sie alles daran nicht aus ihrem korper verdrangt zu werden denn melanie hat ein ziel sie will ihren"
+      "search_text": "seelen stephenie meyer juvenile fiction planet erde irgendwann in der zukunft sogenannte seelen haben sich in den k rpern der menschen eingenistet und ihre kontrolle bernommen als die rebellin melanie von der seele wanda in besitz genommen wird setzt sie alles daran nicht aus ihrem k rper verdr ngt zu werden denn melanie hat ein ziel sie will ihren"
     },
     {
       "id": "9783641132743",
@@ -6350,7 +6350,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der kleine konig gabriele blum hedwig munck markus langer 7 neue von den 14 buchgeschichten ba 5 08 uber den durch das tv sandmannchen bekannten kleinen konig der zusammen mit seinen 5 tierfreunden und seiner cousine der kleinen prinzessin manches abenteuer besteht und problemchen meistert mit situationskomik und sprachwitz wird von den aufregungen der vorweihnachtsz"
+      "search_text": "der kleine k nig gabriele blum hedwig munck markus langer 7 neue von den 14 buchgeschichten ba 5 08 ber den durch das tv sandm nnchen bekannten kleinen k nig der zusammen mit seinen 5 tierfreunden und seiner cousine der kleinen prinzessin manches abenteuer besteht und problemchen meistert mit situationskomik und sprachwitz wird von den aufregungen der vorweihnachtsz"
     },
     {
       "id": "9783401808918",
@@ -6365,7 +6365,7 @@
       "genre": "Young Adult Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "gepardensommer katja brandis young adult fiction wenn aus einem abenteuertrip eine reise zu sich selbst wird fur alle leserinnnen die dem ruf der freiheit in die weite welt folgen wollen vor allem aber fur alle gro er gewordenen woodwalkers fans auf lilly wartet ein unvergessliches erlebnis sie darf auf einer farm in namibia mitarbeiten die sich dem schutz der"
+      "search_text": "gepardensommer katja brandis young adult fiction wenn aus einem abenteuertrip eine reise zu sich selbst wird f r alle leserinnnen die dem ruf der freiheit in die weite welt folgen wollen vor allem aber f r alle gr er gewordenen woodwalkers fans auf lilly wartet ein unvergessliches erlebnis sie darf auf einer farm in namibia mitarbeiten die sich dem schutz der"
     },
     {
       "id": "9783841500502",
@@ -6391,7 +6391,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "neues vom rauber hotzenplotz 5 10 jahre nach motiven des buches von otfried preu ler otfried preussler"
+      "search_text": "neues vom r uber hotzenplotz 5 10 jahre nach motiven des buches von otfried preu ler otfried preussler"
     },
     {
       "id": "9783644204119",
@@ -6406,7 +6406,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die chemie des todes simon beckett fiction der fesselnde auftakt der thriller reihe um dr david hunter fuhrt in die faszinierende welt der forensischen anthropologie ein muss fur fans von cleveren thrillern sterben kann ewig dauern aber der menschliche korper beginnt kaum funf minuten nach dem tod zu verwesen und wird dann zu einem gigantischen festsc"
+      "search_text": "die chemie des todes simon beckett fiction der fesselnde auftakt der thriller reihe um dr david hunter f hrt in die faszinierende welt der forensischen anthropologie ein muss f r fans von cleveren thrillern sterben kann ewig dauern aber der menschliche k rper beginnt kaum f nf minuten nach dem tod zu verwesen und wird dann zu einem gigantischen festsc"
     },
     {
       "id": "9783423713689",
@@ -6419,7 +6419,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "spielmacher funf asse andreas schluter irene margil das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+      "search_text": "spielmacher f nf asse andreas schl ter irene margil das seien die ngste einer generation die schon am eigenen videorekorder verzweifele"
     },
     {
       "id": "9783423713627",
@@ -6432,7 +6432,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "funf asse andreas schluter irene margil das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+      "search_text": "f nf asse andreas schl ter irene margil das seien die ngste einer generation die schon am eigenen videorekorder verzweifele"
     },
     {
       "id": "9783423713610",
@@ -6445,7 +6445,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "ein fall fur kommissar maroni jurg obrist eine sammlung von 40 peppig illustrierten minikrimis zum mitraten ab 9"
+      "search_text": "ein fall f r kommissar maroni j rg obrist eine sammlung von 40 peppig illustrierten minikrimis zum mitraten ab 9"
     },
     {
       "id": "9783789141690",
@@ -6458,7 +6458,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "astrid lindgren edition die schonsten romane und erzahlungen fur kinder 8 madita astrid lindgren"
+      "search_text": "astrid lindgren edition die sch nsten romane und erz hlungen f r kinder 8 madita astrid lindgren"
     },
     {
       "id": "9783401811048",
@@ -6473,7 +6473,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der elefantentempel katja brandis juvenile fiction ein sommer in thailand zum traumen schon ein sommer voller hohen und tiefen ricarda hat ganz besondere plane fur die sommerferien eine reise nach thailand in ein elefantencamp mit ihrer besten freundin sophia eigentlich sollte es die schonste zeit ihres lebens werden doch als die beiden angekommen sind fliegen s"
+      "search_text": "der elefantentempel katja brandis juvenile fiction ein sommer in thailand zum tr umen sch n ein sommer voller h hen und tiefen ricarda hat ganz besondere pl ne f r die sommerferien eine reise nach thailand in ein elefantencamp mit ihrer besten freundin sophia eigentlich sollte es die sch nste zeit ihres lebens werden doch als die beiden angekommen sind fliegen s"
     },
     {
       "id": "9783407627902",
@@ -6501,7 +6501,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "meine nicht ganz normale familie 1 ferien im schrank annette roeder juvenile fiction was macht man wenn die eigenen vier wande schrabbelig die mobel unbequem das klo dauerverstopft und das geld knapp ist man zieht fur ein paar wochen ins mobelparadies so wie anton und seine familie bei couch co gibt es schlie lich genugend zimmer die nur darauf warten dass mal jemand in ihnen wohnt"
+      "search_text": "meine nicht ganz normale familie 1 ferien im schrank annette roeder juvenile fiction was macht man wenn die eigenen vier w nde schrabbelig die m bel unbequem das klo dauerverstopft und das geld knapp ist man zieht f r ein paar wochen ins m belparadies so wie anton und seine familie bei couch co gibt es schlie lich gen gend zimmer die nur darauf warten dass mal jemand in ihnen wohnt"
     },
     {
       "id": "9783760749808",
@@ -6529,7 +6529,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "gregs filmtagebuch endlich beruhmt jeff kinney juvenile fiction wer sich immer schon mal gefragt hat wie ein film gemacht wird der ist nicht allein dem autor und illustrator jeff kinney gings nicht anders als die 20th century fox in hollywood seinen bestseller gregs tagebuch zu einem realfilm umsetzte war die chance gekommen licht ins dunkel zu bringen jeff kinney konnte mi"
+      "search_text": "gregs filmtagebuch endlich ber hmt jeff kinney juvenile fiction wer sich immer schon mal gefragt hat wie ein film gemacht wird der ist nicht allein dem autor und illustrator jeff kinney gings nicht anders als die 20th century fox in hollywood seinen bestseller gregs tagebuch zu einem realfilm umsetzte war die chance gekommen licht ins dunkel zu bringen jeff kinney konnte mi"
     },
     {
       "id": "9783423714136",
@@ -6542,7 +6542,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "stromschnelle funf asse andreas schluter seine kinderbucher sieht er deshalb auch als eine langst uberfallige kampfansage an die these computer wurden die kinder vereinsamen lassen und wer computer spiele lese nicht das seien die angste einer generation die schon am eigenen videorekorder verzweifele"
+      "search_text": "stromschnelle f nf asse andreas schl ter seine kinderb cher sieht er deshalb auch als eine l ngst berf llige kampfansage an die these computer w rden die kinder vereinsamen lassen und wer computer spiele lese nicht das seien die ngste einer generation die schon am eigenen videorekorder verzweifele"
     },
     {
       "id": "9783423714150",
@@ -6555,7 +6555,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die ratsel der alhambra markus spang in ihrem neuen ratselabenteuer zum mitraten folgen anna fred und opa drechsel wahrend des spanienurlaubs einem vertrackten ratselparcours durch die bekannte maurenburg alhambra fur madchen und jungs ab 10"
+      "search_text": "die r tsel der alhambra markus spang in ihrem neuen r tselabenteuer zum mitraten folgen anna fred und opa drechsel w hrend des spanienurlaubs einem vertrackten r tselparcours durch die bekannte maurenburg alhambra f r m dchen und jungs ab 10"
     },
     {
       "id": "9783791514253",
@@ -6568,7 +6568,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "herr rot in not salah naoura dennis mutter will ihrem bloden neuen freund einen knallroten super flausch bademantel zu weihnachten schenken und ausgerechnet er soll den auch noch vom laden abholen auf dem nachhauseweg findet er einen halbnackten alten mann im schnee und der braucht den mantel doch viel dringender"
+      "search_text": "herr rot in not salah naoura dennis mutter will ihrem bl den neuen freund einen knallroten super flausch bademantel zu weihnachten schenken und ausgerechnet er soll den auch noch vom laden abholen auf dem nachhauseweg findet er einen halbnackten alten mann im schnee und der braucht den mantel doch viel dringender"
     },
     {
       "id": "9783644200418",
@@ -6598,7 +6598,7 @@
       "genre": "Young Adult Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "koalatraume katja brandis young adult fiction katja brandis reist in ihrer geschichte ans andere ende der welt und geradewegs in ein unglaubliches abenteuer die angehende zootierpflegerin juli wird nach australien eingeladen und darf dort vier wochen lang in einem wildpark mit koalas kangurus und emus arbeiten immer wieder ist es der junge aboriginal coli"
+      "search_text": "koalatr ume katja brandis young adult fiction katja brandis reist in ihrer geschichte ans andere ende der welt und geradewegs in ein unglaubliches abenteuer die angehende zootierpflegerin juli wird nach australien eingeladen und darf dort vier wochen lang in einem wildpark mit koalas k ngurus und emus arbeiten immer wieder ist es der junge aboriginal coli"
     },
     {
       "id": "9783401027623",
@@ -6611,7 +6611,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "alles luge anatol feid"
+      "search_text": "alles l ge anatol feid"
     },
     {
       "id": "9783570139288",
@@ -6624,7 +6624,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "3 drachengeschichten patricia schroder drei uberaus witzig erzahlte neue drachengeschichten nach dem bewahrten vor und selbstlesekonzept der reihe ab 6"
+      "search_text": "3 drachengeschichten patricia schr der drei beraus witzig erz hlte neue drachengeschichten nach dem bew hrten vor und selbstlesekonzept der reihe ab 6"
     },
     {
       "id": "9783641041878",
@@ -6639,7 +6639,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "erst ich ein stuck dann du sophie im land der zauberponys patricia schroder juvenile fiction die erfolgreiche kinderbuchreihe mit bewahrtem konzept fur das gemeinsame lesenlernen und uben sophie gerat auf wundersame weise in das magische feenreich und trifft dort auf das zauberpony perlauge von ihm erfahrt das madchen dass es nicht zufallig in dieser funkelnden wunderwelt gelandet ist denn das feenreich i"
+      "search_text": "erst ich ein st ck dann du sophie im land der zauberponys patricia schr der juvenile fiction die erfolgreiche kinderbuchreihe mit bew hrtem konzept f r das gemeinsame lesenlernen und ben sophie ger t auf wundersame weise in das magische feenreich und trifft dort auf das zauberpony perlauge von ihm erf hrt das m dchen dass es nicht zuf llig in dieser funkelnden wunderwelt gelandet ist denn das feenreich i"
     },
     {
       "id": "9783502151548",
@@ -6667,7 +6667,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "verwesung jubilaumsaktion simon beckett"
+      "search_text": "verwesung jubil umsaktion simon beckett"
     },
     {
       "id": "9798568344971",
@@ -6693,7 +6693,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "nils holgersson selma lagerlof"
+      "search_text": "nils holgersson selma lagerl f"
     },
     {
       "id": "9783785556764",
@@ -6723,7 +6723,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "wolfenblut di toft juvenile fiction die telepathisch verbundenen freunde woody und nat sind in frankreich auf vampirjagd unterstutzt werden sie durch eine zirkustruppe nicht menschlicher wesen und die agentin alex doch die vampire sind in der ubermacht und auch ihr erzfeind lucas scale gibt nicht auf ab 11"
+      "search_text": "wolfenblut di toft juvenile fiction die telepathisch verbundenen freunde woody und nat sind in frankreich auf vampirjagd unterst tzt werden sie durch eine zirkustruppe nicht menschlicher wesen und die agentin alex doch die vampire sind in der bermacht und auch ihr erzfeind lucas scale gibt nicht auf ab 11"
     },
     {
       "id": "9783522621113",
@@ -6738,7 +6738,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "momo michael ende juvenile fiction weltbestseller klassiker kultbuch fur madchen und jungen ab 12 jahren momo ein kleines struppiges madchen lebt am rande einer gro stadt in den ruinen eines amphitheaters sie besitzt nichts als das was sie findet oder was man ihr schenkt und eine au ergewohnliche gabe sie hort menschen zu und schenkt ihnen ze"
+      "search_text": "momo michael ende juvenile fiction weltbestseller klassiker kultbuch f r m dchen und jungen ab 12 jahren momo ein kleines struppiges m dchen lebt am rande einer gro stadt in den ruinen eines amphitheaters sie besitzt nichts als das was sie findet oder was man ihr schenkt und eine au ergew hnliche gabe sie h rt menschen zu und schenkt ihnen ze"
     },
     {
       "id": "9783570139240",
@@ -6751,7 +6751,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "anton und das geheimnis im finsterwald patricia schroder der 9 jahrige anton wohnt in den ferien wieder bei seiner tante thea in deren windschiefem haus am waldrand doch diesmal erscheint anton der wald bedrohlich sind die gruseligen geschichten uber gnunome und werwolfe der 7 jahrigen janna schuld fur gemeinsames vor und selberlesen ab 6"
+      "search_text": "anton und das geheimnis im finsterwald patricia schr der der 9 j hrige anton wohnt in den ferien wieder bei seiner tante thea in deren windschiefem haus am waldrand doch diesmal erscheint anton der wald bedrohlich sind die gruseligen geschichten ber gnunome und werw lfe der 7 j hrigen janna schuld f r gemeinsames vor und selberlesen ab 6"
     },
     {
       "id": "9783862740727",
@@ -6766,7 +6766,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der kleine ritter trenk kirsten boie juvenile fiction auf ins leseabenteuer mit rittergluck und drachenmut leibeigen geboren leibeigen gestorben leibeigen ein leben lang ja so hei t es wohl aber ist es nicht schrecklich ungerecht das alle bauern ihrem ritter gehoren und kein bisschen sich selbst das findet jedenfalls der bauernjunge trenk er will es einmal bess"
+      "search_text": "der kleine ritter trenk kirsten boie juvenile fiction auf ins leseabenteuer mit rittergl ck und drachenmut leibeigen geboren leibeigen gestorben leibeigen ein leben lang ja so hei t es wohl aber ist es nicht schrecklich ungerecht das alle bauern ihrem ritter geh ren und kein bisschen sich selbst das findet jedenfalls der bauernjunge trenk er will es einmal bess"
     },
     {
       "id": "9783641064082",
@@ -6781,7 +6781,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "aschenputtel kristina ohlsson fiction der start der packenden bestsellerreihe aus schweden wer auf klassische skandinavische krimis steht macht mit diesem buch alles richtig ndr info hochsommer in schweden es regnet bindfaden der voll besetzte schnellzug nach stockholm muss au erplanma ig halten eine junge frau tritt hinaus aufs bahngleis um unge"
+      "search_text": "aschenputtel kristina ohlsson fiction der start der packenden bestsellerreihe aus schweden wer auf klassische skandinavische krimis steht macht mit diesem buch alles richtig ndr info hochsommer in schweden es regnet bindf den der voll besetzte schnellzug nach stockholm muss au erplanm ig halten eine junge frau tritt hinaus aufs bahngleis um unge"
     },
     {
       "id": "9783407811042",
@@ -6796,7 +6796,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "seekers die suche beginnt erin hunter juvenile fiction ich werde tun was du gesagt hast und zu dem ort des endlosen eises gehen und vielleicht wenn das wirklich der ort ist an dem die seelen tanzen werde ich auch dich dort finden hoch im norden amerikas machen sich drei junge baren jeder auf sich gestellt auf eine au ergewohnliche reise lusa die kleine schwar"
+      "search_text": "seekers die suche beginnt erin hunter juvenile fiction ich werde tun was du gesagt hast und zu dem ort des endlosen eises gehen und vielleicht wenn das wirklich der ort ist an dem die seelen tanzen werde ich auch dich dort finden hoch im norden amerikas machen sich drei junge b ren jeder auf sich gestellt auf eine au ergew hnliche reise lusa die kleine schwar"
     },
     {
       "id": "9788203123801",
@@ -6824,7 +6824,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dork diaries band 03 rachel renee russell juvenile fiction die erste regel fur echte dorks kaum aus einem schlamassel heraus moglichst unverzuglich ins nachste fettnapfchen treten und niemand beherzigt diese regel so gewissenhaft wie nikki als sie bei einem familienausflug mit ihrer kleinen schwester auf der karaokebuhne landet befindet sich ausgerechnet mackenzie abso"
+      "search_text": "dork diaries band 03 rachel ren e russell juvenile fiction die erste regel f r echte dorks kaum aus einem schlamassel heraus m glichst unverz glich ins n chste fettn pfchen treten und niemand beherzigt diese regel so gewissenhaft wie nikki als sie bei einem familienausflug mit ihrer kleinen schwester auf der karaokeb hne landet befindet sich ausgerechnet mackenzie abso"
     },
     {
       "id": "9783104017518",
@@ -6839,7 +6839,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "das mit mir und romeo dagmar chidolue juvenile fiction eine su e freundschaftsgeschichte uber zwei die sich am anfang nocht nicht einmal ansehen wollen fur madchen ab 10 das hat julia gerade noch gefehlt ihre neue klasse bricht in johlendes gelachter aus als die lehrerin sie mit namen vorstellt denn es gibt einen schuler der romeo hei t na toll reicht es denn etwa"
+      "search_text": "das mit mir und romeo dagmar chidolue juvenile fiction eine s e freundschaftsgeschichte ber zwei die sich am anfang nocht nicht einmal ansehen wollen f r m dchen ab 10 das hat julia gerade noch gefehlt ihre neue klasse bricht in johlendes gel chter aus als die lehrerin sie mit namen vorstellt denn es gibt einen sch ler der romeo hei t na toll reicht es denn etwa"
     },
     {
       "id": "9783401508412",
@@ -6852,7 +6852,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "storenfrieda 01 lauter krachgeschichten jana frey"
+      "search_text": "st renfrieda 01 lauter krachgeschichten jana frey"
     },
     {
       "id": "9783570154809",
@@ -6865,7 +6865,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "drei rittergeschichten patricia schroder drei abenteuerliche rittergeschichten in einem band ritter furchtemich schickt seine beiden sohne hinaus in die welt ein echtes drachenabenteuer zu bestehen geisterritter gustav versucht kettenrasselnd seine burg zu retten und knappe julius kampft gegen einen baren ritter haben s wirklich nicht leicht patricia"
+      "search_text": "drei rittergeschichten patricia schr der drei abenteuerliche rittergeschichten in einem band ritter f rchtemich schickt seine beiden s hne hinaus in die welt ein echtes drachenabenteuer zu bestehen geisterritter gustav versucht kettenrasselnd seine burg zu retten und knappe julius k mpft gegen einen b ren ritter haben s wirklich nicht leicht patricia"
     },
     {
       "id": "9783522503167",
@@ -6893,7 +6893,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "werner farber wie viele level hat dein leben karolina fell"
+      "search_text": "werner f rber wie viele level hat dein leben karolina fell"
     },
     {
       "id": "9783834606488",
@@ -6919,7 +6919,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "rick 01 wie man seine durchgeknallte familie uberlebt antje szillat"
+      "search_text": "rick 01 wie man seine durchgeknallte familie berlebt antje szillat"
     },
     {
       "id": "9783522303156",
@@ -6960,7 +6960,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "tausendschon kristina ohlsson fiction komplex intelligent und uberraschend der zweite fall fur die schwedische ermittlerin fredrika bergman ein junges madchen wird am mittsommerabend uberfallen und vergewaltigt funfzehn jahre spater stirbt ein mann bei einem unfall mit fahrerflucht doch niemand scheint ihn zu vermissen zeitgleich begehen ein pfarrer"
+      "search_text": "tausendsch n kristina ohlsson fiction komplex intelligent und berraschend der zweite fall f r die schwedische ermittlerin fredrika bergman ein junges m dchen wird am mittsommerabend berfallen und vergewaltigt f nfzehn jahre sp ter stirbt ein mann bei einem unfall mit fahrerflucht doch niemand scheint ihn zu vermissen zeitgleich begehen ein pfarrer"
     },
     {
       "id": "9783426554692",
@@ -6975,7 +6975,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die kastellanin iny lorentz fiction sinnlich lebensfroh und voller dramatischer verwicklungen die spannende fortsetzung der wanderhure von iny lorentz marie und ihr ehemann michel adler leben glucklich und voller liebe zusammen ihr gluck scheint vollkommen als sie ein kind erwartet doch dann muss michel in den kampf gegen die aufstandischen huss"
+      "search_text": "die kastellanin iny lorentz fiction sinnlich lebensfroh und voller dramatischer verwicklungen die spannende fortsetzung der wanderhure von iny lorentz marie und ihr ehemann michel adler leben gl cklich und voller liebe zusammen ihr gl ck scheint vollkommen als sie ein kind erwartet doch dann muss michel in den kampf gegen die aufst ndischen huss"
     },
     {
       "id": "9783426554708",
@@ -6990,7 +6990,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die tochter der wanderhure iny lorentz fiction ein neues kapitel in der historischen saga um die wanderhure marie und ihre familie mehr als zwolf jahre sind vergangen seit marie ihre letzten abenteuer bestehen musste glucklich und zufrieden lebt sie mit ihrem mann auf burg kibitzstein bis ihr gonner der wurzburger furstbischof stirbt seinem nachfolger sind"
+      "search_text": "die tochter der wanderhure iny lorentz fiction ein neues kapitel in der historischen saga um die wanderhure marie und ihre familie mehr als zw lf jahre sind vergangen seit marie ihre letzten abenteuer bestehen musste gl cklich und zufrieden lebt sie mit ihrem mann auf burg kibitzstein bis ihr g nner der w rzburger f rstbischof stirbt seinem nachfolger sind"
     },
     {
       "id": "9783426662458",
@@ -7003,7 +7003,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "tochter der sunde iny lorentz een jonge edelman die in 1450 een jonge abdis naar rome moet begeleiden speelt ongeweten een rol in de machtsstrijd tussen de duitse keizer frederik iii en paus nicolaas v"
+      "search_text": "t chter der s nde iny lorentz een jonge edelman die in 1450 een jonge abdis naar rome moet begeleiden speelt ongeweten een rol in de machtsstrijd tussen de duitse keizer frederik iii en paus nicolaas v"
     },
     {
       "id": "9783522620741",
@@ -7018,7 +7018,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dolphin rider markus bennemann juvenile fiction robbys ganze leidenschaft gilt dem surfen und weil er zu den besten gehort fehlt es nie an bewunderern doch was sich dann am strand von sylt ereignet ist einzigartig ein delfin taucht auf und genie t zusammen mit dem jungen surfer das ungestume spiel der wellen und mehr das tier lasst zu dass robby auf seinem"
+      "search_text": "dolphin rider markus bennemann juvenile fiction robbys ganze leidenschaft gilt dem surfen und weil er zu den besten geh rt fehlt es nie an bewunderern doch was sich dann am strand von sylt ereignet ist einzigartig ein delfin taucht auf und genie t zusammen mit dem jungen surfer das ungest me spiel der wellen und mehr das tier l sst zu dass robby auf seinem"
     },
     {
       "id": "9783442753376",
@@ -7031,7 +7031,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "eine zweite chance karin alvtegen die 45 jahrige helena zieht von stockholm nach norrland und eroffnet ein hotel als ihr mann sie verlasst liegt alles in scherben anders strandberg ist finanziell unabhangig doch das leben kann er nicht geniessen schliesslich fuhrt ihn das schicksal im helenas kleines hotel"
+      "search_text": "eine zweite chance karin alvtegen die 45 j hrige helena zieht von stockholm nach norrland und er ffnet ein hotel als ihr mann sie verl sst liegt alles in scherben anders strandberg ist finanziell unabh ngig doch das leben kann er nicht geniessen schliesslich f hrt ihn das schicksal im helenas kleines hotel"
     },
     {
       "id": "9783785572153",
@@ -7057,7 +7057,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "mein freund der orca annette moser wie unheimlich erst verfolgen alex und oliver mit ihrem ruderboot ein verdachtiges schiff dann werden sie von einem seeungeheuer angegriffen der beginn eines spannenden abenteuers an dessen ende die freunde sogar einen orca aus der gefangenschaft befreien konnen zum vor und selberlesen ab 6"
+      "search_text": "mein freund der orca annette moser wie unheimlich erst verfolgen alex und oliver mit ihrem ruderboot ein verd chtiges schiff dann werden sie von einem seeungeheuer angegriffen der beginn eines spannenden abenteuers an dessen ende die freunde sogar einen orca aus der gefangenschaft befreien k nnen zum vor und selberlesen ab 6"
     },
     {
       "id": "9783401066394",
@@ -7072,7 +7072,7 @@
       "genre": "Girls",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "storenfrieda und der ruckwartsflohmarkt jana frey girls viel aufregung fur die grossfamilie der 7 jahrigen kessen frieda 10 neue episoden erzahlen z b von friedas flohmarktverkauf von nur scheinbar uberflussigem oder dem uberlisten des verhassten babysitters frech witziger spass zum vorlesen ab 6 oder fur fortgeschrittene leseanfanger ab 8"
+      "search_text": "st renfrieda und der r ckw rtsflohmarkt jana frey girls viel aufregung f r die grossfamilie der 7 j hrigen kessen frieda 10 neue episoden erz hlen z b von friedas flohmarktverkauf von nur scheinbar berfl ssigem oder dem berlisten des verhassten babysitters frech witziger spass zum vorlesen ab 6 oder f r fortgeschrittene leseanf nger ab 8"
     },
     {
       "id": "9783401067056",
@@ -7087,7 +7087,7 @@
       "genre": "Girls",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "storenfrieda auf hangebauchschweinsafari jana frey girls astorenfriedaa wird die 7 jahrige kesse frieda genannt die in 10 neuen episoden mit ihren ideen ihre grossfamilie den knurrigen nachbarn und alle anderen auf trab halt ein turbulenter spass zum vorlesen ab 6 oder fur fortgeschrittene leseanfanger ab 8"
+      "search_text": "st renfrieda auf h ngebauchschweinsafari jana frey girls st renfrieda wird die 7 j hrige kesse frieda genannt die in 10 neuen episoden mit ihren ideen ihre grossfamilie den knurrigen nachbarn und alle anderen auf trab h lt ein turbulenter spass zum vorlesen ab 6 oder f r fortgeschrittene leseanf nger ab 8"
     },
     {
       "id": "9783401067407",
@@ -7100,7 +7100,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "storenfrieda und der glitzerclub jana frey"
+      "search_text": "st renfrieda und der glitzerclub jana frey"
     },
     {
       "id": "9783440136997",
@@ -7115,7 +7115,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die drei kids band 54 zombie alarm drei fragezeichen kids ben nevis juvenile fiction plotzlich erklang uber ihnen ein lang gezogener schrei den drei fuhr der schreck in die glieder bob lie fast das papier fallen das kommt von deck rief peter lasst uns lieber abhauen bei einem alten schiffswrack finden die drei eine geheimnisvolle flaschenpost sie stammt von einem schiffbruchigen d"
+      "search_text": "die drei kids band 54 zombie alarm drei fragezeichen kids ben nevis juvenile fiction pl tzlich erklang ber ihnen ein lang gezogener schrei den drei fuhr der schreck in die glieder bob lie fast das papier fallen das kommt von deck rief peter lasst uns lieber abhauen bei einem alten schiffswrack finden die drei eine geheimnisvolle flaschenpost sie stammt von einem schiffbr chigen d"
     },
     {
       "id": "9783440137000",
@@ -7130,7 +7130,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die drei kids band 55 der schwarze joker drei fragezeichen kids boris pfeiffer juvenile fiction peter biss sich auf die lippen freunde flusterte er ich glaube zwar nicht an geister aber das hier klingt wirklich unheimlich konnte es sein dass in rocky beach ein geist umgeht der sich der schwarze joker nennt eine unheimliche gestalt spielt den bewohnern von rocky beach bose streiche als auch noch t"
+      "search_text": "die drei kids band 55 der schwarze joker drei fragezeichen kids boris pfeiffer juvenile fiction peter biss sich auf die lippen freunde fl sterte er ich glaube zwar nicht an geister aber das hier klingt wirklich unheimlich k nnte es sein dass in rocky beach ein geist umgeht der sich der schwarze joker nennt eine unheimliche gestalt spielt den bewohnern von rocky beach b se streiche als auch noch t"
     },
     {
       "id": "9783789141553",
@@ -7143,7 +7143,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "michel und klein ida aus lonneberga astrid lindgren unfug denkt man sich nicht aus unfug wird von ganz allein die drei geschichten handeln in lonneberga auf katthult kenner wissen dass auf diesem bauernhof michel und die kleine ida mit ihren eltern wohnen und dass im kuhlen schweden solch turbulente geschichten passieren das wurde man kaum glauben was immer der"
+      "search_text": "michel und klein ida aus l nneberga astrid lindgren unfug denkt man sich nicht aus unfug wird von ganz allein die drei geschichten handeln in l nneberga auf katthult kenner wissen dass auf diesem bauernhof michel und die kleine ida mit ihren eltern wohnen und dass im k hlen schweden solch turbulente geschichten passieren das w rde man kaum glauben was immer der"
     },
     {
       "id": "9783849009045",
@@ -7171,7 +7171,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "bretonische verhaltnisse jean luc bannalec fiction ein mysterioser mord in der idyllischen bretagne kommissar dupin ermittelt in seinem ersten fall voller geheimnisse und uberraschungen in bretonische verhaltnisse dem ersten band der krimi reihe von jean luc bannalec wird der hochbetagte inhaber des legendaren hotels central in pont aven brutal erstochen kommiss"
+      "search_text": "bretonische verh ltnisse jean luc bannalec fiction ein mysteri ser mord in der idyllischen bretagne kommissar dupin ermittelt in seinem ersten fall voller geheimnisse und berraschungen in bretonische verh ltnisse dem ersten band der krimi reihe von jean luc bannalec wird der hochbetagte inhaber des legend ren hotels central in pont aven brutal erstochen kommiss"
     },
     {
       "id": "9783505131608",
@@ -7184,7 +7184,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "ein fall fur dich und das tiger team band 50 thomas brezina"
+      "search_text": "ein fall f r dich und das tiger team band 50 thomas brezina"
     },
     {
       "id": "9783505111594",
@@ -7197,7 +7197,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "verschworung am hollenstein thomas brezina"
+      "search_text": "verschw rung am h llenstein thomas brezina"
     },
     {
       "id": "9783505130335",
@@ -7210,7 +7210,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "ein fall fur dich und das tiger team thomas brezina"
+      "search_text": "ein fall f r dich und das tiger team thomas brezina"
     },
     {
       "id": "9783551315045",
@@ -7225,7 +7225,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die drei kids das ratsel der konige ulf blanck juvenile fiction"
+      "search_text": "die drei kids das r tsel der k nige ulf blanck juvenile fiction"
     },
     {
       "id": "9783440505359",
@@ -7240,7 +7240,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "die drei kids 57 der weihnachtsdieb drei fragezeichen kids boris pfeiffer ulf blanck juvenile fiction justus peter und bob sind beste freunde und detektive zusammen haben die drei schon viele knifflige falle gelost ganz rocky beach ist in weihnachtsstimmung der baum ist geschmuckt und justus peter und bob konnen die bescherung kaum noch erwarten doch plotzlich verschwinden die geschenke die drei kids si"
+      "search_text": "die drei kids 57 der weihnachtsdieb drei fragezeichen kids boris pfeiffer ulf blanck juvenile fiction justus peter und bob sind beste freunde und detektive zusammen haben die drei schon viele knifflige f lle gel st ganz rocky beach ist in weihnachtsstimmung der baum ist geschm ckt und justus peter und bob k nnen die bescherung kaum noch erwarten doch pl tzlich verschwinden die geschenke die drei kids si"
     },
     {
       "id": "9783641122102",
@@ -7255,7 +7255,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "erst ich ein stuck dann du delfine bettina obrecht juvenile fiction wenn das lesen fur leseanfanger noch muhsam ist hei t es in vielen familien lass uns gemeinsam lesen erst ich ein stuck dann du wir wechseln uns ab deswegen ist unsere beliebte erstleser reihe erst ich ein stuck dann du speziell fur das gemeinsame lesen konzipiert leseabschnitte fur die erfahrenen vorles"
+      "search_text": "erst ich ein st ck dann du delfine bettina obrecht juvenile fiction wenn das lesen f r leseanf nger noch m hsam ist hei t es in vielen familien lass uns gemeinsam lesen erst ich ein st ck dann du wir wechseln uns ab deswegen ist unsere beliebte erstleser reihe erst ich ein st ck dann du speziell f r das gemeinsame lesen konzipiert leseabschnitte f r die erfahrenen vorles"
     },
     {
       "id": "9783641094188",
@@ -7270,7 +7270,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "eisiger dienstag nicci french fiction bei einer routinekontrolle macht eine sozialarbeiterin in der wohnung der psychisch kranken michelle doyce einen grausamen fund auf dem sofa sitzt ein nackter mann der offensichtlich schon seit tagen tot ist doch aus michelle sind keine zusammenhangenden satze herauszubekommen hat sie den mann getotet frustriert"
+      "search_text": "eisiger dienstag nicci french fiction bei einer routinekontrolle macht eine sozialarbeiterin in der wohnung der psychisch kranken michelle doyce einen grausamen fund auf dem sofa sitzt ein nackter mann der offensichtlich schon seit tagen tot ist doch aus michelle sind keine zusammenh ngenden s tze herauszubekommen hat sie den mann get tet frustriert"
     },
     {
       "id": "9783462306934",
@@ -7285,7 +7285,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "bretonische brandung jean luc bannalec fiction ein raffinierter krimi voller verbluffender wendungen feinsinnigem humor und der atemberaubenden schonheit der glenan inseln kommissar dupins zweiter fall fuhrt ihn in ein gefahrliches labyrinth von verstrickungen zehn seemeilen vor concarneau an der bretonischen kuste die sagenumwobenen glenan inseln wirken mit"
+      "search_text": "bretonische brandung jean luc bannalec fiction ein raffinierter krimi voller verbl ffender wendungen feinsinnigem humor und der atemberaubenden sch nheit der gl nan inseln kommissar dupins zweiter fall f hrt ihn in ein gef hrliches labyrinth von verstrickungen zehn seemeilen vor concarneau an der bretonischen k ste die sagenumwobenen gl nan inseln wirken mit"
     },
     {
       "id": "9783733600020",
@@ -7300,7 +7300,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "vollendet neal shusterman juvenile fiction jeder hat das recht zu leben bis zu seinem 13 geburtstag der 16 jahrige connor hat standig arger risa lebt in einem uberfullten waisenhaus lev ist das wohlbehutete kind strengglaubiger eltern so unterschiedlich die drei auch sind eines haben sie gemeinsam sie sind auf der flucht vor einem staat in dem el"
+      "search_text": "vollendet neal shusterman juvenile fiction jeder hat das recht zu leben bis zu seinem 13 geburtstag der 16 j hrige connor hat st ndig rger risa lebt in einem berf llten waisenhaus lev ist das wohlbeh tete kind strenggl ubiger eltern so unterschiedlich die drei auch sind eines haben sie gemeinsam sie sind auf der flucht vor einem staat in dem el"
     },
     {
       "id": "9783869926506",
@@ -7315,7 +7315,7 @@
       "genre": "Biography & Autobiography",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "anne frank anne frank annelies marie frank biography autobiography das tagebuch der anne frank hier in neuer ubersetzung ins deutsche annelies marie frank anne wurde in frankfurt am main geboren als sie viereinhalb jahre alt war zog ihre familie 1934 in die niederlande nachdem adolf hitler und die nazipartei die kontrolle uber deutschland ubernommen hatten sie verbrachte die"
+      "search_text": "anne frank anne frank annelies marie frank biography autobiography das tagebuch der anne frank hier in neuer bersetzung ins deutsche annelies marie frank anne wurde in frankfurt am main geboren als sie viereinhalb jahre alt war zog ihre familie 1934 in die niederlande nachdem adolf hitler und die nazipartei die kontrolle ber deutschland bernommen hatten sie verbrachte die"
     },
     {
       "id": "9783492963732",
@@ -7330,7 +7330,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "frostglut jennifer estep fiction gwen ist am ziel ihrer traume angelangt endlich hat sie ein richtiges date mit dem spartaner logan doch dann macht ihr ausgerechnet dessen vater einen strich durch die rechnung er verhaftet gwen und klagt sie an mit dem gott loki im bunde zu stehen und ihm die flucht ermoglicht zu haben nun droht ihr nicht nur ar"
+      "search_text": "frostglut jennifer estep fiction gwen ist am ziel ihrer tr ume angelangt endlich hat sie ein richtiges date mit dem spartaner logan doch dann macht ihr ausgerechnet dessen vater einen strich durch die rechnung er verhaftet gwen und klagt sie an mit dem gott loki im bunde zu stehen und ihm die flucht erm glicht zu haben nun droht ihr nicht nur ar"
     },
     {
       "id": "9783551315137",
@@ -7386,7 +7386,7 @@
       "genre": "Young Adult Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der kuss der gottin aprilynne pike young adult fiction liebe schicksal und gottliche macht die 17 jahrige tavia ist ein wunder sie hat als einzige einen flugzeugabsturz uberlebt doch plotzlich hat sie visionen von einem seltsam altertumlich wirkenden jungen der sie vor einer gro en gefahr warnt und bald wird sie von mysteriosen mannern verfolgt tavia flieht gemeinsa"
+      "search_text": "der kuss der g ttin aprilynne pike young adult fiction liebe schicksal und g ttliche macht die 17 j hrige tavia ist ein wunder sie hat als einzige einen flugzeugabsturz berlebt doch pl tzlich hat sie visionen von einem seltsam altert mlich wirkenden jungen der sie vor einer gro en gefahr warnt und bald wird sie von mysteri sen m nnern verfolgt tavia flieht gemeinsa"
     },
     {
       "id": "9783104028453",
@@ -7401,7 +7401,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "traumsammler khaled hosseini fiction der nr 1 spiegel bestseller millionen leser haben auf seinen neuen roman gewartet in traumsammler erzahlt khaled hosseini die bewegende geschichte zweier geschwister aus einem kleinen afghanischen dorf pari ist drei jahre alt ihr bruder abdullah zehn als der vater sie auf einem fu marsch quer durch die wuste na"
+      "search_text": "traumsammler khaled hosseini fiction der nr 1 spiegel bestseller millionen leser haben auf seinen neuen roman gewartet in traumsammler erz hlt khaled hosseini die bewegende geschichte zweier geschwister aus einem kleinen afghanischen dorf pari ist drei jahre alt ihr bruder abdullah zehn als der vater sie auf einem fu marsch quer durch die w ste na"
     },
     {
       "id": "9783789106835",
@@ -7442,7 +7442,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "der hof simon beckett fiction bestsellerautor simon beckett von seiner besten seite psychologische hochspannung der meisterklasse ein abgelegener heruntergekommener hof in sudfrankreich es ist brutend hei fliegen umschwirren die grunzenden halbwilden schweine die im dreck nach futter stobern in der baufalligen scheune liegt der junge engl"
+      "search_text": "der hof simon beckett fiction bestsellerautor simon beckett von seiner besten seite psychologische hochspannung der meisterklasse ein abgelegener heruntergekommener hof in s dfrankreich es ist br tend hei fliegen umschwirren die grunzenden halbwilden schweine die im dreck nach futter st bern in der bauf lligen scheune liegt der junge engl"
     },
     {
       "id": "9788490198391",
@@ -7457,7 +7457,7 @@
       "genre": "Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "noah sebastian fitzek fiction el autor del best seller terapia vuelve a electrizar a los lectores con una trama arrolladora el no recuerda su propio nombre no sabe de donde proviene no logra recordar como llego a berlin y cuanto hace que vive en la calle los sin techo con los que vagabundea por la ciudad lo llaman noah porque lleva ese nombre"
+      "search_text": "noah sebastian fitzek fiction el autor del best seller terapia vuelve a electrizar a los lectores con una trama arrolladora l no recuerda su propio nombre no sabe de d nde proviene no logra recordar c mo lleg a berl n y cu nto hace que vive en la calle los sin techo con los que vagabundea por la ciudad lo llaman noah porque lleva ese nombre"
     },
     {
       "id": "9783505128639",
@@ -7472,7 +7472,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dork diaries band 04 rachel renee russell juvenile fiction zusammen mit ihrem schwarm brandon und ihren zwei allerbesten freundinnen will nikki das ortliche tierheim retten dafur wagt sie sich sogar buchstablich aufs glatteis"
+      "search_text": "dork diaries band 04 rachel ren e russell juvenile fiction zusammen mit ihrem schwarm brandon und ihren zwei allerbesten freundinnen will nikki das rtliche tierheim retten daf r wagt sie sich sogar buchst blich aufs glatteis"
     },
     {
       "id": "9783505131165",
@@ -7487,7 +7487,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dork diaries band 01 rachel renee russell juvenile fiction neue schule neue fiese zicke neuer schwarm neues tagebuch damit nikki den ganzen kram mal loswerden kann"
+      "search_text": "dork diaries band 01 rachel ren e russell juvenile fiction neue schule neue fiese zicke neuer schwarm neues tagebuch damit nikki den ganzen kram mal loswerden kann"
     },
     {
       "id": "9783505131257",
@@ -7502,7 +7502,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dork diaries band 05 rachel renee russell juvenile fiction eigentlich wollte nikki als knallharte journalistin fur die schulerzeitung skandalose zustande und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos naturlich vorprogrammiert"
+      "search_text": "dork diaries band 05 rachel ren e russell juvenile fiction eigentlich wollte nikki als knallharte journalistin f r die sch lerzeitung skandal se zust nde und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos nat rlich vorprogrammiert"
     },
     {
       "id": "9783505131868",
@@ -7517,7 +7517,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "dork diaries band 05 rachel renee russell juvenile fiction eigentlich wollte nikki als knallharte journalistin fur die schulerzeitung skandalose zustande und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos naturlich vorprogrammiert"
+      "search_text": "dork diaries band 05 rachel ren e russell juvenile fiction eigentlich wollte nikki als knallharte journalistin f r die sch lerzeitung skandal se zust nde und hochbrisante tatsachen aufdecken doch dank ihrer erzfeindin mackenzie landet sie stattdessen in der ratgeberkolumne und damit ist das chaos nat rlich vorprogrammiert"
     },
     {
       "id": "9783743204515",
@@ -7545,7 +7545,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "r o m band 3 im tempel des bosen christian tielmann juvenile fiction drei freunde unheimliche geschehnisse r o m in rom geschehen unheimliche einbruche immer nachts immer ubers dach immer trifft es unschuldige meander und olivia beschleicht ein schlimmer verdacht steckt ihr freund remus dahinter der sich immer merkwurdiger verhalt oder vielleicht der unheimliche gott dem rem"
+      "search_text": "r o m band 3 im tempel des b sen christian tielmann juvenile fiction drei freunde unheimliche geschehnisse r o m in rom geschehen unheimliche einbr che immer nachts immer bers dach immer trifft es unschuldige meander und olivia beschleicht ein schlimmer verdacht steckt ihr freund remus dahinter der sich immer merkw rdiger verh lt oder vielleicht der unheimliche gott dem rem"
     },
     {
       "id": "9783732004157",
@@ -7560,7 +7560,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "5 sterne fur lola band 8 isabel abedi juvenile fiction in lolas leben wimmelt es vor krisen mama hat eine baby krise tante lisbeth hat eine verlobungs krise und lolas beste freundin flo hat eine enzo krise das ist eine krise die man bekommt wenn ein pflegebruder einzieht fur den die bezeichnung schwer erziehbar noch harmlos ist aber die gefahrlichste krise von"
+      "search_text": "5 sterne f r lola band 8 isabel abedi juvenile fiction in lolas leben wimmelt es vor krisen mama hat eine baby krise tante lisbeth hat eine verlobungs krise und lolas beste freundin flo hat eine enzo krise das ist eine krise die man bekommt wenn ein pflegebruder einzieht f r den die bezeichnung schwer erziehbar noch harmlos ist aber die gef hrlichste krise von"
     },
     {
       "id": "9783702658809",
@@ -7573,7 +7573,7 @@
       "genre": "",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "finnas pferde claudia gurtler"
+      "search_text": "finnas pferde claudia g rtler"
     },
     {
       "id": "9783473368709",
@@ -7629,7 +7629,7 @@
       "genre": "Juvenile Fiction",
       "metadata_source": "google_books",
       "isbn_source": "google_books",
-      "search_text": "erst ich ein stuck dann du nanuk ein kleiner eisbar findet freunde patricia schroder juvenile fiction die erfolgreiche kinderbuchreihe mit bewahrtem konzept fur das gemeinsame lesenlernen und uben der kleine eisbar nanuk wohnt hoch oben im norden wo er den ganzen tag drau en herumtollen und im eismeer tauchen kann nur ein bisschen einsam ist es hier doch das andert sich als eines tages ziemlich bunte geschopfe au"
+      "search_text": "erst ich ein st ck dann du nanuk ein kleiner eisb r findet freunde patricia schr der juvenile fiction die erfolgreiche kinderbuchreihe mit bew hrtem konzept f r das gemeinsame lesenlernen und ben der kleine eisb r nanuk wohnt hoch oben im norden wo er den ganzen tag drau en herumtollen und im eismeer tauchen kann nur ein bisschen einsam ist es hier doch das ndert sich als eines tages ziemlich bunte gesch pfe au"
     }
   ]
 }
