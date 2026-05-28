@@ -6,6 +6,8 @@ Diese Anleitung zeigt, wie du das Script fuer fehlende ISBNs mit der Google Book
 
 Das Script liest `data/missing.csv`, sucht pro Titel bei Google Books und schreibt die Ergebnisse in `data/books_with_isbn_google.csv`.
 
+Zusätzlich werden nicht gefundene Titel separat nach `data/missing_google.csv` geschrieben.
+
 Script-Dateien:
 
 - `fill_missing_from_google_books.py` (Wrapper im Projekt-Root)
@@ -65,7 +67,8 @@ python3 fill_missing_from_google_books.py
 Default-Pfade:
 
 - Input: `data/missing.csv`
-- Output: `data/books_with_isbn_google.csv`
+- Output gefunden: `data/books_with_isbn_google.csv`
+- Output nicht gefunden: `data/missing_google.csv`
 - Cache: `data/google_books_cache.csv`
 
 ## Quota-schonend arbeiten (kostenlos bleiben)
@@ -82,6 +85,7 @@ Wichtige Parameter:
 - `--max-requests`: maximal erlaubte API-Calls pro Lauf (Default: `300`)
 - `--max-rows`: nur erste N Zeilen verarbeiten (Tests)
 - `--cache`: Cache-Datei (Default: `data/google_books_cache.csv`)
+- `--missing-out`: Output-Datei fuer nicht gefundene Titel (Default: `data/missing_google.csv`)
 
 Beispiel fuer vorsichtigen Lauf:
 
@@ -119,7 +123,17 @@ Die Datei `data/books_with_isbn_google.csv` enthaelt unter anderem:
 - `title`, `author`
 - `isbn`, `isbn_type`
 - `matched_title`, `matched_author`
+- `genre`
+- `short_description`
+- `cover_url`
 - `google_id`
+- `status`
+- `from_cache`
+
+Die Datei `data/missing_google.csv` enthaelt:
+
+- `title`
+- `author`
 - `status`
 - `from_cache`
 
@@ -135,6 +149,15 @@ Wichtige Statuswerte:
 
 Einfach denselben Befehl erneut ausfuehren.
 Durch den Cache werden schon bekannte Titel nicht erneut abgefragt.
+
+## Live-Rueckmeldung im Terminal
+
+Pro verarbeiteten Titel gibt das Script eine Rueckmeldung aus, z. B.:
+
+- welche Anfrage verarbeitet wird
+- ob der Treffer aus dem Cache kommt
+- ob ein API-Request gemacht wurde
+- ob ISBN gefunden wurde oder welcher Status gesetzt wurde
 
 ## Fehlerbehebung
 

@@ -34,6 +34,9 @@ class LookupResult:
     isbn_type: str = ""
     matched_title: str = ""
     matched_author: str = ""
+    genre: str = ""
+    short_description: str = ""
+    cover_url: str = ""
     google_id: str = ""
     status: str = "not_found"
 
@@ -50,6 +53,46 @@ def normalize_text(value: str) -> str:
     value = re.sub(r"[^a-z0-9\s]", " ", value)
     value = re.sub(r"\s+", " ", value).strip()
     return value
+
+
+def strip_html(value: str) -> str:
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def shorten_text(value: str, max_length: int = 320) -> str:
+    value = value.strip()
+    if len(value) <= max_length:
+        return value
+    cut = value[: max_length - 1].rstrip()
+    return f"{cut}..."
+
+
+def to_https(url: str) -> str:
+    if url.startswith("http://"):
+        return "https://" + url[len("http://") :]
+    return url
+
+
+def extract_cover_url(image_links: dict[str, Any]) -> str:
+    for key in ("extraLarge", "large", "medium", "small", "thumbnail", "smallThumbnail"):
+        value = image_links.get(key)
+        if isinstance(value, str) and value.strip():
+            return to_https(value.strip())
+    return ""
+
+
+def dedupe_keep_order(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    result: list[str] = []
+    for value in values:
+        key = value.strip().lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        result.append(value.strip())
+    return result
 
 
 def build_cache_key(title: str, author: str) -> str:
@@ -131,6 +174,9 @@ def load_cache(cache_csv: Path) -> dict[str, LookupResult]:
                 isbn_type=(row.get("isbn_type") or "").strip(),
                 matched_title=(row.get("matched_title") or "").strip(),
                 matched_author=(row.get("matched_author") or "").strip(),
+                genre=(row.get("genre") or "").strip(),
+                short_description=(row.get("short_description") or "").strip(),
+                cover_url=(row.get("cover_url") or "").strip(),
                 google_id=(row.get("google_id") or "").strip(),
                 status=status,
             )
@@ -159,6 +205,9 @@ def append_cache(
             "isbn_type",
             "matched_title",
             "matched_author",
+            "genre",
+            "short_description",
+            "cover_url",
             "google_id",
         ]
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
@@ -176,6 +225,9 @@ def append_cache(
                 "isbn_type": result.isbn_type,
                 "matched_title": result.matched_title,
                 "matched_author": result.matched_author,
+                "genre": result.genre,
+                "short_description": result.short_description,
+                "cover_url": result.cover_url,
                 "google_id": result.google_id,
             }
         )
@@ -230,6 +282,22 @@ def fetch_google_books(title: str, author: str, api_key: str) -> LookupResult:
         if isinstance(authors, list):
             matched_author = ", ".join(str(a).strip() for a in authors if str(a).strip())
 
+        categories = volume_info.get("categories", [])
+        genre = ""
+        if isinstance(categories, list):
+            cleaned = dedupe_keep_order([str(cat).strip() for cat in categories if str(cat).strip()])
+            genre = " | ".join(cleaned)
+
+        short_description = ""
+        description_value = volume_info.get("description")
+        if isinstance(description_value, str):
+            short_description = shorten_text(strip_html(description_value))
+
+        cover_url = ""
+        image_links = volume_info.get("imageLinks")
+        if isinstance(image_links, dict):
+            cover_url = extract_cover_url(image_links)
+
         matched_title = str(volume_info.get("title") or "").strip()
         google_id = str(item.get("id") or "").strip()
 
@@ -239,6 +307,9 @@ def fetch_google_books(title: str, author: str, api_key: str) -> LookupResult:
             isbn_type=isbn_type,
             matched_title=matched_title,
             matched_author=matched_author,
+            genre=genre,
+            short_description=short_description,
+            cover_url=cover_url,
             google_id=google_id,
             status="found",
         )
@@ -260,7 +331,13 @@ def parse_args() -> argparse.Namespace:
         "--out",
         dest="output_csv",
         default="data/books_with_isbn_google.csv",
-        help="Output CSV (default: data/books_with_isbn_google.csv)",
+        help="Output CSV for found entries (default: data/books_with_isbn_google.csv)",
+    )
+    parser.add_argument(
+        "--missing-out",
+        dest="missing_output_csv",
+        default="data/missing_google.csv",
+        help="Output CSV for missing entries (default: data/missing_google.csv)",
     )
     parser.add_argument(
         "--cache",
@@ -311,6 +388,7 @@ def main() -> None:
 
     input_csv = Path(args.input_csv)
     output_csv = Path(args.output_csv)
+    missing_output_csv = Path(args.missing_output_csv)
     cache_csv = Path(args.cache_csv)
 
     if not input_csv.exists():
@@ -332,7 +410,11 @@ def main() -> None:
         rows = rows[: args.max_rows]
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
-    with output_csv.open("w", encoding="utf-8", newline="") as out_handle:
+    missing_output_csv.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_csv.open("w", encoding="utf-8", newline="") as out_handle, missing_output_csv.open(
+        "w", encoding="utf-8", newline=""
+    ) as missing_handle:
         fieldnames = [
             "title",
             "author",
@@ -340,12 +422,24 @@ def main() -> None:
             "isbn_type",
             "matched_title",
             "matched_author",
+            "genre",
+            "short_description",
+            "cover_url",
             "google_id",
             "status",
             "from_cache",
         ]
         writer = csv.DictWriter(out_handle, fieldnames=fieldnames)
         writer.writeheader()
+
+        missing_fieldnames = [
+            "title",
+            "author",
+            "status",
+            "from_cache",
+        ]
+        missing_writer = csv.DictWriter(missing_handle, fieldnames=missing_fieldnames)
+        missing_writer.writeheader()
 
         for idx, row in enumerate(rows, start=1):
             title = str(row.get("title") or "").strip()
@@ -355,14 +449,27 @@ def main() -> None:
             from_cache = False
             result = cache.get(cache_key)
 
+            if not args.quiet:
+                display_author = author if author else "-"
+                print(f"[{idx}/{len(rows)}] query: title='{title}' author='{display_author}'", flush=True)
+
             if result is not None:
                 from_cache = True
                 cache_hits += 1
+                if not args.quiet:
+                    print(
+                        f"  -> cache hit: status={result.status} isbn={result.isbn or '-'}",
+                        flush=True,
+                    )
             else:
                 if api_calls >= args.max_requests:
                     result = LookupResult(found=False, status="quota_guard_reached")
                     quota_skipped += 1
+                    if not args.quiet:
+                        print("  -> skipped: quota guard reached", flush=True)
                 else:
+                    if not args.quiet:
+                        print("  -> api request: google books", flush=True)
                     try:
                         result = fetch_google_books(title=title, author=author, api_key=api_key)
                     except Exception:
@@ -381,22 +488,42 @@ def main() -> None:
                     if args.delay > 0:
                         time.sleep(args.delay)
 
+                    if not args.quiet:
+                        if result.found:
+                            print(
+                                f"  -> found: isbn={result.isbn} title='{result.matched_title or title}'",
+                                flush=True,
+                            )
+                        else:
+                            print(f"  -> no isbn found: status={result.status}", flush=True)
+
             if result.found:
                 found_count += 1
-
-            writer.writerow(
-                {
-                    "title": title,
-                    "author": author,
-                    "isbn": result.isbn,
-                    "isbn_type": result.isbn_type,
-                    "matched_title": result.matched_title,
-                    "matched_author": result.matched_author,
-                    "google_id": result.google_id,
-                    "status": result.status,
-                    "from_cache": str(from_cache).lower(),
-                }
-            )
+                writer.writerow(
+                    {
+                        "title": title,
+                        "author": result.matched_author or author,
+                        "isbn": result.isbn,
+                        "isbn_type": result.isbn_type,
+                        "matched_title": result.matched_title,
+                        "matched_author": result.matched_author,
+                        "genre": result.genre,
+                        "short_description": result.short_description,
+                        "cover_url": result.cover_url,
+                        "google_id": result.google_id,
+                        "status": result.status,
+                        "from_cache": str(from_cache).lower(),
+                    }
+                )
+            else:
+                missing_writer.writerow(
+                    {
+                        "title": title,
+                        "author": author,
+                        "status": result.status,
+                        "from_cache": str(from_cache).lower(),
+                    }
+                )
 
             if not args.quiet and args.progress_every > 0 and idx % args.progress_every == 0:
                 print(
@@ -406,6 +533,7 @@ def main() -> None:
                 )
 
         flush_to_disk(out_handle)
+        flush_to_disk(missing_handle)
 
     if not args.quiet:
         print("Done.", flush=True)
@@ -414,7 +542,8 @@ def main() -> None:
         print(f"API calls this run: {api_calls}", flush=True)
         print(f"Cache hits: {cache_hits}", flush=True)
         print(f"Skipped by quota guard: {quota_skipped}", flush=True)
-        print(f"Output: {output_csv}", flush=True)
+        print(f"Found output: {output_csv}", flush=True)
+        print(f"Missing output: {missing_output_csv}", flush=True)
         print(f"Cache: {cache_csv}", flush=True)
 
 
