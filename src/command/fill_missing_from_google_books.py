@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import datetime as dt
 import json
 import os
 import re
@@ -93,6 +94,11 @@ def dedupe_keep_order(values: list[str]) -> list[str]:
         seen.add(key)
         result.append(value.strip())
     return result
+
+
+def build_search_text(title: str, author: str, genres: list[str], description: str) -> str:
+    raw = " ".join([title, author, " ".join(genres), description]).strip()
+    return normalize_text(raw)
 
 
 def build_cache_key(title: str, author: str) -> str:
@@ -346,6 +352,12 @@ def parse_args() -> argparse.Namespace:
         help="Cache CSV to avoid duplicate API calls (default: data/google_books_cache.csv)",
     )
     parser.add_argument(
+        "--catalog-json-out",
+        dest="catalog_json_out",
+        default="data/catalog_google.json",
+        help="Catalog JSON output for direct website usage (default: data/catalog_google.json)",
+    )
+    parser.add_argument(
         "--api-key",
         dest="api_key",
         default="",
@@ -390,6 +402,7 @@ def main() -> None:
     output_csv = Path(args.output_csv)
     missing_output_csv = Path(args.missing_output_csv)
     cache_csv = Path(args.cache_csv)
+    catalog_json_out = Path(args.catalog_json_out)
 
     if not input_csv.exists():
         raise SystemExit(f"Input CSV not found: {input_csv}")
@@ -401,6 +414,7 @@ def main() -> None:
     found_count = 0
     cache_hits = 0
     quota_skipped = 0
+    catalog_items: list[dict[str, Any]] = []
 
     with input_csv.open("r", encoding="utf-8", newline="") as src:
         reader = csv.DictReader(src)
@@ -515,6 +529,28 @@ def main() -> None:
                         "from_cache": str(from_cache).lower(),
                     }
                 )
+
+                genres = [part.strip() for part in result.genre.split("|") if part.strip()] if result.genre else []
+                catalog_items.append(
+                    {
+                        "id": result.isbn,
+                        "title": result.matched_title or title,
+                        "author": result.matched_author or author,
+                        "isbn": result.isbn,
+                        "cover_url": result.cover_url,
+                        "description": result.short_description,
+                        "genres": genres,
+                        "genre": genres[0] if genres else "",
+                        "metadata_source": "google_books",
+                        "isbn_source": "google_books",
+                        "search_text": build_search_text(
+                            title=result.matched_title or title,
+                            author=result.matched_author or author,
+                            genres=genres,
+                            description=result.short_description,
+                        ),
+                    }
+                )
             else:
                 missing_writer.writerow(
                     {
@@ -535,6 +571,20 @@ def main() -> None:
         flush_to_disk(out_handle)
         flush_to_disk(missing_handle)
 
+    catalog_payload = {
+        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "source_csv": str(input_csv),
+        "total_rows": len(rows),
+        "rows_with_isbn": found_count,
+        "rows_missing": len(rows) - found_count,
+        "items": catalog_items,
+    }
+    catalog_json_out.parent.mkdir(parents=True, exist_ok=True)
+    with catalog_json_out.open("w", encoding="utf-8") as catalog_handle:
+        json.dump(catalog_payload, catalog_handle, ensure_ascii=False, indent=2)
+        catalog_handle.write("\n")
+        flush_to_disk(catalog_handle)
+
     if not args.quiet:
         print("Done.", flush=True)
         print(f"Input rows: {len(rows)}", flush=True)
@@ -544,6 +594,7 @@ def main() -> None:
         print(f"Skipped by quota guard: {quota_skipped}", flush=True)
         print(f"Found output: {output_csv}", flush=True)
         print(f"Missing output: {missing_output_csv}", flush=True)
+        print(f"Catalog JSON output: {catalog_json_out}", flush=True)
         print(f"Cache: {cache_csv}", flush=True)
 
 

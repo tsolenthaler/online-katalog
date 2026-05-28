@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-05-28T06:23:53.087106+00:00",
+  "source_csv": "data/missing.csv",
+  "total_rows": 3,
+  "rows_with_isbn": 3,
+  "rows_missing": 0,
+  "items": [
+    {
+      "id": "9783486808179",
+      "title": "Astrid Lindgren, Ronja Räubertochter",
+      "author": "Sonja Müller-Schamell",
+      "isbn": "9783486808179",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "astrid lindgren ronja raubertochter sonja muller schamell"
+    },
+    {
+      "id": "9783037941423",
+      "title": "Die Schwarzen Brüder",
+      "author": "Annette Sutter",
+      "isbn": "9783037941423",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "die schwarzen bruder annette sutter"
+    },
+    {
+      "id": "9783346641564",
+      "title": "Weiblichkeitsdarstellung im Buch \"Die rote Zora und ihre Bande\" von Kurt Held",
+      "author": "Britta Wiese",
+      "isbn": "9783346641564",
+      "cover_url": "",
+      "description": "",
+      "genres": [],
+      "genre": "",
+      "metadata_source": "google_books",
+      "isbn_source": "google_books",
+      "search_text": "weiblichkeitsdarstellung im buch die rote zora und ihre bande von kurt held britta wiese"
+    }
+  ]
+}

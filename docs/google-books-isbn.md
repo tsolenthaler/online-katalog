@@ -69,6 +69,7 @@ Default-Pfade:
 - Input: `data/missing.csv`
 - Output gefunden: `data/books_with_isbn_google.csv`
 - Output nicht gefunden: `data/missing_google.csv`
+- Direkt fuer Webseite: `data/catalog_google.json`
 - Cache: `data/google_books_cache.csv`
 
 ## Quota-schonend arbeiten (kostenlos bleiben)
@@ -86,6 +87,7 @@ Wichtige Parameter:
 - `--max-rows`: nur erste N Zeilen verarbeiten (Tests)
 - `--cache`: Cache-Datei (Default: `data/google_books_cache.csv`)
 - `--missing-out`: Output-Datei fuer nicht gefundene Titel (Default: `data/missing_google.csv`)
+- `--catalog-json-out`: JSON im Katalogformat fuer die Webseite (Default: `data/catalog_google.json`)
 
 Beispiel fuer vorsichtigen Lauf:
 
@@ -108,6 +110,12 @@ python3 fill_missing_from_google_books.py \
   --in data/missing.csv \
   --out data/books_with_isbn_google.csv \
   --cache data/google_books_cache.csv
+```
+
+Direkt katalog-kompatibles JSON erzeugen:
+
+```bash
+python3 fill_missing_from_google_books.py --catalog-json-out data/catalog_google.json
 ```
 
 API Key direkt als Argument (optional):
@@ -136,6 +144,13 @@ Die Datei `data/missing_google.csv` enthaelt:
 - `author`
 - `status`
 - `from_cache`
+
+Die Datei `data/catalog_google.json` enthaelt ein `items`-Array im Format der Webseite, inkl.:
+
+- `id`, `title`, `author`, `isbn`
+- `cover_url`, `description`
+- `genres`, `genre`
+- `metadata_source`, `isbn_source`, `search_text`
 
 Wichtige Statuswerte:
 
