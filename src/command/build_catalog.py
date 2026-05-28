@@ -47,6 +47,55 @@ def normalize_text(value: str) -> str:
     return value
 
 
+GENRE_TRANSLATIONS_RAW = {
+    "Adventure and adventurers": "Abenteuer",
+    "Bien y mal": "Gut und Böse",
+    "Books and reading": "Bücher und Lesen",
+    "Children's fiction": "Kinderliteratur",
+    "Children’s Middle Grade Action & Adventure Books": "Kinder- und Jugendbücher: Action & Abenteuer",
+    "Courage": "Mut",
+    "Cuentos de aventuras": "Abenteuergeschichten",
+    "Fantasy": "Fantasy",
+    "Fantasy fiction": "Fantasy",
+    "Fiction": "Belletristik",
+    "Ficción juvenil": "Jugendliteratur",
+    "German children's stories": "Deutsche Kindergeschichten",
+    "German fiction": "Deutsche Literatur",
+    "Good and evil": "Gut und Böse",
+    "Heroes": "Helden",
+    "Imaginary Voyages": "Phantastische Reisen",
+    "Imagination": "Vorstellungskraft",
+    "Juvenile fiction": "Jugendroman",
+    "Literary Criticism": "Literaturkritik",
+    "Magic, fiction": "Magie (Fiktion)",
+    "Novela fantástica": "Fantasy-Roman",
+    "oracles": "Orakel",
+    "Religion": "Religion",
+    "Spanish language materials": "Spanischsprachige Materialien",
+    "turtles": "Schildkröten",
+    "Viajes imaginarios": "Phantastische Reisen",
+    "Voyages, imaginary": "Phantastische Reisen",
+    "Wishes": "Wünsche",
+    "wolves": "Wölfe",
+    "creatures": "Kreaturen",
+}
+
+GENRE_TRANSLATIONS = {
+    normalize_text(source): target for source, target in GENRE_TRANSLATIONS_RAW.items()
+}
+
+
+def translate_genre(value: str) -> str:
+    text = value.strip()
+    if not text:
+        return ""
+    return GENRE_TRANSLATIONS.get(normalize_text(text), text)
+
+
+def translate_genres(values: list[str]) -> list[str]:
+    return [translated for value in values if (translated := translate_genre(value))]
+
+
 def to_https(url: str) -> str:
     if url.startswith("http://"):
         return "https://" + url[len("http://") :]
@@ -73,7 +122,13 @@ def load_cache(cache_path: Path) -> dict[str, dict[str, Any]]:
     result: dict[str, dict[str, Any]] = {}
     for key, value in payload.items():
         if isinstance(key, str) and isinstance(value, dict):
-            result[key] = value
+            normalized = dict(value)
+            genres = normalized.get("genres")
+            if isinstance(genres, list):
+                normalized["genres"] = dedupe_keep_order(
+                    translate_genres([str(item) for item in genres if str(item).strip()])
+                )
+            result[key] = normalized
     return result
 
 
@@ -135,7 +190,7 @@ def fetch_openlibrary(isbn: str) -> dict[str, Any]:
     return {
         "cover_url": cover,
         "description": strip_html(description),
-        "genres": dedupe_keep_order(genres),
+        "genres": dedupe_keep_order(translate_genres(genres)),
         "source": "openlibrary",
     }
 
@@ -177,7 +232,7 @@ def fetch_google_books(isbn: str) -> dict[str, Any]:
     return {
         "cover_url": cover,
         "description": strip_html(description),
-        "genres": dedupe_keep_order(genres),
+        "genres": dedupe_keep_order(translate_genres(genres)),
         "source": "google_books",
     }
 
@@ -209,6 +264,7 @@ def merge_metadata(openlibrary_data: dict[str, Any], google_data: dict[str, Any]
         *(str(item).strip() for item in ol_genres if str(item).strip()),
         *(str(item).strip() for item in gb_genres if str(item).strip()),
     ])
+    genres = dedupe_keep_order(translate_genres(genres))
 
     metadata_source = ""
     if openlibrary_data and google_data:
