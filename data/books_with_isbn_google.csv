@@ -1,4 +1,21 @@
 title,author,isbn,isbn_type,matched_title,matched_author,google_id,status,from_cache
-Ronja Räubertochter,Astrid Lindgren,,,,,,quota_guard_reached,false
-Die schwarzen Brüder,Lisa Tetzner,,,,,,quota_guard_reached,false
-Die rote Zora,Kurt Held,,,,,,quota_guard_reached,false
+Ronja Räubertochter,Astrid Lindgren,9783486808179,ISBN_13,"Astrid Lindgren, Ronja Räubertochter",Sonja Müller-Schamell,I0xvSQAACAAJ,found,false
+Die schwarzen Brüder,Lisa Tetzner,9783037941423,ISBN_13,Die Schwarzen Brüder,Annette Sutter,WeWYQwAACAAJ,found,false
+Die rote Zora,Kurt Held,9783346641564,ISBN_13,"Weiblichkeitsdarstellung im Buch ""Die rote Zora und ihre Bande"" von Kurt Held",Britta Wiese,wrxuEAAAQBAJ,found,false
+Meine ersten Weihnachtsgeschichten,Künzler-Behncke Rosmarie,,,,,,not_found,false
+"Frohe Weihnachten, liebes Christkind!",Sigrid Heuck,9783401075754,ISBN_13,"Frohe Weihnachten, liebes Christkind!",Sigrid Heuck,gAoBPQAACAAJ,found,false
+Onkel Toms Hütte,Harriet Beecher Stowe,,,,,,isbn_missing,false
+Mein Name ist Eugen,Klaus Schädelin,9783290114701,ISBN_13,Mein Name ist Eugen,Klaus Schädelin,yqdz8nNK1YEC,found,false
+Bad Sonder,Catherine de Clercq,9783858823557,ISBN_13,Bad Sonder,Catherine De Clercq,_b6aAwAACAAJ,found,false
+Wir warten aufs Christkind,Christina Franke,,,,,,not_found,false
+Die schönsten Frühlings und Ostergeschichten,Corinna Gieseler,,,,,,not_found,false
+Die Sticker,Elisabeth Gerter,9783293003262,ISBN_13,Die Sticker,Elisabeth Gerter,4OVmygAACAAJ,found,false
+Der Medicus,Noah Gordon,9783641119201,ISBN_13,Der Medicus,Noah Gordon,Tv-lqQ-_lpcC,found,false
+Hier kommt Lola!,Isabel Abedi,9783464800874,ISBN_13,Hier kommt Lola!,Silke Fokken,19zzOAAACAAJ,found,false
+"Engel, Hase, Bommelmütze",Brigitte Weninger,9783314104183,ISBN_13,"Engel, Hase, Bommelmütze",Brigitte Weninger,2fpKtAEACAAJ,found,false
+Die Abenteuer des starken Wanja,Otfried Preussler,9783522181853,ISBN_13,Die Abenteuer des starken Wanja,Otfried Preußler,cS6FcgAACAAJ,found,false
+Der kleine Elch und das Weihnachtswunder,Thilo,9783785555095,ISBN_13,Der kleine Elch und das Weihnachtswunder,Thilo,rcKzbwAACAAJ,found,false
+Laura sucht den Weihnachtsmann,,9783838757957,ISBN_13,Laura sucht den Weihnachtsmann,"Klaus Baumgart, Cornelia Neudert",uu3sAwAAQBAJ,found,false
+Adventsgeschichten,,9783847658344,ISBN_13,Adventskalender einmal anders,Christiane Siegert,BU5qEAAAQBAJ,found,false
+Igraine Ohnefurcht,Cornelia Funke,9783862722884,ISBN_13,Igraine Ohnefurcht,Cornelia Funke,u9QuCwAAQBAJ,found,false
+Die Dreierbande und der verdächtige Fotograf,Hermien Stellmacher,9783522300841,ISBN_13,Die Dreierbande und der verdächtige Fotograf,"Hermien Stellmacher, Joachim Schultz",NzEtAAAACAAJ,found,false

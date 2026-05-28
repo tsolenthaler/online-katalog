@@ -1,0 +1,22 @@
+cache_key,title,author,found,status,isbn,isbn_type,matched_title,matched_author,google_id
+ronja raubertochter|astrid lindgren,Ronja Räubertochter,Astrid Lindgren,true,found,9783486808179,ISBN_13,"Astrid Lindgren, Ronja Räubertochter",Sonja Müller-Schamell,I0xvSQAACAAJ
+die schwarzen bruder|lisa tetzner,Die schwarzen Brüder,Lisa Tetzner,true,found,9783037941423,ISBN_13,Die Schwarzen Brüder,Annette Sutter,WeWYQwAACAAJ
+die rote zora|kurt held,Die rote Zora,Kurt Held,true,found,9783346641564,ISBN_13,"Weiblichkeitsdarstellung im Buch ""Die rote Zora und ihre Bande"" von Kurt Held",Britta Wiese,wrxuEAAAQBAJ
+meine ersten weihnachtsgeschichten|kunzler behncke rosmarie,Meine ersten Weihnachtsgeschichten,Künzler-Behncke Rosmarie,false,not_found,,,,,
+frohe weihnachten liebes christkind|sigrid heuck,"Frohe Weihnachten, liebes Christkind!",Sigrid Heuck,true,found,9783401075754,ISBN_13,"Frohe Weihnachten, liebes Christkind!",Sigrid Heuck,gAoBPQAACAAJ
+onkel toms hutte|harriet beecher stowe,Onkel Toms Hütte,Harriet Beecher Stowe,false,isbn_missing,,,,,
+mein name ist eugen|klaus schadelin,Mein Name ist Eugen,Klaus Schädelin,true,found,9783290114701,ISBN_13,Mein Name ist Eugen,Klaus Schädelin,yqdz8nNK1YEC
+bad sonder|catherine de clercq,Bad Sonder,Catherine de Clercq,true,found,9783858823557,ISBN_13,Bad Sonder,Catherine De Clercq,_b6aAwAACAAJ
+wir warten aufs christkind|christina franke,Wir warten aufs Christkind,Christina Franke,false,not_found,,,,,
+die schonsten fruhlings und ostergeschichten|corinna gieseler,Die schönsten Frühlings und Ostergeschichten,Corinna Gieseler,false,not_found,,,,,
+die sticker|elisabeth gerter,Die Sticker,Elisabeth Gerter,true,found,9783293003262,ISBN_13,Die Sticker,Elisabeth Gerter,4OVmygAACAAJ
+der medicus|noah gordon,Der Medicus,Noah Gordon,true,found,9783641119201,ISBN_13,Der Medicus,Noah Gordon,Tv-lqQ-_lpcC
+hier kommt lola|isabel abedi,Hier kommt Lola!,Isabel Abedi,true,found,9783464800874,ISBN_13,Hier kommt Lola!,Silke Fokken,19zzOAAACAAJ
+engel hase bommelmutze|brigitte weninger,"Engel, Hase, Bommelmütze",Brigitte Weninger,true,found,9783314104183,ISBN_13,"Engel, Hase, Bommelmütze",Brigitte Weninger,2fpKtAEACAAJ
+die abenteuer des starken wanja|otfried preussler,Die Abenteuer des starken Wanja,Otfried Preussler,true,found,9783522181853,ISBN_13,Die Abenteuer des starken Wanja,Otfried Preußler,cS6FcgAACAAJ
+der kleine elch und das weihnachtswunder|thilo,Der kleine Elch und das Weihnachtswunder,Thilo,true,found,9783785555095,ISBN_13,Der kleine Elch und das Weihnachtswunder,Thilo,rcKzbwAACAAJ
+laura sucht den weihnachtsmann|,Laura sucht den Weihnachtsmann,,true,found,9783838757957,ISBN_13,Laura sucht den Weihnachtsmann,"Klaus Baumgart, Cornelia Neudert",uu3sAwAAQBAJ
+adventsgeschichten|,Adventsgeschichten,,true,found,9783847658344,ISBN_13,Adventskalender einmal anders,Christiane Siegert,BU5qEAAAQBAJ
+igraine ohnefurcht|cornelia funke,Igraine Ohnefurcht,Cornelia Funke,true,found,9783862722884,ISBN_13,Igraine Ohnefurcht,Cornelia Funke,u9QuCwAAQBAJ
+die dreierbande und der verdachtige fotograf|hermien stellmacher,Die Dreierbande und der verdächtige Fotograf,Hermien Stellmacher,true,found,9783522300841,ISBN_13,Die Dreierbande und der verdächtige Fotograf,"Hermien Stellmacher, Joachim Schultz",NzEtAAAACAAJ
+fette fische|carl hiaasen,Fette Fische,Carl Hiaasen,true,found,9783464605721,ISBN_13,Fette Fische,Cornelia Witzmann,IN7bAAAACAAJ
