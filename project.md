@@ -12,17 +12,18 @@ Erstelle ein Konzept und den Code für einen öffentlichen Online-Katalog für d
 
 - Quelldaten: Alle Bestände liegen aktuell in einer PDF-Datei unter `/data/Titelliste.pdf` vor. Diese enthält Titel und Autor, aber keine ISBN.
 - Ergänzungsdaten: Es gibt die Möglichkeit einer manuellen Overrides-Liste (`manual_overrides.csv`) mit Format `title,author,isbn`, um falsche automatisierte Zuordnungen zu korrigieren.
-- Datengenerierung: Da GitHub Pages keinen Server hat, muss der Katalog beim Build-Prozess (z. B. via GitHub Actions) generiert werden.
+- Datengenerierung: Da GitHub Pages keinen Server hat, muss der Katalog lokal auf dem Rechner der Bibliothek gepflegt und vor der Veröffentlichung generiert werden.
 
 Ein Skript muss:
 
 1. Die PDF parsen.
 2. Die manuelle CSV laden.
-3. Für jedes Titel-/Autor-Paar ohne gültige ISBN API-Abfragen durchführen an:
+3. Für jeden Eintrag zunächst eine gültige ISBN ermitteln (aus PDF-Daten und manuellen Overrides).
+4. Anschließend ausschließlich über die ISBN alle Metadaten abrufen über:
 	 - Open Library API
 	 - Google Books API
 	 - Deutsches Nationalbibliothek (DNB) Portal
-4. Die gefundenen Metadaten (ISBN, Cover-Bild-URL, Beschreibung, Genre) speichern und eine statische JSON-Datenbank (`catalog.json`) generieren.
+5. Die gefundenen Metadaten (Cover-Bild-URL, Beschreibung, Genre) speichern und eine statische JSON-Datenbank (`catalog.json`) generieren.
 
 ## 2. Sitemap & Seitenstruktur
 
@@ -67,12 +68,12 @@ Die Seite soll folgende HTML-Seiten enthalten:
 - Benutzereingabe (Community-Feature): Formular- oder CSV-Upload-Seite (`contributions.html`), wo Privatpersonen ihre eigenen Medien melden können, um den Katalog zu erweitern.
 - Eingabeform: Titel, Autor, Typ, Besitzer (optional), Hinweis auf "Tausch意愿" (Wunsch nach Tausch).
 
-## 4. Technische Umsetzung (GitHub Pages Constraints)
+## 4. Technische Umsetzung (lokaler Workflow + GitHub Pages)
 
 - Architektur: Static Site Generation (SSG).
-- Empfehlung: Nutze ein Tool wie Jekyll, Hugo oder ein simples Node.js-Skript in einer GitHub Action, das bei jedem Push das `catalog.json` regeneriert und die HTML-Seiten baut.
+- Empfehlung: Nutze ein Tool wie Jekyll, Hugo oder ein simples Node.js-/Python-Skript, das lokal ausgeführt wird und vor dem Upload das `catalog.json` regeneriert sowie die HTML-Seiten baut.
 - Das JavaScript auf den Seiten lädt dann nur noch das `catalog.json` und filtert/sortiert client-seitig.
-- APIs: Die Abfragen an OpenLibrary/GoogleBooks müssen während des Build-Prozesses (in der Cloud via GitHub Actions) laufen, nicht im Browser der Besucher, um Rate-Limits zu vermeiden und Performance zu sichern.
+- APIs: Die Abfragen an OpenLibrary/GoogleBooks müssen lokal während des Generierungsprozesses laufen, nicht im Browser der Besucher, um Rate-Limits zu vermeiden und Performance zu sichern.
 - Social Sharing: Nutze Open-Graph-Meta-Tags (`og:title`, `og:description`, `og:image`) auf der Detailseite, damit WhatsApp/Facebook die Vorschau korrekt anzeigen.
 
 ## 5. Deliverables (Was du liefern sollst)
@@ -80,10 +81,10 @@ Die Seite soll folgende HTML-Seiten enthalten:
 Erstelle folgenden Output:
 
 - Projektdokumentation: Kurze Erklärung der Architektur (Build-Prozess vs. Laufzeit).
-- Skript-Entwurf: Ein Beispiel für das Build-Skript (Python oder Node.js), das PDF liest, APIs abfragt und JSON erstellt.
+- Skript-Entwurf: Ein Beispiel für das lokale Build-Skript (Python oder Node.js), das PDF liest, ISBNs ermittelt, APIs abfragt und JSON erstellt.
 - HTML/CSS-Templates:
 	- Grundgerüst für `index.html`, `catalog.html`, `detail.html`.
 	- CSS für ein sauberes, modernes, deutsches Design.
 - JavaScript-Logik: Code für das clientseitige Filtern und Suchen in der JSON-Datei.
-- Konfigurationsvorschlag: Wie die GitHub-Actions-Workflow-Datei (`build.yml`) auszusehen hat.
+- Konfigurationsvorschlag: Wie der lokale Ausführungsablauf aussieht (z. B. `python scripts/build_catalog.py`), inklusive benötigter Eingabe-/Ausgabedateien.
 - Hinweis zur Datensammlung: Wenn die APIs keine ISBN finden, sollte der Eintrag trotzdem mit dem Status "Keine ISBN ermittelt" in den Katalog kommen, aber manuell nachträglich bearbeitet werden können.
