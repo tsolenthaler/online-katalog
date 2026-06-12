@@ -39,8 +39,15 @@
         <p class="lead">
           Fehler oder Ergänzungen zu ISBN, Beschreibung, Cover, Genre oder anderen Angaben können hier als Datei vorbereitet werden.
         </p>
-        <div id="detailReportMount">
-          <p>Das Formular wird geladen...</p>
+        <div class="report-toggle-row">
+          <button type="button" class="button-secondary" id="detailReportToggle" aria-expanded="false" aria-controls="detailReportPanel">
+            Meldeformular öffnen
+          </button>
+        </div>
+        <div id="detailReportPanel" hidden>
+          <div id="detailReportMount">
+            <p>Das Formular wird geladen...</p>
+          </div>
         </div>
       </section>
     </main>

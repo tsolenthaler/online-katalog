@@ -5,6 +5,8 @@
   const detailHost = helpers.qs('#detailView');
   const backLink = helpers.qs('#backToResults');
   const reportMount = helpers.qs('#detailReportMount');
+  const reportToggle = helpers.qs('#detailReportToggle');
+  const reportPanel = helpers.qs('#detailReportPanel');
   const id = helpers.params.get('id');
   const returnTo = helpers.params.get('returnTo');
   const REPORT_FIELDS = [
@@ -55,6 +57,13 @@
   function fieldLabel(fieldName, customName) {
     if (fieldName === 'custom') return customName || 'custom';
     return REPORT_FIELDS.find((field) => field.value === fieldName)?.label || fieldName;
+  }
+
+  function setReportOpen(isOpen) {
+    if (!reportPanel || !reportToggle) return;
+    reportPanel.hidden = !isOpen;
+    reportToggle.setAttribute('aria-expanded', String(isOpen));
+    reportToggle.textContent = isOpen ? 'Meldeformular schließen' : 'Meldeformular öffnen';
   }
 
   function buildReportPayload(item, form) {
@@ -315,6 +324,12 @@
   if (returnTo) {
     backLink.href = returnTo;
   }
+
+  reportToggle?.addEventListener('click', () => {
+    setReportOpen(reportPanel?.hidden ?? true);
+  });
+
+  setReportOpen(false);
 
   if (!id) {
     detailHost.innerHTML = '<p>Kein Medium ausgewählt.</p>';
