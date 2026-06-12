@@ -110,26 +110,90 @@ def extract_isbn(text: str) -> str:
     return ""
 
 
-def parse_pdf_rows(pdf_path: Path) -> list[Entry]:
-    if not pdf_path.exists():
-        raise FileNotFoundError(f"PDF not found: {pdf_path}")
-
-    reader = PdfReader(str(pdf_path))
-    text = "\n".join((page.extract_text() or "") for page in reader.pages)
-    raw_lines = [clean_text(line) for line in text.splitlines()]
-    lines = [line for line in raw_lines if line and len(line) > 2]
+def parse_csv_rows(csv_path: Path) -> list[Entry]:
+    """Parse a CSV file with at minimum 'title' and 'author' columns."""
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV not found: {csv_path}")
 
     entries: list[Entry] = []
     seen: set[tuple[str, str]] = set()
 
-    for line in lines:
-        # Preferred format: "title, author"
-        if "," in line:
-            left, right = line.rsplit(",", 1)
-            title = clean_text(left)
-            author = clean_text(right)
-        elif " - " in line:
-            left, right = line.rsplit(" - ", 1)
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            title = clean_text(row.get("title", "") or row.get("Titel", "") or row.get("titel", ""))
+            author = clean_text(row.get("author", "") or row.get("Verfasser", "") or row.get("autor", ""))
+            media_type = clean_text(row.get("type", "") or row.get("typ", "")) or "Buch"
+            owner = clean_text(row.get("owner", "") or row.get("besitzer", ""))
+            date_added = clean_text(row.get("date_added", "") or row.get("datum", ""))
+
+            if not title:
+                continue
+
+            key = (normalize_text(title), normalize_text(author))
+            if key in seen:
+                continue
+            seen.add(key)
+
+            entries.append(
+                Entry(
+                    row_id=f"row-{len(entries) + 1}",
+                    title=title,
+                    author=author,
+                    media_type=media_type,
+                    owner=owner,
+                    date_added=date_added,
+                )
+            )
+
+    return entries
+
+
+def parse_pdf_rows(pdf_path: Path) -> list[Entry]:
+    """Parse title/author rows from PDF.
+
+    The PDF is expected to contain a table where each entry occupies a line in the form:
+        NNNNN<title><Lastname, Firstname>
+    or simply
+        <title>,<author>
+
+    Because pdfminer/pypdf may merge many rows into a single text block, we apply a
+    best-effort heuristic: look for the 5-to-6-digit acquisition-number pattern that
+    precedes each new entry and split on that.
+    """
+    if not pdf_path.exists():
+        raise FileNotFoundError(f"PDF not found: {pdf_path}")
+
+    reader = PdfReader(str(pdf_path))
+    full_text = " ".join((page.extract_text() or "") for page in reader.pages)
+
+    # Try to split on acquisition-number boundaries (5-6 digits that start a new entry).
+    # Pattern seen in the actual PDF: "<number><title><Lastname, Firstname>"
+    segments = re.split(r"\s+\d{5,6}(?=[A-ZÄÖÜ])", full_text)
+
+    entries: list[Entry] = []
+    seen: set[tuple[str, str]] = set()
+
+    for segment in segments:
+        segment = clean_text(segment)
+        if not segment or len(segment) < 4:
+            continue
+
+        # Author in the Bibliothek list is "Lastname, Firstname" — the LAST comma group.
+        # Remaining text before it is the title.
+        # We look for a comma not immediately preceded by a digit (avoid "Band 001,")
+        match = re.search(r"^(.+?)\s+([A-ZÄÖÜ][a-zäöüß]+(?:-[A-ZÄÖÜ][a-zäöüß]+)*,\s*[A-ZÄÖÜ][a-zäöüß].*?)$", segment)
+        if match:
+            title = clean_text(match.group(1))
+            author_raw = clean_text(match.group(2))
+            # Convert "Lastname, Firstname" → "Firstname Lastname" for consistency with books.csv.
+            if "," in author_raw:
+                parts = [p.strip() for p in author_raw.split(",", 1)]
+                author = f"{parts[1]} {parts[0]}"
+            else:
+                author = author_raw
+        elif "," in segment:
+            left, right = segment.rsplit(",", 1)
             title = clean_text(left)
             author = clean_text(right)
         else:
@@ -152,6 +216,25 @@ def parse_pdf_rows(pdf_path: Path) -> list[Entry]:
         )
 
     return entries
+
+
+def load_source_rows(args: argparse.Namespace) -> list[Entry]:
+    """Load entries from CSV (preferred) or fall back to PDF."""
+    # Explicit CSV flag takes precedence.
+    if args.csv:
+        csv_path = Path(args.csv)
+        if csv_path.exists():
+            return parse_csv_rows(csv_path)
+        raise FileNotFoundError(f"CSV not found: {csv_path}")
+
+    # If a CSV with the same stem exists next to the PDF, prefer it.
+    pdf_path = Path(args.pdf)
+    sibling_csv = pdf_path.with_suffix(".csv")
+    if sibling_csv.exists():
+        return parse_csv_rows(sibling_csv)
+
+    # Fallback: parse the PDF.
+    return parse_pdf_rows(pdf_path)
 
 
 def load_manual_overrides(path: Path) -> dict[tuple[str, str], dict[str, str]]:
@@ -213,11 +296,18 @@ def load_isbn_cache(path: Path) -> dict[str, dict[str, str]]:
     with path.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            key = row.get("key", "")
+            # Support both our own format ("key") and the archiv format ("cache_key").
+            key = row.get("key") or row.get("cache_key", "")
             if not key:
                 continue
+            isbn_raw = row.get("isbn", "")
+            if not isbn_raw:
+                continue
+            isbn = normalize_isbn(isbn_raw)
+            if not isbn:
+                continue
             cache[key] = {
-                "isbn": normalize_isbn(row.get("isbn", "")),
+                "isbn": isbn,
                 "source": row.get("source", ""),
             }
     return cache
@@ -401,7 +491,7 @@ def entry_search_text(entry: dict[str, Any]) -> str:
 
 
 def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
-    pdf_entries = parse_pdf_rows(Path(args.pdf))
+    pdf_entries = load_source_rows(args)
     if args.max_rows:
         pdf_entries = pdf_entries[: args.max_rows]
 
@@ -587,6 +677,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
 def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Build static catalog JSON")
     parser.add_argument("--pdf", default="data/Titelliste.pdf", help="Input title list PDF")
+    parser.add_argument("--csv", default="", help="Input titles CSV (title,author,...); overrides --pdf when given")
     parser.add_argument("--manual", default="data/manual_overrides.csv", help="Manual overrides CSV")
     parser.add_argument("--out", default="data/catalog.json", help="Output catalog JSON")
     parser.add_argument("--cache", default="data/catalog_metadata_cache.json", help="Metadata cache JSON")
