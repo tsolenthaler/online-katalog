@@ -22,14 +22,6 @@
     { value: 'custom', label: 'Anderes Feld' },
   ];
 
-  function escapeCsv(value) {
-    const str = String(value ?? '');
-    if (str.includes(',') || str.includes('"') || str.includes('\n')) {
-      return `"${str.replaceAll('"', '""')}"`;
-    }
-    return str;
-  }
-
   function createDownload(blob, filename) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
@@ -102,9 +94,7 @@
       .filter((entry) => entry.field_name && entry.proposed_value);
 
     const reportPayload = {
-      report_id: `report-${item.id}-${Date.now()}`,
       created_at: new Date().toISOString(),
-      item_id: item.id,
       source_url: window.location.href,
       title: item.title || '',
       author: item.author || '',
@@ -124,40 +114,6 @@
       ...reportPayload,
       replacement_item: replacementItem,
     };
-  }
-
-  function buildReportCsv(payload) {
-    const header = [
-      'report_id',
-      'created_at',
-      'item_id',
-      'title',
-      'author',
-      'isbn',
-      'reporter_name',
-      'reporter_email',
-      'field_name',
-      'current_value',
-      'proposed_value',
-      'note',
-      'source_url',
-    ];
-    const body = payload.changes.map((change) => [
-      payload.report_id,
-      payload.created_at,
-      payload.item_id,
-      payload.title,
-      payload.author,
-      payload.isbn,
-      payload.reporter_name,
-      payload.reporter_email,
-      change.field_name,
-      change.current_value,
-      change.proposed_value,
-      payload.note,
-      payload.source_url,
-    ].map(escapeCsv).join(','));
-    return [header.join(','), ...body].join('\n');
   }
 
   function fileBaseName(item) {
@@ -261,9 +217,8 @@
         </div>
 
         <div class="contrib-actions">
-          <button type="submit">Mail vorbereiten</button>
+          <button type="submit">Mail + JSON vorbereiten</button>
           <button type="button" class="button-secondary" id="downloadReportJson">JSON herunterladen</button>
-          <button type="button" class="button-secondary" id="downloadReportCsv">CSV herunterladen</button>
           <p id="detailReportMessage" aria-live="polite"></p>
         </div>
 
@@ -278,7 +233,6 @@
     const message = document.getElementById('detailReportMessage');
     const addFieldButton = document.getElementById('addReportField');
     const downloadJson = document.getElementById('downloadReportJson');
-    const downloadCsv = document.getElementById('downloadReportCsv');
 
     function currentPayload() {
       const payload = buildReportPayload(item, form);
@@ -305,27 +259,18 @@
       message.textContent = 'Datensatz-JSON wurde heruntergeladen und kann in data/item ersetzt werden.';
     });
 
-    downloadCsv?.addEventListener('click', () => {
-      const payload = currentPayload();
-      if (!payload) return;
-      createDownload(
-        new Blob([buildReportCsv(payload)], { type: 'text/csv;charset=utf-8' }),
-        `${fileBaseName(item)}.csv`,
-      );
-      message.textContent = 'CSV-Datei wurde heruntergeladen.';
-    });
-
     form?.addEventListener('submit', (event) => {
       event.preventDefault();
       const payload = currentPayload();
       if (!payload) return;
 
-      const subject = `Katalogmeldung: ${payload.title || payload.item_id}`;
+      const subject = `Katalogmeldung: ${payload.title || item.id || 'Medium'}`;
       const body = [
         'Guten Tag',
         '',
         'ich moechte eine Korrektur zu diesem Medium melden.',
         '',
+        `ID: ${item.id || '-'}`,
         `Titel: ${payload.title}`,
         `Autor: ${payload.author}`,
         `ISBN: ${payload.isbn || '-'}`,
@@ -336,7 +281,7 @@
         '',
         payload.note ? `Hinweis: ${payload.note}` : '',
         '',
-        'Die JSON- oder CSV-Datei kann direkt aus dem Formular heruntergeladen und dieser Mail angehaengt werden.',
+        'Die JSON-Datei kann direkt aus dem Formular heruntergeladen und dieser Mail angehaengt werden.',
       ].filter(Boolean).join('\n');
 
       window.location.href = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
