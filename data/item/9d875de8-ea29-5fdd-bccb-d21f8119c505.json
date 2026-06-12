@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9d875de8-ea29-5fdd-bccb-d21f8119c505",
+  "name": "Vernichtung",
+  "author": {
+    "@type": "Person",
+    "name": "David Lagercrantz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9d875de8-ea29-5fdd-bccb-d21f8119c505",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vernichtung david lagercrantz buch"
+  }
+}

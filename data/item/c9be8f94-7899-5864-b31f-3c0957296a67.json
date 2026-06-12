@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9be8f94-7899-5864-b31f-3c0957296a67",
+  "name": "Vierundzwanzig Stunden",
+  "author": {
+    "@type": "Person",
+    "name": "Guillaume Musso"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9be8f94-7899-5864-b31f-3c0957296a67",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vierundzwanzig stunden guillaume musso buch"
+  }
+}

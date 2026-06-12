@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:23231cc0-7435-5bc0-9236-06dcefd8a5ca",
+  "name": "Die Tochter des Uhrmachers",
+  "author": {
+    "@type": "Person",
+    "name": "Kate Morton"
+  },
+  "isbn": "9783837142587",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837142587",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837142587"
+  ],
+  "_catalog": {
+    "id": "23231cc0-7435-5bc0-9236-06dcefd8a5ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die tochter des uhrmachers kate morton 9783837142587 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6fdf57f-3272-575b-acb1-5b7ca0575755",
+  "name": "Die Kaminski-Kids - Band 004 - Unter Verdacht",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6fdf57f-3272-575b-acb1-5b7ca0575755",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kaminski-kids - band 004 - unter verdacht carlo meier buch"
+  }
+}

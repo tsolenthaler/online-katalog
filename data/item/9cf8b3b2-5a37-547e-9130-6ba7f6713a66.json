@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9cf8b3b2-5a37-547e-9130-6ba7f6713a66",
+  "name": "Endgame - Die Auserwählten",
+  "author": {
+    "@type": "Person",
+    "name": "James Frey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9cf8b3b2-5a37-547e-9130-6ba7f6713a66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "endgame - die auserwahlten james frey buch"
+  }
+}

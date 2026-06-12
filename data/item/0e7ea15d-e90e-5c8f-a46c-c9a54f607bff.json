@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0e7ea15d-e90e-5c8f-a46c-c9a54f607bff",
+  "name": "Memo Wissen; Musikinstrumente",
+  "author": {
+    "@type": "Person",
+    "name": "Neil Ardley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0e7ea15d-e90e-5c8f-a46c-c9a54f607bff",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen; musikinstrumente neil ardley buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a41ffa8d-6796-5148-a149-68bff26c6844",
+  "name": "Der Traktor",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre-Marie Valat"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a41ffa8d-6796-5148-a149-68bff26c6844",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der traktor pierre-marie valat buch"
+  }
+}

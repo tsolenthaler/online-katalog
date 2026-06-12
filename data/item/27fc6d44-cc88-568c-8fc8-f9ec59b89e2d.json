@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:27fc6d44-cc88-568c-8fc8-f9ec59b89e2d",
+  "name": "Das magische Baumhaus junior 25 - Bedrohung im",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Pope Osborne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "27fc6d44-cc88-568c-8fc8-f9ec59b89e2d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das magische baumhaus junior 25 - bedrohung im mary pope osborne buch"
+  }
+}

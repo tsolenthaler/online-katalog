@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8c672dd7-1fde-5008-868e-726eb9295af7",
+  "name": "Clever & Smart - Band 004 - Auf in den Kampf, Torero!",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibáñez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8c672dd7-1fde-5008-868e-726eb9295af7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 004 - auf in den kampf, torero! francisco ibanez buch"
+  }
+}

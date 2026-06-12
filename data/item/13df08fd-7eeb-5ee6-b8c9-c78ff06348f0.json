@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13df08fd-7eeb-5ee6-b8c9-c78ff06348f0",
+  "name": "Ophelia Scale - Der Himmel wird beben",
+  "author": {
+    "@type": "Person",
+    "name": "Lena Kiefer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13df08fd-7eeb-5ee6-b8c9-c78ff06348f0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ophelia scale - der himmel wird beben lena kiefer buch"
+  }
+}

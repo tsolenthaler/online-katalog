@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca08ea9b-561f-5daa-a1c5-2350e1511316",
+  "name": "Die drei ??? - Band 199 - Höhenangst",
+  "author": {
+    "@type": "Person",
+    "name": "André Minninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca08ea9b-561f-5daa-a1c5-2350e1511316",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 199 - hohenangst andre minninger buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3f9f0873-6dce-5036-b745-b3f2c100d80b",
+  "name": "Der Appenzeller Sennenhund",
+  "author": {
+    "@type": "Person",
+    "name": "Yvonne Steiner"
+  },
+  "isbn": "9783858822369",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783858822369",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783858822369"
+  ],
+  "_catalog": {
+    "id": "3f9f0873-6dce-5036-b745-b3f2c100d80b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der appenzeller sennenhund yvonne steiner 9783858822369 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b254c702-c1a9-5b5d-927c-3c54f2d1a13b",
+  "name": "Hey Frosch!",
+  "author": {
+    "@type": "Person",
+    "name": "Kes Gray"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b254c702-c1a9-5b5d-927c-3c54f2d1a13b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hey frosch! kes gray buch"
+  }
+}

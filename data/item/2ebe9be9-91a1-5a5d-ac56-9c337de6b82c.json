@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2ebe9be9-91a1-5a5d-ac56-9c337de6b82c",
+  "name": "Bevor ich sterbe",
+  "author": {
+    "@type": "Person",
+    "name": "Jenny Downham"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2ebe9be9-91a1-5a5d-ac56-9c337de6b82c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bevor ich sterbe jenny downham buch"
+  }
+}

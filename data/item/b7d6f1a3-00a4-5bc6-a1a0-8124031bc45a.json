@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7d6f1a3-00a4-5bc6-a1a0-8124031bc45a",
+  "name": "Northern Lights - Die Wölfe vom Charley River",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7d6f1a3-00a4-5bc6-a1a0-8124031bc45a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "northern lights - die wolfe vom charley river christopher ross buch"
+  }
+}

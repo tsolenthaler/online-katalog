@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bcc0150e-9aea-5e08-9f13-0a9890b29857",
+  "name": "Der freie Hund",
+  "author": {
+    "@type": "Person",
+    "name": "Wolfgang Schorlau"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bcc0150e-9aea-5e08-9f13-0a9890b29857",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der freie hund wolfgang schorlau buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8462e826-4057-505e-8b3c-da3743833981",
+  "name": "Krimi-Comics zum Lesen & Mitraten - Band 001",
+  "author": {
+    "@type": "Person",
+    "name": "Ina Rometsch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8462e826-4057-505e-8b3c-da3743833981",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krimi-comics zum lesen & mitraten - band 001 ina rometsch buch"
+  }
+}

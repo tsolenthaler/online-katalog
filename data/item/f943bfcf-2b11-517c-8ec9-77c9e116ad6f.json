@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f943bfcf-2b11-517c-8ec9-77c9e116ad6f",
+  "name": "Sternenritter - Band 002 - Angriff der Robotroxe",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f943bfcf-2b11-517c-8ec9-77c9e116ad6f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenritter - band 002 - angriff der robotroxe michael peinkofer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7c681594-3b49-51f2-90dc-ea00be9e773e",
+  "name": "Das Mädchen und der Verrat",
+  "author": {
+    "@type": "Person",
+    "name": "Guillaume Musso"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7c681594-3b49-51f2-90dc-ea00be9e773e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das madchen und der verrat guillaume musso buch"
+  }
+}

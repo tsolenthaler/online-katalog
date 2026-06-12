@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:294d7d38-73a9-5a4e-8bff-716a4837b85f",
+  "name": "Ritter Kuno Kettenstrumpf",
+  "author": {
+    "@type": "Person",
+    "name": "Oliver Pötzsch"
+  },
+  "isbn": "9783522610490",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783522610490",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783522610490"
+  ],
+  "_catalog": {
+    "id": "294d7d38-73a9-5a4e-8bff-716a4837b85f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ritter kuno kettenstrumpf oliver potzsch 9783522610490 buch"
+  }
+}

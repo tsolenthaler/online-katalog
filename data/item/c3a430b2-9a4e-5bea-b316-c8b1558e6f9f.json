@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c3a430b2-9a4e-5bea-b316-c8b1558e6f9f",
+  "name": "Alles über Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Amler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c3a430b2-9a4e-5bea-b316-c8b1558e6f9f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alles uber pferde ulrike amler buch"
+  }
+}

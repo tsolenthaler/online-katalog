@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3cbe0ba-40b8-5c11-9409-f464be0dc650",
+  "name": "Thorgal - Band 032 - Die Schlacht von Asgard",
+  "author": {
+    "@type": "Person",
+    "name": "Rosinski - Van Hamme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b3cbe0ba-40b8-5c11-9409-f464be0dc650",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "thorgal - band 032 - die schlacht von asgard rosinski - van hamme buch"
+  }
+}

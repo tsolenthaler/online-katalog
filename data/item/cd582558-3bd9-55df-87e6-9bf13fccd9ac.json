@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cd582558-3bd9-55df-87e6-9bf13fccd9ac",
+  "name": "Kochen mit Globi",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cd582558-3bd9-55df-87e6-9bf13fccd9ac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kochen mit globi diverse buch"
+  }
+}

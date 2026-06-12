@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c212cdea-1283-5399-a4ce-6777f63798f3",
+  "name": "Löwe, Hase, Schwein - ein Tier passt nicht rein!",
+  "author": {
+    "@type": "Person",
+    "name": "Nadine Jessler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c212cdea-1283-5399-a4ce-6777f63798f3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lowe, hase, schwein - ein tier passt nicht rein! nadine jessler buch"
+  }
+}

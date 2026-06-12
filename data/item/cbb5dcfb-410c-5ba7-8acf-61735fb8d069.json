@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cbb5dcfb-410c-5ba7-8acf-61735fb8d069",
+  "name": "Wieso, Weshalb, Warum - Was macht die Prinzessin?",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Szesny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cbb5dcfb-410c-5ba7-8acf-61735fb8d069",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - was macht die prinzessin? susanne szesny buch"
+  }
+}

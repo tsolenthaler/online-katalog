@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8a54119-bbe6-5a1a-aba6-a52b8f799db0",
+  "name": "Der vierte König",
+  "author": {
+    "@type": "Person",
+    "name": "Ted Sieger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8a54119-bbe6-5a1a-aba6-a52b8f799db0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der vierte konig ted sieger buch"
+  }
+}

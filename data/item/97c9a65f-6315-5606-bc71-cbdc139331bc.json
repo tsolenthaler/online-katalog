@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97c9a65f-6315-5606-bc71-cbdc139331bc",
+  "name": "Emma Charming – Band 1 - nicht zaubern ist auch keine",
+  "author": {
+    "@type": "Person",
+    "name": "Katy Birchall"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97c9a65f-6315-5606-bc71-cbdc139331bc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "emma charming – band 1 - nicht zaubern ist auch keine katy birchall buch"
+  }
+}

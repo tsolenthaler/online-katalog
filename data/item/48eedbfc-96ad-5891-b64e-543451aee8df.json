@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:48eedbfc-96ad-5891-b64e-543451aee8df",
+  "name": "Zilly und Zingaro - der verzauberte Winter",
+  "author": {
+    "@type": "Person",
+    "name": "Korky Paul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "48eedbfc-96ad-5891-b64e-543451aee8df",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro - der verzauberte winter korky paul buch"
+  }
+}

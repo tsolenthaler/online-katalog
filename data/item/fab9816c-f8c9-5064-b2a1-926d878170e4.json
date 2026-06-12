@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fab9816c-f8c9-5064-b2a1-926d878170e4",
+  "name": "Schwert und Krone - der junge Falke",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Ebert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fab9816c-f8c9-5064-b2a1-926d878170e4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schwert und krone - der junge falke sabine ebert buch"
+  }
+}

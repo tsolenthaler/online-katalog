@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddef9657-d545-5a3b-b1d0-b526003bb8bd",
+  "name": "Die tollste Fußballmannschaft der Welt und der",
+  "author": {
+    "@type": "Person",
+    "name": "Irene Margil"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddef9657-d545-5a3b-b1d0-b526003bb8bd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tollste fußballmannschaft der welt und der irene margil buch"
+  }
+}

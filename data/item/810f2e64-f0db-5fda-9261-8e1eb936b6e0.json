@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:810f2e64-f0db-5fda-9261-8e1eb936b6e0",
+  "name": "Das Resort",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Goodwin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "810f2e64-f0db-5fda-9261-8e1eb936b6e0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das resort sarah goodwin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cfed3b42-f0cc-5386-b120-af432ebca5d0",
+  "name": "Der Appenzeller Witz",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Eggenberger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cfed3b42-f0cc-5386-b120-af432ebca5d0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der appenzeller witz peter eggenberger buch"
+  }
+}

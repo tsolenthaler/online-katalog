@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:99d86cfc-1dc6-5a2e-bd33-8680f9e796f4",
+  "name": "Senntumsschnitzerei im Appenzellerland und im",
+  "author": {
+    "@type": "Person",
+    "name": "Hans-Rudolf Merz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "99d86cfc-1dc6-5a2e-bd33-8680f9e796f4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "senntumsschnitzerei im appenzellerland und im hans-rudolf merz buch"
+  }
+}

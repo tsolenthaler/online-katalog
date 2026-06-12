@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65d78708-da96-5293-a814-b42ff9d2175c",
+  "name": "Harry Potter - Band 04 - und der Feuerkelch",
+  "author": {
+    "@type": "Person",
+    "name": "J. K. Rowling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65d78708-da96-5293-a814-b42ff9d2175c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter - band 04 - und der feuerkelch j. k. rowling buch"
+  }
+}

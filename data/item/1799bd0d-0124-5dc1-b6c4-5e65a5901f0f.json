@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1799bd0d-0124-5dc1-b6c4-5e65a5901f0f",
+  "name": "Kaninchen ist sooo müde",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Scheffler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1799bd0d-0124-5dc1-b6c4-5e65a5901f0f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kaninchen ist sooo mude axel scheffler buch"
+  }
+}

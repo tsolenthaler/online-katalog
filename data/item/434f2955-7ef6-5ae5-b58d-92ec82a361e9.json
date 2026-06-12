@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:434f2955-7ef6-5ae5-b58d-92ec82a361e9",
+  "name": "Rückkehr nach St. Malo",
+  "author": {
+    "@type": "Person",
+    "name": "Hélène Gestern"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "434f2955-7ef6-5ae5-b58d-92ec82a361e9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ruckkehr nach st. malo helene gestern buch"
+  }
+}

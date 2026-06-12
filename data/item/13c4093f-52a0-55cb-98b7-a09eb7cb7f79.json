@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13c4093f-52a0-55cb-98b7-a09eb7cb7f79",
+  "name": "Weihnachten in Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Henning Callsen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13c4093f-52a0-55cb-98b7-a09eb7cb7f79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weihnachten in gefahr henning callsen buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c090a79e-09ab-5095-bdb0-64d6380d9886",
+  "name": "Die Perlenschwester",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c090a79e-09ab-5095-bdb0-64d6380d9886",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die perlenschwester lucinda riley buch"
+  }
+}

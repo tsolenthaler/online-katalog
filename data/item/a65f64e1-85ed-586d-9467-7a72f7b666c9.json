@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a65f64e1-85ed-586d-9467-7a72f7b666c9",
+  "name": "Die schönsten Velotouren Band 1 - Alpen",
+  "author": {
+    "@type": "Person",
+    "name": "Ronald Gohl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a65f64e1-85ed-586d-9467-7a72f7b666c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten velotouren band 1 - alpen ronald gohl buch"
+  }
+}

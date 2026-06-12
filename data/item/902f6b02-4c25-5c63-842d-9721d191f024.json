@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:902f6b02-4c25-5c63-842d-9721d191f024",
+  "name": "Beautiful Liars - Band 003 - Geliebte Feindin",
+  "author": {
+    "@type": "Person",
+    "name": "Katharine McGee"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "902f6b02-4c25-5c63-842d-9721d191f024",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beautiful liars - band 003 - geliebte feindin katharine mcgee buch"
+  }
+}

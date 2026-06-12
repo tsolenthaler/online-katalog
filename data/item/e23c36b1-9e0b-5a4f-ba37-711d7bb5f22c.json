@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e23c36b1-9e0b-5a4f-ba37-711d7bb5f22c",
+  "name": "RAVNA – Tod in der Arktis",
+  "author": {
+    "@type": "Person",
+    "name": "Elisabeth Herrmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e23c36b1-9e0b-5a4f-ba37-711d7bb5f22c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ravna – tod in der arktis elisabeth herrmann buch"
+  }
+}

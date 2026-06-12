@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:85fd305e-371f-5b86-9cb4-b3aeeaaf505a",
+  "name": "Emma traut sich was",
+  "author": {
+    "@type": "Person",
+    "name": "Maja von Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "85fd305e-371f-5b86-9cb4-b3aeeaaf505a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "emma traut sich was maja von vogel buch"
+  }
+}

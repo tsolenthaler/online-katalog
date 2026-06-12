@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0d577ebf-2167-5a42-8a8e-4a2c1f3346b6",
+  "name": "Kürbis schnitzen",
+  "author": {
+    "@type": "Person",
+    "name": "Marion Dawidowski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0d577ebf-2167-5a42-8a8e-4a2c1f3346b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kurbis schnitzen marion dawidowski buch"
+  }
+}

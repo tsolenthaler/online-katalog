@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d44da175-c2ea-5ec9-9821-9086e8156d68",
+  "name": "Star wars - the clone wars, Abenteuer der Jedi",
+  "author": {
+    "@type": "Person",
+    "name": "Marc Winter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d44da175-c2ea-5ec9-9821-9086e8156d68",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "star wars - the clone wars, abenteuer der jedi marc winter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c39fa9fe-b37a-5d62-b9bc-b695de988d87",
+  "name": "Der Waschbär",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Gutjahr"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c39fa9fe-b37a-5d62-b9bc-b695de988d87",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der waschbar axel gutjahr buch"
+  }
+}

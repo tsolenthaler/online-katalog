@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:27b2a7ab-91e2-56e2-88e0-cd8482d32707",
+  "name": "Wild like a river - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Kira Mohn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "27b2a7ab-91e2-56e2-88e0-cd8482d32707",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wild like a river - band 1 kira mohn buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa7e6999-8e10-5425-beff-0519315b00e3",
+  "name": "Weird but true 2019",
+  "author": {
+    "@type": "Person",
+    "name": "Collins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa7e6999-8e10-5425-beff-0519315b00e3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weird but true 2019 collins buch"
+  }
+}

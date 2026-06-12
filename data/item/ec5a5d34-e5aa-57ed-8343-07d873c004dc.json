@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec5a5d34-e5aa-57ed-8343-07d873c004dc",
+  "name": "Die verschwundene Schwester",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec5a5d34-e5aa-57ed-8343-07d873c004dc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die verschwundene schwester lucinda riley buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc9089e5-9f00-5c37-a5bb-55450d77a91d",
+  "name": "Woodwalkers - Fremde Wildnis Band 4",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brandis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc9089e5-9f00-5c37-a5bb-55450d77a91d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "woodwalkers - fremde wildnis band 4 katja brandis buch"
+  }
+}

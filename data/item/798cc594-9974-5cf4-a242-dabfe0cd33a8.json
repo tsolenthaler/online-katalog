@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:798cc594-9974-5cf4-a242-dabfe0cd33a8",
+  "name": "Sturm",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Scheuring"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "798cc594-9974-5cf4-a242-dabfe0cd33a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sturm christoph scheuring buch"
+  }
+}

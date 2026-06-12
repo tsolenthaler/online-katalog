@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a92baa55-5e60-54ec-a384-519a623929fc",
+  "name": "Hier kommt Ponyfee! - Das Fohlen von der Zauberinsel",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Zoschke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a92baa55-5e60-54ec-a384-519a623929fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hier kommt ponyfee! - das fohlen von der zauberinsel barbara zoschke buch"
+  }
+}

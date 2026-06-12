@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2bdcb91-ef19-5c2b-8c14-56a30de50874",
+  "name": "Leonie Looping - Band 002 - Das Abenteuer am",
+  "author": {
+    "@type": "Person",
+    "name": "Cally Stronk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2bdcb91-ef19-5c2b-8c14-56a30de50874",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leonie looping - band 002 - das abenteuer am cally stronk buch"
+  }
+}

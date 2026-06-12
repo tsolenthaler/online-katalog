@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:77fa02bd-7bb1-5a58-9dc9-6e0649847ec3",
+  "name": "Indien Basics",
+  "author": {
+    "@type": "Person",
+    "name": "Tanja Dusy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "77fa02bd-7bb1-5a58-9dc9-6e0649847ec3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "indien basics tanja dusy buch"
+  }
+}

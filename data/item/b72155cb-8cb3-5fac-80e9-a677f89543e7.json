@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b72155cb-8cb3-5fac-80e9-a677f89543e7",
+  "name": "Don't leave me - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Lena Kiefer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b72155cb-8cb3-5fac-80e9-a677f89543e7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "don't leave me - band 3 lena kiefer buch"
+  }
+}

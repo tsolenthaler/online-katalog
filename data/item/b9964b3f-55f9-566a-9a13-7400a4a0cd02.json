@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9964b3f-55f9-566a-9a13-7400a4a0cd02",
+  "name": "Zilly und Zingaro - Das Spukhaus",
+  "author": {
+    "@type": "Person",
+    "name": "Korky Paul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9964b3f-55f9-566a-9a13-7400a4a0cd02",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro - das spukhaus korky paul buch"
+  }
+}

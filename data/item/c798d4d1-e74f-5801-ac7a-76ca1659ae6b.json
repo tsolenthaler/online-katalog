@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c798d4d1-e74f-5801-ac7a-76ca1659ae6b",
+  "name": "Die drei ??? - Band 196 - Geheimnisvolle Botschaften",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Dittert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c798d4d1-e74f-5801-ac7a-76ca1659ae6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 196 - geheimnisvolle botschaften christoph dittert buch"
+  }
+}

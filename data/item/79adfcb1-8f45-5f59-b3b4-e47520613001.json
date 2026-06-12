@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:79adfcb1-8f45-5f59-b3b4-e47520613001",
+  "name": "Mount Everest",
+  "author": {
+    "@type": "Person",
+    "name": "Maja Nielsen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "79adfcb1-8f45-5f59-b3b4-e47520613001",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mount everest maja nielsen buch"
+  }
+}

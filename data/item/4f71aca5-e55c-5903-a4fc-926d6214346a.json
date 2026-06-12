@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4f71aca5-e55c-5903-a4fc-926d6214346a",
+  "name": "Die Dämmerung (Art Mayer-Serie 2)",
+  "author": {
+    "@type": "Person",
+    "name": "Marc Raabe"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4f71aca5-e55c-5903-a4fc-926d6214346a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die dammerung (art mayer-serie 2) marc raabe buch"
+  }
+}

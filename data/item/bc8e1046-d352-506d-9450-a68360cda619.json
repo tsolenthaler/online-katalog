@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc8e1046-d352-506d-9450-a68360cda619",
+  "name": "Petterson und Findus - Findus kunterbunte Werkstatt",
+  "author": {
+    "@type": "Person",
+    "name": "Ishel U. Eichler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc8e1046-d352-506d-9450-a68360cda619",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petterson und findus - findus kunterbunte werkstatt ishel u. eichler buch"
+  }
+}

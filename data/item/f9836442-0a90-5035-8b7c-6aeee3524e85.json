@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9836442-0a90-5035-8b7c-6aeee3524e85",
+  "name": "Hildur – Das Grab im Eis",
+  "author": {
+    "@type": "Person",
+    "name": "Satu Rämö"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f9836442-0a90-5035-8b7c-6aeee3524e85",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hildur – das grab im eis satu ramo buch"
+  }
+}

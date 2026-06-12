@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:008d7fb6-cec3-5ddd-a946-d64cfaf1c154",
+  "name": "Gefährliche Freundinnen",
+  "author": {
+    "@type": "Person",
+    "name": "Cat Clarke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "008d7fb6-cec3-5ddd-a946-d64cfaf1c154",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gefahrliche freundinnen cat clarke buch"
+  }
+}

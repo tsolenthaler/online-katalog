@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9023d75-b154-5912-be56-8b3a4c6931a0",
+  "name": "Warrior Cats - 2/Band 5 - Dämmerung",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9023d75-b154-5912-be56-8b3a4c6931a0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warrior cats - 2/band 5 - dammerung erin hunter buch"
+  }
+}

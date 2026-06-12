@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:10d79268-cea4-56f3-83a9-b234b025c7d0",
+  "name": "Wie im Himmel",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "10d79268-cea4-56f3-83a9-b234b025c7d0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie im himmel buch"
+  }
+}

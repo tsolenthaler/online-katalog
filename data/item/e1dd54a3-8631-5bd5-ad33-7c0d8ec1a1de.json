@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1dd54a3-8631-5bd5-ad33-7c0d8ec1a1de",
+  "name": "Marsupilami - Band 023 - Der Tempel im Urwald",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1dd54a3-8631-5bd5-ad33-7c0d8ec1a1de",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 023 - der tempel im urwald franquin buch"
+  }
+}

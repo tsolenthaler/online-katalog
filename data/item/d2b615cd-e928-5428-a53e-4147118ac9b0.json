@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2b615cd-e928-5428-a53e-4147118ac9b0",
+  "name": "Gregs Tagebuch - Band 004 - Ich war’s nicht!",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2b615cd-e928-5428-a53e-4147118ac9b0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tagebuch - band 004 - ich war’s nicht! jeff kinney buch"
+  }
+}

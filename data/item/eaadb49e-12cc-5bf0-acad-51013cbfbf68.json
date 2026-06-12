@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eaadb49e-12cc-5bf0-acad-51013cbfbf68",
+  "name": "Love and Trust : Band 02: Every Thiing we Lost",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer Bright"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eaadb49e-12cc-5bf0-acad-51013cbfbf68",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "love and trust : band 02: every thiing we lost jennifer bright buch"
+  }
+}

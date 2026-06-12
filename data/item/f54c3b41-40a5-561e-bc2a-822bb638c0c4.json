@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f54c3b41-40a5-561e-bc2a-822bb638c0c4",
+  "name": "Berti und seine Brüder - das coolste Haustier der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa-Marie Dickreiter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f54c3b41-40a5-561e-bc2a-822bb638c0c4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "berti und seine bruder - das coolste haustier der welt lisa-marie dickreiter buch"
+  }
+}

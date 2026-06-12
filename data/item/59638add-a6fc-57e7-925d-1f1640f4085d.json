@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59638add-a6fc-57e7-925d-1f1640f4085d",
+  "name": "Ein Mann namens Ove",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59638add-a6fc-57e7-925d-1f1640f4085d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein mann namens ove buch"
+  }
+}

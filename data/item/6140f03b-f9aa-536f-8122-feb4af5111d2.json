@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6140f03b-f9aa-536f-8122-feb4af5111d2",
+  "name": "Worst Week Ever - Sonntag - Band 7",
+  "author": {
+    "@type": "Person",
+    "name": "Matt Cosgrove"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6140f03b-f9aa-536f-8122-feb4af5111d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "worst week ever - sonntag - band 7 matt cosgrove buch"
+  }
+}

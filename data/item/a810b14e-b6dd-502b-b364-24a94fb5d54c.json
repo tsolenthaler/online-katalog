@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a810b14e-b6dd-502b-b364-24a94fb5d54c",
+  "name": "Harry Potter - Band 05 - und der Orden des Phönix",
+  "author": {
+    "@type": "Person",
+    "name": "J. K. Rowling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a810b14e-b6dd-502b-b364-24a94fb5d54c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter - band 05 - und der orden des phonix j. k. rowling buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8e478733-4ec7-5e88-a5a2-8135f7f4d839",
+  "name": "Franka - Band 008 - Im Reich des Donnerdrachens",
+  "author": {
+    "@type": "Person",
+    "name": "Henk Kuijpers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8e478733-4ec7-5e88-a5a2-8135f7f4d839",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franka - band 008 - im reich des donnerdrachens henk kuijpers buch"
+  }
+}

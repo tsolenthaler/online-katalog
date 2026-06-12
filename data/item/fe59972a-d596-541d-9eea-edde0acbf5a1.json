@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe59972a-d596-541d-9eea-edde0acbf5a1",
+  "name": "Wie kleine Igel gross werden",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Reichenstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe59972a-d596-541d-9eea-edde0acbf5a1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie kleine igel gross werden friederun reichenstetter buch"
+  }
+}

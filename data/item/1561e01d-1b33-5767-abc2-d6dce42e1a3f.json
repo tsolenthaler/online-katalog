@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1561e01d-1b33-5767-abc2-d6dce42e1a3f",
+  "name": "Mein Lotta-Leben - Band 10 - der Schuh des Känguru",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1561e01d-1b33-5767-abc2-d6dce42e1a3f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 10 - der schuh des kanguru alice pantermuller buch"
+  }
+}

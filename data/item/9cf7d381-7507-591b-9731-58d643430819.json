@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9cf7d381-7507-591b-9731-58d643430819",
+  "name": "Warrior Cats - 2/Band 2 - Mondschein",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9cf7d381-7507-591b-9731-58d643430819",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warrior cats - 2/band 2 - mondschein erin hunter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf9b0302-d738-50c3-bc2d-4ab9e6a9ea6a",
+  "name": "Helvetia",
+  "author": {
+    "@type": "Person",
+    "name": "Frei Iris Lydia"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf9b0302-d738-50c3-bc2d-4ab9e6a9ea6a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "helvetia frei iris lydia buch"
+  }
+}

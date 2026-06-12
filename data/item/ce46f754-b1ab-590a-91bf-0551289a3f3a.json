@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce46f754-b1ab-590a-91bf-0551289a3f3a",
+  "name": "Die Glasperlenmädchen",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Wingate"
+  },
+  "isbn": "9783837155990",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837155990",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837155990"
+  ],
+  "_catalog": {
+    "id": "ce46f754-b1ab-590a-91bf-0551289a3f3a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die glasperlenmadchen lisa wingate 9783837155990 buch"
+  }
+}

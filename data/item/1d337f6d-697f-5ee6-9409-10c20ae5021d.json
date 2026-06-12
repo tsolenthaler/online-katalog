@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1d337f6d-697f-5ee6-9409-10c20ae5021d",
+  "name": "GRRRIZZLY",
+  "author": {
+    "@type": "Person",
+    "name": "Hervé Le Goff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1d337f6d-697f-5ee6-9409-10c20ae5021d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "grrrizzly herve le goff buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5bedf05c-263a-5b13-bace-40ea58c9183f",
+  "name": "Petronella Apfelmus - Burggespenst und Hexensümpfe",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Städing"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5bedf05c-263a-5b13-bace-40ea58c9183f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petronella apfelmus - burggespenst und hexensumpfe sabine stading buch"
+  }
+}

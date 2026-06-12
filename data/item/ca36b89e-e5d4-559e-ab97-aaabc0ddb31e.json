@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca36b89e-e5d4-559e-ab97-aaabc0ddb31e",
+  "name": "Nachtschein",
+  "author": {
+    "@type": "Person",
+    "name": "Seraina Kobler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca36b89e-e5d4-559e-ab97-aaabc0ddb31e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nachtschein seraina kobler buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:feb4074d-086c-5a3a-8aa1-7f6d01f24f7b",
+  "name": "Hier kommt Ponyfee! - Ein Prinz auf der Roseninsel",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Zoschke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "feb4074d-086c-5a3a-8aa1-7f6d01f24f7b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hier kommt ponyfee! - ein prinz auf der roseninsel barbara zoschke buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f49a1bf1-b63f-5f16-a933-086c141abdfa",
+  "name": "Mörderland (4)",
+  "author": {
+    "@type": "Person",
+    "name": "Kim Faber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f49a1bf1-b63f-5f16-a933-086c141abdfa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderland (4) kim faber buch"
+  }
+}

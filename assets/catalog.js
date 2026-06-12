@@ -131,7 +131,6 @@
     `;
   }
 
-  function applyFilters() {
   async function applyFilters() {
     // Ensure FlexSearch is initialised before the first search
     await initFlexSearch();
@@ -211,7 +210,6 @@
     });
   }
 
-  applyFilters();
   // Kick off FlexSearch initialisation in the background immediately after
   // catalog.json has loaded so the index is likely ready before the user types.
   initFlexSearch();

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf00420d-150e-5f2d-8756-c8bdef36e7b6",
+  "name": "Ponyherz - Band 007 - Ein Wildpferd auf dem Pausenhof",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf00420d-150e-5f2d-8756-c8bdef36e7b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyherz - band 007 - ein wildpferd auf dem pausenhof usch luhn buch"
+  }
+}

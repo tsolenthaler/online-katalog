@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd9092bd-7a11-5355-a026-06937cc7e71a",
+  "name": "Kettenreaktions-Maschinen zum Selberbauen",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Long"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd9092bd-7a11-5355-a026-06937cc7e71a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kettenreaktions-maschinen zum selberbauen paul long buch"
+  }
+}

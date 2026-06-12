@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:06961fe7-6d1f-55a2-b918-ead7ecf46a15",
+  "name": "Erwartung - Band 5",
+  "author": {
+    "@type": "Person",
+    "name": "Jussi Adler-Olsen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "06961fe7-6d1f-55a2-b918-ead7ecf46a15",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erwartung - band 5 jussi adler-olsen buch"
+  }
+}

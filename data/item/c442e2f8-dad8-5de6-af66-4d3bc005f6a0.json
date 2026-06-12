@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c442e2f8-dad8-5de6-af66-4d3bc005f6a0",
+  "name": "Findet Memo",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c442e2f8-dad8-5de6-af66-4d3bc005f6a0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "findet memo buch"
+  }
+}

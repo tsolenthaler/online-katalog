@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:add10375-1af4-5cb2-af8a-3a9d600c1488",
+  "name": "Clever & Smart - Band 002 - Wir bringen Nachschub für",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "add10375-1af4-5cb2-af8a-3a9d600c1488",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 002 - wir bringen nachschub fur francisco ibez buch"
+  }
+}

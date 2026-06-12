@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65064b9b-d24e-55c4-a999-b6394164cc0a",
+  "name": "Frühling auf Gut Fennhusen - Band 6",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Renk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65064b9b-d24e-55c4-a999-b6394164cc0a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fruhling auf gut fennhusen - band 6 ulrike renk buch"
+  }
+}

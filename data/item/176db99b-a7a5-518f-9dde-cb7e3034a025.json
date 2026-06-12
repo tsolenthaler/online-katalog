@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:176db99b-a7a5-518f-9dde-cb7e3034a025",
+  "name": "Der Schattenmörder",
+  "author": {
+    "@type": "Person",
+    "name": "Alex North"
+  },
+  "isbn": "9783837154085",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837154085",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837154085"
+  ],
+  "_catalog": {
+    "id": "176db99b-a7a5-518f-9dde-cb7e3034a025",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der schattenmorder alex north 9783837154085 buch"
+  }
+}

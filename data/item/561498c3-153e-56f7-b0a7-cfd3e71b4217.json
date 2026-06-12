@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:561498c3-153e-56f7-b0a7-cfd3e71b4217",
+  "name": "Alle sieben Wellen",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Glattauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "561498c3-153e-56f7-b0a7-cfd3e71b4217",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alle sieben wellen daniel glattauer buch"
+  }
+}

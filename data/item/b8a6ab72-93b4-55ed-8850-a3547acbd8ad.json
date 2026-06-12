@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8a6ab72-93b4-55ed-8850-a3547acbd8ad",
+  "name": "Wand des Schweigens",
+  "author": {
+    "@type": "Person",
+    "name": "Arnaldur Indriason"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8a6ab72-93b4-55ed-8850-a3547acbd8ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wand des schweigens arnaldur indriason buch"
+  }
+}

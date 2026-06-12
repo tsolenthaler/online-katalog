@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6202f77-99f6-5922-a7bc-a9c829b7d10e",
+  "name": "Beast Quest - Band 063 - Brutus, Angriff des Grauens",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6202f77-99f6-5922-a7bc-a9c829b7d10e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 063 - brutus, angriff des grauens adam blade buch"
+  }
+}

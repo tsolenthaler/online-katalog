@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cca26812-6844-55f0-a72f-94137c8920da",
+  "name": "Emilys Rückkehr",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Kessler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cca26812-6844-55f0-a72f-94137c8920da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "emilys ruckkehr katja kessler buch"
+  }
+}

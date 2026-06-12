@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35df4475-db39-5514-91d4-760dd4e67148",
+  "name": "Paleo für Faule",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Kintrup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "35df4475-db39-5514-91d4-760dd4e67148",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "paleo fur faule martin kintrup buch"
+  }
+}

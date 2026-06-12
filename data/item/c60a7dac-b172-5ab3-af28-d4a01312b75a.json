@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c60a7dac-b172-5ab3-af28-d4a01312b75a",
+  "name": "Der gute Samariter",
+  "author": {
+    "@type": "Person",
+    "name": "Cilla Börjlind"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c60a7dac-b172-5ab3-af28-d4a01312b75a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der gute samariter cilla borjlind buch"
+  }
+}

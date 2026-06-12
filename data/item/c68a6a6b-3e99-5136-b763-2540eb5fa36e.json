@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c68a6a6b-3e99-5136-b763-2540eb5fa36e",
+  "name": "Das grosse Jahreszeiten Bastelbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Marlies Schiller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c68a6a6b-3e99-5136-b763-2540eb5fa36e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das grosse jahreszeiten bastelbuch marlies schiller buch"
+  }
+}

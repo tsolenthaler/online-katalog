@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:564d7977-fa43-5bb2-9923-78f944acd3ce",
+  "name": "Bitte zweimal Wolke 7",
+  "author": {
+    "@type": "Person",
+    "name": "Jutta Wilke"
+  },
+  "isbn": "9783570402177",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783570402177",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783570402177"
+  ],
+  "_catalog": {
+    "id": "564d7977-fa43-5bb2-9923-78f944acd3ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "bitte zweimal wolke 7 jutta wilke 9783570402177 buch"
+  }
+}

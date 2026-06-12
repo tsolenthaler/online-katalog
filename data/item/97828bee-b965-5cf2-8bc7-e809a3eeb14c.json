@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97828bee-b965-5cf2-8bc7-e809a3eeb14c",
+  "name": "Entdecke Die Käfer",
+  "author": {
+    "@type": "Person",
+    "name": "Frank Rossow"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97828bee-b965-5cf2-8bc7-e809a3eeb14c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke die kafer frank rossow buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5ec3b73-3b8c-53fd-a437-c7b01d4d1486",
+  "name": "Bibi & Tina - Ärger mit dem Grafen",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Dittrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5ec3b73-3b8c-53fd-a437-c7b01d4d1486",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - arger mit dem grafen markus dittrich buch"
+  }
+}

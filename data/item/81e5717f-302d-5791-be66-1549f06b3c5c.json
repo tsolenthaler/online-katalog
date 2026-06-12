@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:81e5717f-302d-5791-be66-1549f06b3c5c",
+  "name": "Monster Mia - Band 005 - und das Biest von Oddington",
+  "author": {
+    "@type": "Person",
+    "name": "A.B Saddlewick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "81e5717f-302d-5791-be66-1549f06b3c5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monster mia - band 005 - und das biest von oddington a.b saddlewick buch"
+  }
+}

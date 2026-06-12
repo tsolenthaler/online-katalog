@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:981b78b9-b48c-5d7d-b3c7-0d0f1e26d354",
+  "name": "Fräulein Kniffkes geheime Heldenschule - Stinkesocken",
+  "author": {
+    "@type": "Person",
+    "name": "Lena Havek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "981b78b9-b48c-5d7d-b3c7-0d0f1e26d354",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fraulein kniffkes geheime heldenschule - stinkesocken lena havek buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1c4fb6a-f7da-5dbe-8848-80e80cc9317f",
+  "name": "Erbsen auf halb 6",
+  "author": {
+    "@type": "Person",
+    "name": "Elfie Donnelly"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1c4fb6a-f7da-5dbe-8848-80e80cc9317f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erbsen auf halb 6 elfie donnelly buch"
+  }
+}

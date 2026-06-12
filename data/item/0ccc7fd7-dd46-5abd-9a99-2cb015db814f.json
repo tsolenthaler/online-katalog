@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0ccc7fd7-dd46-5abd-9a99-2cb015db814f",
+  "name": "Bibi Blocksberg - Band 017 - Der kleine Hexer",
+  "author": {
+    "@type": "Person",
+    "name": "Elfie Donnelly"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0ccc7fd7-dd46-5abd-9a99-2cb015db814f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - band 017 - der kleine hexer elfie donnelly buch"
+  }
+}

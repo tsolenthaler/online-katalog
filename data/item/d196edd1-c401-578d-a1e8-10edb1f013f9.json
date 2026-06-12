@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d196edd1-c401-578d-a1e8-10edb1f013f9",
+  "name": "Bibi & Tina - Band 080 - Der Waldbrand",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Dittrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d196edd1-c401-578d-a1e8-10edb1f013f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - band 080 - der waldbrand markus dittrich buch"
+  }
+}

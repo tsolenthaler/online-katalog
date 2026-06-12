@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad62a6ed-5c88-5d07-80ca-2f8b65b4054a",
+  "name": "Paw Patrol - Jungle Pups: Sky",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad62a6ed-5c88-5d07-80ca-2f8b65b4054a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "paw patrol - jungle pups: sky buch"
+  }
+}

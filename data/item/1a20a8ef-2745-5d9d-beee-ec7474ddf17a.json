@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1a20a8ef-2745-5d9d-beee-ec7474ddf17a",
+  "name": "Nele - Band 006 - und der indische Prinz",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1a20a8ef-2745-5d9d-beee-ec7474ddf17a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nele - band 006 - und der indische prinz usch luhn buch"
+  }
+}

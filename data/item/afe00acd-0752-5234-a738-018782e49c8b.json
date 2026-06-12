@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:afe00acd-0752-5234-a738-018782e49c8b",
+  "name": "Rantanplan - Band 001 - Das Maskottchen",
+  "author": {
+    "@type": "Person",
+    "name": "Morris"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "afe00acd-0752-5234-a738-018782e49c8b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rantanplan - band 001 - das maskottchen morris buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:57c76001-4edf-5bd8-b0ae-7acbfad56328",
+  "name": "Bibi Blocksberg - Band 140 - Alles voll verhext",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias von Bornstädt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "57c76001-4edf-5bd8-b0ae-7acbfad56328",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - band 140 - alles voll verhext matthias von bornstadt buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf701bcb-e0e4-5175-bfe6-e76642d0bbcd",
+  "name": "TKKG - Band 200 - Der grosse Coup",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf701bcb-e0e4-5175-bfe6-e76642d0bbcd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 200 - der grosse coup stefan wolf buch"
+  }
+}

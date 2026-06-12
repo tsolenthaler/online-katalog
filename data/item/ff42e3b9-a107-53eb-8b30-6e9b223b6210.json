@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff42e3b9-a107-53eb-8b30-6e9b223b6210",
+  "name": "Kochen; April 2025",
+  "author": {
+    "@type": "Person",
+    "name": "Wildeisen Annemarie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff42e3b9-a107-53eb-8b30-6e9b223b6210",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kochen; april 2025 wildeisen annemarie buch"
+  }
+}

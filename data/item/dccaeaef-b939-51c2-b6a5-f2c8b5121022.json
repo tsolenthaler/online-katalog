@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dccaeaef-b939-51c2-b6a5-f2c8b5121022",
+  "name": "Familienausflug Nein Danke",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Zett"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dccaeaef-b939-51c2-b6a5-f2c8b5121022",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "familienausflug nein danke sabine zett buch"
+  }
+}

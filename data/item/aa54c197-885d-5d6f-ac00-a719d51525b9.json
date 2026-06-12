@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa54c197-885d-5d6f-ac00-a719d51525b9",
+  "name": "Schwarzer August",
+  "author": {
+    "@type": "Person",
+    "name": "Gil Ribeiro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa54c197-885d-5d6f-ac00-a719d51525b9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schwarzer august gil ribeiro buch"
+  }
+}

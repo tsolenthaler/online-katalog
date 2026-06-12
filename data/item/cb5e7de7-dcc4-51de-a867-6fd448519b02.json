@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb5e7de7-dcc4-51de-a867-6fd448519b02",
+  "name": "Lindt & Sprüngli (Lindt & Sprüngli Saga 1)",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb5e7de7-dcc4-51de-a867-6fd448519b02",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lindt & sprungli (lindt & sprungli saga 1) lisa graf buch"
+  }
+}

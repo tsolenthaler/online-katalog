@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed8a0081-b9d9-52b9-8512-d0ae82552c01",
+  "name": "Das magische Baumhaus - Auf der Fährte der Indianer -",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Pope Osborne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed8a0081-b9d9-52b9-8512-d0ae82552c01",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das magische baumhaus - auf der fahrte der indianer - mary pope osborne buch"
+  }
+}

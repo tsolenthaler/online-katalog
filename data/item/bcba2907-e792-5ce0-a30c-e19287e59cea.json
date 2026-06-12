@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bcba2907-e792-5ce0-a30c-e19287e59cea",
+  "name": "Gaston - Band 018",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bcba2907-e792-5ce0-a30c-e19287e59cea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gaston - band 018 franquin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb217460-f5bd-538a-88fa-494e7e72671c",
+  "name": "Die drei ??? - und das Gespensterschloss",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Arthur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb217460-f5bd-538a-88fa-494e7e72671c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - und das gespensterschloss robert arthur buch"
+  }
+}

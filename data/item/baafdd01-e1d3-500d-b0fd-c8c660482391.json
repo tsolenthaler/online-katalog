@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:baafdd01-e1d3-500d-b0fd-c8c660482391",
+  "name": "Franz Hohler & friends",
+  "author": {
+    "@type": "Person",
+    "name": "Franz Hohler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "baafdd01-e1d3-500d-b0fd-c8c660482391",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franz hohler & friends franz hohler buch"
+  }
+}

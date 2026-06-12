@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b86b2347-d5d4-514a-9ed1-6149811efa79",
+  "name": "Die drei ??? - Band 155 - und der Meister des Todes",
+  "author": {
+    "@type": "Person",
+    "name": "Kari Erlhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b86b2347-d5d4-514a-9ed1-6149811efa79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 155 - und der meister des todes kari erlhoff buch"
+  }
+}

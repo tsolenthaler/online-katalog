@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5dacfa6e-627d-54b9-ae5a-2668d3dab4df",
+  "name": "Säntis",
+  "author": {
+    "@type": "Person",
+    "name": "Adi Kälin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5dacfa6e-627d-54b9-ae5a-2668d3dab4df",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "santis adi kalin buch"
+  }
+}

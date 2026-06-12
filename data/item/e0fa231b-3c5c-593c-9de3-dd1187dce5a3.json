@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0fa231b-3c5c-593c-9de3-dd1187dce5a3",
+  "name": "Blühender Verrat",
+  "author": {
+    "@type": "Person",
+    "name": "Marie Graßhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0fa231b-3c5c-593c-9de3-dd1187dce5a3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bluhender verrat marie graßhoff buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc474d90-d2c4-5445-9d88-0b7764cf2b27",
+  "name": "Das Lied der Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Ricarda Jordan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc474d90-d2c4-5445-9d88-0b7764cf2b27",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das lied der pferde ricarda jordan buch"
+  }
+}

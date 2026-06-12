@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4bb3b052-d559-5a8e-8118-4271c3db7303",
+  "name": "Diary of an awesome friendly kid - Band 01 - Rowley",
+  "author": {
+    "@type": "Person",
+    "name": "Kinney Jeff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4bb3b052-d559-5a8e-8118-4271c3db7303",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "diary of an awesome friendly kid - band 01 - rowley kinney jeff buch"
+  }
+}

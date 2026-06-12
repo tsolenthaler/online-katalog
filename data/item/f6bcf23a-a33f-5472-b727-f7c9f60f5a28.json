@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6bcf23a-a33f-5472-b727-f7c9f60f5a28",
+  "name": "Asterix - Band 031 - Asterix und Latraviata",
+  "author": {
+    "@type": "Person",
+    "name": "Uderzo Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6bcf23a-a33f-5472-b727-f7c9f60f5a28",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 031 - asterix und latraviata uderzo goscinny buch"
+  }
+}

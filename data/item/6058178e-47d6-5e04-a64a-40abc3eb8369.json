@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6058178e-47d6-5e04-a64a-40abc3eb8369",
+  "name": "Spannende Detektivgeschichten zum mitraten",
+  "author": {
+    "@type": "Person",
+    "name": "Anja Kiel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6058178e-47d6-5e04-a64a-40abc3eb8369",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spannende detektivgeschichten zum mitraten anja kiel buch"
+  }
+}

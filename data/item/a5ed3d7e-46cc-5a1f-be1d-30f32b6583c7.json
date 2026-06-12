@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5ed3d7e-46cc-5a1f-be1d-30f32b6583c7",
+  "name": "Die Räum Dich frei Methode",
+  "author": {
+    "@type": "Person",
+    "name": "Daniela Gisin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5ed3d7e-46cc-5a1f-be1d-30f32b6583c7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die raum dich frei methode daniela gisin buch"
+  }
+}

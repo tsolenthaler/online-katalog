@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae8ef821-e578-54b7-afff-483357f75abf",
+  "name": "Beast Quest - Band 029 - Paragor der Teufelswurm",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae8ef821-e578-54b7-afff-483357f75abf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 029 - paragor der teufelswurm adam blade buch"
+  }
+}

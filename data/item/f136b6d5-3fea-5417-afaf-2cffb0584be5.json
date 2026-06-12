@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f136b6d5-3fea-5417-afaf-2cffb0584be5",
+  "name": "Globi - Band 052 - bei der Feuerwehr",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Andreas Müller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f136b6d5-3fea-5417-afaf-2cffb0584be5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 052 - bei der feuerwehr walter andreas muller buch"
+  }
+}

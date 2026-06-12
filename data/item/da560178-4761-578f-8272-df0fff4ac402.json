@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da560178-4761-578f-8272-df0fff4ac402",
+  "name": "Die Villa der Architektin",
+  "author": {
+    "@type": "Person",
+    "name": "Melania G. Mazzucco"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da560178-4761-578f-8272-df0fff4ac402",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die villa der architektin melania g. mazzucco buch"
+  }
+}

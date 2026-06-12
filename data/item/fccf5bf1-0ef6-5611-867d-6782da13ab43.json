@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fccf5bf1-0ef6-5611-867d-6782da13ab43",
+  "name": "Der kleine Vampir - Band 003 - verreist",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Sommer-Bodenburg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fccf5bf1-0ef6-5611-867d-6782da13ab43",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine vampir - band 003 - verreist angela sommer-bodenburg buch"
+  }
+}

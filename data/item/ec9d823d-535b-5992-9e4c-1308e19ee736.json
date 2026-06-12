@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec9d823d-535b-5992-9e4c-1308e19ee736",
+  "name": "Unsere Zeit der Wunder",
+  "author": {
+    "@type": "Person",
+    "name": "Nicholas Sparks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec9d823d-535b-5992-9e4c-1308e19ee736",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unsere zeit der wunder nicholas sparks buch"
+  }
+}

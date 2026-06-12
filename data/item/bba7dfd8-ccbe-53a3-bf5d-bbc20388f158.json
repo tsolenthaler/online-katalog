@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bba7dfd8-ccbe-53a3-bf5d-bbc20388f158",
+  "name": "Die drei ??? Kids - Band 78 - Schrottplatz in Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bba7dfd8-ccbe-53a3-bf5d-bbc20388f158",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 78 - schrottplatz in gefahr ulf blanck buch"
+  }
+}

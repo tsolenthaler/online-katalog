@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ecf1c094-aad4-543f-ae94-96b05ee80e30",
+  "name": "Wie du mich siehst",
+  "author": {
+    "@type": "Person",
+    "name": "Tahereh Mafi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ecf1c094-aad4-543f-ae94-96b05ee80e30",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie du mich siehst tahereh mafi buch"
+  }
+}

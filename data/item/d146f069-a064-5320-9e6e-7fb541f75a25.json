@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d146f069-a064-5320-9e6e-7fb541f75a25",
+  "name": "Töpfern",
+  "author": {
+    "@type": "Person",
+    "name": "Jacqui Atkin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d146f069-a064-5320-9e6e-7fb541f75a25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "topfern jacqui atkin buch"
+  }
+}

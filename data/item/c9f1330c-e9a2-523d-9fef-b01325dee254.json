@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9f1330c-e9a2-523d-9fef-b01325dee254",
+  "name": "Mein Lotta-Leben - Band 01 - Alles voller Kaninchen",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9f1330c-e9a2-523d-9fef-b01325dee254",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 01 - alles voller kaninchen alice pantermuller buch"
+  }
+}

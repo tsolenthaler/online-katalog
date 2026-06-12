@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9b12034-967c-5ebd-957b-f20e37fb09f2",
+  "name": "Die Entflammten",
+  "author": {
+    "@type": "Person",
+    "name": "Simone Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f9b12034-967c-5ebd-957b-f20e37fb09f2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die entflammten simone meier buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f338bcc1-393c-5c39-8bba-7472daf36652",
+  "name": "Girl on the train",
+  "author": {
+    "@type": "Person",
+    "name": "Paula Hawkins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f338bcc1-393c-5c39-8bba-7472daf36652",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "girl on the train paula hawkins buch"
+  }
+}

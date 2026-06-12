@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1231bb7-5f11-5baa-90b9-6ed24bc9aadf",
+  "name": "Die lustigen Abenteuer des Rösslein Hü",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Moray Williams"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1231bb7-5f11-5baa-90b9-6ed24bc9aadf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die lustigen abenteuer des rosslein hu ursula moray williams buch"
+  }
+}

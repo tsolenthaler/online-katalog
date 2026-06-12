@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5705983-ba9e-5079-8bd9-5f52433271eb",
+  "name": "Pettersson und Findus - Findus und der Hahn im Korb",
+  "author": {
+    "@type": "Person",
+    "name": "Sven Nordquist"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5705983-ba9e-5079-8bd9-5f52433271eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pettersson und findus - findus und der hahn im korb sven nordquist buch"
+  }
+}

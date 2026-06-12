@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c8d24d0e-6da4-59fb-92c6-b191784a360f",
+  "name": "Mein Sommer mit den Pandas",
+  "author": {
+    "@type": "Person",
+    "name": "Laura Buller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c8d24d0e-6da4-59fb-92c6-b191784a360f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein sommer mit den pandas laura buller buch"
+  }
+}

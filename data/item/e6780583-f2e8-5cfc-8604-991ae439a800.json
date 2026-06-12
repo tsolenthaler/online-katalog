@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6780583-f2e8-5cfc-8604-991ae439a800",
+  "name": "Spinnengift und Krötenschleim",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Leistenschneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6780583-f2e8-5cfc-8604-991ae439a800",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spinnengift und krotenschleim ulrike leistenschneider buch"
+  }
+}

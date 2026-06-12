@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f53aa547-99b8-58cd-b8f8-f63a6f256ab4",
+  "name": "Das kleine Gespenst, Tohuwabohu auf Burg Eulenstein",
+  "author": {
+    "@type": "Person",
+    "name": "Otfried Preussler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f53aa547-99b8-58cd-b8f8-f63a6f256ab4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kleine gespenst, tohuwabohu auf burg eulenstein otfried preussler buch"
+  }
+}

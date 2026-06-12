@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1f37504e-5d5f-5b21-ba53-38cd95642486",
+  "name": "Wieso Weshalb warum - Sonne, Wind und Regen",
+  "author": {
+    "@type": "Person",
+    "name": "Constanze Schargan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1f37504e-5d5f-5b21-ba53-38cd95642486",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - sonne, wind und regen constanze schargan buch"
+  }
+}

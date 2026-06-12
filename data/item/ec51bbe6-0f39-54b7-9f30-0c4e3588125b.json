@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec51bbe6-0f39-54b7-9f30-0c4e3588125b",
+  "name": "yoko tsuno - Band 014 - Wotans Feuer",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Leloup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec51bbe6-0f39-54b7-9f30-0c4e3588125b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoko tsuno - band 014 - wotans feuer roger leloup buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9e2dd7b9-4363-5e21-94e0-9a28acb9a1d9",
+  "name": "Gaston - tierisches Vergnügen - Best of",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9e2dd7b9-4363-5e21-94e0-9a28acb9a1d9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gaston - tierisches vergnugen - best of franquin buch"
+  }
+}

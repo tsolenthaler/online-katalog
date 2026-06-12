@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4ea7db92-c484-50c9-8112-e94f04dc2b42",
+  "name": "Die 100 furchterregendsten Dinge der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Claybourne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4ea7db92-c484-50c9-8112-e94f04dc2b42",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die 100 furchterregendsten dinge der welt anna claybourne buch"
+  }
+}

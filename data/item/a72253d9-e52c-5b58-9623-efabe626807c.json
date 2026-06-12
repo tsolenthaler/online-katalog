@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a72253d9-e52c-5b58-9623-efabe626807c",
+  "name": "Die Olchis - ein Drachenfest für Feuerstuhl",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a72253d9-e52c-5b58-9623-efabe626807c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die olchis - ein drachenfest fur feuerstuhl erhard dietl buch"
+  }
+}

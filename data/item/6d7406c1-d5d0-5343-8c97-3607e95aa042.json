@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6d7406c1-d5d0-5343-8c97-3607e95aa042",
+  "name": "Unlock my truth - Band 2 - Golden Heights",
+  "author": {
+    "@type": "Person",
+    "name": "Saskia Louis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6d7406c1-d5d0-5343-8c97-3607e95aa042",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unlock my truth - band 2 - golden heights saskia louis buch"
+  }
+}

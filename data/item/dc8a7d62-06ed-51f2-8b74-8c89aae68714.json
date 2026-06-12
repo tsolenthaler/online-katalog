@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc8a7d62-06ed-51f2-8b74-8c89aae68714",
+  "name": "Boys of Tommen Band 3 - Saving 6",
+  "author": {
+    "@type": "Person",
+    "name": "Chloe Walsh"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc8a7d62-06ed-51f2-8b74-8c89aae68714",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boys of tommen band 3 - saving 6 chloe walsh buch"
+  }
+}

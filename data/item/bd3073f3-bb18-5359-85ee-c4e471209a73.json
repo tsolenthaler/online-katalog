@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd3073f3-bb18-5359-85ee-c4e471209a73",
+  "name": "Anonym",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Poznanski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd3073f3-bb18-5359-85ee-c4e471209a73",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "anonym ursula poznanski buch"
+  }
+}

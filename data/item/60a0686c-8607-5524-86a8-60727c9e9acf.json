@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:60a0686c-8607-5524-86a8-60727c9e9acf",
+  "name": "Die drei ??? Kids - Band 046 - Jagd auf das Dino-Ei",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "60a0686c-8607-5524-86a8-60727c9e9acf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 046 - jagd auf das dino-ei ulf blanck buch"
+  }
+}

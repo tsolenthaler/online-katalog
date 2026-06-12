@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3f249ce-0a59-5c76-81ca-2c004e7c782b",
+  "name": "Die sieben Schwestern",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3f249ce-0a59-5c76-81ca-2c004e7c782b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die sieben schwestern lucinda riley buch"
+  }
+}

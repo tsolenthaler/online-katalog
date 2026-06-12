@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd0924e4-3dc6-5556-ad63-a756a1132559",
+  "name": "Dork diaries - Nikkis geheimes Tagebuch - Band 9",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Renée Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd0924e4-3dc6-5556-ad63-a756a1132559",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - nikkis geheimes tagebuch - band 9 rachel renee russell buch"
+  }
+}

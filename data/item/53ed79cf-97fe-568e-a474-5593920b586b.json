@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:53ed79cf-97fe-568e-a474-5593920b586b",
+  "name": "Der Himmel über dem Platz",
+  "author": {
+    "@type": "Person",
+    "name": "Martina Wildner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "53ed79cf-97fe-568e-a474-5593920b586b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der himmel uber dem platz martina wildner buch"
+  }
+}

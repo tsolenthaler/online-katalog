@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2108842e-86e2-59d2-be8b-6a2b21596463",
+  "name": "Memo - Klimawandel",
+  "author": {
+    "@type": "Person",
+    "name": "John Woodward"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2108842e-86e2-59d2-be8b-6a2b21596463",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo - klimawandel john woodward buch"
+  }
+}

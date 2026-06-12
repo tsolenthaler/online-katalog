@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b87b741f-d593-551e-8863-ef477d966e85",
+  "name": "Superchecker! - Roboter",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Nathan Lepora"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b87b741f-d593-551e-8863-ef477d966e85",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superchecker! - roboter dr. nathan lepora buch"
+  }
+}

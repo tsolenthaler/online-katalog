@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebc60133-490e-5f41-8090-d64eb9ea9c9a",
+  "name": "De chli Prinz",
+  "author": {
+    "@type": "Person",
+    "name": "Antoine de Saint-Exupéry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ebc60133-490e-5f41-8090-d64eb9ea9c9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "de chli prinz antoine de saint-exupery buch"
+  }
+}

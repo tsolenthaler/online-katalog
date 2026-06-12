@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcce0785-3add-56ba-ae03-ccb1f87f3042",
+  "name": "Die drei! !!! - Rätsel der schwarzen Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Katrin Heger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcce0785-3add-56ba-ae03-ccb1f87f3042",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei! !!! - ratsel der schwarzen pferde ann-katrin heger buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9094de8f-d696-5fd4-bd78-3ea48f7552bc",
+  "name": "Die drei !!! - Einsatz im Kletterwald - Band 107",
+  "author": {
+    "@type": "Person",
+    "name": "Jule Ambach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9094de8f-d696-5fd4-bd78-3ea48f7552bc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - einsatz im kletterwald - band 107 jule ambach buch"
+  }
+}

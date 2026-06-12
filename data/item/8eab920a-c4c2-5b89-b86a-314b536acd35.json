@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8eab920a-c4c2-5b89-b86a-314b536acd35",
+  "name": "Ein wunderbarer Weihnachtswunsch",
+  "author": {
+    "@type": "Person",
+    "name": "Lori Evert"
+  },
+  "isbn": "9783833736599",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783833736599",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783833736599"
+  ],
+  "_catalog": {
+    "id": "8eab920a-c4c2-5b89-b86a-314b536acd35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein wunderbarer weihnachtswunsch lori evert 9783833736599 buch"
+  }
+}

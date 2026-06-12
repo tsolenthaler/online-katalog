@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f2535c6-eb6b-516a-b59d-b68d5157aed6",
+  "name": "Magic Girls, die Macht der Acht",
+  "author": {
+    "@type": "Person",
+    "name": "Marliese Arold"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0f2535c6-eb6b-516a-b59d-b68d5157aed6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "magic girls, die macht der acht marliese arold buch"
+  }
+}

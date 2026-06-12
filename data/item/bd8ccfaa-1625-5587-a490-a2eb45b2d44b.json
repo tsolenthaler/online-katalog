@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd8ccfaa-1625-5587-a490-a2eb45b2d44b",
+  "name": "Harry Potter und der HALBBLUT-PRINZ",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd8ccfaa-1625-5587-a490-a2eb45b2d44b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter und der halbblut-prinz buch"
+  }
+}

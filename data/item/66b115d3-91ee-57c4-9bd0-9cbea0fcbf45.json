@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:66b115d3-91ee-57c4-9bd0-9cbea0fcbf45",
+  "name": "Her mit den Prinzen",
+  "author": {
+    "@type": "Person",
+    "name": "Heinz Janisch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "66b115d3-91ee-57c4-9bd0-9cbea0fcbf45",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "her mit den prinzen heinz janisch buch"
+  }
+}

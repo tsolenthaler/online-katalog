@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:89eac47d-5b78-52d9-969e-af9f5c3a2f1b",
+  "name": "Kochen",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Wilkes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "89eac47d-5b78-52d9-969e-af9f5c3a2f1b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kochen angela wilkes buch"
+  }
+}

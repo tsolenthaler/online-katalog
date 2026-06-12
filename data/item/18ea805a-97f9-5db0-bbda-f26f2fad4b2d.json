@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18ea805a-97f9-5db0-bbda-f26f2fad4b2d",
+  "name": "Der andere Arthur",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Moore"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "18ea805a-97f9-5db0-bbda-f26f2fad4b2d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der andere arthur liz moore buch"
+  }
+}

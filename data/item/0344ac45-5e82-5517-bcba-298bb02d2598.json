@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0344ac45-5e82-5517-bcba-298bb02d2598",
+  "name": "Blossom",
+  "author": {
+    "@type": "Person",
+    "name": "Amelia Cadan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0344ac45-5e82-5517-bcba-298bb02d2598",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "blossom amelia cadan buch"
+  }
+}

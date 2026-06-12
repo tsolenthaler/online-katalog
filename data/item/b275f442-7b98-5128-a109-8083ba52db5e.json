@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b275f442-7b98-5128-a109-8083ba52db5e",
+  "name": "TKKG - Band 004 - Das Paket mit dem Totenkopf",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b275f442-7b98-5128-a109-8083ba52db5e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 004 - das paket mit dem totenkopf stefan wolf buch"
+  }
+}

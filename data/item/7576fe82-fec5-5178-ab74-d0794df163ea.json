@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7576fe82-fec5-5178-ab74-d0794df163ea",
+  "name": "WAS IST WAS - Pinguine / Tiere im Zoo",
+  "author": {
+    "@type": "Person",
+    "name": "Kurt Haderer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7576fe82-fec5-5178-ab74-d0794df163ea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - pinguine / tiere im zoo kurt haderer buch"
+  }
+}

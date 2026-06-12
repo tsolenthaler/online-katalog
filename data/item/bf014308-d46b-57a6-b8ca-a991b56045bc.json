@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bf014308-d46b-57a6-b8ca-a991b56045bc",
+  "name": "WAS IST WAS - Erfindungen",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Baur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bf014308-d46b-57a6-b8ca-a991b56045bc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - erfindungen manfred baur buch"
+  }
+}

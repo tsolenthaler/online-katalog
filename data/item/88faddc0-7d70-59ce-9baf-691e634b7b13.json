@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:88faddc0-7d70-59ce-9baf-691e634b7b13",
+  "name": "Ich bin dann mal weg",
+  "author": {
+    "@type": "Person",
+    "name": "Hape Kerkeling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "88faddc0-7d70-59ce-9baf-691e634b7b13",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich bin dann mal weg hape kerkeling buch"
+  }
+}

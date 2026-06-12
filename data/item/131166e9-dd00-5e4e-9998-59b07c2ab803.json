@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:131166e9-dd00-5e4e-9998-59b07c2ab803",
+  "name": "Mit Lieblingssachen durch das Jahr",
+  "author": {
+    "@type": "Person",
+    "name": "Laura Holdack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "131166e9-dd00-5e4e-9998-59b07c2ab803",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mit lieblingssachen durch das jahr laura holdack buch"
+  }
+}

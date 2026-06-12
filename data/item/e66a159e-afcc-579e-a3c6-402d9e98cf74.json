@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e66a159e-afcc-579e-a3c6-402d9e98cf74",
+  "name": "Wo kommst du her?",
+  "author": {
+    "@type": "Person",
+    "name": "Sonja Härdin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e66a159e-afcc-579e-a3c6-402d9e98cf74",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wo kommst du her? sonja hardin buch"
+  }
+}

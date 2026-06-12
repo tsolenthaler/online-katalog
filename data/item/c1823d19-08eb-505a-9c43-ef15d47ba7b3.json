@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1823d19-08eb-505a-9c43-ef15d47ba7b3",
+  "name": "Ein Mädchen Namens Willow - Band 3 -Flügelrauschen",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Bohlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1823d19-08eb-505a-9c43-ef15d47ba7b3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein madchen namens willow - band 3 -flugelrauschen sabine bohlmann buch"
+  }
+}

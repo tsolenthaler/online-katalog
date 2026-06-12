@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:04841207-5e33-5699-ad31-a57e6c911b15",
+  "name": "Tolle Sachen zum Verschenken",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "04841207-5e33-5699-ad31-a57e6c911b15",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tolle sachen zum verschenken diverse buch"
+  }
+}

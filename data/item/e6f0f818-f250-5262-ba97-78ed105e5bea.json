@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6f0f818-f250-5262-ba97-78ed105e5bea",
+  "name": "Sam und die Geister - Band 001 - Luise",
+  "author": {
+    "@type": "Person",
+    "name": "Carbone"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6f0f818-f250-5262-ba97-78ed105e5bea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sam und die geister - band 001 - luise carbone buch"
+  }
+}

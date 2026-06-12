@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b14126b3-df50-5894-ab11-a7e2498cb13b",
+  "name": "WAS IST WAS - Ritter",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Schaller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b14126b3-df50-5894-ab11-a7e2498cb13b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - ritter andrea schaller buch"
+  }
+}

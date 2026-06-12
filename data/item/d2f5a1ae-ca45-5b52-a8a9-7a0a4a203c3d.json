@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2f5a1ae-ca45-5b52-a8a9-7a0a4a203c3d",
+  "name": "Silberflosse - Band 001 - Der Lichterschatz der Delfine",
+  "author": {
+    "@type": "Person",
+    "name": "Angermayer Karen Christine"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2f5a1ae-ca45-5b52-a8a9-7a0a4a203c3d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "silberflosse - band 001 - der lichterschatz der delfine angermayer karen christine buch"
+  }
+}

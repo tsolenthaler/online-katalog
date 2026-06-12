@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc133ece-8c9c-565e-9406-8c278725dbf9",
+  "name": "Ocean City - Band 001 - Jede Sekunde zählt",
+  "author": {
+    "@type": "Person",
+    "name": "R. T. Acron"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc133ece-8c9c-565e-9406-8c278725dbf9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ocean city - band 001 - jede sekunde zahlt r. t. acron buch"
+  }
+}

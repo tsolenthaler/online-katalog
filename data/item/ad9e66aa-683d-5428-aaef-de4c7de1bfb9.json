@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad9e66aa-683d-5428-aaef-de4c7de1bfb9",
+  "name": "Die drei ??? - Im Wald der Gefahren",
+  "author": {
+    "@type": "Person",
+    "name": "André Marx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad9e66aa-683d-5428-aaef-de4c7de1bfb9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - im wald der gefahren andre marx buch"
+  }
+}

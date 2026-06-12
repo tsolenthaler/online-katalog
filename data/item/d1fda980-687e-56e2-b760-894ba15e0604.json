@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1fda980-687e-56e2-b760-894ba15e0604",
+  "name": "Guinness World Records 2025",
+  "author": {
+    "@type": "Person",
+    "name": "Guinness World Records Ltd.,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1fda980-687e-56e2-b760-894ba15e0604",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "guinness world records 2025 guinness world records ltd., buch"
+  }
+}

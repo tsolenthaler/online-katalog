@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a04bffa0-56c8-5d5c-8094-44a3fee61053",
+  "name": "TKKG Junior - Band 005 - Papageien in Not",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a04bffa0-56c8-5d5c-8094-44a3fee61053",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 005 - papageien in not kirsten vogel buch"
+  }
+}

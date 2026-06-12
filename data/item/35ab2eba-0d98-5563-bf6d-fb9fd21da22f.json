@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35ab2eba-0d98-5563-bf6d-fb9fd21da22f",
+  "name": "Die drei !!! - Band 059 - Das geheime Parfum",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Sol"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "35ab2eba-0d98-5563-bf6d-fb9fd21da22f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 059 - das geheime parfum mira sol buch"
+  }
+}

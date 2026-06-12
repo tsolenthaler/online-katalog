@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5ed2304c-acd4-57b0-a2e4-1d09f446a879",
+  "name": "No Jungs! - Der grosse Zickenzauber - Zutritt nur für",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5ed2304c-acd4-57b0-a2e4-1d09f446a879",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "no jungs! - der grosse zickenzauber - zutritt nur fur thomas brezina buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:850f8319-7d38-5190-bb52-330b65171c73",
+  "name": "Sunny Valentine - Band 002 - Von Schaumbädern und",
+  "author": {
+    "@type": "Person",
+    "name": "Irmgard Kramer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "850f8319-7d38-5190-bb52-330b65171c73",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sunny valentine - band 002 - von schaumbadern und irmgard kramer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:efd7a1ee-f8de-5d16-849f-cf1bbe4eb95e",
+  "name": "Der Feind meines Vaters",
+  "author": {
+    "@type": "Person",
+    "name": "Almudena Grandes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "efd7a1ee-f8de-5d16-849f-cf1bbe4eb95e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der feind meines vaters almudena grandes buch"
+  }
+}

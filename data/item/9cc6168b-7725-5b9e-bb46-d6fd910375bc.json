@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9cc6168b-7725-5b9e-bb46-d6fd910375bc",
+  "name": "Franka - Band 002 - Das Meisterwerk",
+  "author": {
+    "@type": "Person",
+    "name": "Henk Kuijpers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9cc6168b-7725-5b9e-bb46-d6fd910375bc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franka - band 002 - das meisterwerk henk kuijpers buch"
+  }
+}

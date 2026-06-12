@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:43f68478-deb8-5d8f-a5a5-2d2bd79f758d",
+  "name": "Guinness World Records - Fahrzeuge",
+  "author": {
+    "@type": "Person",
+    "name": "Carola Kessel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "43f68478-deb8-5d8f-a5a5-2d2bd79f758d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "guinness world records - fahrzeuge carola kessel buch"
+  }
+}

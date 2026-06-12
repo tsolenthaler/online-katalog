@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d3a8e0e9-970f-5848-8d5e-e930cbcbb9fe",
+  "name": "Zane gegen die Götter - Band 1 - Sturmläufer",
+  "author": {
+    "@type": "Person",
+    "name": "J. C. Cervantes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d3a8e0e9-970f-5848-8d5e-e930cbcbb9fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zane gegen die gotter - band 1 - sturmlaufer j. c. cervantes buch"
+  }
+}

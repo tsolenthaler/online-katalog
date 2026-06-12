@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1734c3f-b666-5ba9-8603-f51ac6f2f619",
+  "name": "die drei ??? Kids - Bücherhelden - Rätselhafte",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1734c3f-b666-5ba9-8603-f51ac6f2f619",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - bucherhelden - ratselhafte ulf blanck buch"
+  }
+}

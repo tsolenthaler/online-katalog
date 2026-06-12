@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:688d1483-2ac0-54c0-9bdf-7675baa55407",
+  "name": "Zwischen dir und mir das Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Katharina Herzog"
+  },
+  "isbn": "9783644403529",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783644403529",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783644403529"
+  ],
+  "_catalog": {
+    "id": "688d1483-2ac0-54c0-9bdf-7675baa55407",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "zwischen dir und mir das meer katharina herzog 9783644403529 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2900666-937e-5f30-9d4b-538e9995d2ee",
+  "name": "Meins! Nein, meins!",
+  "author": {
+    "@type": "Person",
+    "name": "Norbert Landa"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2900666-937e-5f30-9d4b-538e9995d2ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meins! nein, meins! norbert landa buch"
+  }
+}

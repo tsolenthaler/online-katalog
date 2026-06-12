@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdad209e-9b85-52de-9370-4f061584403b",
+  "name": "Cotton Kid - Band 006 - Der schwarze Kojote",
+  "author": {
+    "@type": "Person",
+    "name": "Pearce"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdad209e-9b85-52de-9370-4f061584403b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cotton kid - band 006 - der schwarze kojote pearce buch"
+  }
+}

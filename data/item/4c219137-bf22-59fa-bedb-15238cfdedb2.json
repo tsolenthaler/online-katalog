@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4c219137-bf22-59fa-bedb-15238cfdedb2",
+  "name": "Globine fährt ans Meer - Band 10",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel Glättli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4c219137-bf22-59fa-bedb-15238cfdedb2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine fahrt ans meer - band 10 samuel glattli buch"
+  }
+}

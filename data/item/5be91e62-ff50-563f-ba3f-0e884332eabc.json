@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5be91e62-ff50-563f-ba3f-0e884332eabc",
+  "name": "Das magische Baumhaus - Band 046 - Pandas in grosser",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Pope Osborne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5be91e62-ff50-563f-ba3f-0e884332eabc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das magische baumhaus - band 046 - pandas in grosser mary pope osborne buch"
+  }
+}

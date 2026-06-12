@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c11dfc95-5597-5f42-afee-bf1d0fc792ea",
+  "name": "die drei ??? Kids - Bücherhelden - Die Räuberjagd",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c11dfc95-5597-5f42-afee-bf1d0fc792ea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - bucherhelden - die rauberjagd ulf blanck buch"
+  }
+}

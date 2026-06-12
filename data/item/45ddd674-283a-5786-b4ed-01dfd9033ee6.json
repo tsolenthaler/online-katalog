@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:45ddd674-283a-5786-b4ed-01dfd9033ee6",
+  "name": "Die drei !!! - Band 056 - Geheimnis im Düstermoor",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "45ddd674-283a-5786-b4ed-01dfd9033ee6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 056 - geheimnis im dustermoor peter nissen buch"
+  }
+}

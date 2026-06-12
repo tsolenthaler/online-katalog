@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:64a35d07-29af-54db-be89-14622f5370fa",
+  "name": "Selection - Die Krone",
+  "author": {
+    "@type": "Person",
+    "name": "Kiera Cass"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "64a35d07-29af-54db-be89-14622f5370fa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "selection - die krone kiera cass buch"
+  }
+}

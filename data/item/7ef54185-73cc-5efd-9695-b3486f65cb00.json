@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7ef54185-73cc-5efd-9695-b3486f65cb00",
+  "name": "Meine teuflisch gute Freundin",
+  "author": {
+    "@type": "Person",
+    "name": "Hortense Ullrich"
+  },
+  "isbn": "9783733607487",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783733607487",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783733607487"
+  ],
+  "_catalog": {
+    "id": "7ef54185-73cc-5efd-9695-b3486f65cb00",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "meine teuflisch gute freundin hortense ullrich 9783733607487 buch"
+  }
+}

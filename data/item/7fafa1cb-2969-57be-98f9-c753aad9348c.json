@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7fafa1cb-2969-57be-98f9-c753aad9348c",
+  "name": "Der fremde Gast",
+  "author": {
+    "@type": "Person",
+    "name": "Charlotte Link"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7fafa1cb-2969-57be-98f9-c753aad9348c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der fremde gast charlotte link buch"
+  }
+}

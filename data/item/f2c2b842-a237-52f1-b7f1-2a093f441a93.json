@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2c2b842-a237-52f1-b7f1-2a093f441a93",
+  "name": "Violeta",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Allende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2c2b842-a237-52f1-b7f1-2a093f441a93",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "violeta isabel allende buch"
+  }
+}

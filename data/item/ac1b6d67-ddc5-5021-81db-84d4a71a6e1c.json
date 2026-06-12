@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac1b6d67-ddc5-5021-81db-84d4a71a6e1c",
+  "name": "Morgen lieb ich dich für immer",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer L. Armentrout"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac1b6d67-ddc5-5021-81db-84d4a71a6e1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morgen lieb ich dich fur immer jennifer l. armentrout buch"
+  }
+}

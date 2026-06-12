@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed18e55a-df41-5f2b-a547-8ba231ff3a22",
+  "name": "titeuf - Band 008 - Das Gesetz des Schulhof",
+  "author": {
+    "@type": "Person",
+    "name": "Zep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed18e55a-df41-5f2b-a547-8ba231ff3a22",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "titeuf - band 008 - das gesetz des schulhof zep buch"
+  }
+}

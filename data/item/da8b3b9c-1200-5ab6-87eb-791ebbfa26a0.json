@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da8b3b9c-1200-5ab6-87eb-791ebbfa26a0",
+  "name": "Avatar - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Gene Luen Yang"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da8b3b9c-1200-5ab6-87eb-791ebbfa26a0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "avatar - band 2 gene luen yang buch"
+  }
+}

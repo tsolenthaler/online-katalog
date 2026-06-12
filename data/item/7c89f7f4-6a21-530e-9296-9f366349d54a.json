@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7c89f7f4-6a21-530e-9296-9f366349d54a",
+  "name": "Die drei ??? - Band 219 - Die drei ??? und die",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Nevis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7c89f7f4-6a21-530e-9296-9f366349d54a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 219 - die drei ??? und die ben nevis buch"
+  }
+}

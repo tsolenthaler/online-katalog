@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:31ce6d94-f852-57e7-a4ae-c262fff13078",
+  "name": "Creepy Chronicles 1 – Bloß nicht den Kopf verlieren!",
+  "author": {
+    "@type": "Person",
+    "name": "Sergio Dudli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "31ce6d94-f852-57e7-a4ae-c262fff13078",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "creepy chronicles 1 – bloß nicht den kopf verlieren! sergio dudli buch"
+  }
+}

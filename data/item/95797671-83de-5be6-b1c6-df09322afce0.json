@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95797671-83de-5be6-b1c6-df09322afce0",
+  "name": "Im Tempel des Bösen",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Tielmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "95797671-83de-5be6-b1c6-df09322afce0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im tempel des bosen christian tielmann buch"
+  }
+}

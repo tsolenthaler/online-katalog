@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0c138cdc-c805-5753-a0a8-61f60e88d639",
+  "name": "Weiße Fracht - lost in Fuseta",
+  "author": {
+    "@type": "Person",
+    "name": "Gil Ribeiro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0c138cdc-c805-5753-a0a8-61f60e88d639",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weiße fracht - lost in fuseta gil ribeiro buch"
+  }
+}

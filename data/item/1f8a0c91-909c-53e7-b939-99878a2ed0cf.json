@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1f8a0c91-909c-53e7-b939-99878a2ed0cf",
+  "name": "Krummes Holz",
+  "author": {
+    "@type": "Person",
+    "name": "Julja Linhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1f8a0c91-909c-53e7-b939-99878a2ed0cf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krummes holz julja linhof buch"
+  }
+}

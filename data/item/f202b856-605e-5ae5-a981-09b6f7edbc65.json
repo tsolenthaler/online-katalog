@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f202b856-605e-5ae5-a981-09b6f7edbc65",
+  "name": "Fräulein Gold - Band 6 - Die Lichter der Stadt",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Stern"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f202b856-605e-5ae5-a981-09b6f7edbc65",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fraulein gold - band 6 - die lichter der stadt anne stern buch"
+  }
+}

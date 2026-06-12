@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ccc4f328-1b26-57a6-905c-d127e50f4769",
+  "name": "Das NEINhorn",
+  "author": {
+    "@type": "Person",
+    "name": "Marc-Uwe Kling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ccc4f328-1b26-57a6-905c-d127e50f4769",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das neinhorn marc-uwe kling buch"
+  }
+}

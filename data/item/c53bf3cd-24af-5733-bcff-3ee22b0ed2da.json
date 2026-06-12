@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c53bf3cd-24af-5733-bcff-3ee22b0ed2da",
+  "name": "Der kleine Marienkäfer und die Tiere auf der Wiese",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Grimm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c53bf3cd-24af-5733-bcff-3ee22b0ed2da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine marienkafer und die tiere auf der wiese markus grimm buch"
+  }
+}

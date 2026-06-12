@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1f57e121-b888-56e5-8c73-366427bac2e7",
+  "name": "City Spies - Band 1- Gefährlicher Auftrag",
+  "author": {
+    "@type": "Person",
+    "name": "James Ponti"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1f57e121-b888-56e5-8c73-366427bac2e7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "city spies - band 1- gefahrlicher auftrag james ponti buch"
+  }
+}

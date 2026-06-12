@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf37ce15-a1da-5923-b179-914d631f6458",
+  "name": "Die drei ??? - Band 123 - Fussballfieber",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Hitchcock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf37ce15-a1da-5923-b179-914d631f6458",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 123 - fussballfieber alfred hitchcock buch"
+  }
+}

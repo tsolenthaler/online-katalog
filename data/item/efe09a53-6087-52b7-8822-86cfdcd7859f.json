@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:efe09a53-6087-52b7-8822-86cfdcd7859f",
+  "name": "Wieso Weshalb Warum - Was macht der Astronaut?",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nieländer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "efe09a53-6087-52b7-8822-86cfdcd7859f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - was macht der astronaut? peter nielander buch"
+  }
+}

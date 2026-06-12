@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b1347d61-c945-5c01-8532-e3af9e69c6be",
+  "name": "Die drei ??? - Band 136 - und das versunkene Dorf",
+  "author": {
+    "@type": "Person",
+    "name": "André Marx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b1347d61-c945-5c01-8532-e3af9e69c6be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 136 - und das versunkene dorf andre marx buch"
+  }
+}

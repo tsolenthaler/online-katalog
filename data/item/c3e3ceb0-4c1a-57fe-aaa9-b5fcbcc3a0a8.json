@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c3e3ceb0-4c1a-57fe-aaa9-b5fcbcc3a0a8",
+  "name": "Am Arsch vorbei geht auch ein Weg - wie sich dein",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Reinwarth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c3e3ceb0-4c1a-57fe-aaa9-b5fcbcc3a0a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "am arsch vorbei geht auch ein weg - wie sich dein alexandra reinwarth buch"
+  }
+}

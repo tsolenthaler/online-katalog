@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:19e3dbb0-04dc-5290-b8b6-dd1117a059ad",
+  "name": "Gregs Tagebuch - Band 013 - Eiskalt erwischt!",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "19e3dbb0-04dc-5290-b8b6-dd1117a059ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tagebuch - band 013 - eiskalt erwischt! jeff kinney buch"
+  }
+}

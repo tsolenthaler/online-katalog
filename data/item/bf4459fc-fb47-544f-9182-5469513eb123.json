@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bf4459fc-fb47-544f-9182-5469513eb123",
+  "name": "Traktor Wimmelbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Max Walther"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bf4459fc-fb47-544f-9182-5469513eb123",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "traktor wimmelbuch max walther buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f5e2810f-84a9-5afe-a247-3349eef4335d",
+  "name": "Tafiti - Band 001 - und die Reise ans Ende der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f5e2810f-84a9-5afe-a247-3349eef4335d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tafiti - band 001 - und die reise ans ende der welt julia boehme buch"
+  }
+}

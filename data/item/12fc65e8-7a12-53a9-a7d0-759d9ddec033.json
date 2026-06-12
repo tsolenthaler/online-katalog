@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:12fc65e8-7a12-53a9-a7d0-759d9ddec033",
+  "name": "Hexe Lilli - Band 018 - im Wunderland",
+  "author": {
+    "@type": "Person",
+    "name": "Knister"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "12fc65e8-7a12-53a9-a7d0-759d9ddec033",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe lilli - band 018 - im wunderland knister buch"
+  }
+}

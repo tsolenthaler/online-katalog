@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:28f80631-7599-5758-88d9-88cc26f10312",
+  "name": "The monet family – shine bright, little pearl - Band 4",
+  "author": {
+    "@type": "Person",
+    "name": "Weronika Anna Marczak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "28f80631-7599-5758-88d9-88cc26f10312",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the monet family – shine bright, little pearl - band 4 weronika anna marczak buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2550b2d9-cbcb-57f1-80d6-2474e4c38e1f",
+  "name": "Was man von hier aus sehen kann",
+  "author": {
+    "@type": "Person",
+    "name": "Mariana Leky"
+  },
+  "isbn": "9783755800736",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783755800736",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783755800736"
+  ],
+  "_catalog": {
+    "id": "2550b2d9-cbcb-57f1-80d6-2474e4c38e1f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "was man von hier aus sehen kann mariana leky 9783755800736 buch"
+  }
+}

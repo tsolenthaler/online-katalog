@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9aa6c2fb-0884-5db5-85a9-3057b4995256",
+  "name": "Immer dieser Michel",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Lindgren"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9aa6c2fb-0884-5db5-85a9-3057b4995256",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "immer dieser michel astrid lindgren buch"
+  }
+}

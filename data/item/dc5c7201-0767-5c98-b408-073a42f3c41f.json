@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc5c7201-0767-5c98-b408-073a42f3c41f",
+  "name": "Nichts bleibt begraben",
+  "author": {
+    "@type": "Person",
+    "name": "Harlan Coben"
+  },
+  "isbn": "9783844546798",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844546798",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844546798"
+  ],
+  "_catalog": {
+    "id": "dc5c7201-0767-5c98-b408-073a42f3c41f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "nichts bleibt begraben harlan coben 9783844546798 buch"
+  }
+}

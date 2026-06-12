@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8dc03fe-7b78-5ec1-9a57-f08732395e7b",
+  "name": "Asterix - Band 037 - In Italien",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Yves Ferri"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8dc03fe-7b78-5ec1-9a57-f08732395e7b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 037 - in italien jean-yves ferri buch"
+  }
+}

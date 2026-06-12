@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:325e01e6-f27f-50de-9e77-0d5bea8e4f44",
+  "name": "Kasperlitheater - Band 007 - De Schorsch Gaggo reist uf",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Schneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "325e01e6-f27f-50de-9e77-0d5bea8e4f44",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kasperlitheater - band 007 - de schorsch gaggo reist uf jorg schneider buch"
+  }
+}

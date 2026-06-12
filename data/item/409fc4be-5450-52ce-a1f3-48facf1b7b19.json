@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:409fc4be-5450-52ce-a1f3-48facf1b7b19",
+  "name": "Leo & Lolli - Band 001 - Ein Pony braucht Freunde",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "409fc4be-5450-52ce-a1f3-48facf1b7b19",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leo & lolli - band 001 - ein pony braucht freunde julia boehme buch"
+  }
+}

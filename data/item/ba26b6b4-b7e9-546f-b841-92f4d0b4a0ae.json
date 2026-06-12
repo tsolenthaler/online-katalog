@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba26b6b4-b7e9-546f-b841-92f4d0b4a0ae",
+  "name": "Yakari - Band 010 - bei den Bären",
+  "author": {
+    "@type": "Person",
+    "name": "Derib u. Job"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba26b6b4-b7e9-546f-b841-92f4d0b4a0ae",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 010 - bei den baren derib u. job buch"
+  }
+}

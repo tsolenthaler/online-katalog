@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7bc3eab-4562-553c-ac1a-4ddc5b51f43e",
+  "name": "Mein Lotta-Leben - Band 12 - eine Natter macht die",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7bc3eab-4562-553c-ac1a-4ddc5b51f43e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 12 - eine natter macht die alice pantermuller buch"
+  }
+}

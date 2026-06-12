@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c8bf954b-7dcf-5439-a4fc-5b5b87c77eee",
+  "name": "Mein Leben ist ganz großes Kino",
+  "author": {
+    "@type": "Person",
+    "name": "Emma Flint"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c8bf954b-7dcf-5439-a4fc-5b5b87c77eee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein leben ist ganz großes kino emma flint buch"
+  }
+}

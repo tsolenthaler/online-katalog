@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c55291aa-2f2e-5603-b620-71bee6abbd64",
+  "name": "Wildpferde - Mutig und Frei - Band 1 - Lunas großes",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Giebken"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c55291aa-2f2e-5603-b620-71bee6abbd64",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wildpferde - mutig und frei - band 1 - lunas großes sabine giebken buch"
+  }
+}

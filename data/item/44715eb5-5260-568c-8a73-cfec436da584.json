@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:44715eb5-5260-568c-8a73-cfec436da584",
+  "name": "Liliane Susewind - Ein kleiner Esel kommt gross raus",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "44715eb5-5260-568c-8a73-cfec436da584",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - ein kleiner esel kommt gross raus tanya stewner buch"
+  }
+}

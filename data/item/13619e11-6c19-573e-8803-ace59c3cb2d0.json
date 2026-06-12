@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13619e11-6c19-573e-8803-ace59c3cb2d0",
+  "name": "Das grosse Kürbisschnitzbuch",
+  "author": {
+    "@type": "Person",
+    "name": "W Schultze"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13619e11-6c19-573e-8803-ace59c3cb2d0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das grosse kurbisschnitzbuch w schultze buch"
+  }
+}

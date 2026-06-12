@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5c0dfd0f-ec52-5041-827f-036ed65472fd",
+  "name": "Der Gesang der Wasserpferde",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Müller"
+  },
+  "isbn": "9783505150029",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783505150029",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783505150029"
+  ],
+  "_catalog": {
+    "id": "5c0dfd0f-ec52-5041-827f-036ed65472fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der gesang der wasserpferde karin muller 9783505150029 buch"
+  }
+}

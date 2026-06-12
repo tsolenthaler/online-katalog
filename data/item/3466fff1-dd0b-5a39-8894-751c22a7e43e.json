@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3466fff1-dd0b-5a39-8894-751c22a7e43e",
+  "name": "Mein Tag & Nacht Wimmelbuch - im Zoo",
+  "author": {
+    "@type": "Person",
+    "name": "Kerstin M. Schuld"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3466fff1-dd0b-5a39-8894-751c22a7e43e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein tag & nacht wimmelbuch - im zoo kerstin m. schuld buch"
+  }
+}

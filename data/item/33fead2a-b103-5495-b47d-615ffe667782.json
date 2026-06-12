@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:33fead2a-b103-5495-b47d-615ffe667782",
+  "name": "Im Glanz der Macht",
+  "author": {
+    "@type": "Person",
+    "name": "Caren Benedikt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "33fead2a-b103-5495-b47d-615ffe667782",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im glanz der macht caren benedikt buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9188f814-c0f7-5b55-9703-eb394846832e",
+  "name": "Die Zeitdetektive - Band 024 - Der Fluch der Wikinger",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9188f814-c0f7-5b55-9703-eb394846832e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeitdetektive - band 024 - der fluch der wikinger fabian lenk buch"
+  }
+}

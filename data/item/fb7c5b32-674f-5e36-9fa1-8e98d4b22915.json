@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb7c5b32-674f-5e36-9fa1-8e98d4b22915",
+  "name": "Alpfahrt",
+  "author": {
+    "@type": "Person",
+    "name": "Piontek Franz-Norbert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb7c5b32-674f-5e36-9fa1-8e98d4b22915",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alpfahrt piontek franz-norbert buch"
+  }
+}

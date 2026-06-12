@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e88d4a6e-b7aa-5f7c-bf2a-c1d93c9b9e45",
+  "name": "Piratten - Band 03 - Das Geheimnis der Schatzkarte",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e88d4a6e-b7aa-5f7c-bf2a-c1d93c9b9e45",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "piratten - band 03 - das geheimnis der schatzkarte michael peinkofer buch"
+  }
+}

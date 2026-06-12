@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:903dbe51-2efe-5135-a9e0-c90aad54354a",
+  "name": "Harry Potter und die Kammer des Schreckens (Harry",
+  "author": {
+    "@type": "Person",
+    "name": "J.K. Rowling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "903dbe51-2efe-5135-a9e0-c90aad54354a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter und die kammer des schreckens (harry j.k. rowling buch"
+  }
+}

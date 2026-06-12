@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc54d734-ae59-533a-a7fd-a0405523c798",
+  "name": "Käpt'n Sharky - bi de Wikinger",
+  "author": {
+    "@type": "Person",
+    "name": "Jutta Langreuter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc54d734-ae59-533a-a7fd-a0405523c798",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kapt'n sharky - bi de wikinger jutta langreuter buch"
+  }
+}

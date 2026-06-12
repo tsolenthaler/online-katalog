@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:336b9301-38f5-599f-88eb-9a13e062e60c",
+  "name": "Fünf Freunde - Band 079 - und das Rätsel des",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "336b9301-38f5-599f-88eb-9a13e062e60c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 079 - und das ratsel des enid blyton buch"
+  }
+}

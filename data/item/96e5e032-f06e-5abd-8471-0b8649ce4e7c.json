@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:96e5e032-f06e-5abd-8471-0b8649ce4e7c",
+  "name": "Der Hunderjährige der aus dem Fenster stieg und",
+  "author": {
+    "@type": "Person",
+    "name": "Felix Herngren"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "96e5e032-f06e-5abd-8471-0b8649ce4e7c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der hunderjahrige der aus dem fenster stieg und felix herngren buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e694ea6d-a621-5aa7-a580-09bb6afdfb51",
+  "name": "Tod schwarze Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Jules Gray"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e694ea6d-a621-5aa7-a580-09bb6afdfb51",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tod schwarze nacht jules gray buch"
+  }
+}

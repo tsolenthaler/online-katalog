@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f94788d2-f27c-5c19-87ec-474a0927a3ef",
+  "name": "Entdecke - die Kühe",
+  "author": {
+    "@type": "Person",
+    "name": "Jutta Heise"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f94788d2-f27c-5c19-87ec-474a0927a3ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke - die kuhe jutta heise buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2a069e8-d431-5e2c-ae57-eac6f343e8ca",
+  "name": "TKKG Junior - Band 008 - Die Dino-Diebe",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Tannenberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2a069e8-d431-5e2c-ae57-eac6f343e8ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 008 - die dino-diebe benjamin tannenberg buch"
+  }
+}

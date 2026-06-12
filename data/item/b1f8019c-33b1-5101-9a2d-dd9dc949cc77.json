@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b1f8019c-33b1-5101-9a2d-dd9dc949cc77",
+  "name": "Fünf Freunde - Band 110 - auf dem Pfad der",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b1f8019c-33b1-5101-9a2d-dd9dc949cc77",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 110 - auf dem pfad der enid blyton buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da1eea0b-8167-589f-a86d-3aeb87996d8a",
+  "name": "Ein Fall für Kwiatkowski - Band 026 - Sherlocks Pfeife",
+  "author": {
+    "@type": "Person",
+    "name": "Jürgen Banscherus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da1eea0b-8167-589f-a86d-3aeb87996d8a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein fall fur kwiatkowski - band 026 - sherlocks pfeife jurgen banscherus buch"
+  }
+}

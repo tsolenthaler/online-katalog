@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:12d54348-444f-5fff-a64c-75bcf573827f",
+  "name": "Spirou + Fantasio - Band 045 - Flut über Paris",
+  "author": {
+    "@type": "Person",
+    "name": "Munuera Morvan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "12d54348-444f-5fff-a64c-75bcf573827f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 045 - flut uber paris munuera morvan buch"
+  }
+}

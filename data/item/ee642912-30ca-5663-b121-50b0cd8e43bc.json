@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee642912-30ca-5663-b121-50b0cd8e43bc",
+  "name": "Sternenschweif - Zirkusfreunde",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee642912-30ca-5663-b121-50b0cd8e43bc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - zirkusfreunde linda chapman buch"
+  }
+}

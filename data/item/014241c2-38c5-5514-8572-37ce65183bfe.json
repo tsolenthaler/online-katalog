@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:014241c2-38c5-5514-8572-37ce65183bfe",
+  "name": "Wilde Horde - Band 002 - Pferdeflüstern",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin Tempel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "014241c2-38c5-5514-8572-37ce65183bfe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wilde horde - band 002 - pferdeflustern katrin tempel buch"
+  }
+}

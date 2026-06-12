@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1a27c21-fa9d-5f5f-87c5-9d47c93180ef",
+  "name": "Die Weberbauern",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Züst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1a27c21-fa9d-5f5f-87c5-9d47c93180ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die weberbauern walter zust buch"
+  }
+}

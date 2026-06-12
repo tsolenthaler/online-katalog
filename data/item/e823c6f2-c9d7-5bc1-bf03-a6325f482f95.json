@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e823c6f2-c9d7-5bc1-bf03-a6325f482f95",
+  "name": "Warrior Cats : Band 2 : Das Schicksal des Wolkenclans",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e823c6f2-c9d7-5bc1-bf03-a6325f482f95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warrior cats : band 2 : das schicksal des wolkenclans erin hunter buch"
+  }
+}

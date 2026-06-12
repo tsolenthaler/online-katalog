@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df68725e-aded-5322-8449-1df80174bfc9",
+  "name": "Plitsch, platsch, Entenquatsch!",
+  "author": {
+    "@type": "Person",
+    "name": "David Melling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df68725e-aded-5322-8449-1df80174bfc9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "plitsch, platsch, entenquatsch! david melling buch"
+  }
+}

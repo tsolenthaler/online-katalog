@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7fdcc432-cd58-5450-b5a4-13f1799575a5",
+  "name": "Krawallnacht - Kilians Geschichte",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Gabathuler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7fdcc432-cd58-5450-b5a4-13f1799575a5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krawallnacht - kilians geschichte alice gabathuler buch"
+  }
+}

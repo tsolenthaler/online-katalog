@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c5a9e97-fe17-5046-b3f6-5ba5ea084c2b",
+  "name": "Johann und Pfiffikus - Band 005 - Der Zauber von",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c5a9e97-fe17-5046-b3f6-5ba5ea084c2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "johann und pfiffikus - band 005 - der zauber von peyo buch"
+  }
+}

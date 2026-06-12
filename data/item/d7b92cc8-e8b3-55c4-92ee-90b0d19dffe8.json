@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d7b92cc8-e8b3-55c4-92ee-90b0d19dffe8",
+  "name": "Broken Beautiful Hearts",
+  "author": {
+    "@type": "Person",
+    "name": "Kami Garcia"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d7b92cc8-e8b3-55c4-92ee-90b0d19dffe8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "broken beautiful hearts kami garcia buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e49aec70-10cc-518a-a288-203038218584",
+  "name": "Invisible",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Poznanski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e49aec70-10cc-518a-a288-203038218584",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "invisible ursula poznanski buch"
+  }
+}

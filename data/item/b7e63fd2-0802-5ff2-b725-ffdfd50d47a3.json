@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7e63fd2-0802-5ff2-b725-ffdfd50d47a3",
+  "name": "Heimkehr",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Hürlimann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7e63fd2-0802-5ff2-b725-ffdfd50d47a3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heimkehr thomas hurlimann buch"
+  }
+}

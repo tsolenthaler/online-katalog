@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c64ee022-03c0-5878-8d67-15365e37c6d5",
+  "name": "Oriental Basics",
+  "author": {
+    "@type": "Person",
+    "name": "Cornelia Schinharl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c64ee022-03c0-5878-8d67-15365e37c6d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "oriental basics cornelia schinharl buch"
+  }
+}

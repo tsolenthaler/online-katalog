@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a9629ff9-c5f7-5370-b09d-62e59ba6cff6",
+  "name": "Die Schule der magischen Tiere - Ermittelt - Band 002 -",
+  "author": {
+    "@type": "Person",
+    "name": "Margit Auer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a9629ff9-c5f7-5370-b09d-62e59ba6cff6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schule der magischen tiere - ermittelt - band 002 - margit auer buch"
+  }
+}

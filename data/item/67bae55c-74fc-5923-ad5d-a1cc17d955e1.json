@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:67bae55c-74fc-5923-ad5d-a1cc17d955e1",
+  "name": "Fünf Freunde - Band 078 - und die Piraten-Bande",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "67bae55c-74fc-5923-ad5d-a1cc17d955e1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 078 - und die piraten-bande enid blyton buch"
+  }
+}

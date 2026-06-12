@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e57c6783-9ffb-5551-94fe-4fe865e54b4e",
+  "name": "Was ist was - Mode",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Paxmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e57c6783-9ffb-5551-94fe-4fe865e54b4e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - mode christine paxmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a07cc0e2-4182-5c80-974c-91d344082093",
+  "name": "Marsupilami - Band 000 - Jagd auf das Marsupilami",
+  "author": {
+    "@type": "Person",
+    "name": "Batem & Greg Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a07cc0e2-4182-5c80-974c-91d344082093",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 000 - jagd auf das marsupilami batem & greg franquin buch"
+  }
+}

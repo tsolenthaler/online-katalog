@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5b0ad6c-36c7-50f9-af9c-2c29dc987d12",
+  "name": "Auf den Spuren des Geisterwolfs",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "9783764170950",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783764170950",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783764170950"
+  ],
+  "_catalog": {
+    "id": "d5b0ad6c-36c7-50f9-af9c-2c29dc987d12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "auf den spuren des geisterwolfs christopher ross 9783764170950 buch"
+  }
+}

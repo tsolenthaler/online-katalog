@@ -2,29 +2,25 @@
   "@context": "https://schema.org",
   "@type": "Book",
   "@id": "urn:uuid:1fb05565-00db-5a83-a0c4-25f86c88bd6a",
-  "name": "In 80 Tagen um die Welt",
+  "name": "in 80 Tagen um die Welt",
   "author": {
     "@type": "Person",
-    "name": "Jules Verne"
+    "name": ""
   },
-  "isbn": "9783730616253",
+  "isbn": "",
   "genre": "",
   "keywords": [],
   "description": "",
   "image": "assets/placeholder-cover.svg",
-  "sameAs": [
-    "https://openlibrary.org/isbn/9783730616253",
-    "https://portal.dnb.de/opac/simpleSearch?query=9783730616253"
-  ],
   "_catalog": {
     "id": "1fb05565-00db-5a83-a0c4-25f86c88bd6a",
     "type": "Buch",
     "owner": "",
     "date_added": "",
     "is_new": false,
-    "status": "OK",
-    "metadata_source": "openlibrary",
-    "isbn_source": "dnb",
-    "search_text": "in 80 tagen um die welt jules verne 9783730616253 buch"
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "in 80 tagen um die welt buch"
   }
 }

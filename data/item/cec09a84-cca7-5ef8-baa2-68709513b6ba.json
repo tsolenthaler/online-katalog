@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cec09a84-cca7-5ef8-baa2-68709513b6ba",
+  "name": "Liliane Susewind - Viel Gerenne um eine Henne - Band",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cec09a84-cca7-5ef8-baa2-68709513b6ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - viel gerenne um eine henne - band tanya stewner buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65406ff6-56ff-5c90-b681-88285bc38a8c",
+  "name": "Die Tuchvilla - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65406ff6-56ff-5c90-b681-88285bc38a8c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tuchvilla - band 1 anne jacobs buch"
+  }
+}

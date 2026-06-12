@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e36570c1-eda3-536a-a3e7-51f1f6999e6e",
+  "name": "Und wir tanzen, und wir fallen",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine Newman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e36570c1-eda3-536a-a3e7-51f1f6999e6e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "und wir tanzen, und wir fallen catherine newman buch"
+  }
+}

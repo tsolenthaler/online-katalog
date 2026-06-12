@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d411bfa7-a461-5de1-8ff8-2a6738574f1a",
+  "name": "Wie Findus zu Pettersson kam",
+  "author": {
+    "@type": "Person",
+    "name": "Sven Nordqvist"
+  },
+  "isbn": "9783751204859",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783751204859",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783751204859"
+  ],
+  "_catalog": {
+    "id": "d411bfa7-a461-5de1-8ff8-2a6738574f1a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "wie findus zu pettersson kam sven nordqvist 9783751204859 buch"
+  }
+}

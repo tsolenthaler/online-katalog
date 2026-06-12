@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1f2a57a0-8e32-5672-8b82-0e2d58964eda",
+  "name": "Ich bin aber noch kein bisschen müde",
+  "author": {
+    "@type": "Person",
+    "name": "Anu Stohner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1f2a57a0-8e32-5672-8b82-0e2d58964eda",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich bin aber noch kein bisschen mude anu stohner buch"
+  }
+}

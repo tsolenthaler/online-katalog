@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:36c5af29-3f7a-5060-bbd2-1320af0e0b79",
+  "name": "Hoffnung auf eine glückliche Zukunft",
+  "author": {
+    "@type": "Person",
+    "name": "Gaby Hauptmann"
+  },
+  "isbn": "9783492064781",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783492064781",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783492064781"
+  ],
+  "_catalog": {
+    "id": "36c5af29-3f7a-5060-bbd2-1320af0e0b79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "hoffnung auf eine gluckliche zukunft gaby hauptmann 9783492064781 buch"
+  }
+}

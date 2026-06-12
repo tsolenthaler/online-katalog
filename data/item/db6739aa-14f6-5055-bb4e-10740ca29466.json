@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db6739aa-14f6-5055-bb4e-10740ca29466",
+  "name": "Ostschweizer Schluchtenbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Urs Brosy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db6739aa-14f6-5055-bb4e-10740ca29466",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ostschweizer schluchtenbuch urs brosy buch"
+  }
+}

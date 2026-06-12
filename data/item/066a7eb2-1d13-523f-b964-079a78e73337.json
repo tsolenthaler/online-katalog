@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:066a7eb2-1d13-523f-b964-079a78e73337",
+  "name": "Die Schatzinsel",
+  "author": {
+    "@type": "Person",
+    "name": "Stevensen Louis Robert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "066a7eb2-1d13-523f-b964-079a78e73337",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schatzinsel stevensen louis robert buch"
+  }
+}

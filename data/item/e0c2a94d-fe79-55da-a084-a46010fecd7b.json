@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0c2a94d-fe79-55da-a084-a46010fecd7b",
+  "name": "Blütenwanderungen in der Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Joss"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0c2a94d-fe79-55da-a084-a46010fecd7b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "blutenwanderungen in der schweiz sabine joss buch"
+  }
+}

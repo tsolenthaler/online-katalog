@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2516a3bd-ef9a-51dc-983a-93ac89a9ff42",
+  "name": "Das Rösslein Hü fährt wieder in die Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Franz Caspar"
+  },
+  "isbn": "9783545310056",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783545310056",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783545310056"
+  ],
+  "_catalog": {
+    "id": "2516a3bd-ef9a-51dc-983a-93ac89a9ff42",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das rosslein hu fahrt wieder in die welt franz caspar 9783545310056 buch"
+  }
+}

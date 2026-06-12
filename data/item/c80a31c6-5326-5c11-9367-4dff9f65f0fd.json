@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c80a31c6-5326-5c11-9367-4dff9f65f0fd",
+  "name": "Die Schule der magischen Tiere - Band 003 - Licht aus!",
+  "author": {
+    "@type": "Person",
+    "name": "Margit Auer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c80a31c6-5326-5c11-9367-4dff9f65f0fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schule der magischen tiere - band 003 - licht aus! margit auer buch"
+  }
+}

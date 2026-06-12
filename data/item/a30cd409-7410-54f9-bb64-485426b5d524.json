@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a30cd409-7410-54f9-bb64-485426b5d524",
+  "name": "Ich kenn dich nicht, ich geh nicht mit!",
+  "author": {
+    "@type": "Person",
+    "name": "Susa Apenrade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a30cd409-7410-54f9-bb64-485426b5d524",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich kenn dich nicht, ich geh nicht mit! susa apenrade buch"
+  }
+}

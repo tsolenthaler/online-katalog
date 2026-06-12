@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2fc814a-d523-55e5-b956-bc5c19e964ee",
+  "name": "Mina Wirbelfee",
+  "author": {
+    "@type": "Person",
+    "name": "Zoe Magdalena"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2fc814a-d523-55e5-b956-bc5c19e964ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mina wirbelfee zoe magdalena buch"
+  }
+}

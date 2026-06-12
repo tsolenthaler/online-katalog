@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8c9ab134-9bdd-5989-99d8-377c31528be4",
+  "name": "Just Like You",
+  "author": {
+    "@type": "Person",
+    "name": "Nick Hornby"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8c9ab134-9bdd-5989-99d8-377c31528be4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "just like you nick hornby buch"
+  }
+}

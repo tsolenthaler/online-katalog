@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0c40cbf0-a4d3-56ff-bf4b-cae6c7f37500",
+  "name": "Florence Foster Jenkins",
+  "author": {
+    "@type": "Person",
+    "name": "Stephen Frears"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0c40cbf0-a4d3-56ff-bf4b-cae6c7f37500",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "florence foster jenkins stephen frears buch"
+  }
+}

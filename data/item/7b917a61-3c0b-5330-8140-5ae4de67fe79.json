@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7b917a61-3c0b-5330-8140-5ae4de67fe79",
+  "name": "Catching Fire",
+  "author": {
+    "@type": "Person",
+    "name": "Francis Lawrence"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7b917a61-3c0b-5330-8140-5ae4de67fe79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "catching fire francis lawrence buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:440213d6-1a38-5540-a299-1fc382575d32",
+  "name": "Der Trip – Du hast dich frei gefühlt. Bis er dich fand.",
+  "author": {
+    "@type": "Person",
+    "name": "Arno Strobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "440213d6-1a38-5540-a299-1fc382575d32",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der trip – du hast dich frei gefuhlt. bis er dich fand. arno strobel buch"
+  }
+}

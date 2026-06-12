@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:69c36dec-5373-5eb6-be83-1425fa559eb2",
+  "name": "Sterne über Tauranga",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Laureen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "69c36dec-5373-5eb6-be83-1425fa559eb2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sterne uber tauranga anne laureen buch"
+  }
+}

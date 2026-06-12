@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d7320563-ad8a-59e4-a8ec-89416a7ac7ba",
+  "name": "Die drei ??? Kids - Band 92 - Spuk im Leuchtturm",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d7320563-ad8a-59e4-a8ec-89416a7ac7ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 92 - spuk im leuchtturm ulf blanck buch"
+  }
+}

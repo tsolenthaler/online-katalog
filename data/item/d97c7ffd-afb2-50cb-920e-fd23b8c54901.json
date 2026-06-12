@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d97c7ffd-afb2-50cb-920e-fd23b8c54901",
+  "name": "Käpt'n Sharky - im Wilden Westen",
+  "author": {
+    "@type": "Person",
+    "name": "Rainer Bielfeldt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d97c7ffd-afb2-50cb-920e-fd23b8c54901",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kapt'n sharky - im wilden westen rainer bielfeldt buch"
+  }
+}

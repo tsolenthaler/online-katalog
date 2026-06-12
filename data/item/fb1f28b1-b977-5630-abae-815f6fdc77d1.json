@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb1f28b1-b977-5630-abae-815f6fdc77d1",
+  "name": "Warrior Cats - 2/Band 4 - Sternenglanz",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb1f28b1-b977-5630-abae-815f6fdc77d1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warrior cats - 2/band 4 - sternenglanz erin hunter buch"
+  }
+}

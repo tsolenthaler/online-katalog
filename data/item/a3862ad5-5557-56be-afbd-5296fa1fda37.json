@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a3862ad5-5557-56be-afbd-5296fa1fda37",
+  "name": "Schellenursli",
+  "author": {
+    "@type": "Person",
+    "name": "Alois Carigiet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a3862ad5-5557-56be-afbd-5296fa1fda37",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schellenursli alois carigiet buch"
+  }
+}

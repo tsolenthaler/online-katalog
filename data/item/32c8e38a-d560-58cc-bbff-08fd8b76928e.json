@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:32c8e38a-d560-58cc-bbff-08fd8b76928e",
+  "name": "Spirou + Fantasio - Band 016 - Qrn ruft Bretzelburg",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "32c8e38a-d560-58cc-bbff-08fd8b76928e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 016 - qrn ruft bretzelburg franquin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:758c4b1f-b42a-561e-828d-991c59309dca",
+  "name": "Die Zeitdetektive - Band 004 - im Mittelalter",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "758c4b1f-b42a-561e-828d-991c59309dca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeitdetektive - band 004 - im mittelalter fabian lenk buch"
+  }
+}

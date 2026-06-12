@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0a4eb6fa-aaf6-50ad-879c-e230c60e6544",
+  "name": "Huckleberry Finns Abenteuer",
+  "author": {
+    "@type": "Person",
+    "name": "Mark Twain"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0a4eb6fa-aaf6-50ad-879c-e230c60e6544",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "huckleberry finns abenteuer mark twain buch"
+  }
+}

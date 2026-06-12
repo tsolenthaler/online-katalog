@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a858aa75-a472-56b6-b596-a92547b4082b",
+  "name": "Ein Jahr mit den Störchen",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Müller"
+  },
+  "isbn": "9783836958226",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783836958226",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783836958226"
+  ],
+  "_catalog": {
+    "id": "a858aa75-a472-56b6-b596-a92547b4082b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein jahr mit den storchen thomas muller 9783836958226 buch"
+  }
+}

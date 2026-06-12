@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb415320-8de7-56b3-a39e-d702aaa1161e",
+  "name": "Südafrika",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb415320-8de7-56b3-a39e-d702aaa1161e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sudafrika diverse buch"
+  }
+}

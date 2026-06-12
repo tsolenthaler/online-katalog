@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3d026b7-286e-52ac-b9ce-e706c644f42f",
+  "name": "Felicity Gallant und das steinerne Herz",
+  "author": {
+    "@type": "Person",
+    "name": "Melanie Welsh"
+  },
+  "isbn": "9783862729418",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783862729418",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783862729418"
+  ],
+  "_catalog": {
+    "id": "b3d026b7-286e-52ac-b9ce-e706c644f42f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "felicity gallant und das steinerne herz melanie welsh 9783862729418 buch"
+  }
+}

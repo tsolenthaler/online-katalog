@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2e4cefb2-2c3f-5352-b8cd-e27038e574eb",
+  "name": "Spirou + Fantasio - Band SPEZ - Spirou bei den Sowjets",
+  "author": {
+    "@type": "Person",
+    "name": "Fred Neidhardt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2e4cefb2-2c3f-5352-b8cd-e27038e574eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band spez - spirou bei den sowjets fred neidhardt buch"
+  }
+}

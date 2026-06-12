@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4c1804b-a3d4-51b1-a713-fe9b80184e25",
+  "name": "Die Liebe der Göttin",
+  "author": {
+    "@type": "Person",
+    "name": "Aprilynne Pike"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4c1804b-a3d4-51b1-a713-fe9b80184e25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die liebe der gottin aprilynne pike buch"
+  }
+}

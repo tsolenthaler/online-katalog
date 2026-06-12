@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1a9608c-28f5-56a4-9dd9-86c12fd6e666",
+  "name": "One of us is lying",
+  "author": {
+    "@type": "Person",
+    "name": "Karen M. McManus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f1a9608c-28f5-56a4-9dd9-86c12fd6e666",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "one of us is lying karen m. mcmanus buch"
+  }
+}

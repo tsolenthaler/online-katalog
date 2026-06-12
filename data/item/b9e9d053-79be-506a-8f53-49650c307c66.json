@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9e9d053-79be-506a-8f53-49650c307c66",
+  "name": "Ökologisch gärtnern",
+  "author": {
+    "@type": "Person",
+    "name": "Zia Allaway"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9e9d053-79be-506a-8f53-49650c307c66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "okologisch gartnern zia allaway buch"
+  }
+}

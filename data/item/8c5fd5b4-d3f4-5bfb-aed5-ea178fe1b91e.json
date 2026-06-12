@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8c5fd5b4-d3f4-5bfb-aed5-ea178fe1b91e",
+  "name": "Tigerli kommt heim",
+  "author": {
+    "@type": "Person",
+    "name": "Lilly Langenegger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8c5fd5b4-d3f4-5bfb-aed5-ea178fe1b91e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tigerli kommt heim lilly langenegger buch"
+  }
+}

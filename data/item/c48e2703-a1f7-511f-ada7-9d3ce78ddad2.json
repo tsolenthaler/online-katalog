@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c48e2703-a1f7-511f-ada7-9d3ce78ddad2",
+  "name": "Die Bande vom Lande - Band 3 - Ein ausgefuchster Plan",
+  "author": {
+    "@type": "Person",
+    "name": "Nathan Luff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c48e2703-a1f7-511f-ada7-9d3ce78ddad2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die bande vom lande - band 3 - ein ausgefuchster plan nathan luff buch"
+  }
+}

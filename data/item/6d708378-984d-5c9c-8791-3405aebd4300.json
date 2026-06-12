@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6d708378-984d-5c9c-8791-3405aebd4300",
+  "name": "Der Kinderflüsterer",
+  "author": {
+    "@type": "Person",
+    "name": "Alex North"
+  },
+  "isbn": "9783837155822",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837155822",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837155822"
+  ],
+  "_catalog": {
+    "id": "6d708378-984d-5c9c-8791-3405aebd4300",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kinderflusterer alex north 9783837155822 buch"
+  }
+}

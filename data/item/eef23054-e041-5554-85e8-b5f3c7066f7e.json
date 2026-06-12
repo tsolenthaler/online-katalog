@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eef23054-e041-5554-85e8-b5f3c7066f7e",
+  "name": "Kreative Naturdeko",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Catherine Breiter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eef23054-e041-5554-85e8-b5f3c7066f7e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kreative naturdeko sandra catherine breiter buch"
+  }
+}

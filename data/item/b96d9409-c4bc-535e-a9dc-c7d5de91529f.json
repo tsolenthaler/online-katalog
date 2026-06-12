@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b96d9409-c4bc-535e-a9dc-c7d5de91529f",
+  "name": "Asterix - Band 006 - Tour de France",
+  "author": {
+    "@type": "Person",
+    "name": "Uderzo Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b96d9409-c4bc-535e-a9dc-c7d5de91529f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 006 - tour de france uderzo goscinny buch"
+  }
+}

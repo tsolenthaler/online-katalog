@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2dee835-b834-5a6c-9ba9-fd365d557fad",
+  "name": "Der Fuchs und das Mädchen",
+  "author": {
+    "@type": "Person",
+    "name": "Luc Jacquet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2dee835-b834-5a6c-9ba9-fd365d557fad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der fuchs und das madchen luc jacquet buch"
+  }
+}

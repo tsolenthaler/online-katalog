@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:736303ac-a89d-5167-bda0-bbe3930a7c65",
+  "name": "Memo - Reptilien - Schlange, Krokodile und Echsen",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Holland"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "736303ac-a89d-5167-bda0-bbe3930a7c65",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo - reptilien - schlange, krokodile und echsen simon holland buch"
+  }
+}

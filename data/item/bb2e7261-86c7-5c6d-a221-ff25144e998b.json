@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bb2e7261-86c7-5c6d-a221-ff25144e998b",
+  "name": "22 Bahnen",
+  "author": {
+    "@type": "Person",
+    "name": "Caroline Wahl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bb2e7261-86c7-5c6d-a221-ff25144e998b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "22 bahnen caroline wahl buch"
+  }
+}

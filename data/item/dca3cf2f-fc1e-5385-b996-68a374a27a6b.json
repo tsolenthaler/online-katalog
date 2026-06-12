@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dca3cf2f-fc1e-5385-b996-68a374a27a6b",
+  "name": "Wieso, Weshalb, Warum - In den Bergen",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Ebert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dca3cf2f-fc1e-5385-b996-68a374a27a6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - in den bergen anne ebert buch"
+  }
+}

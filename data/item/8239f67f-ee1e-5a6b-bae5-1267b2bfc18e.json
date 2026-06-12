@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8239f67f-ee1e-5a6b-bae5-1267b2bfc18e",
+  "name": "Yakari - Band 041 - der Sohn des Adlers",
+  "author": {
+    "@type": "Person",
+    "name": "Derib"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8239f67f-ee1e-5a6b-bae5-1267b2bfc18e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 041 - der sohn des adlers derib buch"
+  }
+}

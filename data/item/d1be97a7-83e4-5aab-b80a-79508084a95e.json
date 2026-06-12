@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1be97a7-83e4-5aab-b80a-79508084a95e",
+  "name": "Ich bin Nele - Nele geht zum Zahnarzt",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1be97a7-83e4-5aab-b80a-79508084a95e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich bin nele - nele geht zum zahnarzt usch luhn buch"
+  }
+}

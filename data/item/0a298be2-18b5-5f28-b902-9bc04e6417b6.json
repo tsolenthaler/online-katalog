@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0a298be2-18b5-5f28-b902-9bc04e6417b6",
+  "name": "Die drei !!! - Band 035 - Diebe in der Lagune",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0a298be2-18b5-5f28-b902-9bc04e6417b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 035 - diebe in der lagune peter nissen buch"
+  }
+}

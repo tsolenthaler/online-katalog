@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f63aaf42-2456-598e-b8c4-4de58ab22072",
+  "name": "Baby Blues - Band 011 - Sie sind sooooo süss",
+  "author": {
+    "@type": "Person",
+    "name": "Rick Kirkman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f63aaf42-2456-598e-b8c4-4de58ab22072",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "baby blues - band 011 - sie sind sooooo suss rick kirkman buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:438820d0-dd81-5b7c-aa04-d44d941e4023",
+  "name": "Spiel um dein Schicksal",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Tack"
+  },
+  "isbn": "9783473585670",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783473585670",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783473585670"
+  ],
+  "_catalog": {
+    "id": "438820d0-dd81-5b7c-aa04-d44d941e4023",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "spiel um dein schicksal stella tack 9783473585670 buch"
+  }
+}

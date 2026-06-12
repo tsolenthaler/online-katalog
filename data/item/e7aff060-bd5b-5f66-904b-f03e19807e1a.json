@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7aff060-bd5b-5f66-904b-f03e19807e1a",
+  "name": "Erfindungen",
+  "author": {
+    "@type": "Person",
+    "name": "Caroline Bingham"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7aff060-bd5b-5f66-904b-f03e19807e1a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erfindungen caroline bingham buch"
+  }
+}

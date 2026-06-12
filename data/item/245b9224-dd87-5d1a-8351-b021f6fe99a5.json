@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:245b9224-dd87-5d1a-8351-b021f6fe99a5",
+  "name": "S' Wonder vom Alpschtee",
+  "author": {
+    "@type": "Person",
+    "name": "Gabriela Manser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "245b9224-dd87-5d1a-8351-b021f6fe99a5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "s' wonder vom alpschtee gabriela manser buch"
+  }
+}

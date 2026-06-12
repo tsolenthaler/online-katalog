@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed35de9c-9d17-5020-aa00-67af37876f90",
+  "name": "Beast Quest - Band 025 - Rapu der Giftkämpfer",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed35de9c-9d17-5020-aa00-67af37876f90",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 025 - rapu der giftkampfer adam blade buch"
+  }
+}

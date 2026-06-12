@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c8b2109-2d90-527b-9cc2-c8baca53152c",
+  "name": "Das Haus",
+  "author": {
+    "@type": "Person",
+    "name": "Monika Maron"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c8b2109-2d90-527b-9cc2-c8baca53152c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das haus monika maron buch"
+  }
+}

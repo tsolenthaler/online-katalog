@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:160a7685-8c9b-59ae-a796-e24f241d3db9",
+  "name": "Rückwärts ist kein Weg",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Frey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "160a7685-8c9b-59ae-a796-e24f241d3db9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ruckwarts ist kein weg jana frey buch"
+  }
+}

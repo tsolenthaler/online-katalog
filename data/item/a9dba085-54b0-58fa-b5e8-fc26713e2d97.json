@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a9dba085-54b0-58fa-b5e8-fc26713e2d97",
+  "name": "Rocky Beach Crimes - Gefährliche Gentlemen",
+  "author": {
+    "@type": "Person",
+    "name": "Evelyn Boyd"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a9dba085-54b0-58fa-b5e8-fc26713e2d97",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rocky beach crimes - gefahrliche gentlemen evelyn boyd buch"
+  }
+}

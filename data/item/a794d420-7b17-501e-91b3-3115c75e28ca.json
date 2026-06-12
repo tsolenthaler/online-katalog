@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a794d420-7b17-501e-91b3-3115c75e28ca",
+  "name": "Cursed Love",
+  "author": {
+    "@type": "Person",
+    "name": "Tanja Voosen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a794d420-7b17-501e-91b3-3115c75e28ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cursed love tanja voosen buch"
+  }
+}

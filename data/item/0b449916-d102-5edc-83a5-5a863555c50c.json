@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0b449916-d102-5edc-83a5-5a863555c50c",
+  "name": "Die drei ??? - Band 153 - Und das Fussballphantom",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Sonnleitner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0b449916-d102-5edc-83a5-5a863555c50c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 153 - und das fussballphantom marco sonnleitner buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:abf43cec-077d-5fc7-b1db-19d02e1971e8",
+  "name": "Percy Pickwick - Band 002 - Ein Ende mit Schrecken",
+  "author": {
+    "@type": "Person",
+    "name": "Turk & de Groot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "abf43cec-077d-5fc7-b1db-19d02e1971e8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 002 - ein ende mit schrecken turk & de groot buch"
+  }
+}

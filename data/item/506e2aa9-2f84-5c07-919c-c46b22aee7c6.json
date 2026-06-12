@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:506e2aa9-2f84-5c07-919c-c46b22aee7c6",
+  "name": "Rosa",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Cathrine Bomann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "506e2aa9-2f84-5c07-919c-c46b22aee7c6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rosa anne cathrine bomann buch"
+  }
+}

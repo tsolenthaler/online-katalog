@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a4e9e55c-cb1c-526e-bb32-3a07ff57749c",
+  "name": "Sternenschweif - Band 008 - Die Macht des Einhorns",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a4e9e55c-cb1c-526e-bb32-3a07ff57749c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 008 - die macht des einhorns linda chapman buch"
+  }
+}

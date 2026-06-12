@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:26c28fda-d929-56c3-bef5-d27f42f8d102",
+  "name": "Das magische Baumhaus - Band 051 - Lawinenhunde",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Pope Osborne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "26c28fda-d929-56c3-bef5-d27f42f8d102",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das magische baumhaus - band 051 - lawinenhunde mary pope osborne buch"
+  }
+}

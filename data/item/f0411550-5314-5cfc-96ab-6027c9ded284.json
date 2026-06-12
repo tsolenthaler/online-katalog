@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f0411550-5314-5cfc-96ab-6027c9ded284",
+  "name": "Vom kleinen Maulwurf, der wissen wollte, wer ihm auf",
+  "author": {
+    "@type": "Person",
+    "name": "Werner Holzwarth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f0411550-5314-5cfc-96ab-6027c9ded284",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vom kleinen maulwurf, der wissen wollte, wer ihm auf werner holzwarth buch"
+  }
+}

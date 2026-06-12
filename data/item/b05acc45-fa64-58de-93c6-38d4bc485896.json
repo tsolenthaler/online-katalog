@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b05acc45-fa64-58de-93c6-38d4bc485896",
+  "name": "Racing Driver",
+  "author": {
+    "@type": "Person",
+    "name": "Giles Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b05acc45-fa64-58de-93c6-38d4bc485896",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "racing driver giles chapman buch"
+  }
+}

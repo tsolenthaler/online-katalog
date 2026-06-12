@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:89e8d679-65ae-54fd-9390-b6cdacc3dcef",
+  "name": "Aufregung um Knuffel",
+  "author": {
+    "@type": "Person",
+    "name": "Berit Bach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "89e8d679-65ae-54fd-9390-b6cdacc3dcef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "aufregung um knuffel berit bach buch"
+  }
+}

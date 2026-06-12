@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1346523-506c-59ff-906b-07485e3382c5",
+  "name": "Flucht aus der Unterwelt",
+  "author": {
+    "@type": "Person",
+    "name": "Kester Schlenz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1346523-506c-59ff-906b-07485e3382c5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "flucht aus der unterwelt kester schlenz buch"
+  }
+}

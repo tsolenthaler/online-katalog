@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0152fb6d-da24-5798-a404-a761aad42750",
+  "name": "Seawalkers - Band 3 -Wilde Wellen",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brandis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0152fb6d-da24-5798-a404-a761aad42750",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "seawalkers - band 3 -wilde wellen katja brandis buch"
+  }
+}

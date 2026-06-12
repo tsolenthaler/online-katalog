@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:07bb240b-2fd1-5356-ab0a-b501b757b28d",
+  "name": "Die Uhrmacherin – Tage voller Geheimnisse (3)",
+  "author": {
+    "@type": "Person",
+    "name": "Claudia Dahinden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "07bb240b-2fd1-5356-ab0a-b501b757b28d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die uhrmacherin – tage voller geheimnisse (3) claudia dahinden buch"
+  }
+}

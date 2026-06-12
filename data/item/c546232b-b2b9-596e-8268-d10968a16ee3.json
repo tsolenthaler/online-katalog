@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c546232b-b2b9-596e-8268-d10968a16ee3",
+  "name": "Knochenkälte",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Beckett"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c546232b-b2b9-596e-8268-d10968a16ee3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "knochenkalte simon beckett buch"
+  }
+}

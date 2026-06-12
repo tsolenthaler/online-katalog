@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:09a1020b-afca-51c7-94cd-4335a35e4931",
+  "name": "Krimi-Comics zum Lesen & Mitraten - Band 004",
+  "author": {
+    "@type": "Person",
+    "name": "Ina Rometsch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "09a1020b-afca-51c7-94cd-4335a35e4931",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krimi-comics zum lesen & mitraten - band 004 ina rometsch buch"
+  }
+}

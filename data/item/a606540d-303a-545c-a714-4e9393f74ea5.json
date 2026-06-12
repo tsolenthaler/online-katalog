@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a606540d-303a-545c-a714-4e9393f74ea5",
+  "name": "Spirou + Fantasio - Band 049 - Angriff der Zyklozonks",
+  "author": {
+    "@type": "Person",
+    "name": "Yoann Vehlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a606540d-303a-545c-a714-4e9393f74ea5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 049 - angriff der zyklozonks yoann vehlmann buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cd7ed7c8-26a9-5d48-aa74-134f95a7428e",
+  "name": "Die Frauen von Kilcarrion",
+  "author": {
+    "@type": "Person",
+    "name": "Jojo Moyes"
+  },
+  "isbn": "9783499020353",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783499020353",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783499020353"
+  ],
+  "_catalog": {
+    "id": "cd7ed7c8-26a9-5d48-aa74-134f95a7428e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die frauen von kilcarrion jojo moyes 9783499020353 buch"
+  }
+}

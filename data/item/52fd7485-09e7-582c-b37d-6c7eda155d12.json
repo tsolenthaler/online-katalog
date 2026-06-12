@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:52fd7485-09e7-582c-b37d-6c7eda155d12",
+  "name": "Die Dreierbande und der verdächtige Fotograf",
+  "author": {
+    "@type": "Person",
+    "name": "Hermien Stellmacher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "52fd7485-09e7-582c-b37d-6c7eda155d12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die dreierbande und der verdachtige fotograf hermien stellmacher buch"
+  }
+}

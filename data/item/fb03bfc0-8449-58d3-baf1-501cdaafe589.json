@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb03bfc0-8449-58d3-baf1-501cdaafe589",
+  "name": "Das Mädchen an der Brücke",
+  "author": {
+    "@type": "Person",
+    "name": "Arnaldur Indriason"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb03bfc0-8449-58d3-baf1-501cdaafe589",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das madchen an der brucke arnaldur indriason buch"
+  }
+}

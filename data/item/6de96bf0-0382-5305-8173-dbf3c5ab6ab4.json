@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6de96bf0-0382-5305-8173-dbf3c5ab6ab4",
+  "name": "Transhelvetica",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6de96bf0-0382-5305-8173-dbf3c5ab6ab4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "transhelvetica diverse buch"
+  }
+}

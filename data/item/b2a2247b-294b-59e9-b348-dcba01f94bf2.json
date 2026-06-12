@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2a2247b-294b-59e9-b348-dcba01f94bf2",
+  "name": "Bibi & Tina - Band 117 - Die Westernreitferien",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Dittrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2a2247b-294b-59e9-b348-dcba01f94bf2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - band 117 - die westernreitferien markus dittrich buch"
+  }
+}

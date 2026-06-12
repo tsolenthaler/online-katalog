@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6e006e0-0f91-5a40-bdab-9f1654cae2c5",
+  "name": "Asterix - Band 019 - Der Seher",
+  "author": {
+    "@type": "Person",
+    "name": "Uderzo Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6e006e0-0f91-5a40-bdab-9f1654cae2c5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 019 - der seher uderzo goscinny buch"
+  }
+}

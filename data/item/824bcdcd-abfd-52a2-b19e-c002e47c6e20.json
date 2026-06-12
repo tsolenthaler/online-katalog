@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:824bcdcd-abfd-52a2-b19e-c002e47c6e20",
+  "name": "Der kleine Maulwurf und die tiere unter der Erde",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Reichenstetter"
+  },
+  "isbn": "9787535061997",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9787535061997",
+    "https://portal.dnb.de/opac/simpleSearch?query=9787535061997"
+  ],
+  "_catalog": {
+    "id": "824bcdcd-abfd-52a2-b19e-c002e47c6e20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kleine maulwurf und die tiere unter der erde friederun reichenstetter 9787535061997 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f0f85426-9131-5e9d-894e-6005da295365",
+  "name": "Liliane Susewind - ein Lämmchen im Wolfspelz",
+  "author": {
+    "@type": "Person",
+    "name": "Marlene Jablonski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f0f85426-9131-5e9d-894e-6005da295365",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - ein lammchen im wolfspelz marlene jablonski buch"
+  }
+}

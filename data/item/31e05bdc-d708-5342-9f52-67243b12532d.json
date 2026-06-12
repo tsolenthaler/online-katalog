@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:31e05bdc-d708-5342-9f52-67243b12532d",
+  "name": "Monster Mia - Band 002 - und das schaurig-schöne",
+  "author": {
+    "@type": "Person",
+    "name": "A.B Saddlewick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "31e05bdc-d708-5342-9f52-67243b12532d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monster mia - band 002 - und das schaurig-schone a.b saddlewick buch"
+  }
+}

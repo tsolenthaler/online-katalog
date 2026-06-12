@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fef7c144-ed98-502d-8c16-43585454f3e6",
+  "name": "ERAGON - Band 004 - Das Erbe der Macht",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Paolini"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fef7c144-ed98-502d-8c16-43585454f3e6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eragon - band 004 - das erbe der macht christopher paolini buch"
+  }
+}

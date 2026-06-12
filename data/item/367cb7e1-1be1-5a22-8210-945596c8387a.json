@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:367cb7e1-1be1-5a22-8210-945596c8387a",
+  "name": "Reise zum Mittelpunkt der Erde",
+  "author": {
+    "@type": "Person",
+    "name": "Jules Verne"
+  },
+  "isbn": "9783730616604",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783730616604",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783730616604"
+  ],
+  "_catalog": {
+    "id": "367cb7e1-1be1-5a22-8210-945596c8387a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "reise zum mittelpunkt der erde jules verne 9783730616604 buch"
+  }
+}

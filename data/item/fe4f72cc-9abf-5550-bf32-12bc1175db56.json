@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe4f72cc-9abf-5550-bf32-12bc1175db56",
+  "name": "Fisherman's Friend",
+  "author": {
+    "@type": "Person",
+    "name": "Ingrid Noll"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe4f72cc-9abf-5550-bf32-12bc1175db56",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fisherman's friend ingrid noll buch"
+  }
+}

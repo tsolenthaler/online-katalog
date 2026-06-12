@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:17e419f1-be61-5032-adaa-97ba7e46d0de",
+  "name": "Die Pfeffermiezen und das Liebeshandy",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Schröder"
+  },
+  "isbn": "9783401511313",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783401511313",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783401511313"
+  ],
+  "_catalog": {
+    "id": "17e419f1-be61-5032-adaa-97ba7e46d0de",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die pfeffermiezen und das liebeshandy patricia schroder 9783401511313 buch"
+  }
+}

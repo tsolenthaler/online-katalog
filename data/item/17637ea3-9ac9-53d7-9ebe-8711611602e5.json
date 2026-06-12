@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:17637ea3-9ac9-53d7-9ebe-8711611602e5",
+  "name": "Beautiful Liars - Band 002 - Gefährliche Sehnsucht",
+  "author": {
+    "@type": "Person",
+    "name": "Katharine McGee"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "17637ea3-9ac9-53d7-9ebe-8711611602e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beautiful liars - band 002 - gefahrliche sehnsucht katharine mcgee buch"
+  }
+}

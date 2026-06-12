@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:77d141d4-b198-509a-a690-e692b2eeee7d",
+  "name": "Durch die Nacht und alle Zeiten",
+  "author": {
+    "@type": "Person",
+    "name": "Eva Völler"
+  },
+  "isbn": "9783414825957",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783414825957",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783414825957"
+  ],
+  "_catalog": {
+    "id": "77d141d4-b198-509a-a690-e692b2eeee7d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "durch die nacht und alle zeiten eva voller 9783414825957 buch"
+  }
+}

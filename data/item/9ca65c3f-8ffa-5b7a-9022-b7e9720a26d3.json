@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9ca65c3f-8ffa-5b7a-9022-b7e9720a26d3",
+  "name": "Die drei ??? Kids - Band 080 - Gefährlicher Nebel",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9ca65c3f-8ffa-5b7a-9022-b7e9720a26d3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 080 - gefahrlicher nebel ulf blanck buch"
+  }
+}

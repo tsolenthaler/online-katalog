@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac30da65-d1d5-5fa6-b55a-168fb40c6e1c",
+  "name": "Was ist was - Kriminalistik",
+  "author": {
+    "@type": "Person",
+    "name": "Rainer Köthe"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac30da65-d1d5-5fa6-b55a-168fb40c6e1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - kriminalistik rainer kothe buch"
+  }
+}

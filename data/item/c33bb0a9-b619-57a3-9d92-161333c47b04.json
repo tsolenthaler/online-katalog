@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c33bb0a9-b619-57a3-9d92-161333c47b04",
+  "name": "Auf die Flügel, fertig, los!",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Kissling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c33bb0a9-b619-57a3-9d92-161333c47b04",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "auf die flugel, fertig, los! sandra kissling buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:14d626dd-277b-523a-8fb8-5a5ad0676c8d",
+  "name": "Papa Moll - Band 030 - und der fliegende Hund",
+  "author": {
+    "@type": "Person",
+    "name": "Rolf Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "14d626dd-277b-523a-8fb8-5a5ad0676c8d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 030 - und der fliegende hund rolf meier buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c0a8946a-5b90-5bc5-a3b7-e031258d1e61",
+  "name": "Zehn Jahre versklavt",
+  "author": {
+    "@type": "Person",
+    "name": "Pascal Michel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c0a8946a-5b90-5bc5-a3b7-e031258d1e61",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zehn jahre versklavt pascal michel buch"
+  }
+}

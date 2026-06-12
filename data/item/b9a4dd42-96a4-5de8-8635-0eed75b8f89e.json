@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9a4dd42-96a4-5de8-8635-0eed75b8f89e",
+  "name": "Die drei ??? Kids - Band 036 - Mission Mars",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9a4dd42-96a4-5de8-8635-0eed75b8f89e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 036 - mission mars boris pfeiffer buch"
+  }
+}

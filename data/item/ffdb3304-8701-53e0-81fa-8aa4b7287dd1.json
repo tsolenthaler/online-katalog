@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ffdb3304-8701-53e0-81fa-8aa4b7287dd1",
+  "name": "Globi - Band 093 - neue Abenteuer bei der Post",
+  "author": {
+    "@type": "Person",
+    "name": "Jürg Lendenmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ffdb3304-8701-53e0-81fa-8aa4b7287dd1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 093 - neue abenteuer bei der post jurg lendenmann buch"
+  }
+}

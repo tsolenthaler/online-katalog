@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:500d53cc-8061-56a7-b22d-30524247c890",
+  "name": "Tim und Struppi - Band 017 - Der Fall Bienlein",
+  "author": {
+    "@type": "Person",
+    "name": "Hergé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "500d53cc-8061-56a7-b22d-30524247c890",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tim und struppi - band 017 - der fall bienlein herge buch"
+  }
+}

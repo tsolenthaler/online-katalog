@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fef1d53b-5b01-52da-9858-d1290679b956",
+  "name": "Professor Albert und die faszinierende Welt der",
+  "author": {
+    "@type": "Person",
+    "name": "Sheddad Kaid-Sala Ferrn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fef1d53b-5b01-52da-9858-d1290679b956",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "professor albert und die faszinierende welt der sheddad kaid-sala ferrn buch"
+  }
+}

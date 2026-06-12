@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:241d79c1-fd60-5efd-9d42-32692931541b",
+  "name": "Tom Gates - Band 008 - Bitte nicht stören, ein Genie bei",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "241d79c1-fd60-5efd-9d42-32692931541b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 008 - bitte nicht storen, ein genie bei liz pichon buch"
+  }
+}

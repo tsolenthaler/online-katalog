@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae2bf1ee-d33a-5f3e-89cb-9b2fb435f359",
+  "name": "Wo Drachen wachen",
+  "author": {
+    "@type": "Person",
+    "name": "Susannah Lloyd"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae2bf1ee-d33a-5f3e-89cb-9b2fb435f359",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wo drachen wachen susannah lloyd buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c37a9f4a-40bf-5de6-ae4d-7797777ed6b1",
+  "name": "Das magische Baumhaus - Band 009 - Der Ruf der",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Pope Osborne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c37a9f4a-40bf-5de6-ae4d-7797777ed6b1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das magische baumhaus - band 009 - der ruf der mary pope osborne buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:21d97f13-e53f-527b-95c1-965756064b03",
+  "name": "Memo Wissen entdecken Kids - Der Mensch",
+  "author": {
+    "@type": "Person",
+    "name": "Caroline Stamps"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "21d97f13-e53f-527b-95c1-965756064b03",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen entdecken kids - der mensch caroline stamps buch"
+  }
+}

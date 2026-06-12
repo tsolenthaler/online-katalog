@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:96848521-fefe-5fcd-a801-3f469ba86b8b",
+  "name": "One of the Girls",
+  "author": {
+    "@type": "Person",
+    "name": "Lucy Clarke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "96848521-fefe-5fcd-a801-3f469ba86b8b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "one of the girls lucy clarke buch"
+  }
+}

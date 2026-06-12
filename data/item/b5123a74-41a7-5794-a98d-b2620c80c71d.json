@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5123a74-41a7-5794-a98d-b2620c80c71d",
+  "name": "Mein liebstes Pony Flocke - Ein Pony in der Schule",
+  "author": {
+    "@type": "Person",
+    "name": "Carola von Kessel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5123a74-41a7-5794-a98d-b2620c80c71d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein liebstes pony flocke - ein pony in der schule carola von kessel buch"
+  }
+}

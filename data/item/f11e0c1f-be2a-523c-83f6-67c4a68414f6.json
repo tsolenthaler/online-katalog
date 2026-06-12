@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f11e0c1f-be2a-523c-83f6-67c4a68414f6",
+  "name": "Tod in stiller Nacht - Band 6",
+  "author": {
+    "@type": "Person",
+    "name": "Viveca Sten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f11e0c1f-be2a-523c-83f6-67c4a68414f6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tod in stiller nacht - band 6 viveca sten buch"
+  }
+}

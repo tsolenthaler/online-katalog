@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee8f92ef-6445-5603-8f68-886175dcf1d5",
+  "name": "Fette Fische",
+  "author": {
+    "@type": "Person",
+    "name": "Carl Hiaasen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee8f92ef-6445-5603-8f68-886175dcf1d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fette fische carl hiaasen buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bdf27706-5b56-59c1-a8fe-480c98ffd0ba",
+  "name": "Der Wal, der immer mehr wollte",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Bright"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bdf27706-5b56-59c1-a8fe-480c98ffd0ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der wal, der immer mehr wollte rachel bright buch"
+  }
+}

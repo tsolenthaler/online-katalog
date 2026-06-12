@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a0ec10d6-bf6a-5223-99f4-b499b1d668f2",
+  "name": "De Meischter Eder und sin Pumuckl - Band 024 - De",
+  "author": {
+    "@type": "Person",
+    "name": "Ellis Kaut"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a0ec10d6-bf6a-5223-99f4-b499b1d668f2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "de meischter eder und sin pumuckl - band 024 - de ellis kaut buch"
+  }
+}

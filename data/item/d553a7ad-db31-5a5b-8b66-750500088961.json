@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d553a7ad-db31-5a5b-8b66-750500088961",
+  "name": "Wieso, Weshalb, Warum - Wie helfe ich der Umwelt?",
+  "author": {
+    "@type": "Person",
+    "name": "Marion Kreimeyer-Visse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d553a7ad-db31-5a5b-8b66-750500088961",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - wie helfe ich der umwelt? marion kreimeyer-visse buch"
+  }
+}

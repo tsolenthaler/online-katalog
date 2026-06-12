@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd1cba31-42d1-5a36-928c-3d5195c2d277",
+  "name": "Die drei ??? - Band 191 - Verbrechen im Nicht",
+  "author": {
+    "@type": "Person",
+    "name": "André Minninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd1cba31-42d1-5a36-928c-3d5195c2d277",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 191 - verbrechen im nicht andre minninger buch"
+  }
+}

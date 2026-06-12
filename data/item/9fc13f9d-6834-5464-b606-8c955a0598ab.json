@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9fc13f9d-6834-5464-b606-8c955a0598ab",
+  "name": "Die drei ??? - Band 211 - und der Jadekönig",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Arthur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9fc13f9d-6834-5464-b606-8c955a0598ab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 211 - und der jadekonig robert arthur buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:858dbd60-0967-52f5-ba6a-58dfe7cc3ea9",
+  "name": "Die Töchter der Tuchvilla - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "858dbd60-0967-52f5-ba6a-58dfe7cc3ea9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tochter der tuchvilla - band 2 anne jacobs buch"
+  }
+}

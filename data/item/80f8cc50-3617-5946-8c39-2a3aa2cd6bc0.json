@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:80f8cc50-3617-5946-8c39-2a3aa2cd6bc0",
+  "name": "Fünf Freunde - Band 125 - und die gemeine Falle",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "80f8cc50-3617-5946-8c39-2a3aa2cd6bc0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 125 - und die gemeine falle katrin mcclean buch"
+  }
+}

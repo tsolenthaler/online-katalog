@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3de0bbb9-0984-5e2c-a3ce-23663e02c743",
+  "name": "Willkommen in der Weihnachtswerkstatt",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Bull"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3de0bbb9-0984-5e2c-a3ce-23663e02c743",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "willkommen in der weihnachtswerkstatt jane bull buch"
+  }
+}

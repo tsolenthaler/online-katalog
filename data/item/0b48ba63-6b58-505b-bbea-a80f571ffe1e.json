@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0b48ba63-6b58-505b-bbea-a80f571ffe1e",
+  "name": "Gregs Tageguch: -Band 005- Geht’s noch?",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0b48ba63-6b58-505b-bbea-a80f571ffe1e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tageguch: -band 005- geht’s noch? jeff kinney buch"
+  }
+}

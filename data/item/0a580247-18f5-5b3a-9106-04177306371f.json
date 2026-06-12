@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0a580247-18f5-5b3a-9106-04177306371f",
+  "name": "Jessi - die Raubhäsin",
+  "author": {
+    "@type": "Person",
+    "name": "Kai Lüftner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0a580247-18f5-5b3a-9106-04177306371f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jessi - die raubhasin kai luftner buch"
+  }
+}

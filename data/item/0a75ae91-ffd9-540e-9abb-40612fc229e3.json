@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0a75ae91-ffd9-540e-9abb-40612fc229e3",
+  "name": "Tafiti - Band 006 - und die Affenbande",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0a75ae91-ffd9-540e-9abb-40612fc229e3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tafiti - band 006 - und die affenbande julia boehme buch"
+  }
+}

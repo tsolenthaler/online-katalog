@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:756e9e85-1b63-554b-9aa9-c031c8bd3928",
+  "name": "Willkommen auf Ponyhof Apfelblüte",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "756e9e85-1b63-554b-9aa9-c031c8bd3928",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "willkommen auf ponyhof apfelblute pippa young buch"
+  }
+}

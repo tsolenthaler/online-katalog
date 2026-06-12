@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6b6f5db7-4e34-5f4d-a499-17f1c3abd900",
+  "name": "Creepy Chronicles – Vorsicht, Halsabschneider!",
+  "author": {
+    "@type": "Person",
+    "name": "Sergio Dudli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6b6f5db7-4e34-5f4d-a499-17f1c3abd900",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "creepy chronicles – vorsicht, halsabschneider! sergio dudli buch"
+  }
+}

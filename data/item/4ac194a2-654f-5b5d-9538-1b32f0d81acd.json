@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4ac194a2-654f-5b5d-9538-1b32f0d81acd",
+  "name": "Every Body's Yoga",
+  "author": {
+    "@type": "Person",
+    "name": "Dianne Bondy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4ac194a2-654f-5b5d-9538-1b32f0d81acd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "every body's yoga dianne bondy buch"
+  }
+}

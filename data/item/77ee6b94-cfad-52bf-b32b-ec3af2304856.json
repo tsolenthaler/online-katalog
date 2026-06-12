@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:77ee6b94-cfad-52bf-b32b-ec3af2304856",
+  "name": "Das Reich der sieben Höfe - Band 1 - Dornen und Rosen",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah J. Maas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "77ee6b94-cfad-52bf-b32b-ec3af2304856",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das reich der sieben hofe - band 1 - dornen und rosen sarah j. maas buch"
+  }
+}

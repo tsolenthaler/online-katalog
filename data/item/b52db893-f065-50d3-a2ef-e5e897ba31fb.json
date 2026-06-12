@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b52db893-f065-50d3-a2ef-e5e897ba31fb",
+  "name": "Die drei ??? Kids - Band 095 - Geheime Zeichen",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b52db893-f065-50d3-a2ef-e5e897ba31fb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 095 - geheime zeichen boris pfeiffer buch"
+  }
+}

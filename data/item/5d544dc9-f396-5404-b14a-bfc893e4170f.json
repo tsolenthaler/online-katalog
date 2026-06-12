@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5d544dc9-f396-5404-b14a-bfc893e4170f",
+  "name": "Mama Muh braucht ein Pflaster",
+  "author": {
+    "@type": "Person",
+    "name": "Jujja Wieslander"
+  },
+  "isbn": "9783960525301",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783960525301",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783960525301"
+  ],
+  "_catalog": {
+    "id": "5d544dc9-f396-5404-b14a-bfc893e4170f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "mama muh braucht ein pflaster jujja wieslander 9783960525301 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d64c18aa-d0c3-5366-a630-0130b299f543",
+  "name": "Rubinrot, Liebe geht durch alle Zeiten, Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Kerstin Gier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d64c18aa-d0c3-5366-a630-0130b299f543",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rubinrot, liebe geht durch alle zeiten, band 1 kerstin gier buch"
+  }
+}

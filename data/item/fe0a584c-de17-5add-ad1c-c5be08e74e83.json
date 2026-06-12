@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe0a584c-de17-5add-ad1c-c5be08e74e83",
+  "name": "Die drei ??? - Falsche Schuld",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Nevis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe0a584c-de17-5add-ad1c-c5be08e74e83",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - falsche schuld ben nevis buch"
+  }
+}

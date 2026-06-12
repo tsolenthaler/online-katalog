@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:73dd1981-e456-5084-b9b6-411e7ef30c17",
+  "name": "Tim und Struppi - Band 014 - Im Reich des schwarzen",
+  "author": {
+    "@type": "Person",
+    "name": "Hergé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "73dd1981-e456-5084-b9b6-411e7ef30c17",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tim und struppi - band 014 - im reich des schwarzen herge buch"
+  }
+}

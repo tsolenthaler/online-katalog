@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a342c60e-6c6b-5bc6-9edf-d0a81042a88b",
+  "name": "Wüste",
+  "author": {
+    "@type": "Person",
+    "name": "Star Fleur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a342c60e-6c6b-5bc6-9edf-d0a81042a88b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wuste star fleur buch"
+  }
+}

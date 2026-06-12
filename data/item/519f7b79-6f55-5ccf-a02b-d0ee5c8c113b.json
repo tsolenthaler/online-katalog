@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:519f7b79-6f55-5ccf-a02b-d0ee5c8c113b",
+  "name": "Wie man alles verbockt und doch gewinnt",
+  "author": {
+    "@type": "Person",
+    "name": "Stephan Knösel"
+  },
+  "isbn": "9783737342414",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783737342414",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783737342414"
+  ],
+  "_catalog": {
+    "id": "519f7b79-6f55-5ccf-a02b-d0ee5c8c113b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "wie man alles verbockt und doch gewinnt stephan knosel 9783737342414 buch"
+  }
+}

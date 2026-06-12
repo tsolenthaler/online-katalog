@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2cdc8096-29a2-52f4-bbcf-97e862ac985f",
+  "name": "101 Dalmatiner",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "9783845122601",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783845122601",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783845122601"
+  ],
+  "_catalog": {
+    "id": "2cdc8096-29a2-52f4-bbcf-97e862ac985f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "101 dalmatiner 9783845122601 buch"
+  }
+}

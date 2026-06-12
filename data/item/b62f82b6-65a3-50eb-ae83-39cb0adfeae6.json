@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b62f82b6-65a3-50eb-ae83-39cb0adfeae6",
+  "name": "Fünf Freunde - Band 077 - und das unheimliche",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b62f82b6-65a3-50eb-ae83-39cb0adfeae6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 077 - und das unheimliche enid blyton buch"
+  }
+}

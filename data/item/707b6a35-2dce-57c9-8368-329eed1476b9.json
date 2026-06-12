@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:707b6a35-2dce-57c9-8368-329eed1476b9",
+  "name": "TKKG Junior - Band 037 - Das Geheimnis der Pirateninsel",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "707b6a35-2dce-57c9-8368-329eed1476b9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 037 - das geheimnis der pirateninsel buch"
+  }
+}

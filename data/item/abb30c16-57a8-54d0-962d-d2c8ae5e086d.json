@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:abb30c16-57a8-54d0-962d-d2c8ae5e086d",
+  "name": "Die Stadt",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Kent"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "abb30c16-57a8-54d0-962d-d2c8ae5e086d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die stadt peter kent buch"
+  }
+}

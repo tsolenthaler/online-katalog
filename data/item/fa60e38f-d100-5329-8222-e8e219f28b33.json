@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa60e38f-d100-5329-8222-e8e219f28b33",
+  "name": "Bruch - ein dunkler Ort",
+  "author": {
+    "@type": "Person",
+    "name": "Frank Goldammer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa60e38f-d100-5329-8222-e8e219f28b33",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bruch - ein dunkler ort frank goldammer buch"
+  }
+}

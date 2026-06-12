@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc15c054-cfdb-5e2b-892e-f63730ce6b0f",
+  "name": "ONE OF US IS BACK",
+  "author": {
+    "@type": "Person",
+    "name": "Karen M. McManus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc15c054-cfdb-5e2b-892e-f63730ce6b0f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "one of us is back karen m. mcmanus buch"
+  }
+}

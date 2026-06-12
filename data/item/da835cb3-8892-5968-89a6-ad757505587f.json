@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da835cb3-8892-5968-89a6-ad757505587f",
+  "name": "Tafiti - Band 004 - und Ur-ur-ururopas Goldschatz",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da835cb3-8892-5968-89a6-ad757505587f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tafiti - band 004 - und ur-ur-ururopas goldschatz julia boehme buch"
+  }
+}

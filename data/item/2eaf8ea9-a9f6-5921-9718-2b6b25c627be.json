@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2eaf8ea9-a9f6-5921-9718-2b6b25c627be",
+  "name": "Stockmann",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Scheffler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2eaf8ea9-a9f6-5921-9718-2b6b25c627be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "stockmann axel scheffler buch"
+  }
+}

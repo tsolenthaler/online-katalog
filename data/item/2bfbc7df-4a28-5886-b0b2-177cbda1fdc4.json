@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2bfbc7df-4a28-5886-b0b2-177cbda1fdc4",
+  "name": "Die schönsten Schweizer Ausflugsziele für",
+  "author": {
+    "@type": "Person",
+    "name": "Ralph Bernet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2bfbc7df-4a28-5886-b0b2-177cbda1fdc4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten schweizer ausflugsziele fur ralph bernet buch"
+  }
+}

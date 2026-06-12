@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6ac8e7c-864b-5584-9882-353051d24ab5",
+  "name": "Der Richter und sein Henker",
+  "author": {
+    "@type": "Person",
+    "name": "Friedrich Dürrenmatt"
+  },
+  "isbn": "9783956195068",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783956195068",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783956195068"
+  ],
+  "_catalog": {
+    "id": "e6ac8e7c-864b-5584-9882-353051d24ab5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der richter und sein henker friedrich durrenmatt 9783956195068 buch"
+  }
+}

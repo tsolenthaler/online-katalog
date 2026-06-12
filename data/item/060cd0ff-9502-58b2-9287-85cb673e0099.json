@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:060cd0ff-9502-58b2-9287-85cb673e0099",
+  "name": "Drei Tage im August",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Stern"
+  },
+  "isbn": "9783961057498",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783961057498",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783961057498"
+  ],
+  "_catalog": {
+    "id": "060cd0ff-9502-58b2-9287-85cb673e0099",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "drei tage im august anne stern 9783961057498 buch"
+  }
+}

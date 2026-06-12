@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:400dce00-72f6-59f2-90b0-911d5edb1166",
+  "name": "Memo Wissen entdecken - Pflanzen",
+  "author": {
+    "@type": "Person",
+    "name": "David Burnie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "400dce00-72f6-59f2-90b0-911d5edb1166",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen entdecken - pflanzen david burnie buch"
+  }
+}

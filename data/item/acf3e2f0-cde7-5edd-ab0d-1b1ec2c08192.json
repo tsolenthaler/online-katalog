@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:acf3e2f0-cde7-5edd-ab0d-1b1ec2c08192",
+  "name": "Die Glücksbäckerei - Band 005 - Die Magische Rettung",
+  "author": {
+    "@type": "Person",
+    "name": "Kathryn Littlewood"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "acf3e2f0-cde7-5edd-ab0d-1b1ec2c08192",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die glucksbackerei - band 005 - die magische rettung kathryn littlewood buch"
+  }
+}

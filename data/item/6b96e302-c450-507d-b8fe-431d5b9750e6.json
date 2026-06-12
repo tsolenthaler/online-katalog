@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6b96e302-c450-507d-b8fe-431d5b9750e6",
+  "name": "ERAGON - Der Aufrag des Ältesten - Band 002",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Paolini"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6b96e302-c450-507d-b8fe-431d5b9750e6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eragon - der aufrag des altesten - band 002 christopher paolini buch"
+  }
+}

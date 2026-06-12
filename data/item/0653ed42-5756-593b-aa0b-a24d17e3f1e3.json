@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0653ed42-5756-593b-aa0b-a24d17e3f1e3",
+  "name": "Du erinnerst mich an morgen",
+  "author": {
+    "@type": "Person",
+    "name": "Katie Marsh"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0653ed42-5756-593b-aa0b-a24d17e3f1e3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "du erinnerst mich an morgen katie marsh buch"
+  }
+}

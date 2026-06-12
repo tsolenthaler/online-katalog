@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1da17675-2861-5e25-b34a-1163662a2a8b",
+  "name": "Frei von Angst und Ablehnung",
+  "author": {
+    "@type": "Person",
+    "name": "Phyllis Krystal"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1da17675-2861-5e25-b34a-1163662a2a8b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frei von angst und ablehnung phyllis krystal buch"
+  }
+}

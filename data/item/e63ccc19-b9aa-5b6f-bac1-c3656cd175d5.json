@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e63ccc19-b9aa-5b6f-bac1-c3656cd175d5",
+  "name": "Boule & Bill - Band 030 - Bills Bande",
+  "author": {
+    "@type": "Person",
+    "name": "Verron Roba"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e63ccc19-b9aa-5b6f-bac1-c3656cd175d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boule & bill - band 030 - bills bande verron roba buch"
+  }
+}

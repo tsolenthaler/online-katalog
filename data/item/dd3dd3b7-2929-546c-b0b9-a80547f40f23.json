@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd3dd3b7-2929-546c-b0b9-a80547f40f23",
+  "name": "Ein Tag in der Autowerkstatt",
+  "author": {
+    "@type": "Person",
+    "name": "Katharina Wieker"
+  },
+  "isbn": "9783785585795",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783785585795",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783785585795"
+  ],
+  "_catalog": {
+    "id": "dd3dd3b7-2929-546c-b0b9-a80547f40f23",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein tag in der autowerkstatt katharina wieker 9783785585795 buch"
+  }
+}

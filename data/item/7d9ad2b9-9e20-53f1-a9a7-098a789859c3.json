@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7d9ad2b9-9e20-53f1-a9a7-098a789859c3",
+  "name": "Das inoffizielle Kochbuch zu TikTok",
+  "author": {
+    "@type": "Person",
+    "name": "Valentina Mussi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7d9ad2b9-9e20-53f1-a9a7-098a789859c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das inoffizielle kochbuch zu tiktok valentina mussi buch"
+  }
+}

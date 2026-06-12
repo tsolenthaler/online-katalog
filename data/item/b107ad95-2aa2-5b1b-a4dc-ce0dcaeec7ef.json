@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b107ad95-2aa2-5b1b-a4dc-ce0dcaeec7ef",
+  "name": "Das Lied von Eis und Feuer - Band 5 - Sturm der",
+  "author": {
+    "@type": "Person",
+    "name": "George R. R. Martin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b107ad95-2aa2-5b1b-a4dc-ce0dcaeec7ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das lied von eis und feuer - band 5 - sturm der george r. r. martin buch"
+  }
+}

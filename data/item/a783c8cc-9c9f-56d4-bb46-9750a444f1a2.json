@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a783c8cc-9c9f-56d4-bb46-9750a444f1a2",
+  "name": "When in Rome",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Adams"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a783c8cc-9c9f-56d4-bb46-9750a444f1a2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "when in rome sarah adams buch"
+  }
+}

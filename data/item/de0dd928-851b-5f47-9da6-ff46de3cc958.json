@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de0dd928-851b-5f47-9da6-ff46de3cc958",
+  "name": "Das Buch der seltsamen Wünsche",
+  "author": {
+    "@type": "Person",
+    "name": "Angie Westhoff"
+  },
+  "isbn": "9783751206136",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783751206136",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783751206136"
+  ],
+  "_catalog": {
+    "id": "de0dd928-851b-5f47-9da6-ff46de3cc958",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das buch der seltsamen wunsche angie westhoff 9783751206136 buch"
+  }
+}

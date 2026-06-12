@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c459b4d9-fb8e-5d9c-810a-3dfa7ab3383f",
+  "name": "Winnie und die Wunschfee",
+  "author": {
+    "@type": "Person",
+    "name": "Bettina Obrecht"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c459b4d9-fb8e-5d9c-810a-3dfa7ab3383f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "winnie und die wunschfee bettina obrecht buch"
+  }
+}

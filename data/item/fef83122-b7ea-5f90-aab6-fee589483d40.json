@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fef83122-b7ea-5f90-aab6-fee589483d40",
+  "name": "Luzifer junior - Band 003 - Einmal Hölle und zurück",
+  "author": {
+    "@type": "Person",
+    "name": "Jochen Till"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fef83122-b7ea-5f90-aab6-fee589483d40",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "luzifer junior - band 003 - einmal holle und zuruck jochen till buch"
+  }
+}

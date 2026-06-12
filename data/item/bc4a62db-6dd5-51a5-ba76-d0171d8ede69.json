@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc4a62db-6dd5-51a5-ba76-d0171d8ede69",
+  "name": "Franka - Band 018 - Kidnap",
+  "author": {
+    "@type": "Person",
+    "name": "Henk Kuijpers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc4a62db-6dd5-51a5-ba76-d0171d8ede69",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franka - band 018 - kidnap henk kuijpers buch"
+  }
+}

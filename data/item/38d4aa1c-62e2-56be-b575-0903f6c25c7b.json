@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38d4aa1c-62e2-56be-b575-0903f6c25c7b",
+  "name": "111 Dinge über Hühner, die man wissen muss",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Hoischen-Taubner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38d4aa1c-62e2-56be-b575-0903f6c25c7b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "111 dinge uber huhner, die man wissen muss susanne hoischen-taubner buch"
+  }
+}

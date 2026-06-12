@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:70d9762d-6a3d-578a-b9ae-11ac873456d2",
+  "name": "Neue Erstlesegeschichten für Jungs 1. Klasse",
+  "author": {
+    "@type": "Person",
+    "name": "Claudia Ondracek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "70d9762d-6a3d-578a-b9ae-11ac873456d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "neue erstlesegeschichten fur jungs 1. klasse claudia ondracek buch"
+  }
+}

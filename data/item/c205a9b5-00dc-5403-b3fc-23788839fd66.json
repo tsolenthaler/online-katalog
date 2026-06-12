@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c205a9b5-00dc-5403-b3fc-23788839fd66",
+  "name": "Islamistische Drehscheibe Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Saïda Keller-Messahli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c205a9b5-00dc-5403-b3fc-23788839fd66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "islamistische drehscheibe schweiz saida keller-messahli buch"
+  }
+}

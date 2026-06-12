@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:24ccddf3-4290-5154-8ce3-449e04f5d94d",
+  "name": "Die 12 Salze des Lebens",
+  "author": {
+    "@type": "Person",
+    "name": "Wolffskeel von Reichenberg,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "24ccddf3-4290-5154-8ce3-449e04f5d94d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die 12 salze des lebens wolffskeel von reichenberg, buch"
+  }
+}

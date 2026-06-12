@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5087065-9e58-5c48-aef3-fb38e824cbba",
+  "name": "Spiderman - Band 001 - Die Klonsaga",
+  "author": {
+    "@type": "Person",
+    "name": "DeFalco"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5087065-9e58-5c48-aef3-fb38e824cbba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spiderman - band 001 - die klonsaga defalco buch"
+  }
+}

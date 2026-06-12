@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8b1f2329-cb5e-5357-a709-6a6b7d294e72",
+  "name": "Die Abenteuer von Blake und Mortimer - Band 006 - Die",
+  "author": {
+    "@type": "Person",
+    "name": "Edgar P. Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8b1f2329-cb5e-5357-a709-6a6b7d294e72",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die abenteuer von blake und mortimer - band 006 - die edgar p. jacobs buch"
+  }
+}

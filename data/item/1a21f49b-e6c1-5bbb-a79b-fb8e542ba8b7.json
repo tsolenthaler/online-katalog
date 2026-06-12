@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1a21f49b-e6c1-5bbb-a79b-fb8e542ba8b7",
+  "name": "Hexe Pollonia macht das Rennen oder manchmal ist",
+  "author": {
+    "@type": "Person",
+    "name": "Angelika Diem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1a21f49b-e6c1-5bbb-a79b-fb8e542ba8b7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe pollonia macht das rennen oder manchmal ist angelika diem buch"
+  }
+}

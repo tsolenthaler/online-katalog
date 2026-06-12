@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6a9ab65-0feb-5fae-8211-d9c01859aaf9",
+  "name": "Der kleine Spirou - Band 009 - Das ist nichts für dich",
+  "author": {
+    "@type": "Person",
+    "name": "Tome u. Janry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6a9ab65-0feb-5fae-8211-d9c01859aaf9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine spirou - band 009 - das ist nichts fur dich tome u. janry buch"
+  }
+}

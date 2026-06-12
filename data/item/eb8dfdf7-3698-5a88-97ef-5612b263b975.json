@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb8dfdf7-3698-5a88-97ef-5612b263b975",
+  "name": "Liliane Susewind – Ein Luchs legt los",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb8dfdf7-3698-5a88-97ef-5612b263b975",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind – ein luchs legt los tanya stewner buch"
+  }
+}

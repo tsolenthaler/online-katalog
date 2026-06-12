@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:580cae15-9379-5506-ab36-c86cf1bdca68",
+  "name": "Wie weihnachtelt man?",
+  "author": {
+    "@type": "Person",
+    "name": "Lorenz Pauli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "580cae15-9379-5506-ab36-c86cf1bdca68",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie weihnachtelt man? lorenz pauli buch"
+  }
+}

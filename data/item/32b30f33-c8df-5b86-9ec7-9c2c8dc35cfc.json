@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:32b30f33-c8df-5b86-9ec7-9c2c8dc35cfc",
+  "name": "Die Stille meiner Worte",
+  "author": {
+    "@type": "Person",
+    "name": "Ava Reed"
+  },
+  "isbn": "9783841505941",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783841505941",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783841505941"
+  ],
+  "_catalog": {
+    "id": "32b30f33-c8df-5b86-9ec7-9c2c8dc35cfc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die stille meiner worte ava reed 9783841505941 buch"
+  }
+}

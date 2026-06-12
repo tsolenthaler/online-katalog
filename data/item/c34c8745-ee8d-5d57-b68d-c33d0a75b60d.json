@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c34c8745-ee8d-5d57-b68d-c33d0a75b60d",
+  "name": "Herbst-Wimmelbuch - Rotraut Susanne Berner",
+  "author": {
+    "@type": "Person",
+    "name": "Rotraut Susanne Berner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c34c8745-ee8d-5d57-b68d-c33d0a75b60d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "herbst-wimmelbuch - rotraut susanne berner rotraut susanne berner buch"
+  }
+}

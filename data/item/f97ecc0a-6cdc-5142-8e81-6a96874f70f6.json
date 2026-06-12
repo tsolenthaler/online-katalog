@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f97ecc0a-6cdc-5142-8e81-6a96874f70f6",
+  "name": "Die geschenkte Leiche",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Simon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f97ecc0a-6cdc-5142-8e81-6a96874f70f6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die geschenkte leiche christoph simon buch"
+  }
+}

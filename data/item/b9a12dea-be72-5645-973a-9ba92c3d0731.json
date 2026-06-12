@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9a12dea-be72-5645-973a-9ba92c3d0731",
+  "name": "Worst week ever! Donnerstag",
+  "author": {
+    "@type": "Person",
+    "name": "Eva Amores"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9a12dea-be72-5645-973a-9ba92c3d0731",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "worst week ever! donnerstag eva amores buch"
+  }
+}

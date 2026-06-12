@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9668f046-f068-552a-aefb-d32cf55da533",
+  "name": "Bibi Blocksberg - Band 032 - als Prinzessin",
+  "author": {
+    "@type": "Person",
+    "name": "Elfie Donnelly"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9668f046-f068-552a-aefb-d32cf55da533",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - band 032 - als prinzessin elfie donnelly buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f86296ce-c7b8-5d85-ba41-3174e2695755",
+  "name": "Der Schmetterlingsjunge Band 7",
+  "author": {
+    "@type": "Person",
+    "name": "Max Bentow"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f86296ce-c7b8-5d85-ba41-3174e2695755",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der schmetterlingsjunge band 7 max bentow buch"
+  }
+}

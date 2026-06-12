@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6d60699e-37e0-522b-8dd5-94adacaabf8f",
+  "name": "Das Kind vom anderen Stern",
+  "author": {
+    "@type": "Person",
+    "name": "Ross Welford"
+  },
+  "isbn": "9783649640110",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783649640110",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783649640110"
+  ],
+  "_catalog": {
+    "id": "6d60699e-37e0-522b-8dd5-94adacaabf8f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das kind vom anderen stern ross welford 9783649640110 buch"
+  }
+}

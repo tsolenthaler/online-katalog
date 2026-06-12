@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4fc6ad68-d97c-5f5c-8af8-a0ad1bf4bb35",
+  "name": "Leselöwen 1. Klasse - Drachenfreund gesucht!",
+  "author": {
+    "@type": "Person",
+    "name": "Stütze &. Stütze & Vorbach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4fc6ad68-d97c-5f5c-8af8-a0ad1bf4bb35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leselowen 1. klasse - drachenfreund gesucht! stutze &. stutze & vorbach buch"
+  }
+}

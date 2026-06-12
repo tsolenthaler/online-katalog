@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6101c1b-02a0-597d-8a66-fef36ccd9941",
+  "name": "Beast Quest - Band 058 - Voltrex, das zweiköpfige",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6101c1b-02a0-597d-8a66-fef36ccd9941",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 058 - voltrex, das zweikopfige adam blade buch"
+  }
+}

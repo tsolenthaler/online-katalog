@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5a2d73c4-eded-505a-a14c-cefe0d7b2cef",
+  "name": "Für die Kämpfer, für die Verrückten",
+  "author": {
+    "@type": "Person",
+    "name": "Daniele Mencarelli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5a2d73c4-eded-505a-a14c-cefe0d7b2cef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fur die kampfer, fur die verruckten daniele mencarelli buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5e88184-71de-5c0a-8ce2-41c1183f2323",
+  "name": "Yuna und die Sache mit dem Mögen",
+  "author": {
+    "@type": "Person",
+    "name": "Rebecca Mönch"
+  },
+  "isbn": "9783965942493",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783965942493",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783965942493"
+  ],
+  "_catalog": {
+    "id": "e5e88184-71de-5c0a-8ce2-41c1183f2323",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "yuna und die sache mit dem mogen rebecca monch 9783965942493 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7775713-2277-55c6-ab4e-6bfd271f929e",
+  "name": "Die Drei ??? Kids - Band 052 - Mächtige Magier",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7775713-2277-55c6-ab4e-6bfd271f929e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 052 - machtige magier boris pfeiffer buch"
+  }
+}

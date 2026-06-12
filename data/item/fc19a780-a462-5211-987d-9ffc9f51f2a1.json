@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fc19a780-a462-5211-987d-9ffc9f51f2a1",
+  "name": "Das letzte Eichhorn",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fc19a780-a462-5211-987d-9ffc9f51f2a1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das letzte eichhorn alice pantermuller buch"
+  }
+}

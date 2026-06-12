@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a275e0af-558e-519a-815e-546c5cbd6e09",
+  "name": "Alpen Rhein Bodensee",
+  "author": {
+    "@type": "Person",
+    "name": "Oskar Keller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a275e0af-558e-519a-815e-546c5cbd6e09",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alpen rhein bodensee oskar keller buch"
+  }
+}

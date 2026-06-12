@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1bd6da1f-2e8b-5c84-b3c4-6b7b5705760f",
+  "name": "Dunbridge Academy - Anytime - Band 003",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Sprinz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1bd6da1f-2e8b-5c84-b3c4-6b7b5705760f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dunbridge academy - anytime - band 003 sarah sprinz buch"
+  }
+}

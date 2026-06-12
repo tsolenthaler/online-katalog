@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc2152f5-f0d5-5943-8a0e-dae8dd3dffb7",
+  "name": "Auf der Baustelle",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Mennen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc2152f5-f0d5-5943-8a0e-dae8dd3dffb7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "auf der baustelle patricia mennen buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b033cf1a-bb36-520f-97aa-b841b95b212f",
+  "name": "Die Schlümpfe Band 002 -und das verlorene Dorf:",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b033cf1a-bb36-520f-97aa-b841b95b212f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schlumpfe band 002 -und das verlorene dorf: peyo buch"
+  }
+}

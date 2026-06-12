@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5e26a1c-48f0-5e34-bc19-771ae3435c71",
+  "name": "Pumuckl Abenteurgeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Ellis Kaut"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5e26a1c-48f0-5e34-bc19-771ae3435c71",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pumuckl abenteurgeschichten ellis kaut buch"
+  }
+}

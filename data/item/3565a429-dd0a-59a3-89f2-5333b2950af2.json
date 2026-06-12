@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3565a429-dd0a-59a3-89f2-5333b2950af2",
+  "name": "YouTube-Chaos",
+  "author": {
+    "@type": "Person",
+    "name": "LukasBS"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3565a429-dd0a-59a3-89f2-5333b2950af2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "youtube-chaos lukasbs buch"
+  }
+}

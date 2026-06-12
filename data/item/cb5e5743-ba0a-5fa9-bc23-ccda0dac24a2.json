@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb5e5743-ba0a-5fa9-bc23-ccda0dac24a2",
+  "name": "Schiffe",
+  "author": {
+    "@type": "Person",
+    "name": "Bryony Davies"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb5e5743-ba0a-5fa9-bc23-ccda0dac24a2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schiffe bryony davies buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ef6a94b-871f-50f6-a65b-2f36c8f5a977",
+  "name": "Das Geheimnis des Walfischknochens",
+  "author": {
+    "@type": "Person",
+    "name": "Tanja Heitmann"
+  },
+  "isbn": "9783837122701",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837122701",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837122701"
+  ],
+  "_catalog": {
+    "id": "8ef6a94b-871f-50f6-a65b-2f36c8f5a977",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das geheimnis des walfischknochens tanja heitmann 9783837122701 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2938c882-78ef-52ab-af80-8bf2f00c7bac",
+  "name": "Ponyherz-Band 004-Das Pferd der Prinzessin",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2938c882-78ef-52ab-af80-8bf2f00c7bac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyherz-band 004-das pferd der prinzessin usch luhn buch"
+  }
+}

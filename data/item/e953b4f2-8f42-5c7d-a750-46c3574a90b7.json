@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e953b4f2-8f42-5c7d-a750-46c3574a90b7",
+  "name": "Clever & Smart - Band 009 - Fauler Zauber mit den",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e953b4f2-8f42-5c7d-a750-46c3574a90b7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 009 - fauler zauber mit den francisco ibez buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:190769a0-9983-5a1b-a218-48a5af5ab46e",
+  "name": "Die Stunde der Schuld",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Roberts"
+  },
+  "isbn": "9783837139167",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837139167",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837139167"
+  ],
+  "_catalog": {
+    "id": "190769a0-9983-5a1b-a218-48a5af5ab46e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die stunde der schuld nora roberts 9783837139167 buch"
+  }
+}

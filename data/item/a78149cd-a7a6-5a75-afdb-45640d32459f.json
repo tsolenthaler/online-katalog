@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a78149cd-a7a6-5a75-afdb-45640d32459f",
+  "name": "Franka - Band 020 - Die weisse Göttin",
+  "author": {
+    "@type": "Person",
+    "name": "Henk Kuijpers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a78149cd-a7a6-5a75-afdb-45640d32459f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franka - band 020 - die weisse gottin henk kuijpers buch"
+  }
+}

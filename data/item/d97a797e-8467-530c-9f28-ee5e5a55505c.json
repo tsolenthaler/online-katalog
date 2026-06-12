@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d97a797e-8467-530c-9f28-ee5e5a55505c",
+  "name": "Superchecker - Insekten",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Mills"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d97a797e-8467-530c-9f28-ee5e5a55505c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superchecker - insekten andrea mills buch"
+  }
+}

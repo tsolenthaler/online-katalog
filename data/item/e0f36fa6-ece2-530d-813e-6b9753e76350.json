@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0f36fa6-ece2-530d-813e-6b9753e76350",
+  "name": "Natürlich Weihnachten feiern",
+  "author": {
+    "@type": "Person",
+    "name": "Sheherazade Goldsmith"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0f36fa6-ece2-530d-813e-6b9753e76350",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "naturlich weihnachten feiern sheherazade goldsmith buch"
+  }
+}

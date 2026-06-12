@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c1ba7fc-feff-539e-8489-2ebfb3a1a2c2",
+  "name": "Kiki legt los!",
+  "author": {
+    "@type": "Person",
+    "name": "Franziska Gehm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c1ba7fc-feff-539e-8489-2ebfb3a1a2c2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kiki legt los! franziska gehm buch"
+  }
+}

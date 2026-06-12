@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce3ea6b3-f1b0-5588-a7a6-dfe6d9c5c2be",
+  "name": "Störenfrieda auf Hängebauchschweinsafari",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Frey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce3ea6b3-f1b0-5588-a7a6-dfe6d9c5c2be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "storenfrieda auf hangebauchschweinsafari jana frey buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bbe364f7-9910-58da-a026-6a6278805b44",
+  "name": "Entdecke die Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Stephanie Hornung"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bbe364f7-9910-58da-a026-6a6278805b44",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke die pferde stephanie hornung buch"
+  }
+}

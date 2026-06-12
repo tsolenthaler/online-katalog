@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f279c302-32e9-5ef1-8515-dc311827fc14",
+  "name": "Mörderischer Freitag",
+  "author": {
+    "@type": "Person",
+    "name": "Nicci French"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f279c302-32e9-5ef1-8515-dc311827fc14",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderischer freitag nicci french buch"
+  }
+}

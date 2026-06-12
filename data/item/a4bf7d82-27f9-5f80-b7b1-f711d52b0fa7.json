@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a4bf7d82-27f9-5f80-b7b1-f711d52b0fa7",
+  "name": "Finde den Täter - Operation Goldenes Zepter",
+  "author": {
+    "@type": "Person",
+    "name": "Julian Press"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a4bf7d82-27f9-5f80-b7b1-f711d52b0fa7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finde den tater - operation goldenes zepter julian press buch"
+  }
+}

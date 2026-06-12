@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d82ad303-e478-5d88-ace2-7dd010cd8cf8",
+  "name": "Disney - Die Eiskönigin - neue Abenteuer",
+  "author": {
+    "@type": "Person",
+    "name": "Joe Caramagna"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d82ad303-e478-5d88-ace2-7dd010cd8cf8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney - die eiskonigin - neue abenteuer joe caramagna buch"
+  }
+}

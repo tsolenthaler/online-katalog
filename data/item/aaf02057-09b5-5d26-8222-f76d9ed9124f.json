@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aaf02057-09b5-5d26-8222-f76d9ed9124f",
+  "name": "Funklerwald",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Taschinski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aaf02057-09b5-5d26-8222-f76d9ed9124f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funklerwald stefanie taschinski buch"
+  }
+}

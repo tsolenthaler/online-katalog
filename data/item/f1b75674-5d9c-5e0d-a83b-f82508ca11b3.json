@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1b75674-5d9c-5e0d-a83b-f82508ca11b3",
+  "name": "Mein Lotta-Leben - Band 03 - Hier steckt der Wurm drin!",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f1b75674-5d9c-5e0d-a83b-f82508ca11b3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 03 - hier steckt der wurm drin! alice pantermuller buch"
+  }
+}

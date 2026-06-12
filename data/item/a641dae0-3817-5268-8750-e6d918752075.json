@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a641dae0-3817-5268-8750-e6d918752075",
+  "name": "Das Glück in dir",
+  "author": {
+    "@type": "Person",
+    "name": "Kobi Yamada"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a641dae0-3817-5268-8750-e6d918752075",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das gluck in dir kobi yamada buch"
+  }
+}

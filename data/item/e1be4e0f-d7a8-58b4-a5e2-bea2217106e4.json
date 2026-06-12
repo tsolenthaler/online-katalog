@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1be4e0f-d7a8-58b4-a5e2-bea2217106e4",
+  "name": "Mein Lotta-Leben - Band 06 - den Letzten knutschen die",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1be4e0f-d7a8-58b4-a5e2-bea2217106e4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 06 - den letzten knutschen die alice pantermuller buch"
+  }
+}

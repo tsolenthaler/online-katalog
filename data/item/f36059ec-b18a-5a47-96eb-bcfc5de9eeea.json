@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f36059ec-b18a-5a47-96eb-bcfc5de9eeea",
+  "name": "Finde den Täter - Der Fluch der schwarzen Schützen",
+  "author": {
+    "@type": "Person",
+    "name": "Julian Press"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f36059ec-b18a-5a47-96eb-bcfc5de9eeea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finde den tater - der fluch der schwarzen schutzen julian press buch"
+  }
+}

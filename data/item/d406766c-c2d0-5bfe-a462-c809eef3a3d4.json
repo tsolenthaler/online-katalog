@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d406766c-c2d0-5bfe-a462-c809eef3a3d4",
+  "name": "Frag mich was - Feuerwehr",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Piel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d406766c-c2d0-5bfe-a462-c809eef3a3d4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frag mich was - feuerwehr andreas piel buch"
+  }
+}

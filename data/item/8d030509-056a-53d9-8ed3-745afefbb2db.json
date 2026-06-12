@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8d030509-056a-53d9-8ed3-745afefbb2db",
+  "name": "Finde den Täter - Der Dieb im Saurierpark",
+  "author": {
+    "@type": "Person",
+    "name": "Julian Press"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8d030509-056a-53d9-8ed3-745afefbb2db",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finde den tater - der dieb im saurierpark julian press buch"
+  }
+}

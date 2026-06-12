@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f92d4e0b-4bf5-5518-be0e-1941d934ca40",
+  "name": "Liebst du den Verräter? - Band 02",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Hasse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f92d4e0b-4bf5-5518-be0e-1941d934ca40",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liebst du den verrater? - band 02 stefanie hasse buch"
+  }
+}

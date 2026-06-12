@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13487241-4218-50d0-9e74-30bb0177943e",
+  "name": "Tim und Struppi - Band 002 - Tim in Amerika",
+  "author": {
+    "@type": "Person",
+    "name": "Hergé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13487241-4218-50d0-9e74-30bb0177943e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tim und struppi - band 002 - tim in amerika herge buch"
+  }
+}

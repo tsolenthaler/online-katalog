@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dad866ba-ede8-5f1b-9b35-52da8eb3637c",
+  "name": "Die Traumdiebe",
+  "author": {
+    "@type": "Person",
+    "name": "Cherie Dimaline"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dad866ba-ede8-5f1b-9b35-52da8eb3637c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die traumdiebe cherie dimaline buch"
+  }
+}

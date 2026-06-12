@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:605a96c4-f747-5dcf-bf2b-922459cfa11b",
+  "name": "Fliegende Ärzte - Schicksal unter roter Sonne",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Haran"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "605a96c4-f747-5dcf-bf2b-922459cfa11b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fliegende arzte - schicksal unter roter sonne elizabeth haran buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6f53f6d2-a450-5640-b37c-f7981111f08f",
+  "name": "Das Glück hat seine Zeit",
+  "author": {
+    "@type": "Person",
+    "name": "Aybmi Adéby"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6f53f6d2-a450-5640-b37c-f7981111f08f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das gluck hat seine zeit aybmi adeby buch"
+  }
+}

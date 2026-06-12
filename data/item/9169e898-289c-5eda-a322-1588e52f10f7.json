@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9169e898-289c-5eda-a322-1588e52f10f7",
+  "name": "Walter Däng Klax Brumm",
+  "author": {
+    "@type": "Person",
+    "name": "Selina Krause"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9169e898-289c-5eda-a322-1588e52f10f7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "walter dang klax brumm selina krause buch"
+  }
+}

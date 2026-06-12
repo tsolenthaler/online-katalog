@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7bc277cb-8166-5992-8378-8c7579e39ce7",
+  "name": "Unser Familien-Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Christiane Widmayr"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7bc277cb-8166-5992-8378-8c7579e39ce7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unser familien-garten christiane widmayr buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d08992ff-667a-545c-a574-4139f0ccb501",
+  "name": "Fuchs ganz nah",
+  "author": {
+    "@type": "Person",
+    "name": "Klaus Echle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d08992ff-667a-545c-a574-4139f0ccb501",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fuchs ganz nah klaus echle buch"
+  }
+}

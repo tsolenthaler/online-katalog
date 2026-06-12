@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2685de08-709d-5163-8038-3b8bec8a7c81",
+  "name": "Über Tyrannei",
+  "author": {
+    "@type": "Person",
+    "name": "Timothy Snyder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2685de08-709d-5163-8038-3b8bec8a7c81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "uber tyrannei timothy snyder buch"
+  }
+}

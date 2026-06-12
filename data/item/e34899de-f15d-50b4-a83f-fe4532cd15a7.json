@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e34899de-f15d-50b4-a83f-fe4532cd15a7",
+  "name": "Wieso, Weshalb, Warum - Die Rettungsfahrzeuge",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Erne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e34899de-f15d-50b4-a83f-fe4532cd15a7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - die rettungsfahrzeuge andrea erne buch"
+  }
+}

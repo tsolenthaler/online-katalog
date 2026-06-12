@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c34e529b-d335-5ce5-8262-39c0d53f6b75",
+  "name": "Das Unrecht",
+  "author": {
+    "@type": "Person",
+    "name": "Ellen Sandberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c34e529b-d335-5ce5-8262-39c0d53f6b75",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das unrecht ellen sandberg buch"
+  }
+}

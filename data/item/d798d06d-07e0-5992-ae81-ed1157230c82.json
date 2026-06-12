@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d798d06d-07e0-5992-ae81-ed1157230c82",
+  "name": "Silberdrache - Das Geheimnis der Drachenkönigin",
+  "author": {
+    "@type": "Person",
+    "name": "Jessica Khoury"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d798d06d-07e0-5992-ae81-ed1157230c82",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "silberdrache - das geheimnis der drachenkonigin jessica khoury buch"
+  }
+}

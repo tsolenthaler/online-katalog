@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f10873b2-4039-5851-9e99-10e8f4dafab5",
+  "name": "Yakari - Band 001 - und grosser Adler",
+  "author": {
+    "@type": "Person",
+    "name": "Derib u. Job"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f10873b2-4039-5851-9e99-10e8f4dafab5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 001 - und grosser adler derib u. job buch"
+  }
+}

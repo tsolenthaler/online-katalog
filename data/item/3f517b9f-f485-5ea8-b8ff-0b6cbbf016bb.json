@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3f517b9f-f485-5ea8-b8ff-0b6cbbf016bb",
+  "name": "Elefantastisch",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Engler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3f517b9f-f485-5ea8-b8ff-0b6cbbf016bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elefantastisch michael engler buch"
+  }
+}

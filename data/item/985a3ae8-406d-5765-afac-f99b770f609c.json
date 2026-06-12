@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:985a3ae8-406d-5765-afac-f99b770f609c",
+  "name": "Meerschweinchen",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Beck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "985a3ae8-406d-5765-afac-f99b770f609c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meerschweinchen angela beck buch"
+  }
+}

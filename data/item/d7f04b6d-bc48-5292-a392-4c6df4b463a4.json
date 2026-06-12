@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d7f04b6d-bc48-5292-a392-4c6df4b463a4",
+  "name": "Spuren lesen",
+  "author": {
+    "@type": "Person",
+    "name": "David Melbeck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d7f04b6d-bc48-5292-a392-4c6df4b463a4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spuren lesen david melbeck buch"
+  }
+}

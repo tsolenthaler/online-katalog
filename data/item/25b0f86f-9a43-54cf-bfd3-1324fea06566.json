@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25b0f86f-9a43-54cf-bfd3-1324fea06566",
+  "name": "Karlsson vom Dach",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Lindgren"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25b0f86f-9a43-54cf-bfd3-1324fea06566",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "karlsson vom dach astrid lindgren buch"
+  }
+}

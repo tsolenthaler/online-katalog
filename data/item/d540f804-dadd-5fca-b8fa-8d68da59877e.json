@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d540f804-dadd-5fca-b8fa-8d68da59877e",
+  "name": "Lost",
+  "author": {
+    "@type": "Person",
+    "name": "Mindy McGinnis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d540f804-dadd-5fca-b8fa-8d68da59877e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lost mindy mcginnis buch"
+  }
+}

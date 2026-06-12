@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8d88de3-4292-535c-895a-afb029f59b61",
+  "name": "Der letzte Feuerfalke - und das Silbermoor - Band 8",
+  "author": {
+    "@type": "Person",
+    "name": "Katrina Charman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8d88de3-4292-535c-895a-afb029f59b61",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der letzte feuerfalke - und das silbermoor - band 8 katrina charman buch"
+  }
+}

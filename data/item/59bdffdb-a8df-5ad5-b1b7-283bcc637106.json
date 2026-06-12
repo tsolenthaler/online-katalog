@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59bdffdb-a8df-5ad5-b1b7-283bcc637106",
+  "name": "Bretonische Sehnsucht",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Luc Bannalec"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59bdffdb-a8df-5ad5-b1b7-283bcc637106",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bretonische sehnsucht jean-luc bannalec buch"
+  }
+}

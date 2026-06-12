@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:49bc9bd2-3623-5ec5-8a9c-c0f66a4bb716",
+  "name": "Out there",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Hermes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "49bc9bd2-3623-5ec5-8a9c-c0f66a4bb716",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "out there julia hermes buch"
+  }
+}

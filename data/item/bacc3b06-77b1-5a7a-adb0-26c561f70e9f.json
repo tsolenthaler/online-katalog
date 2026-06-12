@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bacc3b06-77b1-5a7a-adb0-26c561f70e9f",
+  "name": "Der Vogel zweifelt nicht am Ort, zu dem er fliegt",
+  "author": {
+    "@type": "Person",
+    "name": "Usama Al Shahmani"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bacc3b06-77b1-5a7a-adb0-26c561f70e9f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der vogel zweifelt nicht am ort, zu dem er fliegt usama al shahmani buch"
+  }
+}

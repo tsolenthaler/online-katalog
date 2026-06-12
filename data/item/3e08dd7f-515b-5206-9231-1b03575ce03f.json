@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3e08dd7f-515b-5206-9231-1b03575ce03f",
+  "name": "Todesurteil - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Gruber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3e08dd7f-515b-5206-9231-1b03575ce03f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "todesurteil - band 2 andreas gruber buch"
+  }
+}

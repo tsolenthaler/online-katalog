@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2633a8f5-01fe-5380-bd7c-338a352e4e5f",
+  "name": "Dork Diaries - Band 01- Nikkis fabelhafte Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2633a8f5-01fe-5380-bd7c-338a352e4e5f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - band 01- nikkis fabelhafte welt rachel russell buch"
+  }
+}

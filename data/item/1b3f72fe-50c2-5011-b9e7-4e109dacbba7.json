@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1b3f72fe-50c2-5011-b9e7-4e109dacbba7",
+  "name": "Die kleine Hexe hat Geburtstag",
+  "author": {
+    "@type": "Person",
+    "name": "Lieve Baeten"
+  },
+  "isbn": "9783751209281",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783751209281",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783751209281"
+  ],
+  "_catalog": {
+    "id": "1b3f72fe-50c2-5011-b9e7-4e109dacbba7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die kleine hexe hat geburtstag lieve baeten 9783751209281 buch"
+  }
+}

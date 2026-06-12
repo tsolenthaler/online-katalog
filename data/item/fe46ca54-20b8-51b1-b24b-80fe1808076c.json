@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe46ca54-20b8-51b1-b24b-80fe1808076c",
+  "name": "TKKG - Band 072 - Taschengeld für ein Gespenst",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe46ca54-20b8-51b1-b24b-80fe1808076c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 072 - taschengeld fur ein gespenst stefan wolf buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c54b14bc-9ad5-5b05-8894-a395d90b1910",
+  "name": "Spuk auf dem Campingplatz",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Katrin Heger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c54b14bc-9ad5-5b05-8894-a395d90b1910",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spuk auf dem campingplatz ann-katrin heger buch"
+  }
+}

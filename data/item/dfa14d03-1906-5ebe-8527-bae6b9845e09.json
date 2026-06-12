@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dfa14d03-1906-5ebe-8527-bae6b9845e09",
+  "name": "Der dunkle Himmel",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Fritz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dfa14d03-1906-5ebe-8527-bae6b9845e09",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der dunkle himmel astrid fritz buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8c14900-5f5a-5481-adf9-7ff1aaafcc49",
+  "name": "Memo - Fahrzeuge & Transport",
+  "author": {
+    "@type": "Person",
+    "name": "Leon Gray"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8c14900-5f5a-5481-adf9-7ff1aaafcc49",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo - fahrzeuge & transport leon gray buch"
+  }
+}

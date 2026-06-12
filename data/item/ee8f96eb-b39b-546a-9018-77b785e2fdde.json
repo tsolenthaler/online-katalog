@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee8f96eb-b39b-546a-9018-77b785e2fdde",
+  "name": "Als der Mensch auf Bäumen sass",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Bright"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee8f96eb-b39b-546a-9018-77b785e2fdde",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "als der mensch auf baumen sass michael bright buch"
+  }
+}

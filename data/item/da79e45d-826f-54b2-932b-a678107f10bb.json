@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da79e45d-826f-54b2-932b-a678107f10bb",
+  "name": "Marsupilami - Band 027 - Chaos in Jollywood",
+  "author": {
+    "@type": "Person",
+    "name": "Batem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da79e45d-826f-54b2-932b-a678107f10bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 027 - chaos in jollywood batem buch"
+  }
+}

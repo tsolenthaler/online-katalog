@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2ccce99-762a-549d-893d-80fcc4cba3ca",
+  "name": "Donald - Band 057",
+  "author": {
+    "@type": "Person",
+    "name": "Carl Barks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2ccce99-762a-549d-893d-80fcc4cba3ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "donald - band 057 carl barks buch"
+  }
+}

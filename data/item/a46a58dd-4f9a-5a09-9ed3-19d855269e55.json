@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a46a58dd-4f9a-5a09-9ed3-19d855269e55",
+  "name": "You'd be Home Now",
+  "author": {
+    "@type": "Person",
+    "name": "Kathleen Glasgow"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a46a58dd-4f9a-5a09-9ed3-19d855269e55",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "you'd be home now kathleen glasgow buch"
+  }
+}

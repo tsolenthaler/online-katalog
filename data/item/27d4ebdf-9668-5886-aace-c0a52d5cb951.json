@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:27d4ebdf-9668-5886-aace-c0a52d5cb951",
+  "name": "Bibi & Tina - Rettung bei Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Vincent Andreas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "27d4ebdf-9668-5886-aace-c0a52d5cb951",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - rettung bei nacht vincent andreas buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7493e15-2db5-553c-a229-a1df07dd604d",
+  "name": "Der magische Blumenladen - Fabelhafte Ferien",
+  "author": {
+    "@type": "Person",
+    "name": "Gina Mayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7493e15-2db5-553c-a229-a1df07dd604d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der magische blumenladen - fabelhafte ferien gina mayer buch"
+  }
+}

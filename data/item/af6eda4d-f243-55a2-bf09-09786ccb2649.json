@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:af6eda4d-f243-55a2-bf09-09786ccb2649",
+  "name": "Rotkäppchens Traum",
+  "author": {
+    "@type": "Person",
+    "name": "Max Bentow"
+  },
+  "isbn": "9783844534801",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844534801",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844534801"
+  ],
+  "_catalog": {
+    "id": "af6eda4d-f243-55a2-bf09-09786ccb2649",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "rotkappchens traum max bentow 9783844534801 buch"
+  }
+}

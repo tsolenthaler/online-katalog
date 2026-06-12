@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a0782737-965c-57c0-9ad4-3747d3a02e4f",
+  "name": "Mehr als ein Leben",
+  "author": {
+    "@type": "Person",
+    "name": "Milena Moser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a0782737-965c-57c0-9ad4-3747d3a02e4f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mehr als ein leben milena moser buch"
+  }
+}

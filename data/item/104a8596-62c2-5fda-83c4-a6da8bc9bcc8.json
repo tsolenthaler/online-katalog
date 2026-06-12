@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:104a8596-62c2-5fda-83c4-a6da8bc9bcc8",
+  "name": "Jakob von Gunten",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Walser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "104a8596-62c2-5fda-83c4-a6da8bc9bcc8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jakob von gunten robert walser buch"
+  }
+}

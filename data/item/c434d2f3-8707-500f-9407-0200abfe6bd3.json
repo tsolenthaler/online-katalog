@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c434d2f3-8707-500f-9407-0200abfe6bd3",
+  "name": "Die drei ??? - Band 207 - Kreaturen der Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Sonnleitner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c434d2f3-8707-500f-9407-0200abfe6bd3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 207 - kreaturen der nacht marco sonnleitner buch"
+  }
+}

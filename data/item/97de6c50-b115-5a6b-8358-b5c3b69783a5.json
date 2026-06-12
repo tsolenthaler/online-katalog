@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97de6c50-b115-5a6b-8358-b5c3b69783a5",
+  "name": "Die drei ??? Kids - Band 042 - Fussballgötter",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97de6c50-b115-5a6b-8358-b5c3b69783a5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 042 - fussballgotter boris pfeiffer buch"
+  }
+}

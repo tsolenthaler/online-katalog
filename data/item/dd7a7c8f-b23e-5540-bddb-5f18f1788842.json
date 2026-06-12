@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd7a7c8f-b23e-5540-bddb-5f18f1788842",
+  "name": "Wieso Weshalb Warum - Die Ritterburg",
+  "author": {
+    "@type": "Person",
+    "name": "Kyrima Trapp"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd7a7c8f-b23e-5540-bddb-5f18f1788842",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - die ritterburg kyrima trapp buch"
+  }
+}

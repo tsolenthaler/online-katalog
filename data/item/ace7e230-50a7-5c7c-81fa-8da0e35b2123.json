@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ace7e230-50a7-5c7c-81fa-8da0e35b2123",
+  "name": "Spione der Unterwelt",
+  "author": {
+    "@type": "Person",
+    "name": "T. Spexx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ace7e230-50a7-5c7c-81fa-8da0e35b2123",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spione der unterwelt t. spexx buch"
+  }
+}

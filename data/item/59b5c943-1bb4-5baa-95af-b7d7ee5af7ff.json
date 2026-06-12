@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59b5c943-1bb4-5baa-95af-b7d7ee5af7ff",
+  "name": "Ponyhof Apfelblüte - Glaub an dich, Juli",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59b5c943-1bb4-5baa-95af-b7d7ee5af7ff",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyhof apfelblute - glaub an dich, juli pippa young buch"
+  }
+}

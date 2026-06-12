@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aac3f55a-74cf-5f4e-8d6b-1d23b289bd6c",
+  "name": "yoko tsuno - Band 002 - Die Orgel des Teufels",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Leloup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aac3f55a-74cf-5f4e-8d6b-1d23b289bd6c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoko tsuno - band 002 - die orgel des teufels roger leloup buch"
+  }
+}

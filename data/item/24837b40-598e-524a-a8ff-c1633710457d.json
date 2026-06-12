@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:24837b40-598e-524a-a8ff-c1633710457d",
+  "name": "Die Vampirschwestern, Finale Randale",
+  "author": {
+    "@type": "Person",
+    "name": "Franziska Gehm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "24837b40-598e-524a-a8ff-c1633710457d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die vampirschwestern, finale randale franziska gehm buch"
+  }
+}

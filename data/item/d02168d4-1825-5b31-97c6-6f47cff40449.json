@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d02168d4-1825-5b31-97c6-6f47cff40449",
+  "name": "Tim und Struppi - Band 001 - Tim im Kongo",
+  "author": {
+    "@type": "Person",
+    "name": "Hergé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d02168d4-1825-5b31-97c6-6f47cff40449",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tim und struppi - band 001 - tim im kongo herge buch"
+  }
+}

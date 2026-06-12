@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:871c9b4c-8303-5936-87ef-ec3c52dbf1ad",
+  "name": "Minecraft - das Kämpfer-Handbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Craig Jelley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "871c9b4c-8303-5936-87ef-ec3c52dbf1ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "minecraft - das kampfer-handbuch craig jelley buch"
+  }
+}

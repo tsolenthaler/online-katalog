@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:edc2c96c-09c3-59e2-981f-9d844b91333d",
+  "name": "Unlock my heart - Golden Heights",
+  "author": {
+    "@type": "Person",
+    "name": "Saskia Louis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "edc2c96c-09c3-59e2-981f-9d844b91333d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unlock my heart - golden heights saskia louis buch"
+  }
+}

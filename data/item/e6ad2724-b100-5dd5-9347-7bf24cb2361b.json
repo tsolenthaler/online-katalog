@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6ad2724-b100-5dd5-9347-7bf24cb2361b",
+  "name": "WAS IST WAS - Superschlaue Tiere / Tricks der Pflanzen",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Baur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6ad2724-b100-5dd5-9347-7bf24cb2361b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - superschlaue tiere / tricks der pflanzen manfred baur buch"
+  }
+}

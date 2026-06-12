@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c29c493d-cc8c-5a2f-9a5c-5cac89325788",
+  "name": "Die drei !!! : Band 094 : Unheimliches Meeresleuchten",
+  "author": {
+    "@type": "Person",
+    "name": "Jule Ambach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c29c493d-cc8c-5a2f-9a5c-5cac89325788",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! : band 094 : unheimliches meeresleuchten jule ambach buch"
+  }
+}

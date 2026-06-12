@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:879a39eb-8954-5003-98fe-66020258a8e2",
+  "name": "Die verlorenen Töchter Bd. 6: Die verlassene Tochter",
+  "author": {
+    "@type": "Person",
+    "name": "Soraya Lane"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "879a39eb-8954-5003-98fe-66020258a8e2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die verlorenen tochter bd. 6: die verlassene tochter soraya lane buch"
+  }
+}

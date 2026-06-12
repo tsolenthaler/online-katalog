@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:45133c30-7b21-5a40-8368-3532b337c53b",
+  "name": "Zero Waste",
+  "author": {
+    "@type": "Person",
+    "name": "Shia Su"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "45133c30-7b21-5a40-8368-3532b337c53b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zero waste shia su buch"
+  }
+}

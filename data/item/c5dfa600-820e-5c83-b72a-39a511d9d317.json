@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5dfa600-820e-5c83-b72a-39a511d9d317",
+  "name": "Sternenschweif - Band 043 - Der Sternengeburtstag",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara van den Speulhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5dfa600-820e-5c83-b72a-39a511d9d317",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 043 - der sternengeburtstag barbara van den speulhof buch"
+  }
+}

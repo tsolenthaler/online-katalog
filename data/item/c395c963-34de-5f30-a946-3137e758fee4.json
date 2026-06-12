@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c395c963-34de-5f30-a946-3137e758fee4",
+  "name": "Sternenschweif - Band 061 - Funkelnde Sternennacht",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara van den Speulhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c395c963-34de-5f30-a946-3137e758fee4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 061 - funkelnde sternennacht barbara van den speulhof buch"
+  }
+}

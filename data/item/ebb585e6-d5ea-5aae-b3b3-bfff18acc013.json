@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebb585e6-d5ea-5aae-b3b3-bfff18acc013",
+  "name": "Der kleine Drache Kokosnuss - und die starken Wikinger -",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ebb585e6-d5ea-5aae-b3b3-bfff18acc013",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine drache kokosnuss - und die starken wikinger - ingo siegner buch"
+  }
+}

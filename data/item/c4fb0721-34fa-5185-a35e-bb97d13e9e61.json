@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c4fb0721-34fa-5185-a35e-bb97d13e9e61",
+  "name": "Helvetia 1949",
+  "author": {
+    "@type": "Person",
+    "name": "Philipp Gurt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c4fb0721-34fa-5185-a35e-bb97d13e9e61",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "helvetia 1949 philipp gurt buch"
+  }
+}

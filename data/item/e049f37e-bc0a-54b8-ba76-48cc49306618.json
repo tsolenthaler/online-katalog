@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e049f37e-bc0a-54b8-ba76-48cc49306618",
+  "name": "In einem fremden Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Dörrie"
+  },
+  "isbn": "9783423432054",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783423432054",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783423432054"
+  ],
+  "_catalog": {
+    "id": "e049f37e-bc0a-54b8-ba76-48cc49306618",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "in einem fremden wald doris dorrie 9783423432054 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a20fc0d4-8a60-5ff2-94c5-142a0f39b841",
+  "name": "Bibi & Tina - Wildgänse-Alarm",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias Bornstädt von"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a20fc0d4-8a60-5ff2-94c5-142a0f39b841",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - wildganse-alarm matthias bornstadt von buch"
+  }
+}

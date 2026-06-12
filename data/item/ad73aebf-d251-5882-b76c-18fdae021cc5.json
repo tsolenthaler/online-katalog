@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad73aebf-d251-5882-b76c-18fdae021cc5",
+  "name": "Spielmacher - Sport-Krimi",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Schlüter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad73aebf-d251-5882-b76c-18fdae021cc5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spielmacher - sport-krimi andreas schluter buch"
+  }
+}

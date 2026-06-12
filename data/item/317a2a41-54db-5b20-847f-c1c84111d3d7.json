@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:317a2a41-54db-5b20-847f-c1c84111d3d7",
+  "name": "Was ist was - Raumfahrt / Der Mond",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Baur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "317a2a41-54db-5b20-847f-c1c84111d3d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - raumfahrt / der mond manfred baur buch"
+  }
+}

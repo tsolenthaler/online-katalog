@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5750314-982b-52c1-8504-634c8022e91f",
+  "name": "TKKG - Band 190 - Der eiskalte Clown",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5750314-982b-52c1-8504-634c8022e91f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 190 - der eiskalte clown stefan wolf buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:36b752bb-5cb1-5da4-9f6a-dc30cc730086",
+  "name": "Globi kocht vegi",
+  "author": {
+    "@type": "Person",
+    "name": "Heiri Schmid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "36b752bb-5cb1-5da4-9f6a-dc30cc730086",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi kocht vegi heiri schmid buch"
+  }
+}

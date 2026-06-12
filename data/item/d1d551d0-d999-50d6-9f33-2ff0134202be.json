@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1d551d0-d999-50d6-9f33-2ff0134202be",
+  "name": "Damals in Monstein",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Thürer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1d551d0-d999-50d6-9f33-2ff0134202be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "damals in monstein paul thurer buch"
+  }
+}

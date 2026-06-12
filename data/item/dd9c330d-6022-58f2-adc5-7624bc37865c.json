@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd9c330d-6022-58f2-adc5-7624bc37865c",
+  "name": "Im Schatten unserer Wünsche",
+  "author": {
+    "@type": "Person",
+    "name": "Jeffrey Archer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd9c330d-6022-58f2-adc5-7624bc37865c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im schatten unserer wunsche jeffrey archer buch"
+  }
+}

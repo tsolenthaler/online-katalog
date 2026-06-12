@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:698a90de-e94e-566f-92f0-f9878da0b389",
+  "name": "Nele - Band 003 - und die Geburtstagsparty",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "698a90de-e94e-566f-92f0-f9878da0b389",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nele - band 003 - und die geburtstagsparty usch luhn buch"
+  }
+}

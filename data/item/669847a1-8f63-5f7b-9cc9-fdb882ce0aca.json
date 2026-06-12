@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:669847a1-8f63-5f7b-9cc9-fdb882ce0aca",
+  "name": "Das Vermächtnis der Wanderhure, Bd 3",
+  "author": {
+    "@type": "Person",
+    "name": "Iny Lorentz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "669847a1-8f63-5f7b-9cc9-fdb882ce0aca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das vermachtnis der wanderhure, bd 3 iny lorentz buch"
+  }
+}

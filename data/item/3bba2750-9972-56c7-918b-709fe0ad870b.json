@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3bba2750-9972-56c7-918b-709fe0ad870b",
+  "name": "Die drei! !!! - Bücherhelden 2. Klasse - Diebstahl auf dem",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Scheller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3bba2750-9972-56c7-918b-709fe0ad870b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei! !!! - bucherhelden 2. klasse - diebstahl auf dem anne scheller buch"
+  }
+}

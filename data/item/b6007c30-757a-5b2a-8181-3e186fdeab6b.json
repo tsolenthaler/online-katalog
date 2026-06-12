@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6007c30-757a-5b2a-8181-3e186fdeab6b",
+  "name": "Cornwall College - Band 002 - Wem kann Cara trauen?",
+  "author": {
+    "@type": "Person",
+    "name": "Annika Harper"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6007c30-757a-5b2a-8181-3e186fdeab6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cornwall college - band 002 - wem kann cara trauen? annika harper buch"
+  }
+}

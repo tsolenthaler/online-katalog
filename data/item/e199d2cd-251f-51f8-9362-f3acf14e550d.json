@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e199d2cd-251f-51f8-9362-f3acf14e550d",
+  "name": "Die drei ??? - Band 156 - Im Netz des Drachen",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Sonnleitner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e199d2cd-251f-51f8-9362-f3acf14e550d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 156 - im netz des drachen marco sonnleitner buch"
+  }
+}

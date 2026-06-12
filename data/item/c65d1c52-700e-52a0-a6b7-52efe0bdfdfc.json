@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c65d1c52-700e-52a0-a6b7-52efe0bdfdfc",
+  "name": "Spirou und Fantasio- Band 048 - Zu den Ursprüngen des Z",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c65d1c52-700e-52a0-a6b7-52efe0bdfdfc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou und fantasio- band 048 - zu den ursprungen des z franquin buch"
+  }
+}

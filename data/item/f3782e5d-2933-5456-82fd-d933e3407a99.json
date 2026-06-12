@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f3782e5d-2933-5456-82fd-d933e3407a99",
+  "name": "Heinrich will brüten!",
+  "author": {
+    "@type": "Person",
+    "name": "Anette Thumser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f3782e5d-2933-5456-82fd-d933e3407a99",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heinrich will bruten! anette thumser buch"
+  }
+}

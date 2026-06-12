@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ccab5b56-f551-591a-84b0-64aac337e46e",
+  "name": "Chaos und flambierte Herzen",
+  "author": {
+    "@type": "Person",
+    "name": "Hortense Ullrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ccab5b56-f551-591a-84b0-64aac337e46e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "chaos und flambierte herzen hortense ullrich buch"
+  }
+}

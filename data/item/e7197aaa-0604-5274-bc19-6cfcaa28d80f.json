@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7197aaa-0604-5274-bc19-6cfcaa28d80f",
+  "name": "School of Talents - Band 1 - Erste Stunde: tierisch laut!",
+  "author": {
+    "@type": "Person",
+    "name": "Silke Schellhammer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7197aaa-0604-5274-bc19-6cfcaa28d80f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "school of talents - band 1 - erste stunde: tierisch laut! silke schellhammer buch"
+  }
+}

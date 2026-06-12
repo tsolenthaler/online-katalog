@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fc28472e-0065-500f-823f-1cbc0fb33dbf",
+  "name": "Wieso Weshalb Warum - Der Bauernhof",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Reider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fc28472e-0065-500f-823f-1cbc0fb33dbf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - der bauernhof katja reider buch"
+  }
+}

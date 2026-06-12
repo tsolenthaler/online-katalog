@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1007fcc9-fc3a-58e0-95f4-90ee6c91cd2b",
+  "name": "Beast Quest - Band 012 - Trillion Tyrann der Wildnis",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1007fcc9-fc3a-58e0-95f4-90ee6c91cd2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 012 - trillion tyrann der wildnis adam blade buch"
+  }
+}

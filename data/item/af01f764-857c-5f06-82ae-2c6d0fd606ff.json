@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:af01f764-857c-5f06-82ae-2c6d0fd606ff",
+  "name": "Bretonische Brandung",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Luc Bannalec"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "af01f764-857c-5f06-82ae-2c6d0fd606ff",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bretonische brandung jean-luc bannalec buch"
+  }
+}

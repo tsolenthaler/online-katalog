@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6f95b87-fc3d-550b-b59f-2e85efd710f9",
+  "name": "Unschlagbar - Band 001 - Gerechtigkeit und Gemüse",
+  "author": {
+    "@type": "Person",
+    "name": "Pascal Jousselin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6f95b87-fc3d-550b-b59f-2e85efd710f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unschlagbar - band 001 - gerechtigkeit und gemuse pascal jousselin buch"
+  }
+}

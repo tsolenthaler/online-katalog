@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e391e3b8-a72c-5033-a1a5-981d98666aad",
+  "name": "Tafiti - Band 002 - und das fliegende Pinselohrschwein",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e391e3b8-a72c-5033-a1a5-981d98666aad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tafiti - band 002 - und das fliegende pinselohrschwein julia boehme buch"
+  }
+}

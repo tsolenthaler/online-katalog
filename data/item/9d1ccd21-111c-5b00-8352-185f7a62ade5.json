@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9d1ccd21-111c-5b00-8352-185f7a62ade5",
+  "name": "die schönsten Berg- und Hüttenwanderungen mit",
+  "author": {
+    "@type": "Person",
+    "name": "Remo Kundert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9d1ccd21-111c-5b00-8352-185f7a62ade5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten berg- und huttenwanderungen mit remo kundert buch"
+  }
+}

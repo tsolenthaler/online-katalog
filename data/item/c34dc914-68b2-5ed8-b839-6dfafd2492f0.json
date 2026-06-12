@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c34dc914-68b2-5ed8-b839-6dfafd2492f0",
+  "name": "Die unsichtbaren Welten mikroskopisch kleiner Tiere",
+  "author": {
+    "@type": "Person",
+    "name": "Hélène Rajcak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c34dc914-68b2-5ed8-b839-6dfafd2492f0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die unsichtbaren welten mikroskopisch kleiner tiere helene rajcak buch"
+  }
+}

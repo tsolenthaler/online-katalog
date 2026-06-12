@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7e785019-87aa-54b8-95da-0a5b64e0821e",
+  "name": "Essbare Wildsamen",
+  "author": {
+    "@type": "Person",
+    "name": "Anke Höller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7e785019-87aa-54b8-95da-0a5b64e0821e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "essbare wildsamen anke holler buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:467241ed-40c6-5771-8471-b19de77ca8f9",
+  "name": "Das Lied von Eis und Feuer - Band 1 - Die Herren von",
+  "author": {
+    "@type": "Person",
+    "name": "George R. R. Martin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "467241ed-40c6-5771-8471-b19de77ca8f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das lied von eis und feuer - band 1 - die herren von george r. r. martin buch"
+  }
+}

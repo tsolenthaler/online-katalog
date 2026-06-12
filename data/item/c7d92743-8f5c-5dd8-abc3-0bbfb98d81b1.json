@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c7d92743-8f5c-5dd8-abc3-0bbfb98d81b1",
+  "name": "Disney Die Eiskönigin 2: Der Roman zum Film",
+  "author": {
+    "@type": "Person",
+    "name": "The The Walt Disney Company"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c7d92743-8f5c-5dd8-abc3-0bbfb98d81b1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney die eiskonigin 2: der roman zum film the the walt disney company buch"
+  }
+}

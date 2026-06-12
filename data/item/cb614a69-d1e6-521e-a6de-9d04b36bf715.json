@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb614a69-d1e6-521e-a6de-9d04b36bf715",
+  "name": "Die drei !!! - Band 028 - Achtung, Promihochzeit",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb614a69-d1e6-521e-a6de-9d04b36bf715",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 028 - achtung, promihochzeit peter nissen buch"
+  }
+}

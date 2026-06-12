@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd72e278-d219-5691-99db-add43356c05b",
+  "name": "Zilly und Zingaro - Der Rüpelritter",
+  "author": {
+    "@type": "Person",
+    "name": "Korky Paul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd72e278-d219-5691-99db-add43356c05b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro - der rupelritter korky paul buch"
+  }
+}

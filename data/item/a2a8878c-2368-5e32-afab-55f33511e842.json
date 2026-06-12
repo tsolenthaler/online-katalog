@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2a8878c-2368-5e32-afab-55f33511e842",
+  "name": "Was geschah wirklich?",
+  "author": {
+    "@type": "Person",
+    "name": "Susan Martineau"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2a8878c-2368-5e32-afab-55f33511e842",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was geschah wirklich? susan martineau buch"
+  }
+}

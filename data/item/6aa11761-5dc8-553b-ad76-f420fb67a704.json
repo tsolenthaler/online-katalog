@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6aa11761-5dc8-553b-ad76-f420fb67a704",
+  "name": "Edda traut sich",
+  "author": {
+    "@type": "Person",
+    "name": "Johannes Thielen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6aa11761-5dc8-553b-ad76-f420fb67a704",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "edda traut sich johannes thielen buch"
+  }
+}

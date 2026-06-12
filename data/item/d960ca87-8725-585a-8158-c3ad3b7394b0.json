@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d960ca87-8725-585a-8158-c3ad3b7394b0",
+  "name": "After - Band 4 - forever",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Todd"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d960ca87-8725-585a-8158-c3ad3b7394b0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "after - band 4 - forever anna todd buch"
+  }
+}

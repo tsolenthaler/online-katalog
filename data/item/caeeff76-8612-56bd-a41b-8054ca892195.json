@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:caeeff76-8612-56bd-a41b-8054ca892195",
+  "name": "Star Wars - Galaxis in Gefahr und andere spannende",
+  "author": {
+    "@type": "Person",
+    "name": "Anke Wellner-Kempf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "caeeff76-8612-56bd-a41b-8054ca892195",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "star wars - galaxis in gefahr und andere spannende anke wellner-kempf buch"
+  }
+}

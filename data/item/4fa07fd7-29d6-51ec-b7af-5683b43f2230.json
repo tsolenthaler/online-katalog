@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4fa07fd7-29d6-51ec-b7af-5683b43f2230",
+  "name": "TKKG Junior - Der Schatz im See",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4fa07fd7-29d6-51ec-b7af-5683b43f2230",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - der schatz im see kirsten vogel buch"
+  }
+}

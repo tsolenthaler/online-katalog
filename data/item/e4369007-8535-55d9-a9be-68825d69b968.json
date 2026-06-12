@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4369007-8535-55d9-a9be-68825d69b968",
+  "name": "Das grosse Leseraben-Buch - Mädchengeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Betina Gotzen-Beek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4369007-8535-55d9-a9be-68825d69b968",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das grosse leseraben-buch - madchengeschichten betina gotzen-beek buch"
+  }
+}

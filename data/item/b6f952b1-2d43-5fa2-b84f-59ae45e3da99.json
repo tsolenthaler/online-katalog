@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6f952b1-2d43-5fa2-b84f-59ae45e3da99",
+  "name": "Jetzt ist alles, was wir haben",
+  "author": {
+    "@type": "Person",
+    "name": "Amy Giles"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6f952b1-2d43-5fa2-b84f-59ae45e3da99",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jetzt ist alles, was wir haben amy giles buch"
+  }
+}

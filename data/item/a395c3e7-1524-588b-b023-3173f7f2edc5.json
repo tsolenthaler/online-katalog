@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a395c3e7-1524-588b-b023-3173f7f2edc5",
+  "name": "Warten auf Heiligabend",
+  "author": {
+    "@type": "Person",
+    "name": "Heike Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a395c3e7-1524-588b-b023-3173f7f2edc5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warten auf heiligabend heike vogel buch"
+  }
+}

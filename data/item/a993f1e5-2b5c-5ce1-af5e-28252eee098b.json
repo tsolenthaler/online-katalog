@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a993f1e5-2b5c-5ce1-af5e-28252eee098b",
+  "name": "Sternenschweif - Band 007 - Nacht der 1000 Sterne",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a993f1e5-2b5c-5ce1-af5e-28252eee098b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 007 - nacht der 1000 sterne linda chapman buch"
+  }
+}

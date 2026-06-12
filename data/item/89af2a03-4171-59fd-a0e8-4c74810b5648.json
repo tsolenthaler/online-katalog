@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:89af2a03-4171-59fd-a0e8-4c74810b5648",
+  "name": "Philip Maloney - No.11",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "89af2a03-4171-59fd-a0e8-4c74810b5648",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "philip maloney - no.11 roger graf buch"
+  }
+}

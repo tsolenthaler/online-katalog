@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bda9c635-6e79-5196-aec5-0ab9e6caad62",
+  "name": "By your side",
+  "author": {
+    "@type": "Person",
+    "name": "Beth Anne Miller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bda9c635-6e79-5196-aec5-0ab9e6caad62",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "by your side beth anne miller buch"
+  }
+}

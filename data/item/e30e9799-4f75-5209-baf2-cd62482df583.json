@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e30e9799-4f75-5209-baf2-cd62482df583",
+  "name": "Der kleine Drache Kokosnuss - Band 019 - reist in die",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e30e9799-4f75-5209-baf2-cd62482df583",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine drache kokosnuss - band 019 - reist in die ingo siegner buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18aa1003-f07b-5441-adce-c728baf44f03",
+  "name": "Notizen zu einer Hinrichtung",
+  "author": {
+    "@type": "Person",
+    "name": "Danya Kukafka"
+  },
+  "isbn": "9783742431448",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783742431448",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783742431448"
+  ],
+  "_catalog": {
+    "id": "18aa1003-f07b-5441-adce-c728baf44f03",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "notizen zu einer hinrichtung danya kukafka 9783742431448 buch"
+  }
+}

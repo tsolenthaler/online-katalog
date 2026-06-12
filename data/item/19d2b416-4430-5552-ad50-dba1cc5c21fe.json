@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:19d2b416-4430-5552-ad50-dba1cc5c21fe",
+  "name": "Lust auf Medizin",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Weymayr"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "19d2b416-4430-5552-ad50-dba1cc5c21fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lust auf medizin christian weymayr buch"
+  }
+}

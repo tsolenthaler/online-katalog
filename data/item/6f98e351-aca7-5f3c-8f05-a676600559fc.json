@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6f98e351-aca7-5f3c-8f05-a676600559fc",
+  "name": "A slow fire burning",
+  "author": {
+    "@type": "Person",
+    "name": "Paula Hawkins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6f98e351-aca7-5f3c-8f05-a676600559fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "a slow fire burning paula hawkins buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e92ac728-0c89-533a-9552-691699f02101",
+  "name": "It starts with us – Nur noch einmal und für immer",
+  "author": {
+    "@type": "Person",
+    "name": "Colleen Hoover"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e92ac728-0c89-533a-9552-691699f02101",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "it starts with us – nur noch einmal und fur immer colleen hoover buch"
+  }
+}

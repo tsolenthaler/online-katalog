@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:794f1753-ebef-5e7b-95a9-f932f18e77f5",
+  "name": "Fünf Freunde - Band 101 - und der vergessene Schatz",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brügger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "794f1753-ebef-5e7b-95a9-f932f18e77f5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 101 - und der vergessene schatz katja brugger buch"
+  }
+}

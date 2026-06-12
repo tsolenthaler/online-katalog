@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1cc9e459-180f-5007-bf00-3aece98d40cf",
+  "name": "Der grosse Kater",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Hürlimann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1cc9e459-180f-5007-bf00-3aece98d40cf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der grosse kater thomas hurlimann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe95c5e0-1300-5592-b21e-f5241a93938e",
+  "name": "Pilotengeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Fischer-Hunold Alexandra"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe95c5e0-1300-5592-b21e-f5241a93938e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pilotengeschichten fischer-hunold alexandra buch"
+  }
+}

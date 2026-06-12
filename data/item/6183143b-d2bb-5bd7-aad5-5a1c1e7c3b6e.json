@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6183143b-d2bb-5bd7-aad5-5a1c1e7c3b6e",
+  "name": "Käpt'n Sharky - rettet de chli Wal",
+  "author": {
+    "@type": "Person",
+    "name": "Jutta Langreuter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6183143b-d2bb-5bd7-aad5-5a1c1e7c3b6e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kapt'n sharky - rettet de chli wal jutta langreuter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9722fc5a-dbda-5bf3-9a55-088c5868caa6",
+  "name": "Ein Mann, ein Fjord",
+  "author": {
+    "@type": "Person",
+    "name": "Hape Kerkeling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9722fc5a-dbda-5bf3-9a55-088c5868caa6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein mann, ein fjord hape kerkeling buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a437039b-0733-58fa-8a6c-c96e476ff875",
+  "name": "Sternenritter - Band 004 - Verrat auf dem Feuerstern",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a437039b-0733-58fa-8a6c-c96e476ff875",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenritter - band 004 - verrat auf dem feuerstern michael peinkofer buch"
+  }
+}

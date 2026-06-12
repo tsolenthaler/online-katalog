@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f24104d6-b25c-5de6-9abf-0444ccb77d9a",
+  "name": "Das Geheimnis der Glasmacherin",
+  "author": {
+    "@type": "Person",
+    "name": "Tracy Chevalier"
+  },
+  "isbn": "9783989813090",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783989813090",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783989813090"
+  ],
+  "_catalog": {
+    "id": "f24104d6-b25c-5de6-9abf-0444ccb77d9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das geheimnis der glasmacherin tracy chevalier 9783989813090 buch"
+  }
+}

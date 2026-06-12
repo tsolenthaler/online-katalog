@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:88aacce4-122f-54d9-a36f-dc050ce47b10",
+  "name": "Fliegende Ärzte - Eine mutige Frau",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Haran"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "88aacce4-122f-54d9-a36f-dc050ce47b10",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fliegende arzte - eine mutige frau elizabeth haran buch"
+  }
+}

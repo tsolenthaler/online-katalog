@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1da349e-ee5e-596c-9dff-3014afe107b6",
+  "name": "Dreh deinen Film",
+  "author": {
+    "@type": "Person",
+    "name": "André Kussmaul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1da349e-ee5e-596c-9dff-3014afe107b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dreh deinen film andre kussmaul buch"
+  }
+}

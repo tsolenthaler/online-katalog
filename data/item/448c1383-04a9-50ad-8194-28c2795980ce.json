@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:448c1383-04a9-50ad-8194-28c2795980ce",
+  "name": "Seit du bei mir bist",
+  "author": {
+    "@type": "Person",
+    "name": "Nicholas Sparks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "448c1383-04a9-50ad-8194-28c2795980ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "seit du bei mir bist nicholas sparks buch"
+  }
+}

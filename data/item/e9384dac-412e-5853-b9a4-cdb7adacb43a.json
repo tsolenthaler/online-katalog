@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9384dac-412e-5853-b9a4-cdb7adacb43a",
+  "name": "Tief, tief, tief unten im Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Maxime Lebrun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e9384dac-412e-5853-b9a4-cdb7adacb43a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tief, tief, tief unten im meer maxime lebrun buch"
+  }
+}

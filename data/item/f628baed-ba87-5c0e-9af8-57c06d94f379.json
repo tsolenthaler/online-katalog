@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f628baed-ba87-5c0e-9af8-57c06d94f379",
+  "name": "Bildlegenden",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Keller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f628baed-ba87-5c0e-9af8-57c06d94f379",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bildlegenden stefan keller buch"
+  }
+}

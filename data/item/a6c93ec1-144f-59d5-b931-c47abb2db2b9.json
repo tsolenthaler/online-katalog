@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a6c93ec1-144f-59d5-b931-c47abb2db2b9",
+  "name": "Monster",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Neuhaus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a6c93ec1-144f-59d5-b931-c47abb2db2b9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monster nele neuhaus buch"
+  }
+}

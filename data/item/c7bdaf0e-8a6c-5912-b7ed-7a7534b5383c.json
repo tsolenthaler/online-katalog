@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c7bdaf0e-8a6c-5912-b7ed-7a7534b5383c",
+  "name": "WAS IST WAS - Wale und Delfine",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Braun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c7bdaf0e-8a6c-5912-b7ed-7a7534b5383c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - wale und delfine christina braun buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c90b0f24-db56-5e19-85ee-0f9217176e0f",
+  "name": "Entdecke die Pilze",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Thines"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c90b0f24-db56-5e19-85ee-0f9217176e0f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke die pilze marco thines buch"
+  }
+}

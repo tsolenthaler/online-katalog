@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b90b1a30-6eb3-5395-b4a7-d3043895a959",
+  "name": "111 Orte rund um den Säntis, die man gesehen haben",
+  "author": {
+    "@type": "Person",
+    "name": "Nina Kobelt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b90b1a30-6eb3-5395-b4a7-d3043895a959",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "111 orte rund um den santis, die man gesehen haben nina kobelt buch"
+  }
+}

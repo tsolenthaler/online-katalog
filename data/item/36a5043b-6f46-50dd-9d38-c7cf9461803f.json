@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:36a5043b-6f46-50dd-9d38-c7cf9461803f",
+  "name": "Matilda und die Sommersonneninsel",
+  "author": {
+    "@type": "Person",
+    "name": "Martina Sahler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "36a5043b-6f46-50dd-9d38-c7cf9461803f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "matilda und die sommersonneninsel martina sahler buch"
+  }
+}

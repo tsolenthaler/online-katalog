@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1914c9fc-ad2e-5a84-a6ae-a5120810407a",
+  "name": "Der Alpstein",
+  "author": {
+    "@type": "Person",
+    "name": "Hans Büchler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1914c9fc-ad2e-5a84-a6ae-a5120810407a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der alpstein hans buchler buch"
+  }
+}

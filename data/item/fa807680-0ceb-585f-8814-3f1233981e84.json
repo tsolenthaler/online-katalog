@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa807680-0ceb-585f-8814-3f1233981e84",
+  "name": "Wir müssen reden!",
+  "author": {
+    "@type": "Person",
+    "name": "Nicolas Mahler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa807680-0ceb-585f-8814-3f1233981e84",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wir mussen reden! nicolas mahler buch"
+  }
+}

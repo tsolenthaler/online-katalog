@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6b5bf8f-4a9a-5716-ad57-eb262c80f017",
+  "name": "Der kleine Erziehungsratgeber",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Hacke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6b5bf8f-4a9a-5716-ad57-eb262c80f017",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine erziehungsratgeber axel hacke buch"
+  }
+}

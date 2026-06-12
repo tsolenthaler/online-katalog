@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc00a873-642c-52dd-ba80-0683c4b74273",
+  "name": "Ein Leben mit Ferrari",
+  "author": {
+    "@type": "Person",
+    "name": "Esther Ferrari"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc00a873-642c-52dd-ba80-0683c4b74273",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein leben mit ferrari esther ferrari buch"
+  }
+}

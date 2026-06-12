@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:769dfb2d-8076-56b1-abd5-152f1c0ee838",
+  "name": "Lucky Luke - Band 098 - Volle Fahrt voraus",
+  "author": {
+    "@type": "Person",
+    "name": "Achdé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "769dfb2d-8076-56b1-abd5-152f1c0ee838",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 098 - volle fahrt voraus achde buch"
+  }
+}

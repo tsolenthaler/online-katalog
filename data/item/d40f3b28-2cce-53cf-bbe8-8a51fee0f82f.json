@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d40f3b28-2cce-53cf-bbe8-8a51fee0f82f",
+  "name": "Erinnerung des Herzens",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Roberts"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d40f3b28-2cce-53cf-bbe8-8a51fee0f82f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erinnerung des herzens nora roberts buch"
+  }
+}

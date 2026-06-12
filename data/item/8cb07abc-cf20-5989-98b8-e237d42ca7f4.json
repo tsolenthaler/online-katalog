@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8cb07abc-cf20-5989-98b8-e237d42ca7f4",
+  "name": "Das Universum ist verdammt groß und supermystisch",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Krusche"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8cb07abc-cf20-5989-98b8-e237d42ca7f4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das universum ist verdammt groß und supermystisch lisa krusche buch"
+  }
+}

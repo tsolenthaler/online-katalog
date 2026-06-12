@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c00d759f-442c-5606-abd5-362c87882f81",
+  "name": "Finde den Täter - Geheimbund Rote Koralle",
+  "author": {
+    "@type": "Person",
+    "name": "Julian Press"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c00d759f-442c-5606-abd5-362c87882f81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finde den tater - geheimbund rote koralle julian press buch"
+  }
+}

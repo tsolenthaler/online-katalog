@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:327d3196-2a03-5061-9ccd-7769959fac5f",
+  "name": "Chome gaad",
+  "author": {
+    "@type": "Person",
+    "name": "Mädel Fuchs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "327d3196-2a03-5061-9ccd-7769959fac5f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "chome gaad madel fuchs buch"
+  }
+}

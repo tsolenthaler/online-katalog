@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c917a6fa-bb53-53da-aeee-b36f8ce5638a",
+  "name": "Mama Muh will rutschen",
+  "author": {
+    "@type": "Person",
+    "name": "Jujja Wieslander"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c917a6fa-bb53-53da-aeee-b36f8ce5638a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mama muh will rutschen jujja wieslander buch"
+  }
+}

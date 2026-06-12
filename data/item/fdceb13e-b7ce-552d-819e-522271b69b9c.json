@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdceb13e-b7ce-552d-819e-522271b69b9c",
+  "name": "Meisterdetektiv Sherlock Bone - Band 1 - die Jagd nach",
+  "author": {
+    "@type": "Person",
+    "name": "Tim Collins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdceb13e-b7ce-552d-819e-522271b69b9c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meisterdetektiv sherlock bone - band 1 - die jagd nach tim collins buch"
+  }
+}

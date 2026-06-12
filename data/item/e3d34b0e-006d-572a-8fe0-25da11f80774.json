@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3d34b0e-006d-572a-8fe0-25da11f80774",
+  "name": "Die drei ??? - Band 214 - und die verlorene Zeit",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Dittert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3d34b0e-006d-572a-8fe0-25da11f80774",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 214 - und die verlorene zeit christoph dittert buch"
+  }
+}

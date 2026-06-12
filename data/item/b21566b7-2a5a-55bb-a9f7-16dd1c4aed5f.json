@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b21566b7-2a5a-55bb-a9f7-16dd1c4aed5f",
+  "name": "titeuf - Band 007 - Fass mich an den Füssen",
+  "author": {
+    "@type": "Person",
+    "name": "Zep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b21566b7-2a5a-55bb-a9f7-16dd1c4aed5f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "titeuf - band 007 - fass mich an den fussen zep buch"
+  }
+}

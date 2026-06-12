@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d564da48-001d-533e-ba1e-4fa444227b12",
+  "name": "Was wäre, wenn wir mutig sind?",
+  "author": {
+    "@type": "Person",
+    "name": "Luisa Neubauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d564da48-001d-533e-ba1e-4fa444227b12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ware, wenn wir mutig sind? luisa neubauer buch"
+  }
+}

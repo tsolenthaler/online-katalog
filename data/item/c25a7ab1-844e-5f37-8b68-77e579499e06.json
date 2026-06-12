@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c25a7ab1-844e-5f37-8b68-77e579499e06",
+  "name": "Baby Blues - Band 008 - Oje, es sieht mir ähnlich",
+  "author": {
+    "@type": "Person",
+    "name": "Rick Kirkman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c25a7ab1-844e-5f37-8b68-77e579499e06",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "baby blues - band 008 - oje, es sieht mir ahnlich rick kirkman buch"
+  }
+}

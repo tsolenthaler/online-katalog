@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c84a88f3-8543-5c93-8589-025f8ef9ecc3",
+  "name": "Was ist was - Feuerwehr - Wasser marsch!",
+  "author": {
+    "@type": "Person",
+    "name": "Carolina Zimmermann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c84a88f3-8543-5c93-8589-025f8ef9ecc3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - feuerwehr - wasser marsch! carolina zimmermann buch"
+  }
+}

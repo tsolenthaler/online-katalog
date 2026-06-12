@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4ae1107-fa79-5216-b9af-4653ddce1c32",
+  "name": "Vrenelis Gärtli",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Trauffer Krohn Tim"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4ae1107-fa79-5216-b9af-4653ddce1c32",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vrenelis gartli anna trauffer krohn tim buch"
+  }
+}

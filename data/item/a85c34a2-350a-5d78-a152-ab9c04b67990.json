@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a85c34a2-350a-5d78-a152-ab9c04b67990",
+  "name": "Die Löffelliste",
+  "author": {
+    "@type": "Person",
+    "name": "Blanca Imboden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a85c34a2-350a-5d78-a152-ab9c04b67990",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die loffelliste blanca imboden buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b73985a7-ba87-5e62-982b-8e9fdc997985",
+  "name": "Die drei ??? - Gekaufte Spieler - Band 055",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Hitchcock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b73985a7-ba87-5e62-982b-8e9fdc997985",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - gekaufte spieler - band 055 alfred hitchcock buch"
+  }
+}

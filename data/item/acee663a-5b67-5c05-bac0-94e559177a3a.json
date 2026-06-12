@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:acee663a-5b67-5c05-bac0-94e559177a3a",
+  "name": "Lucky Luke - Band 087 - Die Daltons und der Psycho-Doc",
+  "author": {
+    "@type": "Person",
+    "name": "René Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "acee663a-5b67-5c05-bac0-94e559177a3a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 087 - die daltons und der psycho-doc rene goscinny buch"
+  }
+}

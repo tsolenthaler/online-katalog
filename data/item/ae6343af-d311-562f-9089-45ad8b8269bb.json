@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae6343af-d311-562f-9089-45ad8b8269bb",
+  "name": "Die wilden Küken - Band 07 - Bühne frei!",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Schmid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae6343af-d311-562f-9089-45ad8b8269bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die wilden kuken - band 07 - buhne frei! thomas schmid buch"
+  }
+}

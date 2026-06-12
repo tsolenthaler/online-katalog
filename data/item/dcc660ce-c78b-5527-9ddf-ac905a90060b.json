@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcc660ce-c78b-5527-9ddf-ac905a90060b",
+  "name": "Beste Freundin, blöde Kuh!",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Schröder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcc660ce-c78b-5527-9ddf-ac905a90060b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beste freundin, blode kuh! patricia schroder buch"
+  }
+}

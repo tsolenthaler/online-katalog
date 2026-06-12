@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7b65111-5bf3-5ada-abac-f0aa0c0337c1",
+  "name": "Digitale Demenz",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Spitzer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7b65111-5bf3-5ada-abac-f0aa0c0337c1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "digitale demenz manfred spitzer buch"
+  }
+}

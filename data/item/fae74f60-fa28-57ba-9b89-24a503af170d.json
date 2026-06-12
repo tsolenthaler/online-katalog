@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fae74f60-fa28-57ba-9b89-24a503af170d",
+  "name": "Sternenschweif - Band 015 - Das Geheimnis der",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fae74f60-fa28-57ba-9b89-24a503af170d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 015 - das geheimnis der linda chapman buch"
+  }
+}

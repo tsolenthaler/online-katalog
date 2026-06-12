@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eabef101-7bb0-56ec-b291-b36345bc749b",
+  "name": "WAS IST WAS - Der Urmensch / Eiszeiten",
+  "author": {
+    "@type": "Person",
+    "name": "Crock Krumbiegel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eabef101-7bb0-56ec-b291-b36345bc749b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - der urmensch / eiszeiten crock krumbiegel buch"
+  }
+}

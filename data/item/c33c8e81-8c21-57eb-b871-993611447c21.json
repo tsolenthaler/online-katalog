@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c33c8e81-8c21-57eb-b871-993611447c21",
+  "name": "Ja, nein, vielleicht",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Knecht"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c33c8e81-8c21-57eb-b871-993611447c21",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ja, nein, vielleicht doris knecht buch"
+  }
+}

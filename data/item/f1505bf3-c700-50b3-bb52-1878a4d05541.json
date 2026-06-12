@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1505bf3-c700-50b3-bb52-1878a4d05541",
+  "name": "Midlife",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Bigalke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f1505bf3-c700-50b3-bb52-1878a4d05541",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "midlife katja bigalke buch"
+  }
+}

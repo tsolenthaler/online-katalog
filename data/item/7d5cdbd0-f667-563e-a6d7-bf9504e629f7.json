@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7d5cdbd0-f667-563e-a6d7-bf9504e629f7",
+  "name": "Molly und der gefiederte Dieb",
+  "author": {
+    "@type": "Person",
+    "name": "Vashti Hardy"
+  },
+  "isbn": "9783407813534",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783407813534",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783407813534"
+  ],
+  "_catalog": {
+    "id": "7d5cdbd0-f667-563e-a6d7-bf9504e629f7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "molly und der gefiederte dieb vashti hardy 9783407813534 buch"
+  }
+}

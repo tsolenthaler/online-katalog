@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba9870f8-66d6-500f-aae4-82611bc01a65",
+  "name": "Maskottchen",
+  "author": {
+    "@type": "Person",
+    "name": "Mark Kurzem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba9870f8-66d6-500f-aae4-82611bc01a65",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "maskottchen mark kurzem buch"
+  }
+}

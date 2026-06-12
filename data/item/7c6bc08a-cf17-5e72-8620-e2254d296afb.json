@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7c6bc08a-cf17-5e72-8620-e2254d296afb",
+  "name": "Alea Aquarius - Band 06 - Der Fluss des Vergessens",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7c6bc08a-cf17-5e72-8620-e2254d296afb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alea aquarius - band 06 - der fluss des vergessens tanya stewner buch"
+  }
+}

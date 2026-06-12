@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:81e4ce42-9cf6-5902-88b6-d444c1cbe906",
+  "name": "Cotton Kid - Band 001 - Im Namen von Pinkerton",
+  "author": {
+    "@type": "Person",
+    "name": "Pearce"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "81e4ce42-9cf6-5902-88b6-d444c1cbe906",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cotton kid - band 001 - im namen von pinkerton pearce buch"
+  }
+}

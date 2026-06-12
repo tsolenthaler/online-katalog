@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c2229d59-8d40-5f9d-9fe1-3e187a9214d8",
+  "name": "Sternenschweif - Band 069 - Das Filmpony",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara van den Speulhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c2229d59-8d40-5f9d-9fe1-3e187a9214d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 069 - das filmpony barbara van den speulhof buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a6925a0a-492d-5940-810f-47fd02048f1f",
+  "name": "Sherlock Holmes Academy, Geheimcode Katzenpfote,",
+  "author": {
+    "@type": "Person",
+    "name": "Holly Watson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a6925a0a-492d-5940-810f-47fd02048f1f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sherlock holmes academy, geheimcode katzenpfote, holly watson buch"
+  }
+}

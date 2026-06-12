@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e95249bf-4c54-5290-88db-e0461e81c329",
+  "name": "Ein Fall für Kwiatkowski - Band 021 - Schnüfflerpech und",
+  "author": {
+    "@type": "Person",
+    "name": "Jürgen Banscherus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e95249bf-4c54-5290-88db-e0461e81c329",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein fall fur kwiatkowski - band 021 - schnufflerpech und jurgen banscherus buch"
+  }
+}

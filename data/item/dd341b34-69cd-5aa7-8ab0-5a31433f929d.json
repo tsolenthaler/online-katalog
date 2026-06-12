@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd341b34-69cd-5aa7-8ab0-5a31433f929d",
+  "name": "titeuf - Band 010 - Meine besten Kumpels",
+  "author": {
+    "@type": "Person",
+    "name": "Zep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd341b34-69cd-5aa7-8ab0-5a31433f929d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "titeuf - band 010 - meine besten kumpels zep buch"
+  }
+}

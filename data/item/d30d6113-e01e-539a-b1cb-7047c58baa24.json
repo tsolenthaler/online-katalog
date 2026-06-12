@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d30d6113-e01e-539a-b1cb-7047c58baa24",
+  "name": "Flowers and Bones - Kuss der Catrina",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Grauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d30d6113-e01e-539a-b1cb-7047c58baa24",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "flowers and bones - kuss der catrina sandra grauer buch"
+  }
+}

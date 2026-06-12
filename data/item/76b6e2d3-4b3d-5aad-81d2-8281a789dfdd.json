@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:76b6e2d3-4b3d-5aad-81d2-8281a789dfdd",
+  "name": "Das Leben ist ein wilder Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Roland Buti"
+  },
+  "isbn": "9783552072145",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783552072145",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783552072145"
+  ],
+  "_catalog": {
+    "id": "76b6e2d3-4b3d-5aad-81d2-8281a789dfdd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das leben ist ein wilder garten roland buti 9783552072145 buch"
+  }
+}

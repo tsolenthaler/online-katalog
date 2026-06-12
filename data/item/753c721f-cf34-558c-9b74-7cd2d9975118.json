@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:753c721f-cf34-558c-9b74-7cd2d9975118",
+  "name": "TKKG - Band 210 - Raubzug im Casino",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "753c721f-cf34-558c-9b74-7cd2d9975118",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 210 - raubzug im casino stefan wolf buch"
+  }
+}

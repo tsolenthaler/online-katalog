@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:08919adb-2a2c-5e3a-b46a-550ab0356d25",
+  "name": "Die schönsten Märchen von H.C.Andersen",
+  "author": {
+    "@type": "Person",
+    "name": "Andersen Hans Christian"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "08919adb-2a2c-5e3a-b46a-550ab0356d25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten marchen von h.c.andersen andersen hans christian buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:518efe5e-4327-5909-985c-e770dbf655ef",
+  "name": "Lügennebel",
+  "author": {
+    "@type": "Person",
+    "name": "Viveca Sten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "518efe5e-4327-5909-985c-e770dbf655ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lugennebel viveca sten buch"
+  }
+}

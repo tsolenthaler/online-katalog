@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2ac43e4-9631-533e-98dd-cf6e72a5bc44",
+  "name": "Die Zukunft in meiner Hand",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Z. Simon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2ac43e4-9631-533e-98dd-cf6e72a5bc44",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zukunft in meiner hand andreas z. simon buch"
+  }
+}

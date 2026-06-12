@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3f9d8b9-f499-5737-9a83-52e2466a26d6",
+  "name": "Ein Haufen Freunde ganz schön stark!",
+  "author": {
+    "@type": "Person",
+    "name": "Kerstin Schoene"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3f9d8b9-f499-5737-9a83-52e2466a26d6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein haufen freunde ganz schon stark! kerstin schoene buch"
+  }
+}

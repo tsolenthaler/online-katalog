@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95c93455-d411-56ec-9e8f-e8273c947c09",
+  "name": "Drei kleine Buchläden am Ende der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Shaw"
+  },
+  "isbn": "9783616036083",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783616036083",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783616036083"
+  ],
+  "_catalog": {
+    "id": "95c93455-d411-56ec-9e8f-e8273c947c09",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "drei kleine buchladen am ende der welt ruth shaw 9783616036083 buch"
+  }
+}

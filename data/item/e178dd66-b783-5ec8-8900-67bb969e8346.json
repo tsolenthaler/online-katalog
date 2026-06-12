@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e178dd66-b783-5ec8-8900-67bb969e8346",
+  "name": "Die drei !!! - Band 038 - Stylistin Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e178dd66-b783-5ec8-8900-67bb969e8346",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 038 - stylistin gefahr peter nissen buch"
+  }
+}

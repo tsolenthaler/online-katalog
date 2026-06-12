@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b946b012-abae-5817-a8fe-33c8dd13d28e",
+  "name": "Die Lichter von Barcelona",
+  "author": {
+    "@type": "Person",
+    "name": "Pere Cervantes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b946b012-abae-5817-a8fe-33c8dd13d28e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die lichter von barcelona pere cervantes buch"
+  }
+}

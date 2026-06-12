@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0e3c1c0-77df-5592-a572-4a70ee9dfc50",
+  "name": "Das Grand Hotel - Die mit dem Feuer spielen",
+  "author": {
+    "@type": "Person",
+    "name": "Caren Benedikt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0e3c1c0-77df-5592-a572-4a70ee9dfc50",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das grand hotel - die mit dem feuer spielen caren benedikt buch"
+  }
+}

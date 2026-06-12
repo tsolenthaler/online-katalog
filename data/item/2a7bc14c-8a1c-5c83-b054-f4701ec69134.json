@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2a7bc14c-8a1c-5c83-b054-f4701ec69134",
+  "name": "Fünf Freunde Junior - Band 007 - Das Ungeheuer von",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2a7bc14c-8a1c-5c83-b054-f4701ec69134",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde junior - band 007 - das ungeheuer von buch"
+  }
+}

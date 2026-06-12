@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2d71104-9775-5160-bbe7-82b61f85f4b4",
+  "name": "Die drei !!! - Band 031- Betrug in den Charts",
+  "author": {
+    "@type": "Person",
+    "name": "Petra Steckelmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2d71104-9775-5160-bbe7-82b61f85f4b4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 031- betrug in den charts petra steckelmann buch"
+  }
+}

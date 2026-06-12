@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d400b4a5-aea8-556e-bc8a-c8976b22b89e",
+  "name": "Tiger-Team - Band 002 - In den Händen der Grabräuber",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas C. Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d400b4a5-aea8-556e-bc8a-c8976b22b89e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiger-team - band 002 - in den handen der grabrauber thomas c. brezina buch"
+  }
+}

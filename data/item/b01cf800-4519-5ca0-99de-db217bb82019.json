@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b01cf800-4519-5ca0-99de-db217bb82019",
+  "name": "Percy Pickwick - Band 014 - Die Spur der Spinne",
+  "author": {
+    "@type": "Person",
+    "name": "Bédu"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b01cf800-4519-5ca0-99de-db217bb82019",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 014 - die spur der spinne bedu buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4dfb9199-6d48-52d4-b6da-4ac583575219",
+  "name": "Cookies",
+  "author": {
+    "@type": "Person",
+    "name": "Peggy Porschen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4dfb9199-6d48-52d4-b6da-4ac583575219",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cookies peggy porschen buch"
+  }
+}

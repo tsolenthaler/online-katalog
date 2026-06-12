@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1d14e09-844e-5b22-b048-fcdd7b58363b",
+  "name": "Oliver Twist",
+  "author": {
+    "@type": "Person",
+    "name": "Charles Dickens"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1d14e09-844e-5b22-b048-fcdd7b58363b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "oliver twist charles dickens buch"
+  }
+}

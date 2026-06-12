@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f09d10f9-b4cf-5895-aacd-de2abefaf766",
+  "name": "Miss Bly und die Wette gegen Jules Verne",
+  "author": {
+    "@type": "Person",
+    "name": "Eva-Maria Bast"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f09d10f9-b4cf-5895-aacd-de2abefaf766",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "miss bly und die wette gegen jules verne eva-maria bast buch"
+  }
+}

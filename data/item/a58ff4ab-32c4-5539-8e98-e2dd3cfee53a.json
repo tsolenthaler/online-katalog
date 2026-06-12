@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a58ff4ab-32c4-5539-8e98-e2dd3cfee53a",
+  "name": "Der Hund und der Hühnerdieb",
+  "author": {
+    "@type": "Person",
+    "name": "Chantal de Marolles"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a58ff4ab-32c4-5539-8e98-e2dd3cfee53a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der hund und der huhnerdieb chantal de marolles buch"
+  }
+}

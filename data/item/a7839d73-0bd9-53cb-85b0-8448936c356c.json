@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7839d73-0bd9-53cb-85b0-8448936c356c",
+  "name": "Vielleicht mag ich dich morgen",
+  "author": {
+    "@type": "Person",
+    "name": "Mhairi McFarlane"
+  },
+  "isbn": "9783732413935",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783732413935",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783732413935"
+  ],
+  "_catalog": {
+    "id": "a7839d73-0bd9-53cb-85b0-8448936c356c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "vielleicht mag ich dich morgen mhairi mcfarlane 9783732413935 buch"
+  }
+}

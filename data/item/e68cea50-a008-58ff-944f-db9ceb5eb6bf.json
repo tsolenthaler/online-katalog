@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e68cea50-a008-58ff-944f-db9ceb5eb6bf",
+  "name": "Der Igel, der wissen wollte, wie viele Stacheln er hat",
+  "author": {
+    "@type": "Person",
+    "name": "Moritz Herzog"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e68cea50-a008-58ff-944f-db9ceb5eb6bf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der igel, der wissen wollte, wie viele stacheln er hat moritz herzog buch"
+  }
+}

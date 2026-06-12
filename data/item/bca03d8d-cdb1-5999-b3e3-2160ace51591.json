@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bca03d8d-cdb1-5999-b3e3-2160ace51591",
+  "name": "Das große GU-Praxishandbuch Aquarium",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrich Schliewen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bca03d8d-cdb1-5999-b3e3-2160ace51591",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das große gu-praxishandbuch aquarium ulrich schliewen buch"
+  }
+}

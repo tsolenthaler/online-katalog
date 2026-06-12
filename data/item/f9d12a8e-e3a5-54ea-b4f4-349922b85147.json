@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9d12a8e-e3a5-54ea-b4f4-349922b85147",
+  "name": "Paul Temple und der Fall Curzon",
+  "author": {
+    "@type": "Person",
+    "name": "Francis Durbridge"
+  },
+  "isbn": "9783844504897",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844504897",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844504897"
+  ],
+  "_catalog": {
+    "id": "f9d12a8e-e3a5-54ea-b4f4-349922b85147",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "paul temple und der fall curzon francis durbridge 9783844504897 buch"
+  }
+}

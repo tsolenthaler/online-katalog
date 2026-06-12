@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:30007444-bdce-5fdb-8e52-96bacf62391b",
+  "name": "Ponyhof Apfelblüte (Band 18) - Große Sorge um",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "30007444-bdce-5fdb-8e52-96bacf62391b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyhof apfelblute (band 18) - große sorge um pippa young buch"
+  }
+}

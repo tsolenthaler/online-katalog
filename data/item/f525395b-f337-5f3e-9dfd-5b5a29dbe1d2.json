@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f525395b-f337-5f3e-9dfd-5b5a29dbe1d2",
+  "name": "Lieselotte lauert",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander Steffensmeier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f525395b-f337-5f3e-9dfd-5b5a29dbe1d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lieselotte lauert alexander steffensmeier buch"
+  }
+}

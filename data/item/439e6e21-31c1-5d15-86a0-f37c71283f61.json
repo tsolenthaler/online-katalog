@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:439e6e21-31c1-5d15-86a0-f37c71283f61",
+  "name": "Percy Jackson - Band 002 - Im Bann des Zyklopen",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Venditti"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "439e6e21-31c1-5d15-86a0-f37c71283f61",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy jackson - band 002 - im bann des zyklopen robert venditti buch"
+  }
+}

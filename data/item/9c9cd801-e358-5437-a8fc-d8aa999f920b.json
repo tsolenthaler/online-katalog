@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c9cd801-e358-5437-a8fc-d8aa999f920b",
+  "name": "WAS IST WAS - Komm mit zu den Pferden",
+  "author": {
+    "@type": "Person",
+    "name": "Sonja Meierjürgen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c9cd801-e358-5437-a8fc-d8aa999f920b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - komm mit zu den pferden sonja meierjurgen buch"
+  }
+}

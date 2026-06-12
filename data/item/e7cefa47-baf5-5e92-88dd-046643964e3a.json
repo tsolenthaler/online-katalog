@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7cefa47-baf5-5e92-88dd-046643964e3a",
+  "name": "Als unsere Herzen fliegen lernten",
+  "author": {
+    "@type": "Person",
+    "name": "Iona Grey"
+  },
+  "isbn": "9783844522907",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844522907",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844522907"
+  ],
+  "_catalog": {
+    "id": "e7cefa47-baf5-5e92-88dd-046643964e3a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "als unsere herzen fliegen lernten iona grey 9783844522907 buch"
+  }
+}

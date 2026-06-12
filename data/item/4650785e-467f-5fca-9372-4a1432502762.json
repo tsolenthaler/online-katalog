@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4650785e-467f-5fca-9372-4a1432502762",
+  "name": "Disney - Das Dschungelbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Walt Disney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4650785e-467f-5fca-9372-4a1432502762",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney - das dschungelbuch walt disney buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9563f97-813a-532a-b803-dc8ad6c23a45",
+  "name": "Heimlich Fee - Wie wir den Dieb im Schlafanzug",
+  "author": {
+    "@type": "Person",
+    "name": "Thorsten Alms"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e9563f97-813a-532a-b803-dc8ad6c23a45",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heimlich fee - wie wir den dieb im schlafanzug thorsten alms buch"
+  }
+}

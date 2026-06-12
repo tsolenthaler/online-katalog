@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3c86ab7-9547-5a2e-9929-b769fbb06813",
+  "name": "Heimische Vögel richtig füttern",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Wink"
+  },
+  "isbn": "9783966645294",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783966645294",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783966645294"
+  ],
+  "_catalog": {
+    "id": "e3c86ab7-9547-5a2e-9929-b769fbb06813",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "heimische vogel richtig futtern michael wink 9783966645294 buch"
+  }
+}

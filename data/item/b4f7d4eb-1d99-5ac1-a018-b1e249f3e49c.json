@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4f7d4eb-1d99-5ac1-a018-b1e249f3e49c",
+  "name": "Wie leben die Tiere im Winter",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine de Sairigné"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4f7d4eb-1d99-5ac1-a018-b1e249f3e49c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie leben die tiere im winter catherine de sairigne buch"
+  }
+}

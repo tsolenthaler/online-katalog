@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5dbf7d7-0818-5b7d-a285-b17d9fede30c",
+  "name": "Cotton Kid - Band 002 - Radau am Mississippi",
+  "author": {
+    "@type": "Person",
+    "name": "Pearce"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5dbf7d7-0818-5b7d-a285-b17d9fede30c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cotton kid - band 002 - radau am mississippi pearce buch"
+  }
+}

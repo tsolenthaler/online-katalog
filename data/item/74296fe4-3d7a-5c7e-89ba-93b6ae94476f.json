@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:74296fe4-3d7a-5c7e-89ba-93b6ae94476f",
+  "name": "Die Tierärztin - Band 2 - Voller Hoffnung",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Lark"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "74296fe4-3d7a-5c7e-89ba-93b6ae94476f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tierarztin - band 2 - voller hoffnung sarah lark buch"
+  }
+}

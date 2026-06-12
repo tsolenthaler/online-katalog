@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de41c7e5-718d-5a65-8f57-c7cdfce841c0",
+  "name": "Unheilvolle Provence",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre Lagrange"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de41c7e5-718d-5a65-8f57-c7cdfce841c0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unheilvolle provence pierre lagrange buch"
+  }
+}

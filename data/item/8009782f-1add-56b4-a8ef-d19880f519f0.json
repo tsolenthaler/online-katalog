@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8009782f-1add-56b4-a8ef-d19880f519f0",
+  "name": "Feste & Bräuche in der Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Piatti"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8009782f-1add-56b4-a8ef-d19880f519f0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "feste & brauche in der schweiz barbara piatti buch"
+  }
+}

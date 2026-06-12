@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:98a7824b-20bd-517a-8450-b816add42a28",
+  "name": "EINFACH.Kochen by META HILTEBRAND - 2025/8",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "98a7824b-20bd-517a-8450-b816add42a28",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "einfach.kochen by meta hiltebrand - 2025/8 buch"
+  }
+}

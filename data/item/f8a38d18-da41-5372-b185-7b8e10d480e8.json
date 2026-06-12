@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8a38d18-da41-5372-b185-7b8e10d480e8",
+  "name": "TKKG - Band 230 - Die Tesla-Verschwörung",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Hofstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8a38d18-da41-5372-b185-7b8e10d480e8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 230 - die tesla-verschworung martin hofstetter buch"
+  }
+}

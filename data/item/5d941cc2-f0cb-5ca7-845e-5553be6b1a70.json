@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5d941cc2-f0cb-5ca7-845e-5553be6b1a70",
+  "name": "Fünf Freunde - Band 141 - und das rätselhafte Spukhaus",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5d941cc2-f0cb-5ca7-845e-5553be6b1a70",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 141 - und das ratselhafte spukhaus enid blyton buch"
+  }
+}

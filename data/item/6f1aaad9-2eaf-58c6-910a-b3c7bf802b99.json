@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6f1aaad9-2eaf-58c6-910a-b3c7bf802b99",
+  "name": "Der letzte Feuerfalke - Band 003 - und die flüsternde",
+  "author": {
+    "@type": "Person",
+    "name": "Katrina Charman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6f1aaad9-2eaf-58c6-910a-b3c7bf802b99",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der letzte feuerfalke - band 003 - und die flusternde katrina charman buch"
+  }
+}

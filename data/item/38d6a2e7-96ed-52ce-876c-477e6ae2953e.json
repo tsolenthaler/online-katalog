@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38d6a2e7-96ed-52ce-876c-477e6ae2953e",
+  "name": "Eat better not less - around the world",
+  "author": {
+    "@type": "Person",
+    "name": "Nadia Damaso"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38d6a2e7-96ed-52ce-876c-477e6ae2953e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eat better not less - around the world nadia damaso buch"
+  }
+}

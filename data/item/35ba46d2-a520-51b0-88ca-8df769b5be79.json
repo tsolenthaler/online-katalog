@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35ba46d2-a520-51b0-88ca-8df769b5be79",
+  "name": "Die schlimmsten Kinder der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "David Walliams"
+  },
+  "isbn": "9783757100353",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783757100353",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783757100353"
+  ],
+  "_catalog": {
+    "id": "35ba46d2-a520-51b0-88ca-8df769b5be79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die schlimmsten kinder der welt david walliams 9783757100353 buch"
+  }
+}

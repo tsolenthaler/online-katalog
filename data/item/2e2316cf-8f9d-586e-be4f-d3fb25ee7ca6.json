@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2e2316cf-8f9d-586e-be4f-d3fb25ee7ca6",
+  "name": "Das Kosmos-Buch der Technik",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2e2316cf-8f9d-586e-be4f-d3fb25ee7ca6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kosmos-buch der technik diverse buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da8e144a-a521-5464-962a-086fbe25965f",
+  "name": "Hier kommt Ponyfee! - Der verschwundene Feenstaub",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Zoschke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da8e144a-a521-5464-962a-086fbe25965f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hier kommt ponyfee! - der verschwundene feenstaub barbara zoschke buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6687f62-8f64-5fc7-8734-565595257bfb",
+  "name": "KliKlaKlammerspass",
+  "author": {
+    "@type": "Person",
+    "name": "Caroline Hofman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6687f62-8f64-5fc7-8734-565595257bfb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kliklaklammerspass caroline hofman buch"
+  }
+}

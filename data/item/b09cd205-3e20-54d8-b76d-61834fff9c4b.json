@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b09cd205-3e20-54d8-b76d-61834fff9c4b",
+  "name": "Appenzeller Abrechnung",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Johannes Käser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b09cd205-3e20-54d8-b76d-61834fff9c4b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "appenzeller abrechnung christian johannes kaser buch"
+  }
+}

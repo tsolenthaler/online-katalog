@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:152212ff-2370-5b04-85df-033b2288b1ce",
+  "name": "Der Bademeister ohne Himmel",
+  "author": {
+    "@type": "Person",
+    "name": "Petra Pellini"
+  },
+  "isbn": "9783644021280",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783644021280",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783644021280"
+  ],
+  "_catalog": {
+    "id": "152212ff-2370-5b04-85df-033b2288b1ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der bademeister ohne himmel petra pellini 9783644021280 buch"
+  }
+}

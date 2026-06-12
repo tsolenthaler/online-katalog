@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b96df416-a354-5d45-a006-cac4cde89fe0",
+  "name": "Mythos Academy 2, Frostfluch",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer Estep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b96df416-a354-5d45-a006-cac4cde89fe0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mythos academy 2, frostfluch jennifer estep buch"
+  }
+}

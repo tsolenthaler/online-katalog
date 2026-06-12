@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8d771d6-85b5-5608-82ba-ed7d24b40386",
+  "name": "Piccard",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Dieminger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8d771d6-85b5-5608-82ba-ed7d24b40386",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "piccard susanne dieminger buch"
+  }
+}

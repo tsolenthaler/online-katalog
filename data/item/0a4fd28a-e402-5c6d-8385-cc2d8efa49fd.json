@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0a4fd28a-e402-5c6d-8385-cc2d8efa49fd",
+  "name": "Der kleine Drache Kokosnuss und die Wetterhexe",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0a4fd28a-e402-5c6d-8385-cc2d8efa49fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine drache kokosnuss und die wetterhexe ingo siegner buch"
+  }
+}

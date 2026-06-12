@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8576df48-6696-5826-9763-593fa17a3625",
+  "name": "Wieso Weshalb Warum - Alles über Laster, Bagger und",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Erne"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8576df48-6696-5826-9763-593fa17a3625",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - alles uber laster, bagger und andrea erne buch"
+  }
+}

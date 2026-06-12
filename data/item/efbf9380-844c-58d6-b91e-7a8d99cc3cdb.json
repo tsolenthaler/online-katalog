@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:efbf9380-844c-58d6-b91e-7a8d99cc3cdb",
+  "name": "Bevor du gehst",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Barns"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "efbf9380-844c-58d6-b91e-7a8d99cc3cdb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bevor du gehst anne barns buch"
+  }
+}

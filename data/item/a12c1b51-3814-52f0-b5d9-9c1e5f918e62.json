@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a12c1b51-3814-52f0-b5d9-9c1e5f918e62",
+  "name": "Marsupilami - Band 018 - Baby Prinz",
+  "author": {
+    "@type": "Person",
+    "name": "Batem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a12c1b51-3814-52f0-b5d9-9c1e5f918e62",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 018 - baby prinz batem buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2d18048-2611-5d35-afd6-e918cd5ac928",
+  "name": "Pettersson und Findus - Schau mal, was ich kann,",
+  "author": {
+    "@type": "Person",
+    "name": "Sven Nordqvist"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2d18048-2611-5d35-afd6-e918cd5ac928",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pettersson und findus - schau mal, was ich kann, sven nordqvist buch"
+  }
+}

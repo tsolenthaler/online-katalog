@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fc2c4b98-ad16-5bc0-9116-0b2be732a8fe",
+  "name": "Star Wars - Die Abenteuer von BB-8",
+  "author": {
+    "@type": "Person",
+    "name": "David Fentiman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fc2c4b98-ad16-5bc0-9116-0b2be732a8fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "star wars - die abenteuer von bb-8 david fentiman buch"
+  }
+}

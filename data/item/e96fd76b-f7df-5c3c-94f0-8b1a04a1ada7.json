@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e96fd76b-f7df-5c3c-94f0-8b1a04a1ada7",
+  "name": "Frühlingsdeko mit Naturmaterialien",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e96fd76b-f7df-5c3c-94f0-8b1a04a1ada7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fruhlingsdeko mit naturmaterialien diverse buch"
+  }
+}

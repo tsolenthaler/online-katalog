@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d50f59b8-1005-5a4f-9607-9a292147557b",
+  "name": "Köbi Kuhn",
+  "author": {
+    "@type": "Person",
+    "name": "Köbi Kuhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d50f59b8-1005-5a4f-9607-9a292147557b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kobi kuhn kobi kuhn buch"
+  }
+}

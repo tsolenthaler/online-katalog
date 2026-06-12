@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bca9b2de-84bb-53b9-84dd-4514dff92b27",
+  "name": "Wie Risse in der Erde",
+  "author": {
+    "@type": "Person",
+    "name": "Clare Leslie Hall"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bca9b2de-84bb-53b9-84dd-4514dff92b27",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie risse in der erde clare leslie hall buch"
+  }
+}

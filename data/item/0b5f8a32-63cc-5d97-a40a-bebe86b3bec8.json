@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0b5f8a32-63cc-5d97-a40a-bebe86b3bec8",
+  "name": "Warrior Cats - Band 6 - Sonnenaufgang",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0b5f8a32-63cc-5d97-a40a-bebe86b3bec8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warrior cats - band 6 - sonnenaufgang erin hunter buch"
+  }
+}

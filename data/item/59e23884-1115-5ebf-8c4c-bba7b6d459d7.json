@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59e23884-1115-5ebf-8c4c-bba7b6d459d7",
+  "name": "Sommerglück im Strandcafé",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Linfoot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59e23884-1115-5ebf-8c4c-bba7b6d459d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sommergluck im strandcafe jane linfoot buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:06fa16ff-3b54-51d6-8957-a3b11dca977f",
+  "name": "S brav Tüüfeli",
+  "author": {
+    "@type": "Person",
+    "name": "Schneider Jörg u. Moser E."
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "06fa16ff-3b54-51d6-8957-a3b11dca977f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "s brav tuufeli schneider jorg u. moser e. buch"
+  }
+}

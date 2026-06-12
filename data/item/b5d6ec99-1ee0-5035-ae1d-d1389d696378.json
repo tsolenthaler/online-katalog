@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5d6ec99-1ee0-5035-ae1d-d1389d696378",
+  "name": "Wieso, Weshalb, Warum - Alles über Rennfahrzeuge",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Gernhäuser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5d6ec99-1ee0-5035-ae1d-d1389d696378",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - alles uber rennfahrzeuge susanne gernhauser buch"
+  }
+}

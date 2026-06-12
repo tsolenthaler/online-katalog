@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec283c08-8173-5cb9-99af-94f87e2330d7",
+  "name": "Die Kaminski-Kids - Band 016 - Fahrerflucht",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec283c08-8173-5cb9-99af-94f87e2330d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kaminski-kids - band 016 - fahrerflucht carlo meier buch"
+  }
+}

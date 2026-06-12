@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9b9b713-7a4c-5946-95f4-0937651ee2e8",
+  "name": "Der Wind kennt meinen Namen",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Allende"
+  },
+  "isbn": "9783844550245",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844550245",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844550245"
+  ],
+  "_catalog": {
+    "id": "b9b9b713-7a4c-5946-95f4-0937651ee2e8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der wind kennt meinen namen isabel allende 9783844550245 buch"
+  }
+}

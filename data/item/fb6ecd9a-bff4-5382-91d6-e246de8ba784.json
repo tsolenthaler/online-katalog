@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb6ecd9a-bff4-5382-91d6-e246de8ba784",
+  "name": "Das Grab in den Schären",
+  "author": {
+    "@type": "Person",
+    "name": "Viveca Sten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb6ecd9a-bff4-5382-91d6-e246de8ba784",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das grab in den scharen viveca sten buch"
+  }
+}

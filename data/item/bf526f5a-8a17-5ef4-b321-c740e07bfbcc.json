@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bf526f5a-8a17-5ef4-b321-c740e07bfbcc",
+  "name": "Asterix - Band 008 - Bei den Briten",
+  "author": {
+    "@type": "Person",
+    "name": "Albert Uderzo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bf526f5a-8a17-5ef4-b321-c740e07bfbcc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 008 - bei den briten albert uderzo buch"
+  }
+}

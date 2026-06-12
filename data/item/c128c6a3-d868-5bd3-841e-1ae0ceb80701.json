@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c128c6a3-d868-5bd3-841e-1ae0ceb80701",
+  "name": "No Jungs! Handy, Handy in der Hand...",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c128c6a3-d868-5bd3-841e-1ae0ceb80701",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "no jungs! handy, handy in der hand... thomas brezina buch"
+  }
+}

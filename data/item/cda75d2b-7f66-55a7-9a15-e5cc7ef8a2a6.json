@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cda75d2b-7f66-55a7-9a15-e5cc7ef8a2a6",
+  "name": "Phantastische Tierwesen und wo sie zu finden sind",
+  "author": {
+    "@type": "Person",
+    "name": "Newt Scamander"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cda75d2b-7f66-55a7-9a15-e5cc7ef8a2a6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "phantastische tierwesen und wo sie zu finden sind newt scamander buch"
+  }
+}

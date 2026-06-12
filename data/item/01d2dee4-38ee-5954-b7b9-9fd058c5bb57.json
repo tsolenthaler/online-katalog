@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:01d2dee4-38ee-5954-b7b9-9fd058c5bb57",
+  "name": "In der Tierarztpraxis",
+  "author": {
+    "@type": "Person",
+    "name": "Carla Häfner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "01d2dee4-38ee-5954-b7b9-9fd058c5bb57",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "in der tierarztpraxis carla hafner buch"
+  }
+}

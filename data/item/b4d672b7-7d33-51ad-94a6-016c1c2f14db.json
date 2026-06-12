@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4d672b7-7d33-51ad-94a6-016c1c2f14db",
+  "name": "Disney - Bambi",
+  "author": {
+    "@type": "Person",
+    "name": "Walt Disney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4d672b7-7d33-51ad-94a6-016c1c2f14db",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney - bambi walt disney buch"
+  }
+}

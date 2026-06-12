@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d224b035-42fc-5b5c-95a9-546072042c96",
+  "name": "Papa Moll - Band 029- und das Kochmobil",
+  "author": {
+    "@type": "Person",
+    "name": "Kamil Krejci"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d224b035-42fc-5b5c-95a9-546072042c96",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 029- und das kochmobil kamil krejci buch"
+  }
+}

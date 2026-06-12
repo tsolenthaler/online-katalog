@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a4c1638f-64e7-5592-9866-9ff57a8c64ab",
+  "name": "Todesengel",
+  "author": {
+    "@type": "Person",
+    "name": "Philipp Gurt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a4c1638f-64e7-5592-9866-9ff57a8c64ab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "todesengel philipp gurt buch"
+  }
+}

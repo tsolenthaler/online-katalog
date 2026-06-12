@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:40ec10e4-230f-5f9b-b086-d371123edfb6",
+  "name": "Medici - die Kunst der Intrige",
+  "author": {
+    "@type": "Person",
+    "name": "Matteo Strukul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "40ec10e4-230f-5f9b-b086-d371123edfb6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "medici - die kunst der intrige matteo strukul buch"
+  }
+}

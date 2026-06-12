@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b0f2f258-98eb-52f6-8840-717bb5a100d4",
+  "name": "Ein Tagwerk Leben",
+  "author": {
+    "@type": "Person",
+    "name": "Dora Prinz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b0f2f258-98eb-52f6-8840-717bb5a100d4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein tagwerk leben dora prinz buch"
+  }
+}

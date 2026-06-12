@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2fd4baf7-c094-52c4-bcdd-bda1bc0ad980",
+  "name": "Kinder Wagen Wege",
+  "author": {
+    "@type": "Person",
+    "name": "Sandro Reichmuth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2fd4baf7-c094-52c4-bcdd-bda1bc0ad980",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kinder wagen wege sandro reichmuth buch"
+  }
+}

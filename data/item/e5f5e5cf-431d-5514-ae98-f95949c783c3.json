@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5f5e5cf-431d-5514-ae98-f95949c783c3",
+  "name": "Als der Weihnachtsmann vom Himmel fiel",
+  "author": {
+    "@type": "Person",
+    "name": "Cornelia Funke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5f5e5cf-431d-5514-ae98-f95949c783c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "als der weihnachtsmann vom himmel fiel cornelia funke buch"
+  }
+}

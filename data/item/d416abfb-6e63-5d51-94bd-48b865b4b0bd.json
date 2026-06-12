@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d416abfb-6e63-5d51-94bd-48b865b4b0bd",
+  "name": "Was geht, Annegret?",
+  "author": {
+    "@type": "Person",
+    "name": "Franka Bloom"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d416abfb-6e63-5d51-94bd-48b865b4b0bd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was geht, annegret? franka bloom buch"
+  }
+}

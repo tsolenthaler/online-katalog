@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa34d520-52ce-50f5-bb56-cdea5de8a042",
+  "name": "Die drei ??? - Band 188 - Signale aus dem Jenseits",
+  "author": {
+    "@type": "Person",
+    "name": "André Minninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa34d520-52ce-50f5-bb56-cdea5de8a042",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 188 - signale aus dem jenseits andre minninger buch"
+  }
+}

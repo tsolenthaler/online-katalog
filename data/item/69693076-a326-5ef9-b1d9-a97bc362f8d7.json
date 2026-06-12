@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:69693076-a326-5ef9-b1d9-a97bc362f8d7",
+  "name": "Asterix - Band 036 - Der Papyrus des Cäsar",
+  "author": {
+    "@type": "Person",
+    "name": "Conrad, Didier / Ferri, Jean-Yves"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "69693076-a326-5ef9-b1d9-a97bc362f8d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 036 - der papyrus des casar conrad, didier / ferri, jean-yves buch"
+  }
+}

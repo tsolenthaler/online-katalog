@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5134d348-e40a-5298-a067-8756ed7d6204",
+  "name": "Percy Pickwick - Band 024 - married",
+  "author": {
+    "@type": "Person",
+    "name": "Turk,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5134d348-e40a-5298-a067-8756ed7d6204",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 024 - married turk, buch"
+  }
+}

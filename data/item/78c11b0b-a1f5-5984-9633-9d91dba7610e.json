@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:78c11b0b-a1f5-5984-9633-9d91dba7610e",
+  "name": "Warum merke ich nicht, dass die Erde sich dreht?",
+  "author": {
+    "@type": "Person",
+    "name": "James Doyle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "78c11b0b-a1f5-5984-9633-9d91dba7610e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warum merke ich nicht, dass die erde sich dreht? james doyle buch"
+  }
+}

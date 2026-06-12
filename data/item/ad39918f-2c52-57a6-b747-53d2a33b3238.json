@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad39918f-2c52-57a6-b747-53d2a33b3238",
+  "name": "Der Specht",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Zysk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad39918f-2c52-57a6-b747-53d2a33b3238",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der specht stefanie zysk buch"
+  }
+}

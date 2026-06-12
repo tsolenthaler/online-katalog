@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd115f93-3850-5e75-9921-a5ca87155459",
+  "name": "Asterix - Band 033 - Gallien in Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Uderzo Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd115f93-3850-5e75-9921-a5ca87155459",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 033 - gallien in gefahr uderzo goscinny buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:67754d79-5df1-55a6-9b7c-b02f8cd3cf50",
+  "name": "Elender Krieg 1914 - 1919",
+  "author": {
+    "@type": "Person",
+    "name": "Jacques Tardi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "67754d79-5df1-55a6-9b7c-b02f8cd3cf50",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elender krieg 1914 - 1919 jacques tardi buch"
+  }
+}

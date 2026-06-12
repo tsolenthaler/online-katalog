@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4d9d10ba-0854-5f09-b4cd-092a8522f348",
+  "name": "PapierZen",
+  "author": {
+    "@type": "Person",
+    "name": "Birgit Ebbert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4d9d10ba-0854-5f09-b4cd-092a8522f348",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papierzen birgit ebbert buch"
+  }
+}

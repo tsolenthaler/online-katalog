@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:695962bc-b3c8-50b0-b742-df0395a22931",
+  "name": "Der Maulwurf sucht das Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Sang-keun Kim"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "695962bc-b3c8-50b0-b742-df0395a22931",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der maulwurf sucht das meer sang-keun kim buch"
+  }
+}

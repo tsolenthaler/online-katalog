@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:647ab0f4-4e4c-519e-812c-77f27a30eace",
+  "name": "So war es",
+  "author": {
+    "@type": "Person",
+    "name": "Elsa Sturzenegger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "647ab0f4-4e4c-519e-812c-77f27a30eace",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "so war es elsa sturzenegger buch"
+  }
+}

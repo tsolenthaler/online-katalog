@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7cb080f-b0fc-5c4d-9096-d467e751f721",
+  "name": "Die Nacht der Wale",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7cb080f-b0fc-5c4d-9096-d467e751f721",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die nacht der wale christopher ross buch"
+  }
+}

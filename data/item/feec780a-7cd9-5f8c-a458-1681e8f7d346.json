@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:feec780a-7cd9-5f8c-a458-1681e8f7d346",
+  "name": "The One - Finde dein perfektes Match",
+  "author": {
+    "@type": "Person",
+    "name": "John Marrs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "feec780a-7cd9-5f8c-a458-1681e8f7d346",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the one - finde dein perfektes match john marrs buch"
+  }
+}

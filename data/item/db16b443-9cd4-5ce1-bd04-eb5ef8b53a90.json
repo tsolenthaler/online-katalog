@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db16b443-9cd4-5ce1-bd04-eb5ef8b53a90",
+  "name": "TKKG - Band 204 - Verschwörung auf hoher See",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Hofstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db16b443-9cd4-5ce1-bd04-eb5ef8b53a90",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 204 - verschworung auf hoher see martin hofstetter buch"
+  }
+}

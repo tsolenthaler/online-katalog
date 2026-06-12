@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cdad7321-4b3a-506a-ad0e-8f3458337208",
+  "name": "Vom kleinen Faultier, das immer zu spät kam",
+  "author": {
+    "@type": "Person",
+    "name": "Bethany Christou"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cdad7321-4b3a-506a-ad0e-8f3458337208",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vom kleinen faultier, das immer zu spat kam bethany christou buch"
+  }
+}

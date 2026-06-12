@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8203eb9-e5f5-5612-a3a5-c8791850d11f",
+  "name": "Ponyhof Apfelblüte - Band 011 - Lenas mutige",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8203eb9-e5f5-5612-a3a5-c8791850d11f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyhof apfelblute - band 011 - lenas mutige pippa young buch"
+  }
+}

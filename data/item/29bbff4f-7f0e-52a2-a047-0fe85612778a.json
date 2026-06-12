@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:29bbff4f-7f0e-52a2-a047-0fe85612778a",
+  "name": "Die Zauberkicker - Band 006 - #fussballverrückt",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Wehrhan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "29bbff4f-7f0e-52a2-a047-0fe85612778a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zauberkicker - band 006 - #fussballverruckt michael wehrhan buch"
+  }
+}

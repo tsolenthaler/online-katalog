@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0d811ba4-158e-5ffd-80c7-40c2c004e273",
+  "name": "Weihnachtsbriefe von Felix",
+  "author": {
+    "@type": "Person",
+    "name": "Annette Langen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0d811ba4-158e-5ffd-80c7-40c2c004e273",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weihnachtsbriefe von felix annette langen buch"
+  }
+}

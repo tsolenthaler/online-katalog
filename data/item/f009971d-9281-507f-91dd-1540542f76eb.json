@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f009971d-9281-507f-91dd-1540542f76eb",
+  "name": "Mein Wimmel-Labyrinth - Wir gehören zusammen!",
+  "author": {
+    "@type": "Person",
+    "name": "Louise Wright"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f009971d-9281-507f-91dd-1540542f76eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein wimmel-labyrinth - wir gehoren zusammen! louise wright buch"
+  }
+}

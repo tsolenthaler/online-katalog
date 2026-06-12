@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a98bcc1-a491-5cf6-bc27-c17bef47348d",
+  "name": "Die Kunst des guten Lebens",
+  "author": {
+    "@type": "Person",
+    "name": "Rolf Dobelli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3a98bcc1-a491-5cf6-bc27-c17bef47348d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kunst des guten lebens rolf dobelli buch"
+  }
+}

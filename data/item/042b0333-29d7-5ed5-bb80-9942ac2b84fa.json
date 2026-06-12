@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:042b0333-29d7-5ed5-bb80-9942ac2b84fa",
+  "name": "Hoffe",
+  "author": {
+    "@type": "Person",
+    "name": "Papst Franziskus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "042b0333-29d7-5ed5-bb80-9942ac2b84fa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hoffe papst franziskus buch"
+  }
+}

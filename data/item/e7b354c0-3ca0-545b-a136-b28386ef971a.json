@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7b354c0-3ca0-545b-a136-b28386ef971a",
+  "name": "Das Erbe der Tuchvilla - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7b354c0-3ca0-545b-a136-b28386ef971a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das erbe der tuchvilla - band 3 anne jacobs buch"
+  }
+}

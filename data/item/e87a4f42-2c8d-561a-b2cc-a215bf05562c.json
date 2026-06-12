@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e87a4f42-2c8d-561a-b2cc-a215bf05562c",
+  "name": "Herr Rot in Not",
+  "author": {
+    "@type": "Person",
+    "name": "Salah Naoura"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e87a4f42-2c8d-561a-b2cc-a215bf05562c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "herr rot in not salah naoura buch"
+  }
+}

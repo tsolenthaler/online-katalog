@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dee3c41d-fc5a-52e4-a0a0-2dde8b87fc79",
+  "name": "Mein Weihnachtswunsch für dich",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Morpurgo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dee3c41d-fc5a-52e4-a0a0-2dde8b87fc79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein weihnachtswunsch fur dich michael morpurgo buch"
+  }
+}

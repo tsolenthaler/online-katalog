@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f85c1576-0844-566a-9ab0-6c0eb8acc346",
+  "name": "Superchecker - Computer",
+  "author": {
+    "@type": "Person",
+    "name": "James Floyd Kelly"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f85c1576-0844-566a-9ab0-6c0eb8acc346",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superchecker - computer james floyd kelly buch"
+  }
+}

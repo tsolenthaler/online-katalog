@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db5d40c0-96e8-5e3a-833d-3967b1ccd077",
+  "name": "Globine - Band 004 - und die geheimnisvolle Burgruine",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel Glättli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db5d40c0-96e8-5e3a-833d-3967b1ccd077",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine - band 004 - und die geheimnisvolle burgruine samuel glattli buch"
+  }
+}

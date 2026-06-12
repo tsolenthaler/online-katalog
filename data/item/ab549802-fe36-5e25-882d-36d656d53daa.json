@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ab549802-fe36-5e25-882d-36d656d53daa",
+  "name": "Hühner halten artgerecht und natürlich",
+  "author": {
+    "@type": "Person",
+    "name": "Schiffer Katrin Juliane"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ab549802-fe36-5e25-882d-36d656d53daa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "huhner halten artgerecht und naturlich schiffer katrin juliane buch"
+  }
+}

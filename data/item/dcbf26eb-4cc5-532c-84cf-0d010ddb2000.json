@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcbf26eb-4cc5-532c-84cf-0d010ddb2000",
+  "name": "Der Schwur der Göttin - Band 1 - Beyond Eternity",
+  "author": {
+    "@type": "Person",
+    "name": "Greta Miln"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcbf26eb-4cc5-532c-84cf-0d010ddb2000",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der schwur der gottin - band 1 - beyond eternity greta miln buch"
+  }
+}

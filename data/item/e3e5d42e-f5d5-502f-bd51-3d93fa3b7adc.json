@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3e5d42e-f5d5-502f-bd51-3d93fa3b7adc",
+  "name": "Das Papiermädchen",
+  "author": {
+    "@type": "Person",
+    "name": "Guillaume Musso"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3e5d42e-f5d5-502f-bd51-3d93fa3b7adc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das papiermadchen guillaume musso buch"
+  }
+}

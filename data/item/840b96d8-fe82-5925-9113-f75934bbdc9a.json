@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:840b96d8-fe82-5925-9113-f75934bbdc9a",
+  "name": "Meister Eder und sein Pumuckl",
+  "author": {
+    "@type": "Person",
+    "name": "Ellis Kaut"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "840b96d8-fe82-5925-9113-f75934bbdc9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meister eder und sein pumuckl ellis kaut buch"
+  }
+}

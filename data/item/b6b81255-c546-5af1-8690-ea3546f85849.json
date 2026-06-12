@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6b81255-c546-5af1-8690-ea3546f85849",
+  "name": "Die drei !!! - Band 088 - Die Krimi-Verschwörung",
+  "author": {
+    "@type": "Person",
+    "name": "Maja von Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6b81255-c546-5af1-8690-ea3546f85849",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 088 - die krimi-verschworung maja von vogel buch"
+  }
+}

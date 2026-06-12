@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e85f787f-3b87-55da-bb92-636e1214f173",
+  "name": "Gute Nacht, Fledermaus! Guten Morgen, Eichhorn!",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Meisel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e85f787f-3b87-55da-bb92-636e1214f173",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gute nacht, fledermaus! guten morgen, eichhorn! paul meisel buch"
+  }
+}

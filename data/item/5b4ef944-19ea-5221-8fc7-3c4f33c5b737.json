@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5b4ef944-19ea-5221-8fc7-3c4f33c5b737",
+  "name": "Dynastie KNIE: 100 Jahre Nationalcircus",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin Renz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5b4ef944-19ea-5221-8fc7-3c4f33c5b737",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dynastie knie: 100 jahre nationalcircus katrin renz buch"
+  }
+}

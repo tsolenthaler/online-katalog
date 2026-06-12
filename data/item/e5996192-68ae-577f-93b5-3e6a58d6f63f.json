@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5996192-68ae-577f-93b5-3e6a58d6f63f",
+  "name": "Die drei ??? - Denksport mit Justus Jonas",
+  "author": {
+    "@type": "Person",
+    "name": "Nina Schiefelbein"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5996192-68ae-577f-93b5-3e6a58d6f63f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - denksport mit justus jonas nina schiefelbein buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4d6d4337-2263-54d9-933f-f58dc34f0f74",
+  "name": "Ein ganz besonderer Ort",
+  "author": {
+    "@type": "Person",
+    "name": "Jojo Moyes"
+  },
+  "isbn": "9783644510913",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783644510913",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783644510913"
+  ],
+  "_catalog": {
+    "id": "4d6d4337-2263-54d9-933f-f58dc34f0f74",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein ganz besonderer ort jojo moyes 9783644510913 buch"
+  }
+}

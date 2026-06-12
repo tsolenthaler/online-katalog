@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3714f2ad-070c-5e9a-8e7a-a7de788d8697",
+  "name": "Raum für Kinder",
+  "author": {
+    "@type": "Person",
+    "name": "Sam Scarborough"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3714f2ad-070c-5e9a-8e7a-a7de788d8697",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "raum fur kinder sam scarborough buch"
+  }
+}

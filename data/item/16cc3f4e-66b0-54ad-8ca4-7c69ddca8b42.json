@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:16cc3f4e-66b0-54ad-8ca4-7c69ddca8b42",
+  "name": "Luzifer junior - Band 002 - Ein teuflisch gutes Team",
+  "author": {
+    "@type": "Person",
+    "name": "Jochen Till"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "16cc3f4e-66b0-54ad-8ca4-7c69ddca8b42",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "luzifer junior - band 002 - ein teuflisch gutes team jochen till buch"
+  }
+}

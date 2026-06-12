@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5ee47edf-c4cf-58c4-aea6-a35ae3ee5590",
+  "name": "Alles Geld der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Vitali Konstantinov"
+  },
+  "isbn": "9783836960823",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783836960823",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783836960823"
+  ],
+  "_catalog": {
+    "id": "5ee47edf-c4cf-58c4-aea6-a35ae3ee5590",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "dnb",
+    "isbn_source": "manual_override",
+    "search_text": "alles geld der welt vitali konstantinov 9783836960823 buch"
+  }
+}

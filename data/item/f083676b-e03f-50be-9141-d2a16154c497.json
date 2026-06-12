@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f083676b-e03f-50be-9141-d2a16154c497",
+  "name": "Pfoten vom Tisch!",
+  "author": {
+    "@type": "Person",
+    "name": "Hape Kerkeling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f083676b-e03f-50be-9141-d2a16154c497",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pfoten vom tisch! hape kerkeling buch"
+  }
+}

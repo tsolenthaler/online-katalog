@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1984f1e2-2473-5ae2-a33f-a9dbbc8a37ef",
+  "name": "Die drei !!! - Betrug, Baguette und ganz viel Paris",
+  "author": {
+    "@type": "Person",
+    "name": "Henriette Wich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1984f1e2-2473-5ae2-a33f-a9dbbc8a37ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - betrug, baguette und ganz viel paris henriette wich buch"
+  }
+}

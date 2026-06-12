@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5a8e804e-5ce8-5420-9702-4223bc9a65e5",
+  "name": "Kleiner Drache will der Größte sein",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Starling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5a8e804e-5ce8-5420-9702-4223bc9a65e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleiner drache will der großte sein robert starling buch"
+  }
+}

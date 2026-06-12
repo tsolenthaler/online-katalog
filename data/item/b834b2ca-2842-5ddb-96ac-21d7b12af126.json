@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b834b2ca-2842-5ddb-96ac-21d7b12af126",
+  "name": "Dork diaries - Nikkis perfektes erstes Date - Band 6",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Renée Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b834b2ca-2842-5ddb-96ac-21d7b12af126",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - nikkis perfektes erstes date - band 6 rachel renee russell buch"
+  }
+}

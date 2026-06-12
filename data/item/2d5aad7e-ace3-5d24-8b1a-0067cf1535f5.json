@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2d5aad7e-ace3-5d24-8b1a-0067cf1535f5",
+  "name": "Alex Rider - Band 03 - Skeleton key",
+  "author": {
+    "@type": "Person",
+    "name": "Anthony Horowitz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2d5aad7e-ace3-5d24-8b1a-0067cf1535f5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alex rider - band 03 - skeleton key anthony horowitz buch"
+  }
+}

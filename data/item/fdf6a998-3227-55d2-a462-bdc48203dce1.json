@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdf6a998-3227-55d2-a462-bdc48203dce1",
+  "name": "titeuf - Band 012 - Bis zum Wahnsinn",
+  "author": {
+    "@type": "Person",
+    "name": "Zep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdf6a998-3227-55d2-a462-bdc48203dce1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "titeuf - band 012 - bis zum wahnsinn zep buch"
+  }
+}

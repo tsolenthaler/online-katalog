@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4da59d3e-f259-516f-bbe6-75920ee1a788",
+  "name": "Expedition zum Mars",
+  "author": {
+    "@type": "Person",
+    "name": "Dorling Kindersley"
+  },
+  "isbn": "9783788643362",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783788643362",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783788643362"
+  ],
+  "_catalog": {
+    "id": "4da59d3e-f259-516f-bbe6-75920ee1a788",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "expedition zum mars dorling kindersley 9783788643362 buch"
+  }
+}

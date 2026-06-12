@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15e5e5ef-2f43-5a4f-90a5-6489aefdf9ae",
+  "name": "Zogg und die Retter der Lüfte",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Scheffler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15e5e5ef-2f43-5a4f-90a5-6489aefdf9ae",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zogg und die retter der lufte axel scheffler buch"
+  }
+}

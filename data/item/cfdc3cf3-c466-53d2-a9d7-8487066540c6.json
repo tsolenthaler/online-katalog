@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cfdc3cf3-c466-53d2-a9d7-8487066540c6",
+  "name": "Ostschweiz Nachmittags-Ausflüge",
+  "author": {
+    "@type": "Person",
+    "name": "Ralph Bernet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cfdc3cf3-c466-53d2-a9d7-8487066540c6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ostschweiz nachmittags-ausfluge ralph bernet buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97c25570-d7d3-5e51-beb9-750ccfc0a273",
+  "name": "Dark Sigils : Was die Magie verlangt",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Benning"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97c25570-d7d3-5e51-beb9-750ccfc0a273",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dark sigils : was die magie verlangt anna benning buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7a1235c-966b-582d-a44b-3da18dfed799",
+  "name": "Am Schwingfest",
+  "author": {
+    "@type": "Person",
+    "name": "Vida Stalder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7a1235c-966b-582d-a44b-3da18dfed799",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "am schwingfest vida stalder buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fc6993f2-9c56-531a-9fa5-5af3b1c6d917",
+  "name": "Spirou und Fantasio - Band 047 - Spirou in Tokio",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fc6993f2-9c56-531a-9fa5-5af3b1c6d917",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou und fantasio - band 047 - spirou in tokio franquin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a69c8ef2-e20a-59b3-b8a0-3ca43f96ac2b",
+  "name": "Unterwegs mit Museumseisenbahnen",
+  "author": {
+    "@type": "Person",
+    "name": "Kristiane Müller-Urban"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a69c8ef2-e20a-59b3-b8a0-3ca43f96ac2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unterwegs mit museumseisenbahnen kristiane muller-urban buch"
+  }
+}

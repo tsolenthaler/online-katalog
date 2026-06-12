@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:be1c4a54-d1cb-5ade-8be2-36b6adb28d9d",
+  "name": "Einsame Entscheidung",
+  "author": {
+    "@type": "Person",
+    "name": "Gil Ribeiro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "be1c4a54-d1cb-5ade-8be2-36b6adb28d9d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "einsame entscheidung gil ribeiro buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a3f10b62-54ba-509a-93a8-72ae7705bc77",
+  "name": "Nächte, in denen Sturm aufzieht",
+  "author": {
+    "@type": "Person",
+    "name": "Jojo Moyes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a3f10b62-54ba-509a-93a8-72ae7705bc77",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nachte, in denen sturm aufzieht jojo moyes buch"
+  }
+}

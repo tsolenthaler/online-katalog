@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a003f8a2-f032-5318-ba1c-a332fee3618d",
+  "name": "Das Christkind ist geboren",
+  "author": {
+    "@type": "Person",
+    "name": "Tonja Goranova"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a003f8a2-f032-5318-ba1c-a332fee3618d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das christkind ist geboren tonja goranova buch"
+  }
+}

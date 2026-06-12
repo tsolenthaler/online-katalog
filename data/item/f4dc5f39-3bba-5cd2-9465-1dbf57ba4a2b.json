@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f4dc5f39-3bba-5cd2-9465-1dbf57ba4a2b",
+  "name": "Jakob will Ritter werden",
+  "author": {
+    "@type": "Person",
+    "name": "John McLay"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f4dc5f39-3bba-5cd2-9465-1dbf57ba4a2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jakob will ritter werden john mclay buch"
+  }
+}

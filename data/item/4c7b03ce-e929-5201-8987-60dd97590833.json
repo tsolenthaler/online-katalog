@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4c7b03ce-e929-5201-8987-60dd97590833",
+  "name": "Kleines Einhorn Funkelstern - Du kannst zaubern –",
+  "author": {
+    "@type": "Person",
+    "name": "Mila Berg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4c7b03ce-e929-5201-8987-60dd97590833",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleines einhorn funkelstern - du kannst zaubern – mila berg buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9233878d-691f-5882-9017-5a64f47179cf",
+  "name": "Natur-Werkstatt",
+  "author": {
+    "@type": "Person",
+    "name": "Hannah Kastenhuber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9233878d-691f-5882-9017-5a64f47179cf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "natur-werkstatt hannah kastenhuber buch"
+  }
+}

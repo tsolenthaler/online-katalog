@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca86caf1-ecfb-5d9a-a197-27c8cc34f620",
+  "name": "Kaninchen",
+  "author": {
+    "@type": "Person",
+    "name": "Claudia Toll"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca86caf1-ecfb-5d9a-a197-27c8cc34f620",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kaninchen claudia toll buch"
+  }
+}

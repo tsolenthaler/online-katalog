@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ab088a87-4d57-5d4f-907f-1819d7a79681",
+  "name": "Drachen bauen",
+  "author": {
+    "@type": "Person",
+    "name": "Massimo Mula"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ab088a87-4d57-5d4f-907f-1819d7a79681",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "drachen bauen massimo mula buch"
+  }
+}

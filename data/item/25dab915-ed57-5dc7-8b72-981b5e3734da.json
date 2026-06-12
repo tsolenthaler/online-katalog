@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25dab915-ed57-5dc7-8b72-981b5e3734da",
+  "name": "Die drei !!! - Band 049 - Skandal auf dem Laufsteg",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Sol"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25dab915-ed57-5dc7-8b72-981b5e3734da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 049 - skandal auf dem laufsteg mira sol buch"
+  }
+}

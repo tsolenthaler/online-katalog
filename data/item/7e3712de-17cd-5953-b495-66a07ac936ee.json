@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7e3712de-17cd-5953-b495-66a07ac936ee",
+  "name": "Nachts erzähle ich dir alles",
+  "author": {
+    "@type": "Person",
+    "name": "Anika Landsteiner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7e3712de-17cd-5953-b495-66a07ac936ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nachts erzahle ich dir alles anika landsteiner buch"
+  }
+}

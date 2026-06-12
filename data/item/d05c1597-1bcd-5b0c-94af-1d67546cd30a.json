@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d05c1597-1bcd-5b0c-94af-1d67546cd30a",
+  "name": "TKKG - Band 220 - Attentat am Gämsengrat",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Hofstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d05c1597-1bcd-5b0c-94af-1d67546cd30a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 220 - attentat am gamsengrat martin hofstetter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0562d2c-1f60-5968-933e-9d744fbd0030",
+  "name": "Cars 3 - Evolution",
+  "author": {
+    "@type": "Person",
+    "name": "Disney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0562d2c-1f60-5968-933e-9d744fbd0030",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cars 3 - evolution disney buch"
+  }
+}

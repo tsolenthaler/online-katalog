@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6995e9fa-a5d4-5b38-a06d-650d95951fdd",
+  "name": "333 Kinderwitze - Schule",
+  "author": {
+    "@type": "Person",
+    "name": "Steffen Gumpert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6995e9fa-a5d4-5b38-a06d-650d95951fdd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "333 kinderwitze - schule steffen gumpert buch"
+  }
+}

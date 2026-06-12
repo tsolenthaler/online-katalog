@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7369b082-4687-5c1d-89bb-e4b6487cae07",
+  "name": "Die drei !!! - Betrug in den Charts - Band 031",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7369b082-4687-5c1d-89bb-e4b6487cae07",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - betrug in den charts - band 031 peter nissen buch"
+  }
+}

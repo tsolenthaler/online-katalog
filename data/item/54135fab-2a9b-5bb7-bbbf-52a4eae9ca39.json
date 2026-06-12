@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:54135fab-2a9b-5bb7-bbbf-52a4eae9ca39",
+  "name": "Sommer der blauen Wünsche",
+  "author": {
+    "@type": "Person",
+    "name": "Antje Babendererde"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "54135fab-2a9b-5bb7-bbbf-52a4eae9ca39",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sommer der blauen wunsche antje babendererde buch"
+  }
+}

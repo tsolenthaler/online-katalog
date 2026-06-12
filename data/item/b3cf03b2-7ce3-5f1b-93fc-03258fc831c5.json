@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3cf03b2-7ce3-5f1b-93fc-03258fc831c5",
+  "name": "Dämmersee",
+  "author": {
+    "@type": "Person",
+    "name": "Johanna Mo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b3cf03b2-7ce3-5f1b-93fc-03258fc831c5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dammersee johanna mo buch"
+  }
+}

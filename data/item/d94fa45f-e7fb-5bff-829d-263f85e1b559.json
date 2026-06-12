@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d94fa45f-e7fb-5bff-829d-263f85e1b559",
+  "name": "Lustiges Taschenbuch Spezial - Band 067 - Zeitreisen",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d94fa45f-e7fb-5bff-829d-263f85e1b559",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lustiges taschenbuch spezial - band 067 - zeitreisen buch"
+  }
+}

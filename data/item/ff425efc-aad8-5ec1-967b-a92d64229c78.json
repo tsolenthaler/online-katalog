@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff425efc-aad8-5ec1-967b-a92d64229c78",
+  "name": "Boule & Bill - Band 031 - Volle Kanne",
+  "author": {
+    "@type": "Person",
+    "name": "Verron Roba"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff425efc-aad8-5ec1-967b-a92d64229c78",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boule & bill - band 031 - volle kanne verron roba buch"
+  }
+}

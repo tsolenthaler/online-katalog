@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a223031-7795-5d86-bc57-846c6999d087",
+  "name": "Die drei ??? - Band 171 - und das Phantom aus dem",
+  "author": {
+    "@type": "Person",
+    "name": "André Minninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3a223031-7795-5d86-bc57-846c6999d087",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 171 - und das phantom aus dem andre minninger buch"
+  }
+}

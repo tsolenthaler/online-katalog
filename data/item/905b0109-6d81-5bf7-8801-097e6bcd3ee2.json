@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:905b0109-6d81-5bf7-8801-097e6bcd3ee2",
+  "name": "Im Licht der Freiheit",
+  "author": {
+    "@type": "Person",
+    "name": "Caren Benedikt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "905b0109-6d81-5bf7-8801-097e6bcd3ee2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im licht der freiheit caren benedikt buch"
+  }
+}

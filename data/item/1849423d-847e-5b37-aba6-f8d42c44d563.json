@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1849423d-847e-5b37-aba6-f8d42c44d563",
+  "name": "KAROLINA WÜNSCHT SICH EINEN KOBOLD",
+  "author": {
+    "@type": "Person",
+    "name": "Dagmar Geisler"
+  },
+  "isbn": "9783473341856",
+  "genre": "",
+  "keywords": [],
+  "description": "Ab 6 J.",
+  "image": "https://covers.openlibrary.org/b/id/3210531-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783473341856",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783473341856"
+  ],
+  "_catalog": {
+    "id": "1849423d-847e-5b37-aba6-f8d42c44d563",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "karolina wunscht sich einen kobold dagmar geisler 9783473341856 buch"
+  }
+}

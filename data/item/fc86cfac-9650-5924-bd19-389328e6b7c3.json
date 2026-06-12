@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fc86cfac-9650-5924-bd19-389328e6b7c3",
+  "name": "Bibi Blocksberg - Band 143 - Zurück zur Märcheninsel",
+  "author": {
+    "@type": "Person",
+    "name": "Klaus-Peter Weigand"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fc86cfac-9650-5924-bd19-389328e6b7c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - band 143 - zuruck zur marcheninsel klaus-peter weigand buch"
+  }
+}

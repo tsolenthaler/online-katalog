@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1ca8b8b8-6ed6-5f6a-bd12-2b38641a9af8",
+  "name": "WAS IST WAS - Ameisen und Termiten",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Rigos"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1ca8b8b8-6ed6-5f6a-bd12-2b38641a9af8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - ameisen und termiten alexandra rigos buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3ebb1822-0397-574f-93fd-0742daace179",
+  "name": "Sternenritter - Band 007 - Tentakel des Schreckens",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3ebb1822-0397-574f-93fd-0742daace179",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenritter - band 007 - tentakel des schreckens michael peinkofer buch"
+  }
+}

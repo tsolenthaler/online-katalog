@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddbce404-f160-56a7-8339-6e421363268b",
+  "name": "Pferde und Reiten",
+  "author": {
+    "@type": "Person",
+    "name": "Rosie Dickins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddbce404-f160-56a7-8339-6e421363268b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pferde und reiten rosie dickins buch"
+  }
+}

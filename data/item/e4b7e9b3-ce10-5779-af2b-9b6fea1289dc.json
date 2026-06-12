@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4b7e9b3-ce10-5779-af2b-9b6fea1289dc",
+  "name": "Die Kaminski-Kids - Band 006 - In der Falle",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4b7e9b3-ce10-5779-af2b-9b6fea1289dc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kaminski-kids - band 006 - in der falle carlo meier buch"
+  }
+}

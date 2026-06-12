@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3f1fbe5d-00c0-53ef-9680-4d8475e2acce",
+  "name": "Tom Gates - Band 017 - Spektakulärer Schulausflug",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3f1fbe5d-00c0-53ef-9680-4d8475e2acce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 017 - spektakularer schulausflug liz pichon buch"
+  }
+}

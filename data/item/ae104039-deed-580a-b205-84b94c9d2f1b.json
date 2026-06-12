@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae104039-deed-580a-b205-84b94c9d2f1b",
+  "name": "Globi - Band 087 - und die verrückte Maschine",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Andreas Müller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae104039-deed-580a-b205-84b94c9d2f1b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 087 - und die verruckte maschine walter andreas muller buch"
+  }
+}

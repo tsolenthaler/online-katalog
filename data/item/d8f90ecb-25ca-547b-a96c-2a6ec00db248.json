@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8f90ecb-25ca-547b-a96c-2a6ec00db248",
+  "name": "Die kleine Meise und ihre Freunde",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Reichenstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8f90ecb-25ca-547b-a96c-2a6ec00db248",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kleine meise und ihre freunde friederun reichenstetter buch"
+  }
+}

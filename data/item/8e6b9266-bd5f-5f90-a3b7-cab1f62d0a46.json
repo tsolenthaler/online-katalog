@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8e6b9266-bd5f-5f90-a3b7-cab1f62d0a46",
+  "name": "TKKG Junior - Die Schoko-Diebe",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8e6b9266-bd5f-5f90-a3b7-cab1f62d0a46",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - die schoko-diebe kirsten vogel buch"
+  }
+}

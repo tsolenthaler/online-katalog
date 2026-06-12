@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5eea08f3-48a5-5234-bf26-d116a9b8af11",
+  "name": "Ich, die Gurke",
+  "author": {
+    "@type": "Person",
+    "name": "Anik Donth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5eea08f3-48a5-5234-bf26-d116a9b8af11",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich, die gurke anik donth buch"
+  }
+}

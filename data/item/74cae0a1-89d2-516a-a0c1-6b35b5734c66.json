@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:74cae0a1-89d2-516a-a0c1-6b35b5734c66",
+  "name": "Wieso Weshalb Warum - Tierspuren",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Henkel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "74cae0a1-89d2-516a-a0c1-6b35b5734c66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - tierspuren christine henkel buch"
+  }
+}

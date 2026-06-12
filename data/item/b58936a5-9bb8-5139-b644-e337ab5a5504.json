@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b58936a5-9bb8-5139-b644-e337ab5a5504",
+  "name": "Allein auf dem Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Chris Vick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b58936a5-9bb8-5139-b644-e337ab5a5504",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "allein auf dem meer chris vick buch"
+  }
+}

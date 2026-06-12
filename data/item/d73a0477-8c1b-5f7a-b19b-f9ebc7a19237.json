@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d73a0477-8c1b-5f7a-b19b-f9ebc7a19237",
+  "name": "Drinks ohne Alkohol",
+  "author": {
+    "@type": "Person",
+    "name": "Alessandra Redies"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d73a0477-8c1b-5f7a-b19b-f9ebc7a19237",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "drinks ohne alkohol alessandra redies buch"
+  }
+}

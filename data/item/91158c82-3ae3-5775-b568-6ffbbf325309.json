@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:91158c82-3ae3-5775-b568-6ffbbf325309",
+  "name": "Der kleine Drache Kokosnuss erforscht die Steinzeit",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "9783837154559",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837154559",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837154559"
+  ],
+  "_catalog": {
+    "id": "91158c82-3ae3-5775-b568-6ffbbf325309",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kleine drache kokosnuss erforscht die steinzeit ingo siegner 9783837154559 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:44a4082c-4787-5621-9dad-f94bb5514aff",
+  "name": "VON WEGEN. Allein auf der Via Alpina – 2363 Kilometer",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Ragettli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "44a4082c-4787-5621-9dad-f94bb5514aff",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "von wegen. allein auf der via alpina – 2363 kilometer christina ragettli buch"
+  }
+}

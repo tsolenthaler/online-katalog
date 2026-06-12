@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b922b29e-9db7-5405-860b-cc312d87e1d4",
+  "name": "Was ist was - Geheimnis Tiefsee",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Baur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b922b29e-9db7-5405-860b-cc312d87e1d4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - geheimnis tiefsee manfred baur buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed4ffa59-f350-55bc-9e26-fd46183dfba4",
+  "name": "Night of Crowns : Band 2 : Kämpf um dein Herz",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Tack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed4ffa59-f350-55bc-9e26-fd46183dfba4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "night of crowns : band 2 : kampf um dein herz stella tack buch"
+  }
+}

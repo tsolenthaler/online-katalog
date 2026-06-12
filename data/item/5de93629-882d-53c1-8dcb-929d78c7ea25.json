@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5de93629-882d-53c1-8dcb-929d78c7ea25",
+  "name": "Liebeschaos und lila Muffins",
+  "author": {
+    "@type": "Person",
+    "name": "Hortense Ullrich"
+  },
+  "isbn": "9783844906813",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844906813",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844906813"
+  ],
+  "_catalog": {
+    "id": "5de93629-882d-53c1-8dcb-929d78c7ea25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "liebeschaos und lila muffins hortense ullrich 9783844906813 buch"
+  }
+}

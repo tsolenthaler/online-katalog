@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b1b28e0d-30ec-5455-8a0e-8db950a5955f",
+  "name": "Lackschaden",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Fröhlich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b1b28e0d-30ec-5455-8a0e-8db950a5955f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lackschaden susanne frohlich buch"
+  }
+}

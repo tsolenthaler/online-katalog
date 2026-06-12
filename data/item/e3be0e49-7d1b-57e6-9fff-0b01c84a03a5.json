@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3be0e49-7d1b-57e6-9fff-0b01c84a03a5",
+  "name": "Die spannendsten Outdoor-Experimente für Kinder",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Lee Heinecke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3be0e49-7d1b-57e6-9fff-0b01c84a03a5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die spannendsten outdoor-experimente fur kinder liz lee heinecke buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9614ecf2-554b-53b6-bf5f-f3e1c55866f6",
+  "name": "Diesseits der Mauer",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Hoyer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9614ecf2-554b-53b6-bf5f-f3e1c55866f6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "diesseits der mauer katja hoyer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eaef2769-36a5-5abc-898e-dfcccb08d34a",
+  "name": "Der Zauberschüler - Band 2 - Im Bann des",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Taube"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eaef2769-36a5-5abc-898e-dfcccb08d34a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der zauberschuler - band 2 - im bann des anna taube buch"
+  }
+}

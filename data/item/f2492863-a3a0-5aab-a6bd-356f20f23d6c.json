@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2492863-a3a0-5aab-a6bd-356f20f23d6c",
+  "name": "Die Abenteuer von Blake und Mortimer - Band 010 - Der",
+  "author": {
+    "@type": "Person",
+    "name": "van Hamme / Benoit"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2492863-a3a0-5aab-a6bd-356f20f23d6c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die abenteuer von blake und mortimer - band 010 - der van hamme / benoit buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c8edc05a-db4f-5934-bc02-b981d64eba07",
+  "name": "Der Gesang der Amsel",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Olsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c8edc05a-db4f-5934-bc02-b981d64eba07",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der gesang der amsel linda olsson buch"
+  }
+}

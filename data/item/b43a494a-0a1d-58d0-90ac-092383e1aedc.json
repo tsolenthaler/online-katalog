@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b43a494a-0a1d-58d0-90ac-092383e1aedc",
+  "name": "Kian geht aufs Ganze!",
+  "author": {
+    "@type": "Person",
+    "name": "Bali Rai"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b43a494a-0a1d-58d0-90ac-092383e1aedc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kian geht aufs ganze! bali rai buch"
+  }
+}

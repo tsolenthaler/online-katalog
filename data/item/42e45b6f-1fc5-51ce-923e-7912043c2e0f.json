@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:42e45b6f-1fc5-51ce-923e-7912043c2e0f",
+  "name": "Da liegt ein Wal in meinem Bett!",
+  "author": {
+    "@type": "Person",
+    "name": "Angelika Glitz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "42e45b6f-1fc5-51ce-923e-7912043c2e0f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "da liegt ein wal in meinem bett! angelika glitz buch"
+  }
+}

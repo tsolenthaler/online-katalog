@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef5830d6-b8d3-5c26-b201-49f9dbca6ca5",
+  "name": "Rosie, der Zwielichtdrache - Band 7",
+  "author": {
+    "@type": "Person",
+    "name": "Maddy Mara"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef5830d6-b8d3-5c26-b201-49f9dbca6ca5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rosie, der zwielichtdrache - band 7 maddy mara buch"
+  }
+}

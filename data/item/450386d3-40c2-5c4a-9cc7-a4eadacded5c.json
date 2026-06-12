@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:450386d3-40c2-5c4a-9cc7-a4eadacded5c",
+  "name": "Die Hafenärztin - Ein Leben für das Recht auf Liebe (3)",
+  "author": {
+    "@type": "Person",
+    "name": "Henrike Engel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "450386d3-40c2-5c4a-9cc7-a4eadacded5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die hafenarztin - ein leben fur das recht auf liebe (3) henrike engel buch"
+  }
+}

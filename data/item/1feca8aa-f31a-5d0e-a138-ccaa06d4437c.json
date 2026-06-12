@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1feca8aa-f31a-5d0e-a138-ccaa06d4437c",
+  "name": "Percy Pickwick - Band 019 - Jade",
+  "author": {
+    "@type": "Person",
+    "name": "Rodrigue / Groot De"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1feca8aa-f31a-5d0e-a138-ccaa06d4437c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 019 - jade rodrigue / groot de buch"
+  }
+}

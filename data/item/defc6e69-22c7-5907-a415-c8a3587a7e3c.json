@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:defc6e69-22c7-5907-a415-c8a3587a7e3c",
+  "name": "Die neuen Klassiker",
+  "author": {
+    "@type": "Person",
+    "name": "Donna Hay"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "defc6e69-22c7-5907-a415-c8a3587a7e3c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die neuen klassiker donna hay buch"
+  }
+}

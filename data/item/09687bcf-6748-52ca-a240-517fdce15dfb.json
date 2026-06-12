@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:09687bcf-6748-52ca-a240-517fdce15dfb",
+  "name": "Die Olchis auf Klassenfahrt",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "9783789110948",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783789110948",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783789110948"
+  ],
+  "_catalog": {
+    "id": "09687bcf-6748-52ca-a240-517fdce15dfb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die olchis auf klassenfahrt erhard dietl 9783789110948 buch"
+  }
+}

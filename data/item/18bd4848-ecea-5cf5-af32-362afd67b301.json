@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18bd4848-ecea-5cf5-af32-362afd67b301",
+  "name": "Pettersson und Findus - Mein Gartenjahr, Herbst & Winter",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Strunck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "18bd4848-ecea-5cf5-af32-362afd67b301",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pettersson und findus - mein gartenjahr, herbst & winter angela strunck buch"
+  }
+}

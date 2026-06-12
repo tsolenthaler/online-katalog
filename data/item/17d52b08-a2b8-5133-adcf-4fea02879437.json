@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:17d52b08-a2b8-5133-adcf-4fea02879437",
+  "name": "The Monet Family – Band 3 - Shine Bright, Rising Princess",
+  "author": {
+    "@type": "Person",
+    "name": "Weronika Anna Marczak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "17d52b08-a2b8-5133-adcf-4fea02879437",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the monet family – band 3 - shine bright, rising princess weronika anna marczak buch"
+  }
+}

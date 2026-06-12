@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdfed16e-ac07-5f15-b233-ac40a2101e9b",
+  "name": "Tödliche Schuld",
+  "author": {
+    "@type": "Person",
+    "name": "Nicci French"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdfed16e-ac07-5f15-b233-ac40a2101e9b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "todliche schuld nicci french buch"
+  }
+}

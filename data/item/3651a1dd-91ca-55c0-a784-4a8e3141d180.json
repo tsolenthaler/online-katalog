@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3651a1dd-91ca-55c0-a784-4a8e3141d180",
+  "name": "Das Joshua Profil",
+  "author": {
+    "@type": "Person",
+    "name": "Sebastian Fitzek"
+  },
+  "isbn": "9783785753323",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783785753323",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783785753323"
+  ],
+  "_catalog": {
+    "id": "3651a1dd-91ca-55c0-a784-4a8e3141d180",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das joshua profil sebastian fitzek 9783785753323 buch"
+  }
+}

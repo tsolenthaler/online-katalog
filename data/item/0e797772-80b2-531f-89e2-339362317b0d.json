@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0e797772-80b2-531f-89e2-339362317b0d",
+  "name": "Passagier 23",
+  "author": {
+    "@type": "Person",
+    "name": "Sebastian Fitzek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0e797772-80b2-531f-89e2-339362317b0d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "passagier 23 sebastian fitzek buch"
+  }
+}

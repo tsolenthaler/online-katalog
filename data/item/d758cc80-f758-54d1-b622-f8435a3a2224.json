@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d758cc80-f758-54d1-b622-f8435a3a2224",
+  "name": "Neue idyllische Wanderziele in der Schweiz für alle",
+  "author": {
+    "@type": "Person",
+    "name": "Natascha Knecht"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d758cc80-f758-54d1-b622-f8435a3a2224",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "neue idyllische wanderziele in der schweiz fur alle natascha knecht buch"
+  }
+}

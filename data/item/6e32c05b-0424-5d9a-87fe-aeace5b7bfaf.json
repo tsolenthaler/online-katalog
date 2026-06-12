@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6e32c05b-0424-5d9a-87fe-aeace5b7bfaf",
+  "name": "Tödliche Nachbarschaft",
+  "author": {
+    "@type": "Person",
+    "name": "Viveca Sten"
+  },
+  "isbn": "9783462315745",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783462315745",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783462315745"
+  ],
+  "_catalog": {
+    "id": "6e32c05b-0424-5d9a-87fe-aeace5b7bfaf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "todliche nachbarschaft viveca sten 9783462315745 buch"
+  }
+}

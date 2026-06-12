@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0af3ff8-1a9f-5ec3-a21c-6a086733acec",
+  "name": "De Meischter Eder und sin Pumuckl - Band 002 - De",
+  "author": {
+    "@type": "Person",
+    "name": "Ellis Kaut"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0af3ff8-1a9f-5ec3-a21c-6a086733acec",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "de meischter eder und sin pumuckl - band 002 - de ellis kaut buch"
+  }
+}

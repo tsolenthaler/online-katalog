@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca89ac65-d15e-558a-a402-b0f485707a43",
+  "name": "Klima ist für alle da",
+  "author": {
+    "@type": "Person",
+    "name": "Akshat Rathi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca89ac65-d15e-558a-a402-b0f485707a43",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "klima ist fur alle da akshat rathi buch"
+  }
+}

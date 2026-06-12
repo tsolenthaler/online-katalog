@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2c5e62a-992d-5a0b-bfcd-3a1b6a85986b",
+  "name": "Globi - Band 086 - und der Goldraub",
+  "author": {
+    "@type": "Person",
+    "name": "Müller Walter Andreas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2c5e62a-992d-5a0b-bfcd-3a1b6a85986b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 086 - und der goldraub muller walter andreas buch"
+  }
+}

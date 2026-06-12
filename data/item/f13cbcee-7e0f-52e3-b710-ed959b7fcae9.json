@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f13cbcee-7e0f-52e3-b710-ed959b7fcae9",
+  "name": "Butterfly",
+  "author": {
+    "@type": "Person",
+    "name": "Yusra Mardini"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f13cbcee-7e0f-52e3-b710-ed959b7fcae9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "butterfly yusra mardini buch"
+  }
+}

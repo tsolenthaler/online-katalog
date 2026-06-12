@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d60bab22-1d82-5448-92f5-e7ad58f93d7a",
+  "name": "Liliane Susewind - Band 005 - Extra-Punkte für den",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d60bab22-1d82-5448-92f5-e7ad58f93d7a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - band 005 - extra-punkte fur den tanya stewner buch"
+  }
+}

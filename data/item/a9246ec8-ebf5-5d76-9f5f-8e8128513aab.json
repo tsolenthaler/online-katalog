@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a9246ec8-ebf5-5d76-9f5f-8e8128513aab",
+  "name": "Finde den Täter - Tatort Krähenstein",
+  "author": {
+    "@type": "Person",
+    "name": "Julian Press"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a9246ec8-ebf5-5d76-9f5f-8e8128513aab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finde den tater - tatort krahenstein julian press buch"
+  }
+}

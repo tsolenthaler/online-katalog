@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ffce6e3-d735-551a-9d08-9c7f4e1c6800",
+  "name": "Die weiße Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Stern"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8ffce6e3-d735-551a-9d08-9c7f4e1c6800",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die weiße nacht anne stern buch"
+  }
+}

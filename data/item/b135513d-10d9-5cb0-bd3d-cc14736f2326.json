@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b135513d-10d9-5cb0-bd3d-cc14736f2326",
+  "name": "Wolf und Lamm Das Geburtstagsgeschenk",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Kuipers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b135513d-10d9-5cb0-bd3d-cc14736f2326",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wolf und lamm das geburtstagsgeschenk ben kuipers buch"
+  }
+}

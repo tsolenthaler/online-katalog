@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15fc5302-d5ac-5072-b244-5b689005e37d",
+  "name": "Die Chemie des Todes",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Beckett"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15fc5302-d5ac-5072-b244-5b689005e37d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die chemie des todes simon beckett buch"
+  }
+}

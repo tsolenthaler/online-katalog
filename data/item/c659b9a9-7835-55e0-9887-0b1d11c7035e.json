@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c659b9a9-7835-55e0-9887-0b1d11c7035e",
+  "name": "Was blüht denn da ?",
+  "author": {
+    "@type": "Person",
+    "name": "Dietmar Aichele"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c659b9a9-7835-55e0-9887-0b1d11c7035e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was bluht denn da ? dietmar aichele buch"
+  }
+}

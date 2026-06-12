@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5e4d101-3953-52d2-a1fc-c2f2c63f338d",
+  "name": "Das Hühnerglück",
+  "author": {
+    "@type": "Person",
+    "name": "Béatrice Rodriguez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5e4d101-3953-52d2-a1fc-c2f2c63f338d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das huhnergluck beatrice rodriguez buch"
+  }
+}

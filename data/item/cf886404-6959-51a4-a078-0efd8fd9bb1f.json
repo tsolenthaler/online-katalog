@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf886404-6959-51a4-a078-0efd8fd9bb1f",
+  "name": "Ein Funkeln im Dunkeln",
+  "author": {
+    "@type": "Person",
+    "name": "Marie Voigt"
+  },
+  "isbn": "9783570176993",
+  "genre": "",
+  "keywords": [],
+  "description": "Source title: Ein Funkeln im Dunkeln: Eine Geschichte über Mut und Vertrauen - Bilderbuch ab 4 Jahren",
+  "image": "https://covers.openlibrary.org/b/id/10540629-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783570176993",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783570176993"
+  ],
+  "_catalog": {
+    "id": "cf886404-6959-51a4-a078-0efd8fd9bb1f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein funkeln im dunkeln marie voigt 9783570176993 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3760f102-409f-542a-a3ba-757ceb3e1681",
+  "name": "Was wir in den Sternen sehen",
+  "author": {
+    "@type": "Person",
+    "name": "Kelsey Oseid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3760f102-409f-542a-a3ba-757ceb3e1681",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was wir in den sternen sehen kelsey oseid buch"
+  }
+}

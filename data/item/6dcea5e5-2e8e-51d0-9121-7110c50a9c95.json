@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6dcea5e5-2e8e-51d0-9121-7110c50a9c95",
+  "name": "Das Schweiz Wimmelbuch",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "9783907340141",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783907340141",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783907340141"
+  ],
+  "_catalog": {
+    "id": "6dcea5e5-2e8e-51d0-9121-7110c50a9c95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das schweiz wimmelbuch 9783907340141 buch"
+  }
+}

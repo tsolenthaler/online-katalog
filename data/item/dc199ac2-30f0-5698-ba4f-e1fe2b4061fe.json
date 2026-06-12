@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc199ac2-30f0-5698-ba4f-e1fe2b4061fe",
+  "name": "Ziegen halten",
+  "author": {
+    "@type": "Person",
+    "name": "Kai Haus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc199ac2-30f0-5698-ba4f-e1fe2b4061fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ziegen halten kai haus buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b1d1a502-f451-5b08-a58e-89a8dd5a6486",
+  "name": "Orphan Train - Band 004 - Joey",
+  "author": {
+    "@type": "Person",
+    "name": "Philippe Charlot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b1d1a502-f451-5b08-a58e-89a8dd5a6486",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "orphan train - band 004 - joey philippe charlot buch"
+  }
+}

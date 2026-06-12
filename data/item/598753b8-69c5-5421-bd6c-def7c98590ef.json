@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:598753b8-69c5-5421-bd6c-def7c98590ef",
+  "name": "Grimm und Möhrchen machen Pause von zu Hause",
+  "author": {
+    "@type": "Person",
+    "name": "Stephanie Schneider"
+  },
+  "isbn": "9783742426420",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783742426420",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783742426420"
+  ],
+  "_catalog": {
+    "id": "598753b8-69c5-5421-bd6c-def7c98590ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "grimm und mohrchen machen pause von zu hause stephanie schneider 9783742426420 buch"
+  }
+}

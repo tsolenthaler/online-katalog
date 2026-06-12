@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d4324c3e-d72d-5b02-a286-c904fe8c0d18",
+  "name": "Jim Knopf und die wilde 13",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "9783522185561",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783522185561",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783522185561"
+  ],
+  "_catalog": {
+    "id": "d4324c3e-d72d-5b02-a286-c904fe8c0d18",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "jim knopf und die wilde 13 michael ende 9783522185561 buch"
+  }
+}

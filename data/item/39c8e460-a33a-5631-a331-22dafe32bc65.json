@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:39c8e460-a33a-5631-a331-22dafe32bc65",
+  "name": "Wie man im Chaos überlebt",
+  "author": {
+    "@type": "Person",
+    "name": "Pete Johnson"
+  },
+  "isbn": "9783844932904",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844932904",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844932904"
+  ],
+  "_catalog": {
+    "id": "39c8e460-a33a-5631-a331-22dafe32bc65",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "wie man im chaos uberlebt pete johnson 9783844932904 buch"
+  }
+}

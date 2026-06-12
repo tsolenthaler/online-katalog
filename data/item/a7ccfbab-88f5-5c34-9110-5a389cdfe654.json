@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7ccfbab-88f5-5c34-9110-5a389cdfe654",
+  "name": "Drei sind keiner zu viel",
+  "author": {
+    "@type": "Person",
+    "name": "Eulalia Canal"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7ccfbab-88f5-5c34-9110-5a389cdfe654",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "drei sind keiner zu viel eulalia canal buch"
+  }
+}

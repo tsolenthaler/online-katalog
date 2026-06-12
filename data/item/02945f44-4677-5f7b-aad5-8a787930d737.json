@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:02945f44-4677-5f7b-aad5-8a787930d737",
+  "name": "Jonas Fink - Band 002 - Lehrjahre",
+  "author": {
+    "@type": "Person",
+    "name": "Giardino"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "02945f44-4677-5f7b-aad5-8a787930d737",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jonas fink - band 002 - lehrjahre giardino buch"
+  }
+}

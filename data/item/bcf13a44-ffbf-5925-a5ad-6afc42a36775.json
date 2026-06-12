@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bcf13a44-ffbf-5925-a5ad-6afc42a36775",
+  "name": "Erstlesegeschichten vom Fußballplatz",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Klein"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bcf13a44-ffbf-5925-a5ad-6afc42a36775",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erstlesegeschichten vom fußballplatz martin klein buch"
+  }
+}

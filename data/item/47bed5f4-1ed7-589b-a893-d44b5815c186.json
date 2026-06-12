@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:47bed5f4-1ed7-589b-a893-d44b5815c186",
+  "name": "Wieso, Weshalb, Warum - Alles über Schiffe",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Gernhäuser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "47bed5f4-1ed7-589b-a893-d44b5815c186",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - alles uber schiffe susanne gernhauser buch"
+  }
+}

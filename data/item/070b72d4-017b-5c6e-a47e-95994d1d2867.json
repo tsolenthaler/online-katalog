@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:070b72d4-017b-5c6e-a47e-95994d1d2867",
+  "name": "Die Spionin",
+  "author": {
+    "@type": "Person",
+    "name": "Imogen Kealey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "070b72d4-017b-5c6e-a47e-95994d1d2867",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die spionin imogen kealey buch"
+  }
+}

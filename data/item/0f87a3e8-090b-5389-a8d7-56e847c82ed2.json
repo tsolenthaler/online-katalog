@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f87a3e8-090b-5389-a8d7-56e847c82ed2",
+  "name": "Tilda Apfelkern - Schön, dass du da bist!",
+  "author": {
+    "@type": "Person",
+    "name": "Schmachtl Andreas H."
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0f87a3e8-090b-5389-a8d7-56e847c82ed2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tilda apfelkern - schon, dass du da bist! schmachtl andreas h. buch"
+  }
+}

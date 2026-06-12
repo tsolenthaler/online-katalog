@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebdda459-6b5b-5fbf-9897-01d64b05cb35",
+  "name": "Goldschatz",
+  "author": {
+    "@type": "Person",
+    "name": "Ingrid Noll"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ebdda459-6b5b-5fbf-9897-01d64b05cb35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "goldschatz ingrid noll buch"
+  }
+}

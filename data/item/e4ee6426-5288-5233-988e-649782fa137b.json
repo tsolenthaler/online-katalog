@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4ee6426-5288-5233-988e-649782fa137b",
+  "name": "Meisterdetektiv Sherlock Bones - Band 3 - Der",
+  "author": {
+    "@type": "Person",
+    "name": "Tim Collins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4ee6426-5288-5233-988e-649782fa137b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meisterdetektiv sherlock bones - band 3 - der tim collins buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf98c9ac-ac7a-5551-bb84-e7859f06fc07",
+  "name": "Pandatage",
+  "author": {
+    "@type": "Person",
+    "name": "James Gould-Bourn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf98c9ac-ac7a-5551-bb84-e7859f06fc07",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pandatage james gould-bourn buch"
+  }
+}

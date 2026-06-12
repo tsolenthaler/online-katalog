@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:99d748bc-6805-5d22-85f4-57f8cdd778fa",
+  "name": "Blutrote Provence",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre Lagrange"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "99d748bc-6805-5d22-85f4-57f8cdd778fa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "blutrote provence pierre lagrange buch"
+  }
+}

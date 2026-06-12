@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef0cefe3-361e-5ae4-b79d-d4479f194c9f",
+  "name": "Marsupilami - Band 010 - Panda in Panik",
+  "author": {
+    "@type": "Person",
+    "name": "André Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef0cefe3-361e-5ae4-b79d-d4479f194c9f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 010 - panda in panik andre franquin buch"
+  }
+}

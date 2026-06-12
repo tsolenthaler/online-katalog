@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6ec18cee-335b-5f9d-ab53-1fb87dc008dc",
+  "name": "Das leise Platzen unserer Träume",
+  "author": {
+    "@type": "Person",
+    "name": "Eva Lohmann"
+  },
+  "isbn": "9783961611720",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783961611720",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783961611720"
+  ],
+  "_catalog": {
+    "id": "6ec18cee-335b-5f9d-ab53-1fb87dc008dc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das leise platzen unserer traume eva lohmann 9783961611720 buch"
+  }
+}

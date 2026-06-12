@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de85981e-3551-5287-bd8d-575a0593b2ba",
+  "name": "Mädchentalk & miese Diebe",
+  "author": {
+    "@type": "Person",
+    "name": "Anja Körner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de85981e-3551-5287-bd8d-575a0593b2ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "madchentalk & miese diebe anja korner buch"
+  }
+}

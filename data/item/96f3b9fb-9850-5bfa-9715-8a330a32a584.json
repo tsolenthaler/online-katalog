@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:96f3b9fb-9850-5bfa-9715-8a330a32a584",
+  "name": "ERAGON - Band 003 - Die Weisheit des Feuers",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Paolini"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "96f3b9fb-9850-5bfa-9715-8a330a32a584",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eragon - band 003 - die weisheit des feuers christopher paolini buch"
+  }
+}

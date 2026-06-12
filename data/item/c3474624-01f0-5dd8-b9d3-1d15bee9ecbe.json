@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c3474624-01f0-5dd8-b9d3-1d15bee9ecbe",
+  "name": "WAS IST WAS - Feuerwehr / Polizei",
+  "author": {
+    "@type": "Person",
+    "name": "Crock Krumbiegel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c3474624-01f0-5dd8-b9d3-1d15bee9ecbe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - feuerwehr / polizei crock krumbiegel buch"
+  }
+}

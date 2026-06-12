@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf8a63d6-c7ea-548f-8cf7-7c43b095a44a",
+  "name": "Pippas Tagebuch, eine Freundin muss her",
+  "author": {
+    "@type": "Person",
+    "name": "Annie Kelsey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf8a63d6-c7ea-548f-8cf7-7c43b095a44a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pippas tagebuch, eine freundin muss her annie kelsey buch"
+  }
+}

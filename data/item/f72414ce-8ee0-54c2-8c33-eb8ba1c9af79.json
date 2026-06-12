@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f72414ce-8ee0-54c2-8c33-eb8ba1c9af79",
+  "name": "Minik - Band 1- Aufbruch ins weite Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Michaelis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f72414ce-8ee0-54c2-8c33-eb8ba1c9af79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "minik - band 1- aufbruch ins weite meer antonia michaelis buch"
+  }
+}

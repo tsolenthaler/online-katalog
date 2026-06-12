@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f18c76cf-172c-5397-84c7-c668dc677d12",
+  "name": "Lieselotte - lustige Bauernhofgeschichten zum Vorlesen",
+  "author": {
+    "@type": "Person",
+    "name": "Fee Krämer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f18c76cf-172c-5397-84c7-c668dc677d12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lieselotte - lustige bauernhofgeschichten zum vorlesen fee kramer buch"
+  }
+}

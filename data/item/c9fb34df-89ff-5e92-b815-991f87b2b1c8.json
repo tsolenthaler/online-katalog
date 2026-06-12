@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9fb34df-89ff-5e92-b815-991f87b2b1c8",
+  "name": "Red, der Club der Magischen Kinder - Band 3 - Die",
+  "author": {
+    "@type": "Person",
+    "name": "Sonja Kaiblinger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9fb34df-89ff-5e92-b815-991f87b2b1c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "red, der club der magischen kinder - band 3 - die sonja kaiblinger buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a338d8a4-2739-5d39-bcaf-c86209393b66",
+  "name": "Glee wie alles begann",
+  "author": {
+    "@type": "Person",
+    "name": "Lowell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a338d8a4-2739-5d39-bcaf-c86209393b66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "glee wie alles begann lowell buch"
+  }
+}

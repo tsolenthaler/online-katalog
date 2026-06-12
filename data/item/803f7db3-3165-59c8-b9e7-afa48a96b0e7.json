@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:803f7db3-3165-59c8-b9e7-afa48a96b0e7",
+  "name": "Donald - Band 036",
+  "author": {
+    "@type": "Person",
+    "name": "Carl Barks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "803f7db3-3165-59c8-b9e7-afa48a96b0e7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "donald - band 036 carl barks buch"
+  }
+}

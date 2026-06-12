@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2a9c31a-dcba-5733-9787-dd51b00d10ed",
+  "name": "Yakari - Band 030 - Der Schlafwandler",
+  "author": {
+    "@type": "Person",
+    "name": "Derib u. Job"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2a9c31a-dcba-5733-9787-dd51b00d10ed",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 030 - der schlafwandler derib u. job buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c413e123-7bbb-5dbd-830e-88b824724e66",
+  "name": "Der kleine König feiert Weihnachten",
+  "author": {
+    "@type": "Person",
+    "name": "Hedwig Munck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c413e123-7bbb-5dbd-830e-88b824724e66",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine konig feiert weihnachten hedwig munck buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef851518-71be-5210-8234-3fd41ba4bfeb",
+  "name": "Onyx Schattenschimmer Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer L. Armentrout"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef851518-71be-5210-8234-3fd41ba4bfeb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "onyx schattenschimmer band 2 jennifer l. armentrout buch"
+  }
+}

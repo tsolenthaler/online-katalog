@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aff0b7e7-97b1-5257-9de4-d18cc3ef9642",
+  "name": "Sonntagsgeschirr",
+  "author": {
+    "@type": "Person",
+    "name": "Anita Obendrauf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aff0b7e7-97b1-5257-9de4-d18cc3ef9642",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sonntagsgeschirr anita obendrauf buch"
+  }
+}

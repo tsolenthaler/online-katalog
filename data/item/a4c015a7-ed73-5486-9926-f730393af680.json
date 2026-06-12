@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a4c015a7-ed73-5486-9926-f730393af680",
+  "name": "Der Pascha aus Urnäsch",
+  "author": {
+    "@type": "Person",
+    "name": "Abdullah Dur"
+  },
+  "isbn": "9783858302588",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783858302588",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783858302588"
+  ],
+  "_catalog": {
+    "id": "a4c015a7-ed73-5486-9926-f730393af680",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der pascha aus urnasch abdullah dur 9783858302588 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5c32277-afef-5b12-a91d-921117c86711",
+  "name": "Wieso, Weshalb, Warum - Was wächst da?",
+  "author": {
+    "@type": "Person",
+    "name": "Constanza Droop"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5c32277-afef-5b12-a91d-921117c86711",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - was wachst da? constanza droop buch"
+  }
+}

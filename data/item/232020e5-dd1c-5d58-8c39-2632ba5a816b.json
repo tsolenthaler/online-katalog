@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:232020e5-dd1c-5d58-8c39-2632ba5a816b",
+  "name": "Homöopathie",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Rissel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "232020e5-dd1c-5d58-8c39-2632ba5a816b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "homoopathie roger rissel buch"
+  }
+}

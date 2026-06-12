@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce8199fb-797f-5849-8c00-dde28cd7274d",
+  "name": "Alles, was wir nicht erinnern",
+  "author": {
+    "@type": "Person",
+    "name": "Christiane Hoffmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce8199fb-797f-5849-8c00-dde28cd7274d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alles, was wir nicht erinnern christiane hoffmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9279cad-9773-5c15-90bc-a33874023491",
+  "name": "Der Polizist",
+  "author": {
+    "@type": "Person",
+    "name": "John Grisham"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9279cad-9773-5c15-90bc-a33874023491",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der polizist john grisham buch"
+  }
+}

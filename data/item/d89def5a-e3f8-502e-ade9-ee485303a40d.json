@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d89def5a-e3f8-502e-ade9-ee485303a40d",
+  "name": "Season Sisters - Herbstschatten",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Helford"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d89def5a-e3f8-502e-ade9-ee485303a40d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "season sisters - herbstschatten anna helford buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce1f5c6d-a6cf-53c2-8be8-516d98d0c721",
+  "name": "Globine - Band 003 - und das Kuhrennen",
+  "author": {
+    "@type": "Person",
+    "name": "Brigitte Schmidlin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce1f5c6d-a6cf-53c2-8be8-516d98d0c721",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine - band 003 - und das kuhrennen brigitte schmidlin buch"
+  }
+}

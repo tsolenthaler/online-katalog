@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:efe32be5-1855-5ce8-8ebb-f8a025a23a95",
+  "name": "Auf zur Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Grégoire Nappey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "efe32be5-1855-5ce8-8ebb-f8a025a23a95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "auf zur schweiz gregoire nappey buch"
+  }
+}

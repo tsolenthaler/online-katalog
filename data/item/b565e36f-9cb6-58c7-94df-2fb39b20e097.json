@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b565e36f-9cb6-58c7-94df-2fb39b20e097",
+  "name": "Bibi & Tina - Das Ritterturnier - Band 70",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Dittrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b565e36f-9cb6-58c7-94df-2fb39b20e097",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - das ritterturnier - band 70 markus dittrich buch"
+  }
+}

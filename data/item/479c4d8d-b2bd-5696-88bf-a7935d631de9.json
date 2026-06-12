@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:479c4d8d-b2bd-5696-88bf-a7935d631de9",
+  "name": "Zuckersüße Samtpfötchen- Zauberkätzchen 16",
+  "author": {
+    "@type": "Person",
+    "name": "Sue Bentley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "479c4d8d-b2bd-5696-88bf-a7935d631de9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zuckersuße samtpfotchen- zauberkatzchen 16 sue bentley buch"
+  }
+}

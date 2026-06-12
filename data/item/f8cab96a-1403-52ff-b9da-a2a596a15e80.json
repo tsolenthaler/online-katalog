@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8cab96a-1403-52ff-b9da-a2a596a15e80",
+  "name": "Alea Aquarius - Band 04 - Die Macht der Gezeiten",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8cab96a-1403-52ff-b9da-a2a596a15e80",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alea aquarius - band 04 - die macht der gezeiten tanya stewner buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ab8d0f0b-e855-5f10-94a8-9afa3b2d9c18",
+  "name": "Viel Lärm um Lila, die fabelhaften Vier",
+  "author": {
+    "@type": "Person",
+    "name": "Martina Dierks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ab8d0f0b-e855-5f10-94a8-9afa3b2d9c18",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "viel larm um lila, die fabelhaften vier martina dierks buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba61427d-7acd-5987-a6bb-558f1ed61e9a",
+  "name": "Alaska wilderness - Schutzlos am Red Mountain - Band",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba61427d-7acd-5987-a6bb-558f1ed61e9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alaska wilderness - schutzlos am red mountain - band christopher ross buch"
+  }
+}

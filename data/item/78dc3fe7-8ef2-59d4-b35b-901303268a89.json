@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:78dc3fe7-8ef2-59d4-b35b-901303268a89",
+  "name": "Die drei ??? - Band 121 - Spur ins Nichts",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Hitchcock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "78dc3fe7-8ef2-59d4-b35b-901303268a89",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 121 - spur ins nichts alfred hitchcock buch"
+  }
+}

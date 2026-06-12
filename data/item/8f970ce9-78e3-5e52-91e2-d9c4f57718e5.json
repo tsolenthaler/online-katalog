@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8f970ce9-78e3-5e52-91e2-d9c4f57718e5",
+  "name": "Das Leuchten der Blätter",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Koelle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8f970ce9-78e3-5e52-91e2-d9c4f57718e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das leuchten der blatter patricia koelle buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:79512d38-87bd-507a-8b5b-868061577f9d",
+  "name": "Schnitzeljagd",
+  "author": {
+    "@type": "Person",
+    "name": "Benoit Delalandre"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "79512d38-87bd-507a-8b5b-868061577f9d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schnitzeljagd benoit delalandre buch"
+  }
+}

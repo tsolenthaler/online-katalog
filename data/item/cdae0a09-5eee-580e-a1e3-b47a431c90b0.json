@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cdae0a09-5eee-580e-a1e3-b47a431c90b0",
+  "name": "Die Tribute von Panem - Band 01 - Tödliche Spiele",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Collins"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cdae0a09-5eee-580e-a1e3-b47a431c90b0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tribute von panem - band 01 - todliche spiele suzanne collins buch"
+  }
+}

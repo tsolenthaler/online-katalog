@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9f0d6532-b8bc-5ccc-9831-929ff6ac2f70",
+  "name": "Entdecke das Wetter",
+  "author": {
+    "@type": "Person",
+    "name": "Michaela Koschak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9f0d6532-b8bc-5ccc-9831-929ff6ac2f70",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke das wetter michaela koschak buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65e98ee7-af05-5383-9800-cbc5f73f499a",
+  "name": "Meine große Tierbibliothek: Die Fledermaus",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Jens Poschadel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65e98ee7-af05-5383-9800-cbc5f73f499a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meine große tierbibliothek: die fledermaus dr. jens poschadel buch"
+  }
+}

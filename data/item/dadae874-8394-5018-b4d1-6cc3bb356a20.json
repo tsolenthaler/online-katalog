@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dadae874-8394-5018-b4d1-6cc3bb356a20",
+  "name": "Die Uhrmacherin - Im Sturm der Zeit (1)",
+  "author": {
+    "@type": "Person",
+    "name": "Claudia Dahinden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dadae874-8394-5018-b4d1-6cc3bb356a20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die uhrmacherin - im sturm der zeit (1) claudia dahinden buch"
+  }
+}

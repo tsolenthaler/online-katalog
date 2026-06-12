@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f36d7b5c-3f58-541a-8e41-e29075f683f2",
+  "name": "Spirou + Fantasio - Band 027 - Nichts als Bohnen",
+  "author": {
+    "@type": "Person",
+    "name": "Fournier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f36d7b5c-3f58-541a-8e41-e29075f683f2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 027 - nichts als bohnen fournier buch"
+  }
+}

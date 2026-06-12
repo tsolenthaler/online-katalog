@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0399acd-4bd1-5945-88c1-260e2a5da914",
+  "name": "3-Minuten-Vorlesegeschichten zum Kuscheln und",
+  "author": {
+    "@type": "Person",
+    "name": "Henriette Wich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0399acd-4bd1-5945-88c1-260e2a5da914",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "3-minuten-vorlesegeschichten zum kuscheln und henriette wich buch"
+  }
+}

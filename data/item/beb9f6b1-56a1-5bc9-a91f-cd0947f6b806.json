@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:beb9f6b1-56a1-5bc9-a91f-cd0947f6b806",
+  "name": "Aufbruch ins All",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "beb9f6b1-56a1-5bc9-a91f-cd0947f6b806",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "aufbruch ins all boris pfeiffer buch"
+  }
+}

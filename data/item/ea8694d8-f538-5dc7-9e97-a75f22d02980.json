@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea8694d8-f538-5dc7-9e97-a75f22d02980",
+  "name": "Radio Silent - Melde dich, wenn du das hörst",
+  "author": {
+    "@type": "Person",
+    "name": "Tom Ryan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea8694d8-f538-5dc7-9e97-a75f22d02980",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "radio silent - melde dich, wenn du das horst tom ryan buch"
+  }
+}

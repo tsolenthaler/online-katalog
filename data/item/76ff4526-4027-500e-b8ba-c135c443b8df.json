@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:76ff4526-4027-500e-b8ba-c135c443b8df",
+  "name": "Winterhoffnung",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Helford"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "76ff4526-4027-500e-b8ba-c135c443b8df",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "winterhoffnung anna helford buch"
+  }
+}

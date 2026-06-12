@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:63e6688c-ddcb-5e23-84f9-5bcc897de82e",
+  "name": "Der Hobbit oder Hin und Zurück",
+  "author": {
+    "@type": "Person",
+    "name": "J.R.R Tolkien"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "63e6688c-ddcb-5e23-84f9-5bcc897de82e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der hobbit oder hin und zuruck j.r.r tolkien buch"
+  }
+}

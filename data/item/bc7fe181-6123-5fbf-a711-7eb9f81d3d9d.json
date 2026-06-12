@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc7fe181-6123-5fbf-a711-7eb9f81d3d9d",
+  "name": "Kasperlitheater - Band 011 - S Gheimnis vom singende",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Schneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc7fe181-6123-5fbf-a711-7eb9f81d3d9d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kasperlitheater - band 011 - s gheimnis vom singende jorg schneider buch"
+  }
+}

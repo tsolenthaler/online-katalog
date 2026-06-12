@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce995110-4df4-5364-a668-094058c8baf9",
+  "name": "WAS IST WAS Erstes Lesen - Dinosaurier",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Bischoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce995110-4df4-5364-a668-094058c8baf9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was erstes lesen - dinosaurier karin bischoff buch"
+  }
+}

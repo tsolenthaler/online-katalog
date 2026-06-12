@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4a427d8-c9bd-5558-a07f-18cb77d4eb24",
+  "name": "Ich kann zaubern!",
+  "author": {
+    "@type": "Person",
+    "name": "Julius Frack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4a427d8-c9bd-5558-a07f-18cb77d4eb24",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich kann zaubern! julius frack buch"
+  }
+}

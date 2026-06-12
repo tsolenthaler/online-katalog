@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c0550f3e-8b81-5e06-8cc9-f6fa19a37173",
+  "name": "TKKG Junior - Der verborgene Schatz",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Tannenberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c0550f3e-8b81-5e06-8cc9-f6fa19a37173",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - der verborgene schatz benjamin tannenberg buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eed1faa5-b30c-5e60-92ff-809b248bd285",
+  "name": "Die Engelsmühle",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Gruber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eed1faa5-b30c-5e60-92ff-809b248bd285",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die engelsmuhle andreas gruber buch"
+  }
+}

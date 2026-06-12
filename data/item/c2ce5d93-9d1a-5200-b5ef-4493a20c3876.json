@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c2ce5d93-9d1a-5200-b5ef-4493a20c3876",
+  "name": "Die drei ??? Kids - Bücherhelden - Der unsichtbare Dieb",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c2ce5d93-9d1a-5200-b5ef-4493a20c3876",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - bucherhelden - der unsichtbare dieb ulf blanck buch"
+  }
+}

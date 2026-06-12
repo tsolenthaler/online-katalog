@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e84899c9-38a7-5504-869e-52080a6d1125",
+  "name": "Der magische Blumenladen - Die verzauberte Hochzeit",
+  "author": {
+    "@type": "Person",
+    "name": "Gina Mayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e84899c9-38a7-5504-869e-52080a6d1125",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der magische blumenladen - die verzauberte hochzeit gina mayer buch"
+  }
+}

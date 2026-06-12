@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0e0da7ab-8ca2-5dd6-9afc-741eeda48bbe",
+  "name": "Der Oktopus haut ab",
+  "author": {
+    "@type": "Person",
+    "name": "Maile Meloy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0e0da7ab-8ca2-5dd6-9afc-741eeda48bbe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der oktopus haut ab maile meloy buch"
+  }
+}

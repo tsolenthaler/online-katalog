@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8879d56-62b1-580a-9195-86affcd271fb",
+  "name": "Die Grünen Piraten : Band 11 : Wale in Not",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Poßberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8879d56-62b1-580a-9195-86affcd271fb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die grunen piraten : band 11 : wale in not andrea poßberg buch"
+  }
+}

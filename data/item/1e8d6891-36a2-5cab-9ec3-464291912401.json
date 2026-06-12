@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1e8d6891-36a2-5cab-9ec3-464291912401",
+  "name": "Daisy Duck - Band 002",
+  "author": {
+    "@type": "Person",
+    "name": "Carl Barks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1e8d6891-36a2-5cab-9ec3-464291912401",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "daisy duck - band 002 carl barks buch"
+  }
+}

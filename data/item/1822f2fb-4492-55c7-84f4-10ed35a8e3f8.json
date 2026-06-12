@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1822f2fb-4492-55c7-84f4-10ed35a8e3f8",
+  "name": "Alea Aquarius - Band 01 - Der Ruf des Wassers",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1822f2fb-4492-55c7-84f4-10ed35a8e3f8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alea aquarius - band 01 - der ruf des wassers tanya stewner buch"
+  }
+}

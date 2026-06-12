@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1a1d34fd-cec1-5d8f-bdf0-0adab37ef599",
+  "name": "The hike",
+  "author": {
+    "@type": "Person",
+    "name": "Lucy Clarke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1a1d34fd-cec1-5d8f-bdf0-0adab37ef599",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the hike lucy clarke buch"
+  }
+}

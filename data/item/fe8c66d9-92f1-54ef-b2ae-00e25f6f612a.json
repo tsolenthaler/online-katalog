@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe8c66d9-92f1-54ef-b2ae-00e25f6f612a",
+  "name": "yoko tsuno - Band 007 - Zwischen Leben und Tod",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Leloup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe8c66d9-92f1-54ef-b2ae-00e25f6f612a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoko tsuno - band 007 - zwischen leben und tod roger leloup buch"
+  }
+}

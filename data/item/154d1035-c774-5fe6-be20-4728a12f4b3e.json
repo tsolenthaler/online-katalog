@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:154d1035-c774-5fe6-be20-4728a12f4b3e",
+  "name": "Verheißung",
+  "author": {
+    "@type": "Person",
+    "name": "Jussi Adler-Olsen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "154d1035-c774-5fe6-be20-4728a12f4b3e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "verheißung jussi adler-olsen buch"
+  }
+}

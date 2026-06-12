@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:560f0a54-e215-58a3-bd60-f38fb8de4469",
+  "name": "Guinness World Records 2024",
+  "author": {
+    "@type": "Person",
+    "name": "Guinness World Records Ltd.,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "560f0a54-e215-58a3-bd60-f38fb8de4469",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "guinness world records 2024 guinness world records ltd., buch"
+  }
+}

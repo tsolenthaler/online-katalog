@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13c89293-c9aa-576b-9c3b-4306c6408e99",
+  "name": "100 Frauen, die die Welt verändert haben",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Caldwell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13c89293-c9aa-576b-9c3b-4306c6408e99",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "100 frauen, die die welt verandert haben stella caldwell buch"
+  }
+}

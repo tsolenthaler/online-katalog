@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eae523b0-8365-5b91-a0c7-ddc9ebcab1a1",
+  "name": "Prinzessin Lillifee - Mein zauberhaftes Tierhotel (05)",
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Schönsee"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eae523b0-8365-5b91-a0c7-ddc9ebcab1a1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "prinzessin lillifee - mein zauberhaftes tierhotel (05) mathias schonsee buch"
+  }
+}

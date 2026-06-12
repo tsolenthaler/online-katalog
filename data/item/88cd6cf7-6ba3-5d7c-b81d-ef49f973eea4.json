@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:88cd6cf7-6ba3-5d7c-b81d-ef49f973eea4",
+  "name": "Der kubanische Käser",
+  "author": {
+    "@type": "Person",
+    "name": "Patrick Tschan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "88cd6cf7-6ba3-5d7c-b81d-ef49f973eea4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kubanische kaser patrick tschan buch"
+  }
+}

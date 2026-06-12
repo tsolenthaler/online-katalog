@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd2d3ce3-56ab-5a93-9e1d-4f6337ca9edb",
+  "name": "Die drei !!! - Band 084 - Luftballon-Küsse",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Katrin Heger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd2d3ce3-56ab-5a93-9e1d-4f6337ca9edb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 084 - luftballon-kusse ann-katrin heger buch"
+  }
+}

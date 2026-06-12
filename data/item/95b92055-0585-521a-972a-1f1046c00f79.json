@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95b92055-0585-521a-972a-1f1046c00f79",
+  "name": "Spirou + Fantasio - Band 030 - Der Lärmschlucker",
+  "author": {
+    "@type": "Person",
+    "name": "Nic"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "95b92055-0585-521a-972a-1f1046c00f79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 030 - der larmschlucker nic buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac1f7b0e-e41f-5387-bf54-19cde043adc0",
+  "name": "Werken mit dem Taschenmesser",
+  "author": {
+    "@type": "Person",
+    "name": "Felix Immler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac1f7b0e-e41f-5387-bf54-19cde043adc0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "werken mit dem taschenmesser felix immler buch"
+  }
+}

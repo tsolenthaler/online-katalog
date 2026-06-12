@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f3b0597f-cd30-586f-9ed9-af8e5e8fa91d",
+  "name": "Oskar's grosses Gartenbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Anita van Saan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f3b0597f-cd30-586f-9ed9-af8e5e8fa91d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "oskar's grosses gartenbuch anita van saan buch"
+  }
+}

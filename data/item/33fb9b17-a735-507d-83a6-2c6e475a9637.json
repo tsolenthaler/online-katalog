@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:33fb9b17-a735-507d-83a6-2c6e475a9637",
+  "name": "Elle",
+  "author": {
+    "@type": "Person",
+    "name": "Verhoeven Paul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "33fb9b17-a735-507d-83a6-2c6e475a9637",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elle verhoeven paul buch"
+  }
+}

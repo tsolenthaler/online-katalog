@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe98d9d6-5a66-5cda-ad9f-44463a5121e0",
+  "name": "Globi - Band 047 - im Wilden Westen",
+  "author": {
+    "@type": "Person",
+    "name": "Müller Walter Andreas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe98d9d6-5a66-5cda-ad9f-44463a5121e0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 047 - im wilden westen muller walter andreas buch"
+  }
+}

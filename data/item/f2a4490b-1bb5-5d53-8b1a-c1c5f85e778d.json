@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2a4490b-1bb5-5d53-8b1a-c1c5f85e778d",
+  "name": "Kleiner Sprachatlas der deutschen Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Helen Christen"
+  },
+  "isbn": "9783796554100",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783796554100",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783796554100"
+  ],
+  "_catalog": {
+    "id": "f2a4490b-1bb5-5d53-8b1a-c1c5f85e778d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "kleiner sprachatlas der deutschen schweiz helen christen 9783796554100 buch"
+  }
+}

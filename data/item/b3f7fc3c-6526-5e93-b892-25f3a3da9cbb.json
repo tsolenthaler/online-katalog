@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3f7fc3c-6526-5e93-b892-25f3a3da9cbb",
+  "name": "Beast Quest - Band 003 - Arcta Bezwinger der Berge",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b3f7fc3c-6526-5e93-b892-25f3a3da9cbb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 003 - arcta bezwinger der berge adam blade buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6c0e7df1-38e6-5564-b4b9-1ab5b383e2d3",
+  "name": "Papa Moll - Band 031 - zieht um",
+  "author": {
+    "@type": "Person",
+    "name": "Kamil Krejci"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6c0e7df1-38e6-5564-b4b9-1ab5b383e2d3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 031 - zieht um kamil krejci buch"
+  }
+}

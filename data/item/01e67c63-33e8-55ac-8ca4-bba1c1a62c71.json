@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:01e67c63-33e8-55ac-8ca4-bba1c1a62c71",
+  "name": "Mein Lotta-Leben - Band 14 - da lachen ja die Hunde",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "01e67c63-33e8-55ac-8ca4-bba1c1a62c71",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta-leben - band 14 - da lachen ja die hunde alice pantermuller buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b1c80de7-f97c-521a-ab04-1ec43c4950b9",
+  "name": "MINT - Wissen gewinnt! Das große Usborne-Buch über",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Miles"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b1c80de7-f97c-521a-ab04-1ec43c4950b9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mint - wissen gewinnt! das große usborne-buch uber lisa miles buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc33b276-7d03-5368-84e2-5d0732185767",
+  "name": "Die Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Bogard"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc33b276-7d03-5368-84e2-5d0732185767",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die nacht paul bogard buch"
+  }
+}

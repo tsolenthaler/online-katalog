@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7e7fd62d-7c77-5d56-ac50-d1d5dbce6302",
+  "name": "Lieselotte - Warten auf Weihnachten mit Lieselotte",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander Steffensmeier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7e7fd62d-7c77-5d56-ac50-d1d5dbce6302",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lieselotte - warten auf weihnachten mit lieselotte alexander steffensmeier buch"
+  }
+}

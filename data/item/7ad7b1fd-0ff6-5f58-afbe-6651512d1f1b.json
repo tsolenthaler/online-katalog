@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7ad7b1fd-0ff6-5f58-afbe-6651512d1f1b",
+  "name": "Wild und wunderbar, zwei Freundinnen gegen den Rest",
+  "author": {
+    "@type": "Person",
+    "name": "Ilona Einwohlt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7ad7b1fd-0ff6-5f58-afbe-6651512d1f1b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wild und wunderbar, zwei freundinnen gegen den rest ilona einwohlt buch"
+  }
+}

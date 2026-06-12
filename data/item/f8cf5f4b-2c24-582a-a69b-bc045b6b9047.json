@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8cf5f4b-2c24-582a-a69b-bc045b6b9047",
+  "name": "Die Zeit der Kirschen",
+  "author": {
+    "@type": "Person",
+    "name": "Nicolas Barreau"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8cf5f4b-2c24-582a-a69b-bc045b6b9047",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeit der kirschen nicolas barreau buch"
+  }
+}

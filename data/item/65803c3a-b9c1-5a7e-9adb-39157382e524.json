@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65803c3a-b9c1-5a7e-9adb-39157382e524",
+  "name": "TKKG - Band 005 - Das Phantom auf dem Feuerstuhl",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65803c3a-b9c1-5a7e-9adb-39157382e524",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 005 - das phantom auf dem feuerstuhl stefan wolf buch"
+  }
+}

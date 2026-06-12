@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7b9a8d0-1471-55e3-8dff-5defa5c79797",
+  "name": "Kleiner Eisbär - Wohin fährst du, Lars?",
+  "author": {
+    "@type": "Person",
+    "name": "de Beer Hans"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7b9a8d0-1471-55e3-8dff-5defa5c79797",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleiner eisbar - wohin fahrst du, lars? de beer hans buch"
+  }
+}

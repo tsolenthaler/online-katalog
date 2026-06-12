@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb1b19cc-a8a1-517b-a9f4-4ac4ef6f4784",
+  "name": "Fünf Freunde - erforschen die Schatzinsel - Band 001",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb1b19cc-a8a1-517b-a9f4-4ac4ef6f4784",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - erforschen die schatzinsel - band 001 enid blyton buch"
+  }
+}

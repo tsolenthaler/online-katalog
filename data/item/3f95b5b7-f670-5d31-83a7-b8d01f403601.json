@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3f95b5b7-f670-5d31-83a7-b8d01f403601",
+  "name": "Mein grosses Wimmelsuchbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Ali Mitgutsch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3f95b5b7-f670-5d31-83a7-b8d01f403601",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein grosses wimmelsuchbuch ali mitgutsch buch"
+  }
+}

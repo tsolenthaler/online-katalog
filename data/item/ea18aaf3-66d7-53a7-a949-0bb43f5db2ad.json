@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea18aaf3-66d7-53a7-a949-0bb43f5db2ad",
+  "name": "Totenweg Bd 1",
+  "author": {
+    "@type": "Person",
+    "name": "Romy Fölck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea18aaf3-66d7-53a7-a949-0bb43f5db2ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "totenweg bd 1 romy folck buch"
+  }
+}

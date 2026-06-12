@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db6d3c83-2379-5b5e-970b-2287e351c99a",
+  "name": "Hard land",
+  "author": {
+    "@type": "Person",
+    "name": "Benedict Wells"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db6d3c83-2379-5b5e-970b-2287e351c99a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hard land benedict wells buch"
+  }
+}

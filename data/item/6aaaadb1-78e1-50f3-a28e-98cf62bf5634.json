@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6aaaadb1-78e1-50f3-a28e-98cf62bf5634",
+  "name": "Prinzässin Lillifee und de chli Delfin",
+  "author": {
+    "@type": "Person",
+    "name": "Monika Finsterbusch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6aaaadb1-78e1-50f3-a28e-98cf62bf5634",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "prinzassin lillifee und de chli delfin monika finsterbusch buch"
+  }
+}

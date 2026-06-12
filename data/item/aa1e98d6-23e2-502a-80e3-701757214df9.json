@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa1e98d6-23e2-502a-80e3-701757214df9",
+  "name": "Das Mädchen, das den Sturm ruft",
+  "author": {
+    "@type": "Person",
+    "name": "Lindsay Lackey Olson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa1e98d6-23e2-502a-80e3-701757214df9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das madchen, das den sturm ruft lindsay lackey olson buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df5f0bd4-a409-5b3d-b694-3fbfc00dc1b6",
+  "name": "yoko tsuno - Band 028 - Der Tempel der Unsterblichen",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Leloup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df5f0bd4-a409-5b3d-b694-3fbfc00dc1b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoko tsuno - band 028 - der tempel der unsterblichen roger leloup buch"
+  }
+}

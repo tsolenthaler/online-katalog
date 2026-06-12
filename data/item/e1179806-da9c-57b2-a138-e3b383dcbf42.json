@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1179806-da9c-57b2-a138-e3b383dcbf42",
+  "name": "Was echte Pferdemädchen wissen müssen ...",
+  "author": {
+    "@type": "Person",
+    "name": "Sontje Franck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1179806-da9c-57b2-a138-e3b383dcbf42",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was echte pferdemadchen wissen mussen ... sontje franck buch"
+  }
+}

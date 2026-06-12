@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcfa7c9f-ac8f-5d94-a84b-c725fbc29e4a",
+  "name": "Königskinder",
+  "author": {
+    "@type": "Person",
+    "name": "Alex Capus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcfa7c9f-ac8f-5d94-a84b-c725fbc29e4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "konigskinder alex capus buch"
+  }
+}

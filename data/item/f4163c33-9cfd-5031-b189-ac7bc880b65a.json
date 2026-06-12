@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f4163c33-9cfd-5031-b189-ac7bc880b65a",
+  "name": "Verbrechen",
+  "author": {
+    "@type": "Person",
+    "name": "Ferdinand von Schirach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f4163c33-9cfd-5031-b189-ac7bc880b65a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "verbrechen ferdinand von schirach buch"
+  }
+}

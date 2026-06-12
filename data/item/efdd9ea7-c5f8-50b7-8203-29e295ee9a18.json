@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:efdd9ea7-c5f8-50b7-8203-29e295ee9a18",
+  "name": "Two can keep a secret",
+  "author": {
+    "@type": "Person",
+    "name": "Karen M. McManus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "efdd9ea7-c5f8-50b7-8203-29e295ee9a18",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "two can keep a secret karen m. mcmanus buch"
+  }
+}

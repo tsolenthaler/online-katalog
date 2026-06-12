@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:be88a081-560d-579a-9b0e-0fd0a8c31fce",
+  "name": "Bibi Blocksberg - Band 139 - Chaos am Flughafen",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias von Bornstädt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "be88a081-560d-579a-9b0e-0fd0a8c31fce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - band 139 - chaos am flughafen matthias von bornstadt buch"
+  }
+}

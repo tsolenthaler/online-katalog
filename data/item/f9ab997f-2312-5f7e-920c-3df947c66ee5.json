@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9ab997f-2312-5f7e-920c-3df947c66ee5",
+  "name": "Rick Nautilus - Band 2 - Gefangen auf der Eiseninsel",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f9ab997f-2312-5f7e-920c-3df947c66ee5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rick nautilus - band 2 - gefangen auf der eiseninsel ulf blanck buch"
+  }
+}

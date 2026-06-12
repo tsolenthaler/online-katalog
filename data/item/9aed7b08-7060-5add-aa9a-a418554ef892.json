@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9aed7b08-7060-5add-aa9a-a418554ef892",
+  "name": "Burnham Dynasty - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Julie Marinello"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9aed7b08-7060-5add-aa9a-a418554ef892",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "burnham dynasty - band 1 julie marinello buch"
+  }
+}

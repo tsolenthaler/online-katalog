@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c7903f9e-5cf4-51bf-b339-8f39301c5145",
+  "name": "Lebende Weidengeflechte im Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Vibe Gro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c7903f9e-5cf4-51bf-b339-8f39301c5145",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lebende weidengeflechte im garten vibe gro buch"
+  }
+}

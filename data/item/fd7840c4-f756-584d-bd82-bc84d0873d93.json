@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd7840c4-f756-584d-bd82-bc84d0873d93",
+  "name": "Hexe Lilli - Band 013 - und der verrückte Ritter",
+  "author": {
+    "@type": "Person",
+    "name": "Knister"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd7840c4-f756-584d-bd82-bc84d0873d93",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe lilli - band 013 - und der verruckte ritter knister buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c13801b5-300d-5d83-93e9-a21080bb62e9",
+  "name": "Bergvölker",
+  "author": {
+    "@type": "Person",
+    "name": "Reinhold Messner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c13801b5-300d-5d83-93e9-a21080bb62e9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bergvolker reinhold messner buch"
+  }
+}

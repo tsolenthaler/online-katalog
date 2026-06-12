@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5464bb1-e827-5b18-9778-bed32dc8a8a6",
+  "name": "Die coolsten Schülerwitze der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "diverse"
+  },
+  "isbn": "9783505129339",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783505129339",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783505129339"
+  ],
+  "_catalog": {
+    "id": "b5464bb1-e827-5b18-9778-bed32dc8a8a6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die coolsten schulerwitze der welt diverse 9783505129339 buch"
+  }
+}

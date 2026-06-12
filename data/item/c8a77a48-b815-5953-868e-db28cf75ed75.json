@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c8a77a48-b815-5953-868e-db28cf75ed75",
+  "name": "Lucy Longinger - Band 2 - Explosive Entdeckung",
+  "author": {
+    "@type": "Person",
+    "name": "Anja Habschick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c8a77a48-b815-5953-868e-db28cf75ed75",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucy longinger - band 2 - explosive entdeckung anja habschick buch"
+  }
+}

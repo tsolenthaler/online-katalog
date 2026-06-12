@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1e7fedbe-6359-52ae-922e-98a1f8782638",
+  "name": "Nebelopfer",
+  "author": {
+    "@type": "Person",
+    "name": "Romy Fölck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1e7fedbe-6359-52ae-922e-98a1f8782638",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nebelopfer romy folck buch"
+  }
+}

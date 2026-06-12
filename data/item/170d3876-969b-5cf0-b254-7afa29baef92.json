@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:170d3876-969b-5cf0-b254-7afa29baef92",
+  "name": "Annas Wunsch",
+  "author": {
+    "@type": "Person",
+    "name": "Bruno Hächler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "170d3876-969b-5cf0-b254-7afa29baef92",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "annas wunsch bruno hachler buch"
+  }
+}

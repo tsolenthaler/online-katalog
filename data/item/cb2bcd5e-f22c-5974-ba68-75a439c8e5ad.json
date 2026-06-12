@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb2bcd5e-f22c-5974-ba68-75a439c8e5ad",
+  "name": "Kleine Lesetiger-Hexengeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Annelies Schwarz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb2bcd5e-f22c-5974-ba68-75a439c8e5ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleine lesetiger-hexengeschichten annelies schwarz buch"
+  }
+}

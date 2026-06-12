@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d14f5923-90ad-5bc2-ae30-d0137466bdd9",
+  "name": "Die Zeit im Sommerlicht",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Helén Laestadius"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d14f5923-90ad-5bc2-ae30-d0137466bdd9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeit im sommerlicht ann-helen laestadius buch"
+  }
+}

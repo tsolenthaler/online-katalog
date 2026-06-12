@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:542911ea-a34c-512e-bebd-5e984a254e81",
+  "name": "Kinder machen Weihnachtssachen",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine Woram"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "542911ea-a34c-512e-bebd-5e984a254e81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kinder machen weihnachtssachen catherine woram buch"
+  }
+}

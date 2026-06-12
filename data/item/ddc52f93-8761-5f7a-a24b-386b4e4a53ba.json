@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddc52f93-8761-5f7a-a24b-386b4e4a53ba",
+  "name": "Die Schlümpfe - Band 011 - Die Schlumpf-Olympiade",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddc52f93-8761-5f7a-a24b-386b4e4a53ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schlumpfe - band 011 - die schlumpf-olympiade peyo buch"
+  }
+}

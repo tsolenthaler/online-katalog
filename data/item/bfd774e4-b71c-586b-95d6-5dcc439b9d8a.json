@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bfd774e4-b71c-586b-95d6-5dcc439b9d8a",
+  "name": "Die drei ??? - Band 171- Und das Phantom aus dem",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Sonnleitner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bfd774e4-b71c-586b-95d6-5dcc439b9d8a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 171- und das phantom aus dem marco sonnleitner buch"
+  }
+}

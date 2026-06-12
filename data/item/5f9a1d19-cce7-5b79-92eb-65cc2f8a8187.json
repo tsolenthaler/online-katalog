@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5f9a1d19-cce7-5b79-92eb-65cc2f8a8187",
+  "name": "Luzifer junior - Band 001 - Zu gut für die Hölle",
+  "author": {
+    "@type": "Person",
+    "name": "Jochen Till"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5f9a1d19-cce7-5b79-92eb-65cc2f8a8187",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "luzifer junior - band 001 - zu gut fur die holle jochen till buch"
+  }
+}

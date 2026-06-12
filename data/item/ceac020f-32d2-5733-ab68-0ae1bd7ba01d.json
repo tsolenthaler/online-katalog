@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ceac020f-32d2-5733-ab68-0ae1bd7ba01d",
+  "name": "Abgedrehte Affen",
+  "author": {
+    "@type": "Person",
+    "name": "Debra Kempf Shumaker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ceac020f-32d2-5733-ab68-0ae1bd7ba01d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "abgedrehte affen debra kempf shumaker buch"
+  }
+}

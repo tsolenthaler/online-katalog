@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:11a84a8c-ab23-5298-9a40-e4d9a79a961c",
+  "name": "Die versteckte Apotheke",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Penner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "11a84a8c-ab23-5298-9a40-e4d9a79a961c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die versteckte apotheke sarah penner buch"
+  }
+}

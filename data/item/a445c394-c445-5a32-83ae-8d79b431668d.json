@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a445c394-c445-5a32-83ae-8d79b431668d",
+  "name": "Spur der Finsternis",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Roberts"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a445c394-c445-5a32-83ae-8d79b431668d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spur der finsternis nora roberts buch"
+  }
+}

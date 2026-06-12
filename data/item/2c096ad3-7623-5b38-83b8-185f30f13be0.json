@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2c096ad3-7623-5b38-83b8-185f30f13be0",
+  "name": "Mein unverhoffter Pferdesommer",
+  "author": {
+    "@type": "Person",
+    "name": "Mina Teichert"
+  },
+  "isbn": "9783764152147",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783764152147",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783764152147"
+  ],
+  "_catalog": {
+    "id": "2c096ad3-7623-5b38-83b8-185f30f13be0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "mein unverhoffter pferdesommer mina teichert 9783764152147 buch"
+  }
+}

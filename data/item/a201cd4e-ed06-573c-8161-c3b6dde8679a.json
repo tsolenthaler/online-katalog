@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a201cd4e-ed06-573c-8161-c3b6dde8679a",
+  "name": "Mucker und Rosine, die Rache des ollen Fuchses",
+  "author": {
+    "@type": "Person",
+    "name": "Kristina Andres"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a201cd4e-ed06-573c-8161-c3b6dde8679a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mucker und rosine, die rache des ollen fuchses kristina andres buch"
+  }
+}

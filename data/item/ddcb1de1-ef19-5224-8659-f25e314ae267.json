@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddcb1de1-ef19-5224-8659-f25e314ae267",
+  "name": "Flöckli, das Geisslein",
+  "author": {
+    "@type": "Person",
+    "name": "Lilly Langenegger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddcb1de1-ef19-5224-8659-f25e314ae267",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "flockli, das geisslein lilly langenegger buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c2fd3e7a-8442-52bd-a773-9661210f4d1c",
+  "name": "All This Time – Lieben heißt unendlich sein",
+  "author": {
+    "@type": "Person",
+    "name": "Mikki Daughtry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c2fd3e7a-8442-52bd-a773-9661210f4d1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "all this time – lieben heißt unendlich sein mikki daughtry buch"
+  }
+}

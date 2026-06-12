@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9427a71-7439-5fc7-b11f-43232c198b38",
+  "name": "Eine Familie in Berlin - Ursula und die Farben der",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Renk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9427a71-7439-5fc7-b11f-43232c198b38",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine familie in berlin - ursula und die farben der ulrike renk buch"
+  }
+}

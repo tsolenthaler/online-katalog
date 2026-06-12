@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0de6848-cc57-565f-aa1e-978f565b0eb2",
+  "name": "Die drei? ??? Kids - Diebe im Tierpark",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Scheller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0de6848-cc57-565f-aa1e-978f565b0eb2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei? ??? kids - diebe im tierpark anne scheller buch"
+  }
+}

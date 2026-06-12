@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:86c7aae5-fd9b-5e48-b30c-922cb974face",
+  "name": "TKKG - Band 161 - Ein Yeti in der Millionenstadt",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "86c7aae5-fd9b-5e48-b30c-922cb974face",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 161 - ein yeti in der millionenstadt stefan wolf buch"
+  }
+}

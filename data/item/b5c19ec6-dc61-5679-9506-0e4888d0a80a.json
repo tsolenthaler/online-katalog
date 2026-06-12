@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5c19ec6-dc61-5679-9506-0e4888d0a80a",
+  "name": "Eine Fingerkuppe Freiheit",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Zwerina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5c19ec6-dc61-5679-9506-0e4888d0a80a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine fingerkuppe freiheit thomas zwerina buch"
+  }
+}

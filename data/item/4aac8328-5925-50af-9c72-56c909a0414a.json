@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4aac8328-5925-50af-9c72-56c909a0414a",
+  "name": "Die andere Schwester",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Mohlin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4aac8328-5925-50af-9c72-56c909a0414a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die andere schwester peter mohlin buch"
+  }
+}

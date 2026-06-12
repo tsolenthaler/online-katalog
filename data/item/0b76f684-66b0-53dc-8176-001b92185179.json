@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0b76f684-66b0-53dc-8176-001b92185179",
+  "name": "If this gets out",
+  "author": {
+    "@type": "Person",
+    "name": "Sophie Gonzales"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0b76f684-66b0-53dc-8176-001b92185179",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "if this gets out sophie gonzales buch"
+  }
+}

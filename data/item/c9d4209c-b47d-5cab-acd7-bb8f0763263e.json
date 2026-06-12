@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9d4209c-b47d-5cab-acd7-bb8f0763263e",
+  "name": "Vo Ärbet, Gsang ond Liebi, CD 3",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Rotach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9d4209c-b47d-5cab-acd7-bb8f0763263e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vo arbet, gsang ond liebi, cd 3 walter rotach buch"
+  }
+}

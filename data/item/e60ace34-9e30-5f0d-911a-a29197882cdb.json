@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e60ace34-9e30-5f0d-911a-a29197882cdb",
+  "name": "Tom Sawyer",
+  "author": {
+    "@type": "Person",
+    "name": "Mark Twain"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e60ace34-9e30-5f0d-911a-a29197882cdb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom sawyer mark twain buch"
+  }
+}

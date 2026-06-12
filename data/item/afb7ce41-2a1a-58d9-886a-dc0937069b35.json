@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:afb7ce41-2a1a-58d9-886a-dc0937069b35",
+  "name": "Aus Syrien geflüchtet",
+  "author": {
+    "@type": "Person",
+    "name": "Seif Arsalan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "afb7ce41-2a1a-58d9-886a-dc0937069b35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "aus syrien gefluchtet seif arsalan buch"
+  }
+}

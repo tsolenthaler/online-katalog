@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d517246d-e995-5506-9cdd-f0c1da7fd47e",
+  "name": "Beim Samichlaus im Winterwald",
+  "author": {
+    "@type": "Person",
+    "name": "Annina Holzer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d517246d-e995-5506-9cdd-f0c1da7fd47e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beim samichlaus im winterwald annina holzer buch"
+  }
+}

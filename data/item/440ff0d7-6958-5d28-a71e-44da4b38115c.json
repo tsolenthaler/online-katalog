@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:440ff0d7-6958-5d28-a71e-44da4b38115c",
+  "name": "Junges Gemüse",
+  "author": {
+    "@type": "Person",
+    "name": "Anette Dieng"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "440ff0d7-6958-5d28-a71e-44da4b38115c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "junges gemuse anette dieng buch"
+  }
+}

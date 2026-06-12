@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4c282d9e-82c3-5b14-9727-aed2c3edb07c",
+  "name": "TKKG Junior - Band 001 - Auf frischer Tat ertappt",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4c282d9e-82c3-5b14-9727-aed2c3edb07c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 001 - auf frischer tat ertappt kirsten vogel buch"
+  }
+}

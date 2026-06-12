@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae52bb69-e46e-52a2-8cb6-6c6f4476eaad",
+  "name": "Fünf Freunde - Band 126 - und die gefährlichen Wurzeln",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae52bb69-e46e-52a2-8cb6-6c6f4476eaad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 126 - und die gefahrlichen wurzeln katrin mcclean buch"
+  }
+}

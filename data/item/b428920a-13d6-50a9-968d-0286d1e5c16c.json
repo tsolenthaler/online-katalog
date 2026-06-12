@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b428920a-13d6-50a9-968d-0286d1e5c16c",
+  "name": "School of Talents - Band 2 - Zweite Stunde: Stromausfall!",
+  "author": {
+    "@type": "Person",
+    "name": "Silke Schellhammer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b428920a-13d6-50a9-968d-0286d1e5c16c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "school of talents - band 2 - zweite stunde: stromausfall! silke schellhammer buch"
+  }
+}

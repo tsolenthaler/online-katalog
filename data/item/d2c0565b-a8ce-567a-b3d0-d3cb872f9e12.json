@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2c0565b-a8ce-567a-b3d0-d3cb872f9e12",
+  "name": "Das Chalet",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Ware"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2c0565b-a8ce-567a-b3d0-d3cb872f9e12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das chalet ruth ware buch"
+  }
+}

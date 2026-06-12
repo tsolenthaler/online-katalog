@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa7bdacc-f5b1-5e70-9320-d76e5c4b7c85",
+  "name": "Elena - Gegen alle Hindernisse",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Neuhaus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa7bdacc-f5b1-5e70-9320-d76e5c4b7c85",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elena - gegen alle hindernisse nele neuhaus buch"
+  }
+}

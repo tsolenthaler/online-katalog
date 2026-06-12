@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8490037-0600-586c-afcf-b1f013379bea",
+  "name": "Die drei!!! Schleim-Alarm!",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Katrin Heger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8490037-0600-586c-afcf-b1f013379bea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei!!! schleim-alarm! ann-katrin heger buch"
+  }
+}

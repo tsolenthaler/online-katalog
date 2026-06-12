@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c019479e-54dd-52d2-a465-23cc52857d21",
+  "name": "Die Abenteuer von Blake und Mortimer - Band 001 - Das",
+  "author": {
+    "@type": "Person",
+    "name": "P. Edgar Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c019479e-54dd-52d2-a465-23cc52857d21",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die abenteuer von blake und mortimer - band 001 - das p. edgar jacobs buch"
+  }
+}

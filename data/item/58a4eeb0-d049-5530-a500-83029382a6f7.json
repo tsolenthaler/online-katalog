@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:58a4eeb0-d049-5530-a500-83029382a6f7",
+  "name": "Das fliegende Klassenzimmer",
+  "author": {
+    "@type": "Person",
+    "name": "Erich Kästner"
+  },
+  "isbn": "9783855351480",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783855351480",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783855351480"
+  ],
+  "_catalog": {
+    "id": "58a4eeb0-d049-5530-a500-83029382a6f7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das fliegende klassenzimmer erich kastner 9783855351480 buch"
+  }
+}

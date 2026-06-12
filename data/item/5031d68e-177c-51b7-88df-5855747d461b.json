@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5031d68e-177c-51b7-88df-5855747d461b",
+  "name": "Mein dicker fetter Zombie-Goldfisch",
+  "author": {
+    "@type": "Person",
+    "name": "Mo O'Hara"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5031d68e-177c-51b7-88df-5855747d461b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein dicker fetter zombie-goldfisch mo o'hara buch"
+  }
+}

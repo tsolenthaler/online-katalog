@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ecbad2b6-2238-5b12-913b-b66541c8e650",
+  "name": "Die drei ??? - Band 220 - Im Wald der Gefahren",
+  "author": {
+    "@type": "Person",
+    "name": "André Marx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ecbad2b6-2238-5b12-913b-b66541c8e650",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 220 - im wald der gefahren andre marx buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0832ea9-92a9-50a6-ae2d-12666c900faf",
+  "name": "Kommissar Jennerwein darf nicht sterben",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Maurer"
+  },
+  "isbn": "9783596707102",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783596707102",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783596707102"
+  ],
+  "_catalog": {
+    "id": "e0832ea9-92a9-50a6-ae2d-12666c900faf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "kommissar jennerwein darf nicht sterben jorg maurer 9783596707102 buch"
+  }
+}

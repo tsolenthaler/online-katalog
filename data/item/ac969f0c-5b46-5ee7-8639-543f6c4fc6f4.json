@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac969f0c-5b46-5ee7-8639-543f6c4fc6f4",
+  "name": "Was ist was Hunde",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Paxmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac969f0c-5b46-5ee7-8639-543f6c4fc6f4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was hunde christine paxmann buch"
+  }
+}

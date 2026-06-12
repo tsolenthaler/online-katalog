@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1703056e-bfe3-5499-9752-65be576b7ff1",
+  "name": "Lebensgroß",
+  "author": {
+    "@type": "Person",
+    "name": "Holger Haag"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1703056e-bfe3-5499-9752-65be576b7ff1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lebensgroß holger haag buch"
+  }
+}

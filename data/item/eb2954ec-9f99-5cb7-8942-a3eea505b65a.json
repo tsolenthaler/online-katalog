@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb2954ec-9f99-5cb7-8942-a3eea505b65a",
+  "name": "Rick Nautilus - Alarm in der Delfin-Lagune",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb2954ec-9f99-5cb7-8942-a3eea505b65a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rick nautilus - alarm in der delfin-lagune ulf blanck buch"
+  }
+}

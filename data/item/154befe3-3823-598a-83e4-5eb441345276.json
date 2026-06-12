@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:154befe3-3823-598a-83e4-5eb441345276",
+  "name": "Zeiten der Sehnsucht",
+  "author": {
+    "@type": "Person",
+    "name": "Carmen Bellmonte"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "154befe3-3823-598a-83e4-5eb441345276",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zeiten der sehnsucht carmen bellmonte buch"
+  }
+}

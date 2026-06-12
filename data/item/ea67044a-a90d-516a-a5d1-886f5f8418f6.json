@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea67044a-a90d-516a-a5d1-886f5f8418f6",
+  "name": "Die Appenzeller Zipfelchappe",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Antilli Frick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea67044a-a90d-516a-a5d1-886f5f8418f6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die appenzeller zipfelchappe karin antilli frick buch"
+  }
+}

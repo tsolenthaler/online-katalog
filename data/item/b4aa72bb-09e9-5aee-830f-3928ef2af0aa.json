@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4aa72bb-09e9-5aee-830f-3928ef2af0aa",
+  "name": "Jenseits der südlichen Sterne",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Haran"
+  },
+  "isbn": "9783751773287",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783751773287",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783751773287"
+  ],
+  "_catalog": {
+    "id": "b4aa72bb-09e9-5aee-830f-3928ef2af0aa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "jenseits der sudlichen sterne elizabeth haran 9783751773287 buch"
+  }
+}

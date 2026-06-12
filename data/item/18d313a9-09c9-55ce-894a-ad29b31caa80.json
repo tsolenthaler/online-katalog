@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18d313a9-09c9-55ce-894a-ad29b31caa80",
+  "name": "Der Geisterkickboarder - Band 005 - kämpft weiter",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Baiker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "18d313a9-09c9-55ce-894a-ad29b31caa80",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geisterkickboarder - band 005 - kampft weiter stefan baiker buch"
+  }
+}

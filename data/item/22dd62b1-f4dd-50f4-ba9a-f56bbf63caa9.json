@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:22dd62b1-f4dd-50f4-ba9a-f56bbf63caa9",
+  "name": "Wieso Weshalb Warum - Ampel, Straße und Verkehr",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nieländer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "22dd62b1-f4dd-50f4-ba9a-f56bbf63caa9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - ampel, straße und verkehr peter nielander buch"
+  }
+}

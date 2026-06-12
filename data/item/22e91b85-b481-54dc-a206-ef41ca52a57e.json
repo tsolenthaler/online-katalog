@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:22e91b85-b481-54dc-a206-ef41ca52a57e",
+  "name": "Alles echt wahr! oder rabenstarke Schwindeleien für alle",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Moost"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "22e91b85-b481-54dc-a206-ef41ca52a57e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alles echt wahr! oder rabenstarke schwindeleien fur alle nele moost buch"
+  }
+}

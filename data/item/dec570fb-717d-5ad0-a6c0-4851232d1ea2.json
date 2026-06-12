@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dec570fb-717d-5ad0-a6c0-4851232d1ea2",
+  "name": "Bei mir zuhause",
+  "author": {
+    "@type": "Person",
+    "name": "Johanna Fritz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dec570fb-717d-5ad0-a6c0-4851232d1ea2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bei mir zuhause johanna fritz buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc4ec19e-28ca-5258-ab98-5c8b24eba100",
+  "name": "Was ist hier anders?",
+  "author": {
+    "@type": "Person",
+    "name": "Anton Poitier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc4ec19e-28ca-5258-ab98-5c8b24eba100",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist hier anders? anton poitier buch"
+  }
+}

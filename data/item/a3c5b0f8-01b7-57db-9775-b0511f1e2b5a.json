@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a3c5b0f8-01b7-57db-9775-b0511f1e2b5a",
+  "name": "Lego Ninjago Die Macht der Drachenmeister",
+  "author": {
+    "@type": "Person",
+    "name": "Judith Händeler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a3c5b0f8-01b7-57db-9775-b0511f1e2b5a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lego ninjago die macht der drachenmeister judith handeler buch"
+  }
+}

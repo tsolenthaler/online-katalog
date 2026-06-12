@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3bf9a090-ef1c-5116-8999-8b5c2955a32e",
+  "name": "Benni Bärenstark - Band 003 - Bennis zwölf grosse Taten",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3bf9a090-ef1c-5116-8999-8b5c2955a32e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "benni barenstark - band 003 - bennis zwolf grosse taten peyo buch"
+  }
+}

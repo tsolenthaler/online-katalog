@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5214a43-dda0-5797-9ecb-15acbfa6275f",
+  "name": "Tiptoi - Wir entdecken Pferde und Ponys",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne Gernhäuser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5214a43-dda0-5797-9ecb-15acbfa6275f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - wir entdecken pferde und ponys susanne gernhauser buch"
+  }
+}

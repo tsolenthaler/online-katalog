@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8c7ea324-9e12-579f-b624-ce621b9e306e",
+  "name": "Simon Enzler - Fedelesis",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Enzler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8c7ea324-9e12-579f-b624-ce621b9e306e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "simon enzler - fedelesis simon enzler buch"
+  }
+}

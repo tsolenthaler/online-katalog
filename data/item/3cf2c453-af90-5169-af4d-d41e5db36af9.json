@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3cf2c453-af90-5169-af4d-d41e5db36af9",
+  "name": "Ritter werden leicht gemacht - Band 4 - Punkte, Streifen",
+  "author": {
+    "@type": "Person",
+    "name": "Vivian French"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3cf2c453-af90-5169-af4d-d41e5db36af9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ritter werden leicht gemacht - band 4 - punkte, streifen vivian french buch"
+  }
+}

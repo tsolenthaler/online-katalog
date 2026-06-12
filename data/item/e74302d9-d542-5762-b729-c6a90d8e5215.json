@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e74302d9-d542-5762-b729-c6a90d8e5215",
+  "name": "Emotionale Intelligenz",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Goleman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e74302d9-d542-5762-b729-c6a90d8e5215",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "emotionale intelligenz daniel goleman buch"
+  }
+}

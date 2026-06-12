@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f22f309-3aa0-56c9-b354-85e1034b360a",
+  "name": "Lajos und der Weltenbaum",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Schneeberger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0f22f309-3aa0-56c9-b354-85e1034b360a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lajos und der weltenbaum andrea schneeberger buch"
+  }
+}

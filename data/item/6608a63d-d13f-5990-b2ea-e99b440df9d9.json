@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6608a63d-d13f-5990-b2ea-e99b440df9d9",
+  "name": "Globi - im Europa Park",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Bruggmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6608a63d-d13f-5990-b2ea-e99b440df9d9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - im europa park alfred bruggmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2643f8fd-e211-584c-ad75-d551f6442ba1",
+  "name": "Papa Moll - Band 036 - im Campingfieber",
+  "author": {
+    "@type": "Person",
+    "name": "Mirjam Pierig"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2643f8fd-e211-584c-ad75-d551f6442ba1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 036 - im campingfieber mirjam pierig buch"
+  }
+}

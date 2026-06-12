@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b473ce07-5041-5d25-bd4c-e149b7a11006",
+  "name": "Mitmach-Buch",
+  "author": {
+    "@type": "Person",
+    "name": "Hervé Tullet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b473ce07-5041-5d25-bd4c-e149b7a11006",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mitmach-buch herve tullet buch"
+  }
+}

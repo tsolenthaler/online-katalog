@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a06447b1-1f61-5b28-812b-b4f8290d0715",
+  "name": "Polizeigeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Reider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a06447b1-1f61-5b28-812b-b4f8290d0715",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "polizeigeschichten katja reider buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15960de9-fc56-5d1e-a82a-d8329decedae",
+  "name": "Yakari - Band 015 - Der Fluss des Vergessens",
+  "author": {
+    "@type": "Person",
+    "name": "Derib u. Job"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15960de9-fc56-5d1e-a82a-d8329decedae",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 015 - der fluss des vergessens derib u. job buch"
+  }
+}

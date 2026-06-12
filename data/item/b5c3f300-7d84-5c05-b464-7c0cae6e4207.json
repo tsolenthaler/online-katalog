@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5c3f300-7d84-5c05-b464-7c0cae6e4207",
+  "name": "PAX - Der Fluch",
+  "author": {
+    "@type": "Person",
+    "name": "Asa Larsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5c3f300-7d84-5c05-b464-7c0cae6e4207",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pax - der fluch asa larsson buch"
+  }
+}

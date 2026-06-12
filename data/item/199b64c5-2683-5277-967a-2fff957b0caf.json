@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:199b64c5-2683-5277-967a-2fff957b0caf",
+  "name": "Guinness world records 2023",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "9783473480555",
+  "genre": "",
+  "keywords": [],
+  "description": "Source title: Guinness World Records 2023: Deutschsprachige Ausgabe - Gebundene Ausgabe - 15. September 2022",
+  "image": "https://covers.openlibrary.org/b/id/13772379-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783473480555",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783473480555"
+  ],
+  "_catalog": {
+    "id": "199b64c5-2683-5277-967a-2fff957b0caf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "guinness world records 2023 9783473480555 buch"
+  }
+}

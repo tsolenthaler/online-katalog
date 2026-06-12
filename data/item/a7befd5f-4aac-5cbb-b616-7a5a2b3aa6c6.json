@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7befd5f-4aac-5cbb-b616-7a5a2b3aa6c6",
+  "name": "Marsupilami - Band 015 - Der Krater der Kakteen",
+  "author": {
+    "@type": "Person",
+    "name": "André Franquin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7befd5f-4aac-5cbb-b616-7a5a2b3aa6c6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 015 - der krater der kakteen andre franquin buch"
+  }
+}

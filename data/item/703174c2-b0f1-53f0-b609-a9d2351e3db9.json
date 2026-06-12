@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:703174c2-b0f1-53f0-b609-a9d2351e3db9",
+  "name": "Pauli fröhliche Weihnachten!",
+  "author": {
+    "@type": "Person",
+    "name": "Brigitte Weninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "703174c2-b0f1-53f0-b609-a9d2351e3db9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pauli frohliche weihnachten! brigitte weninger buch"
+  }
+}

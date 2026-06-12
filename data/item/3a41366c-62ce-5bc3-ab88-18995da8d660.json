@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a41366c-62ce-5bc3-ab88-18995da8d660",
+  "name": "Thorgal - Band 008 - Die Macht der Träume",
+  "author": {
+    "@type": "Person",
+    "name": "Rosinski - Van Hamme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3a41366c-62ce-5bc3-ab88-18995da8d660",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "thorgal - band 008 - die macht der traume rosinski - van hamme buch"
+  }
+}

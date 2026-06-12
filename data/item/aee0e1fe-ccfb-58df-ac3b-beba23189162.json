@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aee0e1fe-ccfb-58df-ac3b-beba23189162",
+  "name": "Abgetaucht - Sport-Krimi",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Schlüter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aee0e1fe-ccfb-58df-ac3b-beba23189162",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "abgetaucht - sport-krimi andreas schluter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5c09a68-aa03-5db0-b7b2-8ebac654f417",
+  "name": "Mörderfinder - Die Spur der Mädchen",
+  "author": {
+    "@type": "Person",
+    "name": "Arno Strobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5c09a68-aa03-5db0-b7b2-8ebac654f417",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderfinder - die spur der madchen arno strobel buch"
+  }
+}

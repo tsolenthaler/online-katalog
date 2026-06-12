@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9a6ffde-c4a4-5352-9bf2-b5077875d7f8",
+  "name": "Kasperlitheater - Band 002 - De Tüüfel Luuspelz und s",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Schneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9a6ffde-c4a4-5352-9bf2-b5077875d7f8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kasperlitheater - band 002 - de tuufel luuspelz und s jorg schneider buch"
+  }
+}

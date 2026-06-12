@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38c8ca6a-f94c-5d6f-84b9-61488d77f413",
+  "name": "PAX - Das Geisterkind",
+  "author": {
+    "@type": "Person",
+    "name": "Asa Larsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38c8ca6a-f94c-5d6f-84b9-61488d77f413",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pax - das geisterkind asa larsson buch"
+  }
+}

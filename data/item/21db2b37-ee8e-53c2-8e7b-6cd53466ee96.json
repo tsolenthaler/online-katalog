@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:21db2b37-ee8e-53c2-8e7b-6cd53466ee96",
+  "name": "Die Kunst, anders zu leben",
+  "author": {
+    "@type": "Person",
+    "name": "Chris Guillebeau"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "21db2b37-ee8e-53c2-8e7b-6cd53466ee96",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kunst, anders zu leben chris guillebeau buch"
+  }
+}

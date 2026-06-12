@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdcf4d71-9ccd-5b2d-8949-8a2a5bafd353",
+  "name": "Das Geheimnis von Zimmer 622",
+  "author": {
+    "@type": "Person",
+    "name": "Joël Dicker"
+  },
+  "isbn": "9783844926477",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844926477",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844926477"
+  ],
+  "_catalog": {
+    "id": "fdcf4d71-9ccd-5b2d-8949-8a2a5bafd353",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das geheimnis von zimmer 622 joel dicker 9783844926477 buch"
+  }
+}

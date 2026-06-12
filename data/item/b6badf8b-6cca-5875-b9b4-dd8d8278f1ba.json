@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6badf8b-6cca-5875-b9b4-dd8d8278f1ba",
+  "name": "WAS IST WAS - Bienen",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Braun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6badf8b-6cca-5875-b9b4-dd8d8278f1ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - bienen christina braun buch"
+  }
+}

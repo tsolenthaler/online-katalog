@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa8cebd6-ef07-5b47-9db3-c4ca1e4fb723",
+  "name": "Die Zeitdetektive - Band 005 - Geheimnis um",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa8cebd6-ef07-5b47-9db3-c4ca1e4fb723",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeitdetektive - band 005 - geheimnis um fabian lenk buch"
+  }
+}

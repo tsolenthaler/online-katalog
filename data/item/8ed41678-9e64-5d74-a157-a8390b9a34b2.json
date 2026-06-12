@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ed41678-9e64-5d74-a157-a8390b9a34b2",
+  "name": "Woodwalkers - Band 2 - gefährliche Freundschaft",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brandis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8ed41678-9e64-5d74-a157-a8390b9a34b2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "woodwalkers - band 2 - gefahrliche freundschaft katja brandis buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf3c5b50-05af-533c-8d87-6b2093a722fc",
+  "name": "Die Kastellanin",
+  "author": {
+    "@type": "Person",
+    "name": "Iny Lorentz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf3c5b50-05af-533c-8d87-6b2093a722fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kastellanin iny lorentz buch"
+  }
+}

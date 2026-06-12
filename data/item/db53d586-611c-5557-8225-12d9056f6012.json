@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db53d586-611c-5557-8225-12d9056f6012",
+  "name": "Madame le Commissaire und die gefährliche Begierde",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre Martin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db53d586-611c-5557-8225-12d9056f6012",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "madame le commissaire und die gefahrliche begierde pierre martin buch"
+  }
+}

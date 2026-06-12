@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1c43c342-fc44-5aff-9255-e8e1d5a503dd",
+  "name": "Ferien im Möwenweg",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1c43c342-fc44-5aff-9255-e8e1d5a503dd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ferien im mowenweg kirsten boie buch"
+  }
+}

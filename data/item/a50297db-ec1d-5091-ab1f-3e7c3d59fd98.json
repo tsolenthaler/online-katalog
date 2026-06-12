@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a50297db-ec1d-5091-ab1f-3e7c3d59fd98",
+  "name": "Tim und Struppi - Band 009 - Der geheimnisvolle Stern",
+  "author": {
+    "@type": "Person",
+    "name": "Hergé"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a50297db-ec1d-5091-ab1f-3e7c3d59fd98",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tim und struppi - band 009 - der geheimnisvolle stern herge buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e86622ad-c5d1-5f8a-8525-0746fed2daab",
+  "name": "Der kleine Siebenschläfer - Ein Rucksack voller",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Bohlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e86622ad-c5d1-5f8a-8525-0746fed2daab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine siebenschlafer - ein rucksack voller sabine bohlmann buch"
+  }
+}

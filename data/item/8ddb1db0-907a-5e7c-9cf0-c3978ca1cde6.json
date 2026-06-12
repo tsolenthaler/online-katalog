@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ddb1db0-907a-5e7c-9cf0-c3978ca1cde6",
+  "name": "Willi Vampir in der Schule",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "9783473381357",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783473381357",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783473381357"
+  ],
+  "_catalog": {
+    "id": "8ddb1db0-907a-5e7c-9cf0-c3978ca1cde6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "willi vampir in der schule erhard dietl 9783473381357 buch"
+  }
+}

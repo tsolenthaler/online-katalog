@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25c2ec0e-68dc-582c-b845-bce8231a731b",
+  "name": "Gregs Tagebuch - Band 012 - und tschüss",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25c2ec0e-68dc-582c-b845-bce8231a731b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tagebuch - band 012 - und tschuss jeff kinney buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c66cd186-e0d7-59c9-8247-103b34a35382",
+  "name": "Woman in Cabin 10",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Ware"
+  },
+  "isbn": "9783742405104",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783742405104",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783742405104"
+  ],
+  "_catalog": {
+    "id": "c66cd186-e0d7-59c9-8247-103b34a35382",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "woman in cabin 10 ruth ware 9783742405104 buch"
+  }
+}

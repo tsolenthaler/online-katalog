@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7894394-ca56-5306-acdb-1faef005a1cd",
+  "name": "Pittje Pit - Band 002 - Der Schatz der grünen Monster",
+  "author": {
+    "@type": "Person",
+    "name": "Eddy Ryssack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7894394-ca56-5306-acdb-1faef005a1cd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pittje pit - band 002 - der schatz der grunen monster eddy ryssack buch"
+  }
+}

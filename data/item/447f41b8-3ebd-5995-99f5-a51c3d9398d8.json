@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:447f41b8-3ebd-5995-99f5-a51c3d9398d8",
+  "name": "Disney - Susi und Strolch",
+  "author": {
+    "@type": "Person",
+    "name": "Walt Disney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "447f41b8-3ebd-5995-99f5-a51c3d9398d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney - susi und strolch walt disney buch"
+  }
+}

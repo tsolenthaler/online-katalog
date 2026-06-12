@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65a44f6e-ff04-5f85-b535-3949c8abfc9a",
+  "name": "WAS IST WAS - Fussball",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias Falk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65a44f6e-ff04-5f85-b535-3949c8abfc9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - fussball matthias falk buch"
+  }
+}

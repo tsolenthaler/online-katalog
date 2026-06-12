@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d736bb42-cde4-5894-b30e-4a0dd57751a8",
+  "name": "Jim Knopf und Lukas, der Lokomotivführer",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d736bb42-cde4-5894-b30e-4a0dd57751a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jim knopf und lukas, der lokomotivfuhrer michael ende buch"
+  }
+}

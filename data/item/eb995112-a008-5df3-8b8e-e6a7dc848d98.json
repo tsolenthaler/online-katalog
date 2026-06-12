@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb995112-a008-5df3-8b8e-e6a7dc848d98",
+  "name": "Der 13. Stuhl",
+  "author": {
+    "@type": "Person",
+    "name": "Dave Shelton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb995112-a008-5df3-8b8e-e6a7dc848d98",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der 13. stuhl dave shelton buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed7f2cca-6b35-5d9d-8a3a-fda56d7b9e54",
+  "name": "Spirit Animals - Band 006 - Die Stunde schlägt",
+  "author": {
+    "@type": "Person",
+    "name": "Eliot Schrefer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed7f2cca-6b35-5d9d-8a3a-fda56d7b9e54",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirit animals - band 006 - die stunde schlagt eliot schrefer buch"
+  }
+}

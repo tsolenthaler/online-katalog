@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf955c7f-07fa-5570-9fc5-2c3845a9eaba",
+  "name": "Mariella Manusch - Achtung, hier kommt Frau Eule!",
+  "author": {
+    "@type": "Person",
+    "name": "Christin-Marie Below"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf955c7f-07fa-5570-9fc5-2c3845a9eaba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mariella manusch - achtung, hier kommt frau eule! christin-marie below buch"
+  }
+}

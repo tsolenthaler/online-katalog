@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1043e9f6-3ef7-5ed5-b77d-f9cd3aa0478e",
+  "name": "Und plötzlich bist du jemand Anders",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Tielmann"
+  },
+  "isbn": "9783473524891",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "https://covers.openlibrary.org/b/id/9024921-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783473524891",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783473524891"
+  ],
+  "_catalog": {
+    "id": "1043e9f6-3ef7-5ed5-b77d-f9cd3aa0478e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "und plotzlich bist du jemand anders christian tielmann 9783473524891 buch"
+  }
+}

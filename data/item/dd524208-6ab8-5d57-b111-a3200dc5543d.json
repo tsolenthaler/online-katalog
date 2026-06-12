@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd524208-6ab8-5d57-b111-a3200dc5543d",
+  "name": "Setzt die Segel, Piraten!",
+  "author": {
+    "@type": "Person",
+    "name": "Michaela Hanauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd524208-6ab8-5d57-b111-a3200dc5543d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "setzt die segel, piraten! michaela hanauer buch"
+  }
+}

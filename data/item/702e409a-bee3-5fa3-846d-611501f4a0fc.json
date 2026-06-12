@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:702e409a-bee3-5fa3-846d-611501f4a0fc",
+  "name": "Die Toten von Sandhamn - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Viveca Sten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "702e409a-bee3-5fa3-846d-611501f4a0fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die toten von sandhamn - band 3 viveca sten buch"
+  }
+}

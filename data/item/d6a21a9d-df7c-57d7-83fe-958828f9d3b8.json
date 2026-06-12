@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6a21a9d-df7c-57d7-83fe-958828f9d3b8",
+  "name": "Ein Nilpferd in der Badewanne",
+  "author": {
+    "@type": "Person",
+    "name": "Saskia Hula"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6a21a9d-df7c-57d7-83fe-958828f9d3b8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein nilpferd in der badewanne saskia hula buch"
+  }
+}

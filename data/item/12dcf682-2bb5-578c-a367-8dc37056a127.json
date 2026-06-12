@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:12dcf682-2bb5-578c-a367-8dc37056a127",
+  "name": "Lucy Longfinger – einfach unfassbar!: Band 3 : Tödliche",
+  "author": {
+    "@type": "Person",
+    "name": "Anja Habschick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "12dcf682-2bb5-578c-a367-8dc37056a127",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucy longfinger – einfach unfassbar!: band 3 : todliche anja habschick buch"
+  }
+}

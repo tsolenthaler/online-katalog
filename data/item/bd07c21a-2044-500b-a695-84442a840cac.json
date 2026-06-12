@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd07c21a-2044-500b-a695-84442a840cac",
+  "name": "Conni und die Ponyspiele",
+  "author": {
+    "@type": "Person",
+    "name": "Ludger Billerbeck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd07c21a-2044-500b-a695-84442a840cac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "conni und die ponyspiele ludger billerbeck buch"
+  }
+}

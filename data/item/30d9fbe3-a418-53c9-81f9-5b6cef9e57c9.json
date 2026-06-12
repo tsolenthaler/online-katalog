@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:30d9fbe3-a418-53c9-81f9-5b6cef9e57c9",
+  "name": "Ratten",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Langos"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "30d9fbe3-a418-53c9-81f9-5b6cef9e57c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ratten andrea langos buch"
+  }
+}

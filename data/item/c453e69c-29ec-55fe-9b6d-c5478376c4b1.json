@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c453e69c-29ec-55fe-9b6d-c5478376c4b1",
+  "name": "Der Schweizerische Nationalpark und das Val Müstair",
+  "author": {
+    "@type": "Person",
+    "name": "Heinz Staffelbach"
+  },
+  "isbn": "9783859325111",
+  "genre": "Natural history",
+  "keywords": [
+    "Natural history",
+    "Description and travel"
+  ],
+  "description": "Includes bibliographical references (p. 192).",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783859325111",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783859325111"
+  ],
+  "_catalog": {
+    "id": "c453e69c-29ec-55fe-9b6d-c5478376c4b1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der schweizerische nationalpark und das val mustair heinz staffelbach 9783859325111 buch natural history natural history description and travel"
+  }
+}

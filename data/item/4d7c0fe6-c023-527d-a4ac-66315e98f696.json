@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4d7c0fe6-c023-527d-a4ac-66315e98f696",
+  "name": "Die Gärtnerin von Venedig",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Revedin"
+  },
+  "isbn": "9783992004133",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783992004133",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783992004133"
+  ],
+  "_catalog": {
+    "id": "4d7c0fe6-c023-527d-a4ac-66315e98f696",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die gartnerin von venedig jana revedin 9783992004133 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a166a242-a169-5c5d-a7c2-dab052846b06",
+  "name": "Zara und Zoë - Rache in Marseille",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander Oetker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a166a242-a169-5c5d-a7c2-dab052846b06",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zara und zoe - rache in marseille alexander oetker buch"
+  }
+}

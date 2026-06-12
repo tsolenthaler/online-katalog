@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7c199e9b-c84e-5312-8b8f-1720f924496a",
+  "name": "Fibromyalgie - Schmerzen überall",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Weiss"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7c199e9b-c84e-5312-8b8f-1720f924496a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fibromyalgie - schmerzen uberall thomas weiss buch"
+  }
+}

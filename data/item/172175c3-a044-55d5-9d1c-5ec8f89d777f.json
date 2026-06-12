@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:172175c3-a044-55d5-9d1c-5ec8f89d777f",
+  "name": "Doppelrolle - Ein Alpstein-Krimi - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Burk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "172175c3-a044-55d5-9d1c-5ec8f89d777f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "doppelrolle - ein alpstein-krimi - band 2 walter burk buch"
+  }
+}

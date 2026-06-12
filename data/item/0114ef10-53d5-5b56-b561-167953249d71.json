@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0114ef10-53d5-5b56-b561-167953249d71",
+  "name": "Stille blutet",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Poznanski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0114ef10-53d5-5b56-b561-167953249d71",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "stille blutet ursula poznanski buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1a61ec9-d140-50ea-9821-809d6edcbf93",
+  "name": "The Dragon with a Chocolate Heart",
+  "author": {
+    "@type": "Person",
+    "name": "Burgis Stephanie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1a61ec9-d140-50ea-9821-809d6edcbf93",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the dragon with a chocolate heart burgis stephanie buch"
+  }
+}

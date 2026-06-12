@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da1d82ee-09f8-5fe9-b64c-5c640568ffa5",
+  "name": "Danzig - Tage des Aufbruchs Bd. 1",
+  "author": {
+    "@type": "Person",
+    "name": "Hilke Sellnick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da1d82ee-09f8-5fe9-b64c-5c640568ffa5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "danzig - tage des aufbruchs bd. 1 hilke sellnick buch"
+  }
+}

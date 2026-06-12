@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d807c4dd-e7f4-5109-b9c2-d82ada5846e4",
+  "name": "Die drei !!! - Nacht der Wölfe - Band 069",
+  "author": {
+    "@type": "Person",
+    "name": "Maja von Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d807c4dd-e7f4-5109-b9c2-d82ada5846e4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - nacht der wolfe - band 069 maja von vogel buch"
+  }
+}

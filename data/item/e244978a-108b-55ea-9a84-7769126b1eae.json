@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e244978a-108b-55ea-9a84-7769126b1eae",
+  "name": "Penny Pepper - Band 007 - Diebesjagd in London",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Rylance"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e244978a-108b-55ea-9a84-7769126b1eae",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "penny pepper - band 007 - diebesjagd in london ulrike rylance buch"
+  }
+}

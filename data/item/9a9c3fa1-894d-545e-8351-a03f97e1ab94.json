@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9a9c3fa1-894d-545e-8351-a03f97e1ab94",
+  "name": "Unterwegs mit Auto, Feuerwehr, Polizei und Eisenbahn",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Grimm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9a9c3fa1-894d-545e-8351-a03f97e1ab94",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unterwegs mit auto, feuerwehr, polizei und eisenbahn sandra grimm buch"
+  }
+}

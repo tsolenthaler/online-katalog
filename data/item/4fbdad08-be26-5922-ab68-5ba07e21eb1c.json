@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4fbdad08-be26-5922-ab68-5ba07e21eb1c",
+  "name": "Der Geisterkickboarder - Band 008 - in der Falle",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Baiker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4fbdad08-be26-5922-ab68-5ba07e21eb1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geisterkickboarder - band 008 - in der falle stefan baiker buch"
+  }
+}

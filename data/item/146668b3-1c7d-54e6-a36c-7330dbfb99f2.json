@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:146668b3-1c7d-54e6-a36c-7330dbfb99f2",
+  "name": "Mrs Winterbottom nimmt sich eine Auszeit",
+  "author": {
+    "@type": "Person",
+    "name": "Joanna Nell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "146668b3-1c7d-54e6-a36c-7330dbfb99f2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mrs winterbottom nimmt sich eine auszeit joanna nell buch"
+  }
+}

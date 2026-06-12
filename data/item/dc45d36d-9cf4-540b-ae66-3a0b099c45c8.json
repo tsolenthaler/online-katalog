@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc45d36d-9cf4-540b-ae66-3a0b099c45c8",
+  "name": "Der Ort der lieben Dinge",
+  "author": {
+    "@type": "Person",
+    "name": "Lorenz Pauli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc45d36d-9cf4-540b-ae66-3a0b099c45c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der ort der lieben dinge lorenz pauli buch"
+  }
+}

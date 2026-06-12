@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c75c3e4a-fbd8-5243-be79-ad7df31fb0de",
+  "name": "Die Frauen jenseits des Flusses",
+  "author": {
+    "@type": "Person",
+    "name": "Kristin Hannah"
+  },
+  "isbn": "9783757015879",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783757015879",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783757015879"
+  ],
+  "_catalog": {
+    "id": "c75c3e4a-fbd8-5243-be79-ad7df31fb0de",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die frauen jenseits des flusses kristin hannah 9783757015879 buch"
+  }
+}

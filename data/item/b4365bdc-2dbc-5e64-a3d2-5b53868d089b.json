@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4365bdc-2dbc-5e64-a3d2-5b53868d089b",
+  "name": "Clever & Smart - Band 010 - Sag mir, wo die Bilder sind",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4365bdc-2dbc-5e64-a3d2-5b53868d089b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 010 - sag mir, wo die bilder sind francisco ibez buch"
+  }
+}

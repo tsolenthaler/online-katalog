@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cd297fc8-6864-508a-8380-cd93ce2360f9",
+  "name": "Petzi - Band 040 - und der Tintenfisch",
+  "author": {
+    "@type": "Person",
+    "name": "Carla Hansen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cd297fc8-6864-508a-8380-cd93ce2360f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petzi - band 040 - und der tintenfisch carla hansen buch"
+  }
+}

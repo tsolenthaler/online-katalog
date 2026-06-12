@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15228f0e-8b7e-5ce1-bd21-0279b88286d7",
+  "name": "Das Erbe der Vogelmenschen",
+  "author": {
+    "@type": "Person",
+    "name": "Federica de Cesco"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15228f0e-8b7e-5ce1-bd21-0279b88286d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das erbe der vogelmenschen federica de cesco buch"
+  }
+}

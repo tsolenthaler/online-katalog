@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae54b4ad-ebb6-5def-9c9e-08b744104421",
+  "name": "Die drei ??? - Der geheime Schlüssel - Band 119",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Hitchcock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae54b4ad-ebb6-5def-9c9e-08b744104421",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - der geheime schlussel - band 119 alfred hitchcock buch"
+  }
+}

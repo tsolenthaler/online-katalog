@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d1c65034-ec1f-5c83-b60e-527c2af5a6c5",
+  "name": "Die drei !!! - Bücherhelden - Das Rätsel der Meerjungfrau",
+  "author": {
+    "@type": "Person",
+    "name": "Jule Ambach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d1c65034-ec1f-5c83-b60e-527c2af5a6c5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - bucherhelden - das ratsel der meerjungfrau jule ambach buch"
+  }
+}

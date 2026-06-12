@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d96a1f92-98af-5df3-8b9b-1b3bb0d29939",
+  "name": "Die drei !!! - Band 085 - Ein Fall mit Herz und Huf",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d96a1f92-98af-5df3-8b9b-1b3bb0d29939",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 085 - ein fall mit herz und huf kirsten vogel buch"
+  }
+}

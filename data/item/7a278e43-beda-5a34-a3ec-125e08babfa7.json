@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7a278e43-beda-5a34-a3ec-125e08babfa7",
+  "name": "Die Nanny",
+  "author": {
+    "@type": "Person",
+    "name": "Gilly Macmillan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7a278e43-beda-5a34-a3ec-125e08babfa7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die nanny gilly macmillan buch"
+  }
+}

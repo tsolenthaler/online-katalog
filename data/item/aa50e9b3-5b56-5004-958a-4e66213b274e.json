@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa50e9b3-5b56-5004-958a-4e66213b274e",
+  "name": "Der kleine Drache Kokosnuss - in Australien",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa50e9b3-5b56-5004-958a-4e66213b274e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine drache kokosnuss - in australien ingo siegner buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a84d3a5d-420b-58a7-a9d1-c3a73ca910d8",
+  "name": "There With You - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Samantha Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a84d3a5d-420b-58a7-a9d1-c3a73ca910d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "there with you - band 2 samantha young buch"
+  }
+}

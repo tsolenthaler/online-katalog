@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da07db2c-a8af-5bd3-8194-b392c2f9313a",
+  "name": "Sternenschweif - Band 67 - Die geheimnisvolle",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Chapman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da07db2c-a8af-5bd3-8194-b392c2f9313a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 67 - die geheimnisvolle linda chapman buch"
+  }
+}

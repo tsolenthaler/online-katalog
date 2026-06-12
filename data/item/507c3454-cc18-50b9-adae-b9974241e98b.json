@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:507c3454-cc18-50b9-adae-b9974241e98b",
+  "name": "Im Land, das die Zukunft erfand",
+  "author": {
+    "@type": "Person",
+    "name": "Zumstein"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "507c3454-cc18-50b9-adae-b9974241e98b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im land, das die zukunft erfand zumstein buch"
+  }
+}

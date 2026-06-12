@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9ead1661-66ba-5e5e-8292-223b0655c164",
+  "name": "Petronella Apfelmus - Verhext und festgeklebt",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Städing"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9ead1661-66ba-5e5e-8292-223b0655c164",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petronella apfelmus - verhext und festgeklebt sabine stading buch"
+  }
+}

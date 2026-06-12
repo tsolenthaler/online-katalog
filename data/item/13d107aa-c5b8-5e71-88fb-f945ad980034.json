@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:13d107aa-c5b8-5e71-88fb-f945ad980034",
+  "name": "Die Zeitdetektive - Band 4 - Die gefiederte Schlange",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "13d107aa-c5b8-5e71-88fb-f945ad980034",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeitdetektive - band 4 - die gefiederte schlange fabian lenk buch"
+  }
+}

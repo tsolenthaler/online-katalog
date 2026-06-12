@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0ab55395-75a2-5ba2-9323-640dcf5ad5b4",
+  "name": "Eine Familie in Berlin - Paulas Liebe (1)",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Renk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0ab55395-75a2-5ba2-9323-640dcf5ad5b4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine familie in berlin - paulas liebe (1) ulrike renk buch"
+  }
+}

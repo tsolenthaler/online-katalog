@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bf982b28-fd36-5ad8-9075-d957b8f231f1",
+  "name": "Dunkle Verbindungen",
+  "author": {
+    "@type": "Person",
+    "name": "Gil Ribeiro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bf982b28-fd36-5ad8-9075-d957b8f231f1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dunkle verbindungen gil ribeiro buch"
+  }
+}

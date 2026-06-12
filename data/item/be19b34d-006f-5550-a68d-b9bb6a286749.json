@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:be19b34d-006f-5550-a68d-b9bb6a286749",
+  "name": "Unter Affen",
+  "author": {
+    "@type": "Person",
+    "name": "Michelle Schreiber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "be19b34d-006f-5550-a68d-b9bb6a286749",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unter affen michelle schreiber buch"
+  }
+}

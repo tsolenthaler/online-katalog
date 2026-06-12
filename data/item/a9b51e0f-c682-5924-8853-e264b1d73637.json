@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a9b51e0f-c682-5924-8853-e264b1d73637",
+  "name": "Fußball verrückt",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Schmidt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a9b51e0f-c682-5924-8853-e264b1d73637",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fußball verruckt michael schmidt buch"
+  }
+}

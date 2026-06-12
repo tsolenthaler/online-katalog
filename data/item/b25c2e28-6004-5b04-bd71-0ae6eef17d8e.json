@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b25c2e28-6004-5b04-bd71-0ae6eef17d8e",
+  "name": "Gras unter meinen Füßen",
+  "author": {
+    "@type": "Person",
+    "name": "Kimberly Brubaker Bradley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b25c2e28-6004-5b04-bd71-0ae6eef17d8e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gras unter meinen fußen kimberly brubaker bradley buch"
+  }
+}

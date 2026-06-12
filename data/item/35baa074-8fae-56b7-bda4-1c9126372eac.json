@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35baa074-8fae-56b7-bda4-1c9126372eac",
+  "name": "Sonne über Wahi-Koura",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Laureen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "35baa074-8fae-56b7-bda4-1c9126372eac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sonne uber wahi-koura anne laureen buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ccef0696-865d-53df-aa58-1f213b556d0b",
+  "name": "Heidi",
+  "author": {
+    "@type": "Person",
+    "name": "Johanna Spyri"
+  },
+  "isbn": "9782940749874",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9782940749874",
+    "https://portal.dnb.de/opac/simpleSearch?query=9782940749874"
+  ],
+  "_catalog": {
+    "id": "ccef0696-865d-53df-aa58-1f213b556d0b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "heidi johanna spyri 9782940749874 buch"
+  }
+}

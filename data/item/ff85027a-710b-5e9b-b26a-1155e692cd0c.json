@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff85027a-710b-5e9b-b26a-1155e692cd0c",
+  "name": "Dein Lesestart: Weißt du schon alles über Bienen? Ab 1.",
+  "author": {
+    "@type": "Person",
+    "name": "Karolin Küntzel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff85027a-710b-5e9b-b26a-1155e692cd0c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dein lesestart: weißt du schon alles uber bienen? ab 1. karolin kuntzel buch"
+  }
+}

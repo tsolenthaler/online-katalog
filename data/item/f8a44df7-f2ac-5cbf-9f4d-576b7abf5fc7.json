@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8a44df7-f2ac-5cbf-9f4d-576b7abf5fc7",
+  "name": "No Jungs ! Wer wird Schönheitskönigin'",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8a44df7-f2ac-5cbf-9f4d-576b7abf5fc7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "no jungs ! wer wird schonheitskonigin' thomas brezina buch"
+  }
+}

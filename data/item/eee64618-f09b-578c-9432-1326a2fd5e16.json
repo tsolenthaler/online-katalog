@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eee64618-f09b-578c-9432-1326a2fd5e16",
+  "name": "Magic Girls, Der goldene Schlüssel",
+  "author": {
+    "@type": "Person",
+    "name": "Marliese Arold"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eee64618-f09b-578c-9432-1326a2fd5e16",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "magic girls, der goldene schlussel marliese arold buch"
+  }
+}

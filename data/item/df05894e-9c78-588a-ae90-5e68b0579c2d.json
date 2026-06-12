@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df05894e-9c78-588a-ae90-5e68b0579c2d",
+  "name": "Milde Gaben",
+  "author": {
+    "@type": "Person",
+    "name": "Donna Leon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df05894e-9c78-588a-ae90-5e68b0579c2d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "milde gaben donna leon buch"
+  }
+}

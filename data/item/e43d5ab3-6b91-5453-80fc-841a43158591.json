@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e43d5ab3-6b91-5453-80fc-841a43158591",
+  "name": "GEOlino mini - Alles über Haustiere",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Ronte"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e43d5ab3-6b91-5453-80fc-841a43158591",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "geolino mini - alles uber haustiere jana ronte buch"
+  }
+}

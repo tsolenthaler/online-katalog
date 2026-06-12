@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf74aaf5-3840-559a-b6b3-4f0415407540",
+  "name": "Mäuse",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Beißwenger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf74aaf5-3840-559a-b6b3-4f0415407540",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mause alexandra beißwenger buch"
+  }
+}

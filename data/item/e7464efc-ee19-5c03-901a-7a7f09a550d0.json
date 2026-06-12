@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7464efc-ee19-5c03-901a-7a7f09a550d0",
+  "name": "Hilda - und der Troll",
+  "author": {
+    "@type": "Person",
+    "name": "Luke Pearson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7464efc-ee19-5c03-901a-7a7f09a550d0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hilda - und der troll luke pearson buch"
+  }
+}

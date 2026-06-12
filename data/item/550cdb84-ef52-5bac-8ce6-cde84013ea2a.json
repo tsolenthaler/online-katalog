@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:550cdb84-ef52-5bac-8ce6-cde84013ea2a",
+  "name": "Shaun das Schaf der Film",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "9783641174774",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783641174774",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783641174774"
+  ],
+  "_catalog": {
+    "id": "550cdb84-ef52-5bac-8ce6-cde84013ea2a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "shaun das schaf der film 9783641174774 buch"
+  }
+}

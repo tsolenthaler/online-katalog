@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b343d0a1-f1e9-5500-8fd4-d4763a6cb25a",
+  "name": "Der Junge",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Deplazes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b343d0a1-f1e9-5500-8fd4-d4763a6cb25a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der junge daniel deplazes buch"
+  }
+}

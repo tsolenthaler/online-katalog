@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:51d1742f-1bd2-56b6-8f53-c2b527f7bfa2",
+  "name": "Ostfriesen - Angst",
+  "author": {
+    "@type": "Person",
+    "name": "Klaus-Peter Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "51d1742f-1bd2-56b6-8f53-c2b527f7bfa2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ostfriesen - angst klaus-peter wolf buch"
+  }
+}

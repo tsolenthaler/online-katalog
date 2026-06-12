@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:68d8f12d-68c4-51cc-968d-03e0d89fec18",
+  "name": "Die drei !!! - Band 070 - Gefährliches Spiel",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Nissen und Hartmund"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "68d8f12d-68c4-51cc-968d-03e0d89fec18",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 070 - gefahrliches spiel peter nissen und hartmund buch"
+  }
+}

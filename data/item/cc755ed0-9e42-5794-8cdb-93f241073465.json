@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc755ed0-9e42-5794-8cdb-93f241073465",
+  "name": "Die Knickerbocker-Bande - Band 058 - Der",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc755ed0-9e42-5794-8cdb-93f241073465",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die knickerbocker-bande - band 058 - der thomas brezina buch"
+  }
+}

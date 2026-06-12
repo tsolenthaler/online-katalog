@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2c6f523-2615-5062-b39d-c7079643db41",
+  "name": "Tom Gates - Band 22 - Ha, ha, sehr witzig!",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2c6f523-2615-5062-b39d-c7079643db41",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 22 - ha, ha, sehr witzig! liz pichon buch"
+  }
+}

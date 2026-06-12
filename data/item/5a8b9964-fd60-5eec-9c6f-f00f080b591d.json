@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5a8b9964-fd60-5eec-9c6f-f00f080b591d",
+  "name": "WAS IST WAS - Pferde und Ponys",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Braun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5a8b9964-fd60-5eec-9c6f-f00f080b591d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - pferde und ponys christina braun buch"
+  }
+}

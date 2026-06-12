@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef077b15-1312-53ad-a9cd-2000c9634b7d",
+  "name": "Elvis",
+  "author": {
+    "@type": "Person",
+    "name": "Baz Luhrmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef077b15-1312-53ad-a9cd-2000c9634b7d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elvis baz luhrmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2d2dd232-5b3f-55c0-b5ea-f06561f9a898",
+  "name": "Kiki legt los! - Die Hinterhof-Prinzessinnen",
+  "author": {
+    "@type": "Person",
+    "name": "Franziska Gehm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2d2dd232-5b3f-55c0-b5ea-f06561f9a898",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kiki legt los! - die hinterhof-prinzessinnen franziska gehm buch"
+  }
+}

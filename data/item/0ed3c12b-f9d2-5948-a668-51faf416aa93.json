@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0ed3c12b-f9d2-5948-a668-51faf416aa93",
+  "name": "Spirit Animals - Band 004 - Das Eis bricht",
+  "author": {
+    "@type": "Person",
+    "name": "Sutherland Tui T."
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0ed3c12b-f9d2-5948-a668-51faf416aa93",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirit animals - band 004 - das eis bricht sutherland tui t. buch"
+  }
+}

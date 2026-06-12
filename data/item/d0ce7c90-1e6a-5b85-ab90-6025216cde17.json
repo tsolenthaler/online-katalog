@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0ce7c90-1e6a-5b85-ab90-6025216cde17",
+  "name": "Zur See",
+  "author": {
+    "@type": "Person",
+    "name": "Matt Ralphs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0ce7c90-1e6a-5b85-ab90-6025216cde17",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zur see matt ralphs buch"
+  }
+}

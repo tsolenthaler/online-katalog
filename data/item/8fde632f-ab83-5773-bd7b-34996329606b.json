@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8fde632f-ab83-5773-bd7b-34996329606b",
+  "name": "Das Haushörbuch der Narren und Schelme",
+  "author": {
+    "@type": "Person",
+    "name": "Verlag Gerstenberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8fde632f-ab83-5773-bd7b-34996329606b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das haushorbuch der narren und schelme verlag gerstenberg buch"
+  }
+}

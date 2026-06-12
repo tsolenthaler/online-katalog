@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f04a63de-4be0-5c93-a491-2dbe8d8ac339",
+  "name": "Unterwegs mit Tieren",
+  "author": {
+    "@type": "Person",
+    "name": "Franz Bamert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f04a63de-4be0-5c93-a491-2dbe8d8ac339",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unterwegs mit tieren franz bamert buch"
+  }
+}

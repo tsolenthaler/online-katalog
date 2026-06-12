@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d32518ad-e562-57ff-88d9-ace58defaa5f",
+  "name": "Das grosse Rennen um den Pokal",
+  "author": {
+    "@type": "Person",
+    "name": "THiLO"
+  },
+  "isbn": "9783619144228",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783619144228",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783619144228"
+  ],
+  "_catalog": {
+    "id": "d32518ad-e562-57ff-88d9-ace58defaa5f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das grosse rennen um den pokal thilo 9783619144228 buch"
+  }
+}

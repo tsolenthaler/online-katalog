@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdfdd6c0-8da7-58a3-92b6-74a0ffca37cf",
+  "name": "Kakerlakenkekse und Teerbonbons!",
+  "author": {
+    "@type": "Person",
+    "name": "Zapf Jochen Till"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdfdd6c0-8da7-58a3-92b6-74a0ffca37cf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kakerlakenkekse und teerbonbons! zapf jochen till buch"
+  }
+}

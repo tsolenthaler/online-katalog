@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc50c870-a4c6-5ceb-9ac8-5230987a5991",
+  "name": "Die Sherlock Holmes Academy, Mission Meisterdetektiv",
+  "author": {
+    "@type": "Person",
+    "name": "Holly Watson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc50c870-a4c6-5ceb-9ac8-5230987a5991",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die sherlock holmes academy, mission meisterdetektiv holly watson buch"
+  }
+}

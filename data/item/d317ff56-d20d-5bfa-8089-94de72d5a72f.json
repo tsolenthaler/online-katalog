@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d317ff56-d20d-5bfa-8089-94de72d5a72f",
+  "name": "Zilly und Zingaro - Rätselhafte Monsterspuren",
+  "author": {
+    "@type": "Person",
+    "name": "Korky Paul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d317ff56-d20d-5bfa-8089-94de72d5a72f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro - ratselhafte monsterspuren korky paul buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff196593-8dd9-5ded-8a0d-4414dbb96043",
+  "name": "Der Zauberschüler - Band 3 - Im Schatten des roten",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Taube"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff196593-8dd9-5ded-8a0d-4414dbb96043",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der zauberschuler - band 3 - im schatten des roten anna taube buch"
+  }
+}

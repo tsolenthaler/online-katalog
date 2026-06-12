@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8f03c3d-cf43-5ea7-8d43-3cf5ffa9911f",
+  "name": "Ich bin dann mal Prinzessin",
+  "author": {
+    "@type": "Person",
+    "name": "Meg Cabot"
+  },
+  "isbn": "9783423434003",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783423434003",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783423434003"
+  ],
+  "_catalog": {
+    "id": "a8f03c3d-cf43-5ea7-8d43-3cf5ffa9911f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ich bin dann mal prinzessin meg cabot 9783423434003 buch"
+  }
+}

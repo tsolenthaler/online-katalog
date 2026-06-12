@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f153c89b-521f-53b1-ad14-648e614136dd",
+  "name": "Mein Lotta- Leben - Band 21 - Sei kein Trottel Axolotl",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Pantermüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f153c89b-521f-53b1-ad14-648e614136dd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein lotta- leben - band 21 - sei kein trottel axolotl alice pantermuller buch"
+  }
+}

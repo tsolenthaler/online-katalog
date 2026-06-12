@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb3fafcf-6622-524f-b6b7-db518aaf141d",
+  "name": "Die Schule der magischen Tiere - Ach du Schreck!",
+  "author": {
+    "@type": "Person",
+    "name": "Margit Auer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb3fafcf-6622-524f-b6b7-db518aaf141d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schule der magischen tiere - ach du schreck! margit auer buch"
+  }
+}

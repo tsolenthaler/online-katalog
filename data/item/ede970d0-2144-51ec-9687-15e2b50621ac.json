@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ede970d0-2144-51ec-9687-15e2b50621ac",
+  "name": "100 Top-Fussballer",
+  "author": {
+    "@type": "Person",
+    "name": "Jens Dreisbach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ede970d0-2144-51ec-9687-15e2b50621ac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "100 top-fussballer jens dreisbach buch"
+  }
+}

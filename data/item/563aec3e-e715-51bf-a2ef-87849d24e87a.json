@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:563aec3e-e715-51bf-a2ef-87849d24e87a",
+  "name": "titeuf - Band 015 - Die kleine Poesie der Jahreszeiten",
+  "author": {
+    "@type": "Person",
+    "name": "Zep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "563aec3e-e715-51bf-a2ef-87849d24e87a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "titeuf - band 015 - die kleine poesie der jahreszeiten zep buch"
+  }
+}

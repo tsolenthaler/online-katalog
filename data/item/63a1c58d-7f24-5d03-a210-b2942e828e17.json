@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:63a1c58d-7f24-5d03-a210-b2942e828e17",
+  "name": "Clever & Smart - Band 008 - Verdammt, wer macht die",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "63a1c58d-7f24-5d03-a210-b2942e828e17",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 008 - verdammt, wer macht die francisco ibez buch"
+  }
+}

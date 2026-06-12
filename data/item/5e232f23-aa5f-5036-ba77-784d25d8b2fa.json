@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5e232f23-aa5f-5036-ba77-784d25d8b2fa",
+  "name": "Das blaue Kind",
+  "author": {
+    "@type": "Person",
+    "name": "Peggy Kurka"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5e232f23-aa5f-5036-ba77-784d25d8b2fa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das blaue kind peggy kurka buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c13a0a1-d313-5605-994b-f00967275d8a",
+  "name": "Superchecker! - Der Mensch",
+  "author": {
+    "@type": "Person",
+    "name": "Bipasha Choudhury"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c13a0a1-d313-5605-994b-f00967275d8a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superchecker! - der mensch bipasha choudhury buch"
+  }
+}

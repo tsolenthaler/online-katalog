@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6181aa6-0ffa-5056-8ace-925ad0d358b5",
+  "name": "Die Insel unter dem Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Allende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6181aa6-0ffa-5056-8ace-925ad0d358b5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die insel unter dem meer isabel allende buch"
+  }
+}

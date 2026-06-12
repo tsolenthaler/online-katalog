@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:242743f3-4596-52da-82cf-49a211c6613d",
+  "name": "Die Schlümpfe - Band 039 - und der Schneesturm",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "242743f3-4596-52da-82cf-49a211c6613d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schlumpfe - band 039 - und der schneesturm peyo buch"
+  }
+}

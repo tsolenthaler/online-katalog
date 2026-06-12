@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:78526343-25be-5ae7-b340-6cc3755e9a28",
+  "name": "Bergfieber",
+  "author": {
+    "@type": "Person",
+    "name": "Daniela Schwegler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "78526343-25be-5ae7-b340-6cc3755e9a28",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bergfieber daniela schwegler buch"
+  }
+}

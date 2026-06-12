@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2b9e6813-7de8-5d0e-9042-1f2cbe3694b5",
+  "name": "Macbeth",
+  "author": {
+    "@type": "Person",
+    "name": "Jo Nesbø"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2b9e6813-7de8-5d0e-9042-1f2cbe3694b5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "macbeth jo nesbø buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc3ba163-9f97-5483-8741-b60bfc309baa",
+  "name": "Nur wir alle",
+  "author": {
+    "@type": "Person",
+    "name": "Lorenz Pauli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc3ba163-9f97-5483-8741-b60bfc309baa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nur wir alle lorenz pauli buch"
+  }
+}

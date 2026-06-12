@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0615c8c-c6c9-51b1-94b1-d67cb201f8ad",
+  "name": "Ein Mädchen namens Willow - Band 5 -Schattenzeit",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Bohlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0615c8c-c6c9-51b1-94b1-d67cb201f8ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein madchen namens willow - band 5 -schattenzeit sabine bohlmann buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:41a21018-6276-5bde-81e2-598e92eb321d",
+  "name": "Eliot und Isabella und die Tiere am Fluss",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "9783407824462",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783407824462",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783407824462"
+  ],
+  "_catalog": {
+    "id": "41a21018-6276-5bde-81e2-598e92eb321d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "eliot und isabella und die tiere am fluss ingo siegner 9783407824462 buch"
+  }
+}

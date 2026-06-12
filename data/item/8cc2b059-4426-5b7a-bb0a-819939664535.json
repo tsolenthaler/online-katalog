@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8cc2b059-4426-5b7a-bb0a-819939664535",
+  "name": "Hexe Lilli - Band 020 - und das leuchtende Einhorn",
+  "author": {
+    "@type": "Person",
+    "name": "Knister,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8cc2b059-4426-5b7a-bb0a-819939664535",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe lilli - band 020 - und das leuchtende einhorn knister, buch"
+  }
+}

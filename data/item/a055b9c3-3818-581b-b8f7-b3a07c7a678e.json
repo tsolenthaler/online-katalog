@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a055b9c3-3818-581b-b8f7-b3a07c7a678e",
+  "name": "Zaubermuus und Marzipan",
+  "author": {
+    "@type": "Person",
+    "name": "Trudi Gerster"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a055b9c3-3818-581b-b8f7-b3a07c7a678e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zaubermuus und marzipan trudi gerster buch"
+  }
+}

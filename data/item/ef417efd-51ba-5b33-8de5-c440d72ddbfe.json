@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef417efd-51ba-5b33-8de5-c440d72ddbfe",
+  "name": "Die Entführung",
+  "author": {
+    "@type": "Person",
+    "name": "John Grisham"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef417efd-51ba-5b33-8de5-c440d72ddbfe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die entfuhrung john grisham buch"
+  }
+}

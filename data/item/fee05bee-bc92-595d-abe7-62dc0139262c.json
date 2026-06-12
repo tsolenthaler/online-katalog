@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fee05bee-bc92-595d-abe7-62dc0139262c",
+  "name": "Alles über Raubkatzen",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Carney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fee05bee-bc92-595d-abe7-62dc0139262c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alles uber raubkatzen elizabeth carney buch"
+  }
+}

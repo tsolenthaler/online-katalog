@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2b234844-b8fa-53e6-8b5e-66f8e31cc7e1",
+  "name": "Das Verschwinden der Stephanie Mailer",
+  "author": {
+    "@type": "Person",
+    "name": "Joël Dicker"
+  },
+  "isbn": "9783844919806",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844919806",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844919806"
+  ],
+  "_catalog": {
+    "id": "2b234844-b8fa-53e6-8b5e-66f8e31cc7e1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das verschwinden der stephanie mailer joel dicker 9783844919806 buch"
+  }
+}

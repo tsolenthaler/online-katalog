@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba159d67-9c70-5b8f-bc2c-1aafb00d38a2",
+  "name": "Tiptoi - Entdecke den Flughafen",
+  "author": {
+    "@type": "Person",
+    "name": "Friederike Großekettler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba159d67-9c70-5b8f-bc2c-1aafb00d38a2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - entdecke den flughafen friederike großekettler buch"
+  }
+}

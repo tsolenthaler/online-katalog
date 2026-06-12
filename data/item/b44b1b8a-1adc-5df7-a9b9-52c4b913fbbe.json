@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b44b1b8a-1adc-5df7-a9b9-52c4b913fbbe",
+  "name": "Die Zeitdetektive - Band 20 - Michelangelo und die",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b44b1b8a-1adc-5df7-a9b9-52c4b913fbbe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zeitdetektive - band 20 - michelangelo und die fabian lenk buch"
+  }
+}

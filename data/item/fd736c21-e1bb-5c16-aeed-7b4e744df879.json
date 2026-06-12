@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd736c21-e1bb-5c16-aeed-7b4e744df879",
+  "name": "Das Buch des Regenwurms - Eine Entdeckungsreise",
+  "author": {
+    "@type": "Person",
+    "name": "Sally Coulthard"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd736c21-e1bb-5c16-aeed-7b4e744df879",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das buch des regenwurms - eine entdeckungsreise sally coulthard buch"
+  }
+}

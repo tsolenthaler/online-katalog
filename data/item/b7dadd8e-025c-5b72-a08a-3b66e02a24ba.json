@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7dadd8e-025c-5b72-a08a-3b66e02a24ba",
+  "name": "Das Bücherschloss - Band 001 - Das Geheimnis der",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Rose"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7dadd8e-025c-5b72-a08a-3b66e02a24ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das bucherschloss - band 001 - das geheimnis der barbara rose buch"
+  }
+}

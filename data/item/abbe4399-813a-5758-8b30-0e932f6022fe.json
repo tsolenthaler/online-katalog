@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:abbe4399-813a-5758-8b30-0e932f6022fe",
+  "name": "Asterix - Band 029 - und Maestria",
+  "author": {
+    "@type": "Person",
+    "name": "Uderzo Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "abbe4399-813a-5758-8b30-0e932f6022fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 029 - und maestria uderzo goscinny buch"
+  }
+}

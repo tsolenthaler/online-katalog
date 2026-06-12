@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:904087cc-bfb3-57a4-b1a3-4d361d1683d5",
+  "name": "Oska Pollock - Band 02 - Die Entschwundenen",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Plichota"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "904087cc-bfb3-57a4-b1a3-4d361d1683d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "oska pollock - band 02 - die entschwundenen anne plichota buch"
+  }
+}

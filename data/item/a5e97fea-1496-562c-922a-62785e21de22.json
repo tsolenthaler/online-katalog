@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5e97fea-1496-562c-922a-62785e21de22",
+  "name": "Die schlaue kleine Hexe",
+  "author": {
+    "@type": "Person",
+    "name": "Lieve Baeten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5e97fea-1496-562c-922a-62785e21de22",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schlaue kleine hexe lieve baeten buch"
+  }
+}

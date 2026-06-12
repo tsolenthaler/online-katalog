@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:218ed578-5472-55ee-a28d-32d10fbbcf61",
+  "name": "Escape - Band 001 - Fall bloss nicht auf",
+  "author": {
+    "@type": "Person",
+    "name": "Tim Bowler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "218ed578-5472-55ee-a28d-32d10fbbcf61",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "escape - band 001 - fall bloss nicht auf tim bowler buch"
+  }
+}

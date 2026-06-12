@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a36c1dc0-008b-5ee0-b09d-9ed3c2cb9b55",
+  "name": "Tierische Wetterpropheten",
+  "author": {
+    "@type": "Person",
+    "name": "Bernhard Michels"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a36c1dc0-008b-5ee0-b09d-9ed3c2cb9b55",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tierische wetterpropheten bernhard michels buch"
+  }
+}

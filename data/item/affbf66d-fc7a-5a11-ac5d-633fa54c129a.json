@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:affbf66d-fc7a-5a11-ac5d-633fa54c129a",
+  "name": "WAS IST WAS - Leben der Ritter / Mächtige Burgen",
+  "author": {
+    "@type": "Person",
+    "name": "Crock Krumbiegel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "affbf66d-fc7a-5a11-ac5d-633fa54c129a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - leben der ritter / machtige burgen crock krumbiegel buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eed0155f-57b3-51f6-a11b-edcdbc868870",
+  "name": "Die drei? ?? Kids, Bücherhelden 2. Klasse, Geister in der",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eed0155f-57b3-51f6-a11b-edcdbc868870",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei? ?? kids, bucherhelden 2. klasse, geister in der ulf blanck buch"
+  }
+}

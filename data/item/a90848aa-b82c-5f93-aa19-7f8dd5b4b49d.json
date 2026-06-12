@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a90848aa-b82c-5f93-aa19-7f8dd5b4b49d",
+  "name": "Bibi & Tina - Die rätselhafte Schatzsuche",
+  "author": {
+    "@type": "Person",
+    "name": "Theo Schwartz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a90848aa-b82c-5f93-aa19-7f8dd5b4b49d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - die ratselhafte schatzsuche theo schwartz buch"
+  }
+}

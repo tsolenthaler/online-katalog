@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:07f40739-2f20-572b-baba-7b09d09bcc30",
+  "name": "Ich musste raus",
+  "author": {
+    "@type": "Person",
+    "name": "Constantin Hoffmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "07f40739-2f20-572b-baba-7b09d09bcc30",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich musste raus constantin hoffmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a518b87e-2b71-51e9-8024-6a0d4f574dc6",
+  "name": "Leise, leise, sagt die Meise",
+  "author": {
+    "@type": "Person",
+    "name": "Kathrin Wessel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a518b87e-2b71-51e9-8024-6a0d4f574dc6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leise, leise, sagt die meise kathrin wessel buch"
+  }
+}

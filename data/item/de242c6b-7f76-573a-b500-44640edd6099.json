@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de242c6b-7f76-573a-b500-44640edd6099",
+  "name": "Seelen",
+  "author": {
+    "@type": "Person",
+    "name": "Stephenie Meyer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de242c6b-7f76-573a-b500-44640edd6099",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "seelen stephenie meyer buch"
+  }
+}

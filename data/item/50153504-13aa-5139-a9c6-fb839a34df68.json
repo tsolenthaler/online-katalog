@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:50153504-13aa-5139-a9c6-fb839a34df68",
+  "name": "Die Kaminski-Kids - Band 005 - Auf der Flucht",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "50153504-13aa-5139-a9c6-fb839a34df68",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kaminski-kids - band 005 - auf der flucht carlo meier buch"
+  }
+}

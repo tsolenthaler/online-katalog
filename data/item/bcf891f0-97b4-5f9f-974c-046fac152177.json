@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bcf891f0-97b4-5f9f-974c-046fac152177",
+  "name": "Tiptoi - Bilderlexikon Tiere",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Ebert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bcf891f0-97b4-5f9f-974c-046fac152177",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - bilderlexikon tiere anne ebert buch"
+  }
+}

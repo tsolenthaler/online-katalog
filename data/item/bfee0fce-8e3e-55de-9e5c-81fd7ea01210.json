@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bfee0fce-8e3e-55de-9e5c-81fd7ea01210",
+  "name": "Die Formel der Hoffnung",
+  "author": {
+    "@type": "Person",
+    "name": "Lynn Cullen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bfee0fce-8e3e-55de-9e5c-81fd7ea01210",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die formel der hoffnung lynn cullen buch"
+  }
+}

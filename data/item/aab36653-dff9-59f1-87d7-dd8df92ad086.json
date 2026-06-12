@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aab36653-dff9-59f1-87d7-dd8df92ad086",
+  "name": "Pssst! Unser Geheimnis - Der unheimliche Verehrer",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aab36653-dff9-59f1-87d7-dd8df92ad086",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pssst! unser geheimnis - der unheimliche verehrer thomas brezina buch"
+  }
+}

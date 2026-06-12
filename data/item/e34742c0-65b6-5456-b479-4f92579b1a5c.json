@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e34742c0-65b6-5456-b479-4f92579b1a5c",
+  "name": "Die Burg",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Poznanski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e34742c0-65b6-5456-b479-4f92579b1a5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die burg ursula poznanski buch"
+  }
+}

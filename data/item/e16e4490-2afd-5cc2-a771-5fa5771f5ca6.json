@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e16e4490-2afd-5cc2-a771-5fa5771f5ca6",
+  "name": "The Ruby Circle - All unsere Geheimnisse",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Hoch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e16e4490-2afd-5cc2-a771-5fa5771f5ca6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the ruby circle - all unsere geheimnisse jana hoch buch"
+  }
+}

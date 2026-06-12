@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc8f6ecb-28b5-54f4-9552-ff6707581d82",
+  "name": "Die drei ??? - die geheime Treppe",
+  "author": {
+    "@type": "Person",
+    "name": "Marco Sonnleitner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc8f6ecb-28b5-54f4-9552-ff6707581d82",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - die geheime treppe marco sonnleitner buch"
+  }
+}

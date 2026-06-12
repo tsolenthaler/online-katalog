@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:548aee89-f9eb-52ec-b221-f14f94fb1b84",
+  "name": "In ewiger Freundschaft",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Neuhaus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "548aee89-f9eb-52ec-b221-f14f94fb1b84",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "in ewiger freundschaft nele neuhaus buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4095a952-4598-564e-8615-851e326ce2d7",
+  "name": "Leichenschilf",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Jansson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4095a952-4598-564e-8615-851e326ce2d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leichenschilf anna jansson buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f0a000b9-9cc2-5431-b75c-c3c012a57486",
+  "name": "viel krasser als jedes Game!",
+  "author": {
+    "@type": "Person",
+    "name": "Armin Kaster"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f0a000b9-9cc2-5431-b75c-c3c012a57486",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "viel krasser als jedes game! armin kaster buch"
+  }
+}

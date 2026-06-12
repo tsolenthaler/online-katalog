@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1173d82-ed4d-5bc9-b258-808d54cab0be",
+  "name": "Ich weiss alles über dich",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Feibel"
+  },
+  "isbn": "9783551314567",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "https://covers.openlibrary.org/b/id/10505121-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783551314567",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783551314567"
+  ],
+  "_catalog": {
+    "id": "f1173d82-ed4d-5bc9-b258-808d54cab0be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ich weiss alles uber dich thomas feibel 9783551314567 buch"
+  }
+}

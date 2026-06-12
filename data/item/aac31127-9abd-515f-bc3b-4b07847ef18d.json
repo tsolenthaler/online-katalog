@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aac31127-9abd-515f-bc3b-4b07847ef18d",
+  "name": "50 Zugreisen durch Europa",
+  "author": {
+    "@type": "Person",
+    "name": "Gabriele Rupp"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aac31127-9abd-515f-bc3b-4b07847ef18d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "50 zugreisen durch europa gabriele rupp buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b0f51264-ccd9-5b12-8b48-772e169ddd2f",
+  "name": "Marsupilami - Band 031 - So ein Zirkus!",
+  "author": {
+    "@type": "Person",
+    "name": "Batem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b0f51264-ccd9-5b12-8b48-772e169ddd2f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 031 - so ein zirkus! batem buch"
+  }
+}

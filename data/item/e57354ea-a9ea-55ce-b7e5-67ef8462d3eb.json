@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e57354ea-a9ea-55ce-b7e5-67ef8462d3eb",
+  "name": "Die drei !!! - Kuss der Meerjungfrau - Band 072",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Sol"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e57354ea-a9ea-55ce-b7e5-67ef8462d3eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - kuss der meerjungfrau - band 072 mira sol buch"
+  }
+}

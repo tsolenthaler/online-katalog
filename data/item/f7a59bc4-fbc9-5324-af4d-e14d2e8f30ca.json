@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7a59bc4-fbc9-5324-af4d-e14d2e8f30ca",
+  "name": "Puppenblut (3)",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Jansson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7a59bc4-fbc9-5324-af4d-e14d2e8f30ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "puppenblut (3) anna jansson buch"
+  }
+}

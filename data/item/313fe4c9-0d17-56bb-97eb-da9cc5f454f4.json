@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:313fe4c9-0d17-56bb-97eb-da9cc5f454f4",
+  "name": "Rückkehr in die Tuchvilla - Band 4",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "313fe4c9-0d17-56bb-97eb-da9cc5f454f4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ruckkehr in die tuchvilla - band 4 anne jacobs buch"
+  }
+}

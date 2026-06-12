@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:befbb439-ec23-5dbf-8287-f0f49ffea0ed",
+  "name": "Die kleine Alice",
+  "author": {
+    "@type": "Person",
+    "name": "Lewis Carrell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "befbb439-ec23-5dbf-8287-f0f49ffea0ed",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kleine alice lewis carrell buch"
+  }
+}

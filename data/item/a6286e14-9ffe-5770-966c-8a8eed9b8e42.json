@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a6286e14-9ffe-5770-966c-8a8eed9b8e42",
+  "name": "AchtNacht",
+  "author": {
+    "@type": "Person",
+    "name": "Sebastian Fitzek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a6286e14-9ffe-5770-966c-8a8eed9b8e42",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "achtnacht sebastian fitzek buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c6be152b-9feb-5553-b8a0-bdef58cf445c",
+  "name": "Mörderfinder - Die Macht des Täters",
+  "author": {
+    "@type": "Person",
+    "name": "Arno Strobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c6be152b-9feb-5553-b8a0-bdef58cf445c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderfinder - die macht des taters arno strobel buch"
+  }
+}

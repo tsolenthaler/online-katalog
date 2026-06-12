@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8ea080f-5a63-52fe-bdef-8af00de0073c",
+  "name": "Globi im Museum",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Lips"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8ea080f-5a63-52fe-bdef-8af00de0073c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi im museum robert lips buch"
+  }
+}

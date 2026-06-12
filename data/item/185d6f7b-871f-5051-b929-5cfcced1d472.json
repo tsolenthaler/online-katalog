@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:185d6f7b-871f-5051-b929-5cfcced1d472",
+  "name": "Die drei ??? - Band 034 - und der rote Pirat",
+  "author": {
+    "@type": "Person",
+    "name": "William Arden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "185d6f7b-871f-5051-b929-5cfcced1d472",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 034 - und der rote pirat william arden buch"
+  }
+}

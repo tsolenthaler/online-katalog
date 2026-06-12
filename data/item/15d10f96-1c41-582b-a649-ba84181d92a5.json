@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15d10f96-1c41-582b-a649-ba84181d92a5",
+  "name": "Spirit Animals - Band 008 - Das Dunkle kehrt zurück",
+  "author": {
+    "@type": "Person",
+    "name": "Eliot Schrefer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15d10f96-1c41-582b-a649-ba84181d92a5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirit animals - band 008 - das dunkle kehrt zuruck eliot schrefer buch"
+  }
+}

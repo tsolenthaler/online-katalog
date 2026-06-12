@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:62c7501e-a579-5ab2-a052-5b639c91039c",
+  "name": "Kurzgeschichten von Sunil Mann",
+  "author": {
+    "@type": "Person",
+    "name": "Sunil Mann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "62c7501e-a579-5ab2-a052-5b639c91039c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kurzgeschichten von sunil mann sunil mann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:651acee2-c591-58a9-b84c-f2411c95927a",
+  "name": "Pferde verstehen, erziehen und reiten",
+  "author": {
+    "@type": "Person",
+    "name": "Silke Behling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "651acee2-c591-58a9-b84c-f2411c95927a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pferde verstehen, erziehen und reiten silke behling buch"
+  }
+}

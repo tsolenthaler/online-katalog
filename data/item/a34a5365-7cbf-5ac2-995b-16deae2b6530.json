@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a34a5365-7cbf-5ac2-995b-16deae2b6530",
+  "name": "Memo Wissen entdecken Kids - Grosse und kleine",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Walker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a34a5365-7cbf-5ac2-995b-16deae2b6530",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen entdecken kids - grosse und kleine sarah walker buch"
+  }
+}

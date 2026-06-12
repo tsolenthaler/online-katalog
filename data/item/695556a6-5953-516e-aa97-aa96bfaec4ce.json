@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:695556a6-5953-516e-aa97-aa96bfaec4ce",
+  "name": "Der kleine Spirou - Band 006 - Das macht doch nichts",
+  "author": {
+    "@type": "Person",
+    "name": "Tome u. Janry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "695556a6-5953-516e-aa97-aa96bfaec4ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine spirou - band 006 - das macht doch nichts tome u. janry buch"
+  }
+}

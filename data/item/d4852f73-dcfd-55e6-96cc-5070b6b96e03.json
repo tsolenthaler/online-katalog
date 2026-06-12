@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d4852f73-dcfd-55e6-96cc-5070b6b96e03",
+  "name": "Die grosse Mama Muh - Hörbox",
+  "author": {
+    "@type": "Person",
+    "name": "Jujja Wieslander"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d4852f73-dcfd-55e6-96cc-5070b6b96e03",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die grosse mama muh - horbox jujja wieslander buch"
+  }
+}

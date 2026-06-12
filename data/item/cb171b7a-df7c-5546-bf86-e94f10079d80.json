@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb171b7a-df7c-5546-bf86-e94f10079d80",
+  "name": "Voll Risiko",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Gabathuler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb171b7a-df7c-5546-bf86-e94f10079d80",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "voll risiko alice gabathuler buch"
+  }
+}

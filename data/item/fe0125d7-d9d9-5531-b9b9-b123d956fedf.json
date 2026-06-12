@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe0125d7-d9d9-5531-b9b9-b123d956fedf",
+  "name": "Loslassen",
+  "author": {
+    "@type": "Person",
+    "name": "Pirmin Loetscher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe0125d7-d9d9-5531-b9b9-b123d956fedf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "loslassen pirmin loetscher buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e91b83b6-a0a9-5e7a-8c89-acd51cbe2a95",
+  "name": "Die Amazonas-Detektive - Band 1 - Verschwörung im",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Michaelis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e91b83b6-a0a9-5e7a-8c89-acd51cbe2a95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die amazonas-detektive - band 1 - verschworung im antonia michaelis buch"
+  }
+}

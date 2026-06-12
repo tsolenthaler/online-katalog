@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac5d0b75-3b60-5cae-ae26-39ef8718a0a3",
+  "name": "Die Häschenbande - Band 001 - Peppinos Geburtstag",
+  "author": {
+    "@type": "Person",
+    "name": "Loïc Jouannigot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac5d0b75-3b60-5cae-ae26-39ef8718a0a3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die haschenbande - band 001 - peppinos geburtstag loic jouannigot buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bac06d41-9a4f-5faa-95d5-47ca1dacd9ea",
+  "name": "Franka - Band 019 - Das Schwert von Iskander",
+  "author": {
+    "@type": "Person",
+    "name": "Henk Kuijpers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bac06d41-9a4f-5faa-95d5-47ca1dacd9ea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "franka - band 019 - das schwert von iskander henk kuijpers buch"
+  }
+}

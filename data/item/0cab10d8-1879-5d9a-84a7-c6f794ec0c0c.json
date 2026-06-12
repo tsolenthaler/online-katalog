@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0cab10d8-1879-5d9a-84a7-c6f794ec0c0c",
+  "name": "Der kleine Ritter Trenk und der grosse Gefährliche",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "9783862740710",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783862740710",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783862740710"
+  ],
+  "_catalog": {
+    "id": "0cab10d8-1879-5d9a-84a7-c6f794ec0c0c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kleine ritter trenk und der grosse gefahrliche kirsten boie 9783862740710 buch"
+  }
+}

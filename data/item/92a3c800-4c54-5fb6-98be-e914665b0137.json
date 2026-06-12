@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:92a3c800-4c54-5fb6-98be-e914665b0137",
+  "name": "Der Geschichtenerzähler oder das Geheimnis des",
+  "author": {
+    "@type": "Person",
+    "name": "Izzy Joel ben"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "92a3c800-4c54-5fb6-98be-e914665b0137",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geschichtenerzahler oder das geheimnis des izzy joel ben buch"
+  }
+}

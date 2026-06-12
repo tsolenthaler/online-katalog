@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:526153cd-1ea2-5060-8d74-726a82aa9728",
+  "name": "Die Zukunft unseres Wassers",
+  "author": {
+    "@type": "Person",
+    "name": "Carolin Stüdemann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "526153cd-1ea2-5060-8d74-726a82aa9728",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die zukunft unseres wassers carolin studemann buch"
+  }
+}

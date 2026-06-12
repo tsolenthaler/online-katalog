@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f391b581-21ca-5d38-ac10-5fa851a584a1",
+  "name": "Sunrise Africa - Band 001 - Die weisse Löwin der",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f391b581-21ca-5d38-ac10-5fa851a584a1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sunrise africa - band 001 - die weisse lowin der christopher ross buch"
+  }
+}

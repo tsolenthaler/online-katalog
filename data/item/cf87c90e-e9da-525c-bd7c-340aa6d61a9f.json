@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf87c90e-e9da-525c-bd7c-340aa6d61a9f",
+  "name": "Der letzte Feuerfalke - Band 6 - und die dunkle Magie",
+  "author": {
+    "@type": "Person",
+    "name": "Katrina Charman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf87c90e-e9da-525c-bd7c-340aa6d61a9f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der letzte feuerfalke - band 6 - und die dunkle magie katrina charman buch"
+  }
+}

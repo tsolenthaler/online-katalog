@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc1a382a-f7e2-5c06-951f-9f3a443eee35",
+  "name": "Die Jagd nach dem magischen Detektivkoffer - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Cally Stronk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc1a382a-f7e2-5c06-951f-9f3a443eee35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die jagd nach dem magischen detektivkoffer - band 3 cally stronk buch"
+  }
+}

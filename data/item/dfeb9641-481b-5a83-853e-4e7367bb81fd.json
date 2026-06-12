@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dfeb9641-481b-5a83-853e-4e7367bb81fd",
+  "name": "Nützlingsquartiere",
+  "author": {
+    "@type": "Person",
+    "name": "Monika Biermaier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dfeb9641-481b-5a83-853e-4e7367bb81fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nutzlingsquartiere monika biermaier buch"
+  }
+}

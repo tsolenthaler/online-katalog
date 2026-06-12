@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5d964a85-5c90-5fde-985a-1dcfef2bab7c",
+  "name": "Wir Kinder aus dem Möwenweg",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "9783841506092",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783841506092",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783841506092"
+  ],
+  "_catalog": {
+    "id": "5d964a85-5c90-5fde-985a-1dcfef2bab7c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "wir kinder aus dem mowenweg kirsten boie 9783841506092 buch"
+  }
+}

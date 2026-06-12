@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:782b5c7a-00b4-5eeb-9230-1f05028a5020",
+  "name": "Disney - Findet Dorie",
+  "author": {
+    "@type": "Person",
+    "name": "Alessandro Ferrari"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "782b5c7a-00b4-5eeb-9230-1f05028a5020",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney - findet dorie alessandro ferrari buch"
+  }
+}

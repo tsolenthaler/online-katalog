@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:761624df-20f3-514c-89c7-8b7d897c70c6",
+  "name": "Lucky Luke - Band 057 - Der Kaiser von Amerika",
+  "author": {
+    "@type": "Person",
+    "name": "Morris"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "761624df-20f3-514c-89c7-8b7d897c70c6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 057 - der kaiser von amerika morris buch"
+  }
+}

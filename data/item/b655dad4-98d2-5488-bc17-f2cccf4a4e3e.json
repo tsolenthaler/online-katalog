@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b655dad4-98d2-5488-bc17-f2cccf4a4e3e",
+  "name": "Zimt & weg, Die vertauschten Welten der Victoria King",
+  "author": {
+    "@type": "Person",
+    "name": "Dagmar Bach"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b655dad4-98d2-5488-bc17-f2cccf4a4e3e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zimt & weg, die vertauschten welten der victoria king dagmar bach buch"
+  }
+}

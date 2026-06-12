@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc88e7fa-e9de-54a1-b164-edf1dabb455c",
+  "name": "Sommer im Möwenweg",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc88e7fa-e9de-54a1-b164-edf1dabb455c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sommer im mowenweg kirsten boie buch"
+  }
+}

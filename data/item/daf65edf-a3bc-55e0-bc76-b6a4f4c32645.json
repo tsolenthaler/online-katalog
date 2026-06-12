@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:daf65edf-a3bc-55e0-bc76-b6a4f4c32645",
+  "name": "Kill you!",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Höra"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "daf65edf-a3bc-55e0-bc76-b6a4f4c32645",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kill you! daniel hora buch"
+  }
+}

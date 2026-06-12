@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8ef870b-7f94-5f3a-9705-a7ea9dd322d1",
+  "name": "Ponyhof Apfelblüte - Band 21 - Doppeltes Glück für Juli",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8ef870b-7f94-5f3a-9705-a7ea9dd322d1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyhof apfelblute - band 21 - doppeltes gluck fur juli pippa young buch"
+  }
+}

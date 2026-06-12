@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df3f9099-966b-5ba0-8aa0-fa81c2212998",
+  "name": "Mörderische Tage",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Franz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df3f9099-966b-5ba0-8aa0-fa81c2212998",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderische tage andreas franz buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fb2da687-ff64-5633-a5fb-550e09a2068b",
+  "name": "Erlebnisreich Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Erika Lüscher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fb2da687-ff64-5633-a5fb-550e09a2068b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erlebnisreich schweiz erika luscher buch"
+  }
+}

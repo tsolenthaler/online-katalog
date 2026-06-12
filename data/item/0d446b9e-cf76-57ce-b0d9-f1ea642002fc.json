@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0d446b9e-cf76-57ce-b0d9-f1ea642002fc",
+  "name": "Philip Maloney - Sammelbox No. 36, 37, 38, 39, 40",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0d446b9e-cf76-57ce-b0d9-f1ea642002fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "philip maloney - sammelbox no. 36, 37, 38, 39, 40 roger graf buch"
+  }
+}

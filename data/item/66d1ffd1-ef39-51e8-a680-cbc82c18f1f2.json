@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:66d1ffd1-ef39-51e8-a680-cbc82c18f1f2",
+  "name": "Taschi, mein kleiner Freund",
+  "author": {
+    "@type": "Person",
+    "name": "Fienberg Anna und Barbara"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "66d1ffd1-ef39-51e8-a680-cbc82c18f1f2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "taschi, mein kleiner freund fienberg anna und barbara buch"
+  }
+}

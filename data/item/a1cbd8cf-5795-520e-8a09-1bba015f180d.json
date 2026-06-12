@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1cbd8cf-5795-520e-8a09-1bba015f180d",
+  "name": "Die Frauen von Capri - das Lied vergangener Sommer",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Riepp"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1cbd8cf-5795-520e-8a09-1bba015f180d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die frauen von capri - das lied vergangener sommer antonia riepp buch"
+  }
+}

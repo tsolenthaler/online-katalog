@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bf73b1f1-3590-592b-87af-969887f29766",
+  "name": "Kasperlitheater - Band 017 - De Gfröörli gaat go",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Schneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bf73b1f1-3590-592b-87af-969887f29766",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kasperlitheater - band 017 - de gfroorli gaat go jorg schneider buch"
+  }
+}

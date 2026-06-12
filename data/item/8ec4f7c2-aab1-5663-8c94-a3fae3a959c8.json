@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ec4f7c2-aab1-5663-8c94-a3fae3a959c8",
+  "name": "Die drei ??? - Band 179 - Die Rache des Untoten",
+  "author": {
+    "@type": "Person",
+    "name": "André Minninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8ec4f7c2-aab1-5663-8c94-a3fae3a959c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 179 - die rache des untoten andre minninger buch"
+  }
+}

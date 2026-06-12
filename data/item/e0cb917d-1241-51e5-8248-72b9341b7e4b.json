@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0cb917d-1241-51e5-8248-72b9341b7e4b",
+  "name": "Blutblume",
+  "author": {
+    "@type": "Person",
+    "name": "Louise Boije af Gennäs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0cb917d-1241-51e5-8248-72b9341b7e4b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "blutblume louise boije af gennas buch"
+  }
+}

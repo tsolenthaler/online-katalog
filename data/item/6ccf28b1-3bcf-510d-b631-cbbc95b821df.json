@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6ccf28b1-3bcf-510d-b631-cbbc95b821df",
+  "name": "Pittje Pit - Band 001 - Hackepeter, der Schrecken der 7",
+  "author": {
+    "@type": "Person",
+    "name": "Eddy Ryssack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6ccf28b1-3bcf-510d-b631-cbbc95b821df",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pittje pit - band 001 - hackepeter, der schrecken der 7 eddy ryssack buch"
+  }
+}

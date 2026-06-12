@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b211f2c6-e2b9-58a1-936e-6ee67e59d07f",
+  "name": "Hier in den Bergen",
+  "author": {
+    "@type": "Person",
+    "name": "Ali Mitgutsch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b211f2c6-e2b9-58a1-936e-6ee67e59d07f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hier in den bergen ali mitgutsch buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:43ae55c5-3024-530d-9723-a4d1f7f2f0a6",
+  "name": "Lighthouse Bookshop",
+  "author": {
+    "@type": "Person",
+    "name": "Sharon Gosling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "43ae55c5-3024-530d-9723-a4d1f7f2f0a6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lighthouse bookshop sharon gosling buch"
+  }
+}

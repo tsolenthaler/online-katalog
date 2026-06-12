@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4fbf5dcd-4a8b-53a0-a430-1089fe2e83ac",
+  "name": "Die Tochter der Wanderhure",
+  "author": {
+    "@type": "Person",
+    "name": "Iny Lorentz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4fbf5dcd-4a8b-53a0-a430-1089fe2e83ac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tochter der wanderhure iny lorentz buch"
+  }
+}

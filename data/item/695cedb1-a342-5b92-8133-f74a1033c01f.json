@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:695cedb1-a342-5b92-8133-f74a1033c01f",
+  "name": "Wiesenblumen",
+  "author": {
+    "@type": "Person",
+    "name": "Svenja Ernsten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "695cedb1-a342-5b92-8133-f74a1033c01f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wiesenblumen svenja ernsten buch"
+  }
+}

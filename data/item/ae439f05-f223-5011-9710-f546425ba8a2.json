@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae439f05-f223-5011-9710-f546425ba8a2",
+  "name": "Zeit der Schwalben",
+  "author": {
+    "@type": "Person",
+    "name": "Nikola Scott"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae439f05-f223-5011-9710-f546425ba8a2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zeit der schwalben nikola scott buch"
+  }
+}

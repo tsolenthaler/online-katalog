@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:af4638b8-83e8-59a8-b4ad-32cd8e64216a",
+  "name": "Ein Wort, um dich zu retten",
+  "author": {
+    "@type": "Person",
+    "name": "Guillaume Musso"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "af4638b8-83e8-59a8-b4ad-32cd8e64216a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein wort, um dich zu retten guillaume musso buch"
+  }
+}

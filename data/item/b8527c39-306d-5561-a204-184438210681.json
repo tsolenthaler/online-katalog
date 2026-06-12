@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8527c39-306d-5561-a204-184438210681",
+  "name": "Die wunderbare Weihnachtsreise",
+  "author": {
+    "@type": "Person",
+    "name": "Lori Evert"
+  },
+  "isbn": "9783833736599",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783833736599",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783833736599"
+  ],
+  "_catalog": {
+    "id": "b8527c39-306d-5561-a204-184438210681",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die wunderbare weihnachtsreise lori evert 9783833736599 buch"
+  }
+}

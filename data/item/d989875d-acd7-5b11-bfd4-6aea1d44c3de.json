@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d989875d-acd7-5b11-bfd4-6aea1d44c3de",
+  "name": "Mein Vogelhaus - Schwalbe, Spatz und Specht",
+  "author": {
+    "@type": "Person",
+    "name": "Clover Robin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d989875d-acd7-5b11-bfd4-6aea1d44c3de",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein vogelhaus - schwalbe, spatz und specht clover robin buch"
+  }
+}

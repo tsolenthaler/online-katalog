@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b24a5be3-3b28-5000-ad19-7519262647d1",
+  "name": "Die coolsten Maschinen der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Wolfgang Hensel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b24a5be3-3b28-5000-ad19-7519262647d1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die coolsten maschinen der welt wolfgang hensel buch"
+  }
+}

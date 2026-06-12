@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:96a21bc9-1b04-559b-95b0-2406c8be163f",
+  "name": "Dreamworks Spirit Wild und Frei: Neue Freunde",
+  "author": {
+    "@type": "Person",
+    "name": "DreamWorks Animation L.L.C.,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "96a21bc9-1b04-559b-95b0-2406c8be163f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dreamworks spirit wild und frei: neue freunde dreamworks animation l.l.c., buch"
+  }
+}

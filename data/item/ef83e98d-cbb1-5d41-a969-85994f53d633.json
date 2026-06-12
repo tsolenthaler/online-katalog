@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef83e98d-cbb1-5d41-a969-85994f53d633",
+  "name": "Appenzeller Wolfsgeheul",
+  "author": {
+    "@type": "Person",
+    "name": "Théo Buff"
+  },
+  "isbn": "9783759785916",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783759785916",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783759785916"
+  ],
+  "_catalog": {
+    "id": "ef83e98d-cbb1-5d41-a969-85994f53d633",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "appenzeller wolfsgeheul theo buff 9783759785916 buch"
+  }
+}

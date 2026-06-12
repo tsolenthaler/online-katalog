@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc200e73-6f1c-5c0d-a757-2728c4d260d8",
+  "name": "Die unsichtbare Hand",
+  "author": {
+    "@type": "Person",
+    "name": "Julie Clark"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc200e73-6f1c-5c0d-a757-2728c4d260d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die unsichtbare hand julie clark buch"
+  }
+}

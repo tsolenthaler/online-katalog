@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7e6c3be-cc0d-593e-936d-f0e1377c173c",
+  "name": "Schritte an der Grenze",
+  "author": {
+    "@type": "Person",
+    "name": "Evelyne Binsack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7e6c3be-cc0d-593e-936d-f0e1377c173c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schritte an der grenze evelyne binsack buch"
+  }
+}

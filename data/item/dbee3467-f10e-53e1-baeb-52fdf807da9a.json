@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dbee3467-f10e-53e1-baeb-52fdf807da9a",
+  "name": "1000 Gefahren - Der Schulbus der 1000 Gefahren",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dbee3467-f10e-53e1-baeb-52fdf807da9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "1000 gefahren - der schulbus der 1000 gefahren fabian lenk buch"
+  }
+}

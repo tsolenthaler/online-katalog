@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:34b164f8-c768-5187-b78c-10cb7ddbf6f5",
+  "name": "Das Pony-Café - Band 003 - Ein Schnabel voll Glück",
+  "author": {
+    "@type": "Person",
+    "name": "Judith Allert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "34b164f8-c768-5187-b78c-10cb7ddbf6f5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das pony-cafe - band 003 - ein schnabel voll gluck judith allert buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:244cf738-313c-55a1-ae72-7588cffb8979",
+  "name": "Lola in geheimer Mission",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Abedi"
+  },
+  "isbn": "9787558302473",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9787558302473",
+    "https://portal.dnb.de/opac/simpleSearch?query=9787558302473"
+  ],
+  "_catalog": {
+    "id": "244cf738-313c-55a1-ae72-7588cffb8979",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "lola in geheimer mission isabel abedi 9787558302473 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aaca0ad3-d832-581f-b2fd-01cdc48c04b6",
+  "name": "Philip Maloney - No.09",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aaca0ad3-d832-581f-b2fd-01cdc48c04b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "philip maloney - no.09 roger graf buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:47547b01-bdc3-5e82-936d-e09f29454460",
+  "name": "Eine Stadt im Lauf der Zeit",
+  "author": {
+    "@type": "Person",
+    "name": "Steve Noon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "47547b01-bdc3-5e82-936d-e09f29454460",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine stadt im lauf der zeit steve noon buch"
+  }
+}

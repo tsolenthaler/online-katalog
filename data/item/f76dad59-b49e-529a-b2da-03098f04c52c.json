@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f76dad59-b49e-529a-b2da-03098f04c52c",
+  "name": "Lucky Luke - Band 038 - Jesse James",
+  "author": {
+    "@type": "Person",
+    "name": "Morris"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f76dad59-b49e-529a-b2da-03098f04c52c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 038 - jesse james morris buch"
+  }
+}

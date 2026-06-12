@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5cfa9b59-e9f1-5fc8-a99a-c8aada7c0be7",
+  "name": "Die drei !!! - Band 066 - Tanz der Herzen",
+  "author": {
+    "@type": "Person",
+    "name": "Nissen Peter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5cfa9b59-e9f1-5fc8-a99a-c8aada7c0be7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 066 - tanz der herzen nissen peter buch"
+  }
+}

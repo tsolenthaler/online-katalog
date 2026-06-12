@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9bb48e2-d926-51a0-8c66-3dfcc2436f2e",
+  "name": "Die weite Reise der Mauersegler",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Möller"
+  },
+  "isbn": "9783715206226",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "https://covers.openlibrary.org/b/id/8925702-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783715206226",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783715206226"
+  ],
+  "_catalog": {
+    "id": "e9bb48e2-d926-51a0-8c66-3dfcc2436f2e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die weite reise der mauersegler anne moller 9783715206226 buch"
+  }
+}

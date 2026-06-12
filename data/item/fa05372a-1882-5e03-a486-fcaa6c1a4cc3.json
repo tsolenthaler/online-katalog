@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa05372a-1882-5e03-a486-fcaa6c1a4cc3",
+  "name": "Handlettering A-Z",
+  "author": {
+    "@type": "Person",
+    "name": "Abbey Sy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa05372a-1882-5e03-a486-fcaa6c1a4cc3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "handlettering a-z abbey sy buch"
+  }
+}

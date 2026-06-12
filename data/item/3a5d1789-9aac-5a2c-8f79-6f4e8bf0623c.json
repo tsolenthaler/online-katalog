@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a5d1789-9aac-5a2c-8f79-6f4e8bf0623c",
+  "name": "Jojo Rabbit",
+  "author": {
+    "@type": "Person",
+    "name": "Taika Waititi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3a5d1789-9aac-5a2c-8f79-6f4e8bf0623c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jojo rabbit taika waititi buch"
+  }
+}

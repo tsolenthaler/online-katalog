@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:032c62b8-2753-5ea1-b9f3-d4ee6f273aed",
+  "name": "Nele - Band 016 - und die Glücksschokolade",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "032c62b8-2753-5ea1-b9f3-d4ee6f273aed",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nele - band 016 - und die glucksschokolade usch luhn buch"
+  }
+}

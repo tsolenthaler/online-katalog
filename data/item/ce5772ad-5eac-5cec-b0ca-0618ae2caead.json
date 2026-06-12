@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce5772ad-5eac-5cec-b0ca-0618ae2caead",
+  "name": "Leselöwen 1. Klasse - Achtung, Feuerwehr im Einsatz!",
+  "author": {
+    "@type": "Person",
+    "name": "Annette Neubauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce5772ad-5eac-5cec-b0ca-0618ae2caead",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leselowen 1. klasse - achtung, feuerwehr im einsatz! annette neubauer buch"
+  }
+}

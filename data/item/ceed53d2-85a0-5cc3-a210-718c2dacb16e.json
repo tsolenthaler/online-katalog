@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ceed53d2-85a0-5cc3-a210-718c2dacb16e",
+  "name": "Kribbel Krabbel auf der Wiese",
+  "author": {
+    "@type": "Person",
+    "name": "Smriti Prasadam-Halls"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ceed53d2-85a0-5cc3-a210-718c2dacb16e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kribbel krabbel auf der wiese smriti prasadam-halls buch"
+  }
+}

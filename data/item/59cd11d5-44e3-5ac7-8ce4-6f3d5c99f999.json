@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59cd11d5-44e3-5ac7-8ce4-6f3d5c99f999",
+  "name": "Die Botschaft der Riesenkalmare",
+  "author": {
+    "@type": "Person",
+    "name": "Fabio Genovesi"
+  },
+  "isbn": "9783104915340",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783104915340",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783104915340"
+  ],
+  "_catalog": {
+    "id": "59cd11d5-44e3-5ac7-8ce4-6f3d5c99f999",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die botschaft der riesenkalmare fabio genovesi 9783104915340 buch"
+  }
+}

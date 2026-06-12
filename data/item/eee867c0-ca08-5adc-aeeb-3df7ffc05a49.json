@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eee867c0-ca08-5adc-aeeb-3df7ffc05a49",
+  "name": "Pssst! Unser Geheimnis - Ich krieg die Krise - Band 24",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eee867c0-ca08-5adc-aeeb-3df7ffc05a49",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pssst! unser geheimnis - ich krieg die krise - band 24 thomas brezina buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4171f142-174d-5ba2-8ffa-6807b949a355",
+  "name": "Hexe Lilli - und der magische Tierzauber",
+  "author": {
+    "@type": "Person",
+    "name": "Knister"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4171f142-174d-5ba2-8ffa-6807b949a355",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe lilli - und der magische tierzauber knister buch"
+  }
+}

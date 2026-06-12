@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:87517628-9e0a-5e6b-9644-959baf89ef98",
+  "name": "Das Gästezimmer",
+  "author": {
+    "@type": "Person",
+    "name": "Clémence Michallon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "87517628-9e0a-5e6b-9644-959baf89ef98",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das gastezimmer clemence michallon buch"
+  }
+}

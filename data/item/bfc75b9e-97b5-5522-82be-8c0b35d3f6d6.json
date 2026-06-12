@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bfc75b9e-97b5-5522-82be-8c0b35d3f6d6",
+  "name": "PAX - Der Höllenhund",
+  "author": {
+    "@type": "Person",
+    "name": "Asa Larsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bfc75b9e-97b5-5522-82be-8c0b35d3f6d6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pax - der hollenhund asa larsson buch"
+  }
+}

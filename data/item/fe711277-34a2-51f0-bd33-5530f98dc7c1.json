@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe711277-34a2-51f0-bd33-5530f98dc7c1",
+  "name": "TKKG Junior - Band 013 - Das verpfuschte Gemälde",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Tannenberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe711277-34a2-51f0-bd33-5530f98dc7c1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 013 - das verpfuschte gemalde benjamin tannenberg buch"
+  }
+}

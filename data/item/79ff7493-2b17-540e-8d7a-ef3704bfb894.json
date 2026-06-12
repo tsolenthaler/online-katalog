@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:79ff7493-2b17-540e-8d7a-ef3704bfb894",
+  "name": "Vergebung Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Stieg Larsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "79ff7493-2b17-540e-8d7a-ef3704bfb894",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vergebung band 3 stieg larsson buch"
+  }
+}

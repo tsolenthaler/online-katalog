@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5fdcaa2-f8d5-5035-b08a-4bb605ad673b",
+  "name": "Waldküche",
+  "author": {
+    "@type": "Person",
+    "name": "Patrick Rosenthal"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5fdcaa2-f8d5-5035-b08a-4bb605ad673b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "waldkuche patrick rosenthal buch"
+  }
+}

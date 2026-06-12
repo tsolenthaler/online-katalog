@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5867ef8a-f9bd-52b4-902e-a879c5271d92",
+  "name": "Die schönsten Reise-Routen in Italien",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Migge"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5867ef8a-f9bd-52b4-902e-a879c5271d92",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten reise-routen in italien thomas migge buch"
+  }
+}

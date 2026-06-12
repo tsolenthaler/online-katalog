@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fbc9f37c-3320-5493-a1b5-22b981a16f3f",
+  "name": "Mord ist nichts für junge Damen",
+  "author": {
+    "@type": "Person",
+    "name": "Robin Stevens"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fbc9f37c-3320-5493-a1b5-22b981a16f3f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mord ist nichts fur junge damen robin stevens buch"
+  }
+}

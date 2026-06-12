@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae8b5677-d484-511a-832f-ac68148d07cc",
+  "name": "Das schönste Ei der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Helme Heine"
+  },
+  "isbn": "9783407760692",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783407760692",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783407760692"
+  ],
+  "_catalog": {
+    "id": "ae8b5677-d484-511a-832f-ac68148d07cc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das schonste ei der welt helme heine 9783407760692 buch"
+  }
+}

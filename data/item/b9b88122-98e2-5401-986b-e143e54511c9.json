@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9b88122-98e2-5401-986b-e143e54511c9",
+  "name": "Seawalkers - Band 4 - Ein Riese des Meeres",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brandis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9b88122-98e2-5401-986b-e143e54511c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "seawalkers - band 4 - ein riese des meeres katja brandis buch"
+  }
+}

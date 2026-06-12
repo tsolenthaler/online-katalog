@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ceddf9c-4c0c-5180-a30c-f248b3cf6ec5",
+  "name": "Für mich bist du der Beste!",
+  "author": {
+    "@type": "Person",
+    "name": "Angelika Diem"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8ceddf9c-4c0c-5180-a30c-f248b3cf6ec5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fur mich bist du der beste! angelika diem buch"
+  }
+}

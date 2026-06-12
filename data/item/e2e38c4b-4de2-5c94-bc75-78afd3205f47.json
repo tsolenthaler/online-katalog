@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e2e38c4b-4de2-5c94-bc75-78afd3205f47",
+  "name": "Die drei ??? - Band 201 - Höhenangst",
+  "author": {
+    "@type": "Person",
+    "name": "Graphig Novel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e2e38c4b-4de2-5c94-bc75-78afd3205f47",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 201 - hohenangst graphig novel buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef631096-00cb-5244-9285-9dcf972aed83",
+  "name": "Appenzeller sein und bleiben",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Sonderegger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef631096-00cb-5244-9285-9dcf972aed83",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "appenzeller sein und bleiben stefan sonderegger buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef46cd13-7fe0-5d88-89ff-c78a6001bf01",
+  "name": "Warum schlafen wir?",
+  "author": {
+    "@type": "Person",
+    "name": "Cathy Evans"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef46cd13-7fe0-5d88-89ff-c78a6001bf01",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warum schlafen wir? cathy evans buch"
+  }
+}

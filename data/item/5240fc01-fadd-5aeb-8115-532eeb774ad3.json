@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5240fc01-fadd-5aeb-8115-532eeb774ad3",
+  "name": "Mörderische Geschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Mitra Devi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5240fc01-fadd-5aeb-8115-532eeb774ad3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderische geschichten mitra devi buch"
+  }
+}

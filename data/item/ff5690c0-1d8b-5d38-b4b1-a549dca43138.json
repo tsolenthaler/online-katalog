@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff5690c0-1d8b-5d38-b4b1-a549dca43138",
+  "name": "Sternenschweif - Band 068 - Alpaka in Not",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara van den Speulhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff5690c0-1d8b-5d38-b4b1-a549dca43138",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 068 - alpaka in not barbara van den speulhof buch"
+  }
+}

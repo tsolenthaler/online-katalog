@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c2784a26-7a4d-52ee-861a-4dd2eb0cd284",
+  "name": "Liliane Susewind - Band 010 - Eine Eule steckt den Kopf",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c2784a26-7a4d-52ee-861a-4dd2eb0cd284",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - band 010 - eine eule steckt den kopf tanya stewner buch"
+  }
+}

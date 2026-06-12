@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3f9fb45-60d5-5c8a-829f-2cbd10eebf05",
+  "name": "Beppo, der Hirt",
+  "author": {
+    "@type": "Person",
+    "name": "Max Bolliger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3f9fb45-60d5-5c8a-829f-2cbd10eebf05",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beppo, der hirt max bolliger buch"
+  }
+}

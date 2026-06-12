@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:33c133cd-45d8-5b9f-91c1-b88bc01bbab2",
+  "name": "Die Toten von Fleat House",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "9783844546026",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844546026",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844546026"
+  ],
+  "_catalog": {
+    "id": "33c133cd-45d8-5b9f-91c1-b88bc01bbab2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die toten von fleat house lucinda riley 9783844546026 buch"
+  }
+}

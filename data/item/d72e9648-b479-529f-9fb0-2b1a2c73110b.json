@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d72e9648-b479-529f-9fb0-2b1a2c73110b",
+  "name": "Ocean City - Band 003 - Stunde der Wahrheit",
+  "author": {
+    "@type": "Person",
+    "name": "R. T. Acron"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d72e9648-b479-529f-9fb0-2b1a2c73110b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ocean city - band 003 - stunde der wahrheit r. t. acron buch"
+  }
+}

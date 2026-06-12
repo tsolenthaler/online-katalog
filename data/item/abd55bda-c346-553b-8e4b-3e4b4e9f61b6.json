@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:abd55bda-c346-553b-8e4b-3e4b4e9f61b6",
+  "name": "Views",
+  "author": {
+    "@type": "Person",
+    "name": "Marc-Uwe Kling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "abd55bda-c346-553b-8e4b-3e4b4e9f61b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "views marc-uwe kling buch"
+  }
+}

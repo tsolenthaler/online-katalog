@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f86d6aee-4aa0-5328-ab3f-4eb995ea10c7",
+  "name": "Die neugierig chlii Häx",
+  "author": {
+    "@type": "Person",
+    "name": "Lieve Baeten"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f86d6aee-4aa0-5328-ab3f-4eb995ea10c7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die neugierig chlii hax lieve baeten buch"
+  }
+}

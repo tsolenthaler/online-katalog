@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7a201f5f-2026-543a-8739-c770bce27d3a",
+  "name": "Die Wilden Hühner auf Klassenfahrt",
+  "author": {
+    "@type": "Person",
+    "name": "Cornelia Funke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7a201f5f-2026-543a-8739-c770bce27d3a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die wilden huhner auf klassenfahrt cornelia funke buch"
+  }
+}

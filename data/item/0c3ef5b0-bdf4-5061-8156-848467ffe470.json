@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0c3ef5b0-bdf4-5061-8156-848467ffe470",
+  "name": "Was ist was - Bienen und Wespen",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Rigos"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0c3ef5b0-bdf4-5061-8156-848467ffe470",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - bienen und wespen alexandra rigos buch"
+  }
+}

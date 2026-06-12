@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:edeee1e5-2654-55b1-9d74-58989e5cc0ba",
+  "name": "Woman on Fire",
+  "author": {
+    "@type": "Person",
+    "name": "Sheila de Liz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "edeee1e5-2654-55b1-9d74-58989e5cc0ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "woman on fire sheila de liz buch"
+  }
+}

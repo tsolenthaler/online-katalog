@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:255cc221-73b1-5e6a-a33c-e3a52064c0c9",
+  "name": "Hilda - und der Steinwald",
+  "author": {
+    "@type": "Person",
+    "name": "Luke Pearson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "255cc221-73b1-5e6a-a33c-e3a52064c0c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hilda - und der steinwald luke pearson buch"
+  }
+}

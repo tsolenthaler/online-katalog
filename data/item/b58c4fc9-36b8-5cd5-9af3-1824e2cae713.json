@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b58c4fc9-36b8-5cd5-9af3-1824e2cae713",
+  "name": "Der Maulwurf und die Sterne",
+  "author": {
+    "@type": "Person",
+    "name": "Britta Teckentrup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b58c4fc9-36b8-5cd5-9af3-1824e2cae713",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der maulwurf und die sterne britta teckentrup buch"
+  }
+}

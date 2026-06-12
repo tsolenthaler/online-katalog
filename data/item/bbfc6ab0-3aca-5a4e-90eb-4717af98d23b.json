@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bbfc6ab0-3aca-5a4e-90eb-4717af98d23b",
+  "name": "Yakari - Band 003 - bei den Bibern",
+  "author": {
+    "@type": "Person",
+    "name": "Derib u. Job"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bbfc6ab0-3aca-5a4e-90eb-4717af98d23b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - band 003 - bei den bibern derib u. job buch"
+  }
+}

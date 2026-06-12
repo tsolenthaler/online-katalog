@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e14d9f03-edbe-5c28-a50b-9c208a3a989d",
+  "name": "Heimwerken für den Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Bishop"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e14d9f03-edbe-5c28-a50b-9c208a3a989d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heimwerken fur den garten peter bishop buch"
+  }
+}

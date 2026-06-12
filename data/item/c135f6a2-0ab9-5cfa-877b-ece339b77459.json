@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c135f6a2-0ab9-5cfa-877b-ece339b77459",
+  "name": "The Monet Family – Rise Up, Little Diamond - Band 6",
+  "author": {
+    "@type": "Person",
+    "name": "Weronika Anna Marczak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c135f6a2-0ab9-5cfa-877b-ece339b77459",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the monet family – rise up, little diamond - band 6 weronika anna marczak buch"
+  }
+}

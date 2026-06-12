@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:abc07241-7885-50a9-b8a6-3964d85029c1",
+  "name": "Fünf Freunde - Band 115 - helfen den Flutopfern",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "abc07241-7885-50a9-b8a6-3964d85029c1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 115 - helfen den flutopfern katrin mcclean buch"
+  }
+}

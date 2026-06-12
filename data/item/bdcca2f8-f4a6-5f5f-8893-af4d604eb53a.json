@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bdcca2f8-f4a6-5f5f-8893-af4d604eb53a",
+  "name": "Glitzernde Weihnachten",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Morgenthaler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bdcca2f8-f4a6-5f5f-8893-af4d604eb53a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "glitzernde weihnachten patricia morgenthaler buch"
+  }
+}

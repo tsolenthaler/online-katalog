@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7dd1b72-4614-5f80-a77f-4b2d360b86e4",
+  "name": "Gesund bleiben",
+  "author": {
+    "@type": "Person",
+    "name": "Roland Vontobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7dd1b72-4614-5f80-a77f-4b2d360b86e4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gesund bleiben roland vontobel buch"
+  }
+}

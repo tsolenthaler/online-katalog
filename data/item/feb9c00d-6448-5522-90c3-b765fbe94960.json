@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:feb9c00d-6448-5522-90c3-b765fbe94960",
+  "name": "Mein erster Atlas",
+  "author": {
+    "@type": "Person",
+    "name": "Clair Rossiter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "feb9c00d-6448-5522-90c3-b765fbe94960",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein erster atlas clair rossiter buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7ae29a2e-d963-5707-bb02-5609c3b5a9f7",
+  "name": "Fünf Freunde - Band 112 - und der Delfin in der",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7ae29a2e-d963-5707-bb02-5609c3b5a9f7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 112 - und der delfin in der katrin mcclean buch"
+  }
+}

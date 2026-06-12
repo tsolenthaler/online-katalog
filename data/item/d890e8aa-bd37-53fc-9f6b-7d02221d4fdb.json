@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d890e8aa-bd37-53fc-9f6b-7d02221d4fdb",
+  "name": "Petronella Apfelmus - Schneeballschlacht und",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Städing"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d890e8aa-bd37-53fc-9f6b-7d02221d4fdb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petronella apfelmus - schneeballschlacht und sabine stading buch"
+  }
+}

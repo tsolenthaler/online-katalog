@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac21e545-4c65-522c-a0ce-271d312be37f",
+  "name": "Die Schlümpfe - Band 012 - Das Schlumpfbaby",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac21e545-4c65-522c-a0ce-271d312be37f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schlumpfe - band 012 - das schlumpfbaby peyo, buch"
+  }
+}

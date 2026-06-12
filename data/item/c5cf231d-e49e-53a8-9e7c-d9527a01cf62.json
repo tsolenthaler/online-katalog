@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c5cf231d-e49e-53a8-9e7c-d9527a01cf62",
+  "name": "3 Drachengeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Schröder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c5cf231d-e49e-53a8-9e7c-d9527a01cf62",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "3 drachengeschichten patricia schroder buch"
+  }
+}

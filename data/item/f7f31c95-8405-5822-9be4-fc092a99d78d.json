@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7f31c95-8405-5822-9be4-fc092a99d78d",
+  "name": "Die Freiheit der Puppen",
+  "author": {
+    "@type": "Person",
+    "name": "Federica de Cesco"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7f31c95-8405-5822-9be4-fc092a99d78d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die freiheit der puppen federica de cesco buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8748973-4e65-58c3-a40b-371e7751c27d",
+  "name": "Der kleine Spirou - Band 016 - Ganz schön aufgeblasen!",
+  "author": {
+    "@type": "Person",
+    "name": "Tome u. Janry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8748973-4e65-58c3-a40b-371e7751c27d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine spirou - band 016 - ganz schon aufgeblasen! tome u. janry buch"
+  }
+}

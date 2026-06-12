@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c54bf242-fb4c-536c-9cb6-9e562b0bb526",
+  "name": "Alaska wilderness - Verschollen am Mount McKinley -",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Ross"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c54bf242-fb4c-536c-9cb6-9e562b0bb526",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alaska wilderness - verschollen am mount mckinley - christopher ross buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a74744d1-cf0d-516d-99e6-043477e36e24",
+  "name": "Sterblich sein",
+  "author": {
+    "@type": "Person",
+    "name": "Atul Gawande"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a74744d1-cf0d-516d-99e6-043477e36e24",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sterblich sein atul gawande buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7362e564-006f-5cdd-a299-10f26206913f",
+  "name": "Das mit mir und Romeo",
+  "author": {
+    "@type": "Person",
+    "name": "Dagmar Chidolue"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7362e564-006f-5cdd-a299-10f26206913f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das mit mir und romeo dagmar chidolue buch"
+  }
+}

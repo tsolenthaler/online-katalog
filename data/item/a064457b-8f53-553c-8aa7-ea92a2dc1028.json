@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a064457b-8f53-553c-8aa7-ea92a2dc1028",
+  "name": "La La Land Für alle, die zu träumen wagen",
+  "author": {
+    "@type": "Person",
+    "name": "Ryan Gosling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a064457b-8f53-553c-8aa7-ea92a2dc1028",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "la la land fur alle, die zu traumen wagen ryan gosling buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:55e21608-c790-56b7-a24a-2b4bd29ddbeb",
+  "name": "So weit der Fluss uns trägt",
+  "author": {
+    "@type": "Person",
+    "name": "Shelley Read"
+  },
+  "isbn": "9783844548891",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844548891",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844548891"
+  ],
+  "_catalog": {
+    "id": "55e21608-c790-56b7-a24a-2b4bd29ddbeb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "so weit der fluss uns tragt shelley read 9783844548891 buch"
+  }
+}

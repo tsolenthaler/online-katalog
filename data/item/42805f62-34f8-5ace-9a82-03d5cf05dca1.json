@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:42805f62-34f8-5ace-9a82-03d5cf05dca1",
+  "name": "Mein Freund, das Einhorn",
+  "author": {
+    "@type": "Person",
+    "name": "Tino"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "42805f62-34f8-5ace-9a82-03d5cf05dca1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein freund, das einhorn tino buch"
+  }
+}

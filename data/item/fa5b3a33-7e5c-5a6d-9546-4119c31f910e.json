@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa5b3a33-7e5c-5a6d-9546-4119c31f910e",
+  "name": "Das Signal",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Poznanski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa5b3a33-7e5c-5a6d-9546-4119c31f910e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das signal ursula poznanski buch"
+  }
+}

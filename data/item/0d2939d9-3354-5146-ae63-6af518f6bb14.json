@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0d2939d9-3354-5146-ae63-6af518f6bb14",
+  "name": "Seawalkers - Band 5 - Filmstars unter Wasser",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brandis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0d2939d9-3354-5146-ae63-6af518f6bb14",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "seawalkers - band 5 - filmstars unter wasser katja brandis buch"
+  }
+}

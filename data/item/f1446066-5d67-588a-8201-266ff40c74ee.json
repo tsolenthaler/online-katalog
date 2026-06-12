@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1446066-5d67-588a-8201-266ff40c74ee",
+  "name": "Percy Jackson - Im Bann des Zyklopen",
+  "author": {
+    "@type": "Person",
+    "name": "Rick Riordan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f1446066-5d67-588a-8201-266ff40c74ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy jackson - im bann des zyklopen rick riordan buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7f086691-4fb0-5cf7-abcc-2f7d5e6758cd",
+  "name": "Die Monsterranzen-Bande",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Breitenöder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7f086691-4fb0-5cf7-abcc-2f7d5e6758cd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die monsterranzen-bande julia breitenoder buch"
+  }
+}

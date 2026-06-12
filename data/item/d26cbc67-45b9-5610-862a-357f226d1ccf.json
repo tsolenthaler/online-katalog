@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d26cbc67-45b9-5610-862a-357f226d1ccf",
+  "name": "Die Wege der Macht - Band 5",
+  "author": {
+    "@type": "Person",
+    "name": "Jeffrey Archer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d26cbc67-45b9-5610-862a-357f226d1ccf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die wege der macht - band 5 jeffrey archer buch"
+  }
+}

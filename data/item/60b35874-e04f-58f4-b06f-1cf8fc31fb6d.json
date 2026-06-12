@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:60b35874-e04f-58f4-b06f-1cf8fc31fb6d",
+  "name": "Käpt'n Sharky - Der Piratenkönig",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Nicolai"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "60b35874-e04f-58f4-b06f-1cf8fc31fb6d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kapt'n sharky - der piratenkonig thomas nicolai buch"
+  }
+}

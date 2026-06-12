@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1cc075e3-9cd1-5433-9c2b-6660c1baf698",
+  "name": "TKKG Junior - Band 002 - Vorsicht bissig!",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Tannenberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1cc075e3-9cd1-5433-9c2b-6660c1baf698",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 002 - vorsicht bissig! benjamin tannenberg buch"
+  }
+}

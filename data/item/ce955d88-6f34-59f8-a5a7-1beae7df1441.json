@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce955d88-6f34-59f8-a5a7-1beae7df1441",
+  "name": "Percy Jacksaon - Im Bann des Zyklopen",
+  "author": {
+    "@type": "Person",
+    "name": "Rick Riordan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce955d88-6f34-59f8-a5a7-1beae7df1441",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy jacksaon - im bann des zyklopen rick riordan buch"
+  }
+}

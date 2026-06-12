@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd55392c-179d-5f53-bb40-47207f98c5d9",
+  "name": "Der Hausmann Bänz Friedli",
+  "author": {
+    "@type": "Person",
+    "name": "Bänz Friedli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd55392c-179d-5f53-bb40-47207f98c5d9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der hausmann banz friedli banz friedli buch"
+  }
+}

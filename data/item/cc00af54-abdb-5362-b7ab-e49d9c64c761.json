@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc00af54-abdb-5362-b7ab-e49d9c64c761",
+  "name": "Tödliche Sehnsucht",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Brown"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc00af54-abdb-5362-b7ab-e49d9c64c761",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "todliche sehnsucht sandra brown buch"
+  }
+}

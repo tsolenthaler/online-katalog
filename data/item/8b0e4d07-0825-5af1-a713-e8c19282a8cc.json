@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8b0e4d07-0825-5af1-a713-e8c19282a8cc",
+  "name": "Der Halb-Marathon-Mann",
+  "author": {
+    "@type": "Person",
+    "name": "Rolf Bläsing"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8b0e4d07-0825-5af1-a713-e8c19282a8cc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der halb-marathon-mann rolf blasing buch"
+  }
+}

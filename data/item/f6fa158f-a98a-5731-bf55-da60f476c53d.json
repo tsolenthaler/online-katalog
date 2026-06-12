@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6fa158f-a98a-5731-bf55-da60f476c53d",
+  "name": "Kriegen das eigentlich alle ?",
+  "author": {
+    "@type": "Person",
+    "name": "von Holleben Jan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6fa158f-a98a-5731-bf55-da60f476c53d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kriegen das eigentlich alle ? von holleben jan buch"
+  }
+}

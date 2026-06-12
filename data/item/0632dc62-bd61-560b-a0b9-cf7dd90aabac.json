@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0632dc62-bd61-560b-a0b9-cf7dd90aabac",
+  "name": "Doppelgott",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Burk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0632dc62-bd61-560b-a0b9-cf7dd90aabac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "doppelgott walter burk buch"
+  }
+}

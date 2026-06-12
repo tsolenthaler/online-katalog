@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f3856f03-5dba-5e4e-b271-bcafb448c717",
+  "name": "Fünf Minuten",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Garton Scanlon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f3856f03-5dba-5e4e-b271-bcafb448c717",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf minuten elizabeth garton scanlon buch"
+  }
+}

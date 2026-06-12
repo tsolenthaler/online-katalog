@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8f88b23-7332-5777-ad14-cc13c2db5215",
+  "name": "Weinwandern Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Ellen Wallace"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8f88b23-7332-5777-ad14-cc13c2db5215",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weinwandern schweiz ellen wallace buch"
+  }
+}

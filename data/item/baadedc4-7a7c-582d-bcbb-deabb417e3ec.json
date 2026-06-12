@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:baadedc4-7a7c-582d-bcbb-deabb417e3ec",
+  "name": "Pretty dead",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Hasse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "baadedc4-7a7c-582d-bcbb-deabb417e3ec",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pretty dead stefanie hasse buch"
+  }
+}

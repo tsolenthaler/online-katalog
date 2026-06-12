@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1263be84-8af2-5d08-b668-5c20cae2f215",
+  "name": "Marsupilami - Band 006 - Red Monster",
+  "author": {
+    "@type": "Person",
+    "name": "Batem,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1263be84-8af2-5d08-b668-5c20cae2f215",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 006 - red monster batem, buch"
+  }
+}

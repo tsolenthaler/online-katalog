@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e49cbfe1-7221-5068-940c-c312f17c253d",
+  "name": "Die drei !!! - Gefahr in den Ruinen - Band 071",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Sol"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e49cbfe1-7221-5068-940c-c312f17c253d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - gefahr in den ruinen - band 071 mira sol buch"
+  }
+}

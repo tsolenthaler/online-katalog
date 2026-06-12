@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9e12308e-757f-55b5-bbc9-df1087ff9feb",
+  "name": "WAS IST WAS - Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Bischoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9e12308e-757f-55b5-bbc9-df1087ff9feb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - wald karin bischoff buch"
+  }
+}

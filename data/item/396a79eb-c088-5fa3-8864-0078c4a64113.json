@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:396a79eb-c088-5fa3-8864-0078c4a64113",
+  "name": "Der Igel",
+  "author": {
+    "@type": "Person",
+    "name": "Valérie Tracqui"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "396a79eb-c088-5fa3-8864-0078c4a64113",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der igel valerie tracqui buch"
+  }
+}

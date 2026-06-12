@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef450156-3e94-5a57-bff0-291aa086e352",
+  "name": "Ein Fall für Kwiatkowski - Band 022 - Grosse Jagd auf",
+  "author": {
+    "@type": "Person",
+    "name": "Jürgen Banscherus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef450156-3e94-5a57-bff0-291aa086e352",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein fall fur kwiatkowski - band 022 - grosse jagd auf jurgen banscherus buch"
+  }
+}

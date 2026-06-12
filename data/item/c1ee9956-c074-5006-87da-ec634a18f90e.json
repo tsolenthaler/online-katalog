@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1ee9956-c074-5006-87da-ec634a18f90e",
+  "name": "Kleine grosse Schritte",
+  "author": {
+    "@type": "Person",
+    "name": "Jodi Picoult"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1ee9956-c074-5006-87da-ec634a18f90e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleine grosse schritte jodi picoult buch"
+  }
+}

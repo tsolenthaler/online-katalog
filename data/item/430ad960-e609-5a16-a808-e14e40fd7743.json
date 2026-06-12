@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:430ad960-e609-5a16-a808-e14e40fd7743",
+  "name": "Fünf Freunde - Band 122 - und der Grossalarm in Kirrin",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "430ad960-e609-5a16-a808-e14e40fd7743",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 122 - und der grossalarm in kirrin katrin mcclean buch"
+  }
+}

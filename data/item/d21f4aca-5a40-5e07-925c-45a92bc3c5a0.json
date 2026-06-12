@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d21f4aca-5a40-5e07-925c-45a92bc3c5a0",
+  "name": "Monster Mia - Band 008 - und der verflixte Flaschengeist",
+  "author": {
+    "@type": "Person",
+    "name": "A.B Saddlewick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d21f4aca-5a40-5e07-925c-45a92bc3c5a0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monster mia - band 008 - und der verflixte flaschengeist a.b saddlewick buch"
+  }
+}

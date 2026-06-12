@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a451577e-b0af-53eb-af7c-428f9fefa502",
+  "name": "Mein Zuhause Kaninchen, Fuchs und Adler",
+  "author": {
+    "@type": "Person",
+    "name": "Clover Robin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a451577e-b0af-53eb-af7c-428f9fefa502",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein zuhause kaninchen, fuchs und adler clover robin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad9ca885-fcd8-5de5-8a18-e480bf645c38",
+  "name": "Winter eines Lebens",
+  "author": {
+    "@type": "Person",
+    "name": "Jeffrey Archer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad9ca885-fcd8-5de5-8a18-e480bf645c38",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "winter eines lebens jeffrey archer buch"
+  }
+}

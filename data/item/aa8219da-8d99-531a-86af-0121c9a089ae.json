@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aa8219da-8d99-531a-86af-0121c9a089ae",
+  "name": "Erstes Aufklappen und Verstehen - wie höre, sehe,",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Pym"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aa8219da-8d99-531a-86af-0121c9a089ae",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erstes aufklappen und verstehen - wie hore, sehe, christine pym buch"
+  }
+}

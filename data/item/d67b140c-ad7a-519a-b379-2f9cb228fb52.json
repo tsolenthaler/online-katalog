@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d67b140c-ad7a-519a-b379-2f9cb228fb52",
+  "name": "Was sie nicht wusste",
+  "author": {
+    "@type": "Person",
+    "name": "Nicci French"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d67b140c-ad7a-519a-b379-2f9cb228fb52",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was sie nicht wusste nicci french buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:06c718a8-2e5d-5ce6-b172-466879bc6d7c",
+  "name": "Chronik der Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Berthold Budde"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "06c718a8-2e5d-5ce6-b172-466879bc6d7c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "chronik der schweiz berthold budde buch"
+  }
+}

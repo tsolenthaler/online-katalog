@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8e810214-bd0d-53d2-89b9-cdf364f97c29",
+  "name": "Die wilden Küken - Band 006 - Ab ins Abenteuer!",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Schmid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8e810214-bd0d-53d2-89b9-cdf364f97c29",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die wilden kuken - band 006 - ab ins abenteuer! thomas schmid buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ada4e812-4f78-5c2e-8046-2dd2aa3bff52",
+  "name": "Golden Horses - Ein Seelenpferd für immer",
+  "author": {
+    "@type": "Person",
+    "name": "Lauren Brooke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ada4e812-4f78-5c2e-8046-2dd2aa3bff52",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "golden horses - ein seelenpferd fur immer lauren brooke buch"
+  }
+}

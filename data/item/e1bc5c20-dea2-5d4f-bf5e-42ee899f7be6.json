@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1bc5c20-dea2-5d4f-bf5e-42ee899f7be6",
+  "name": "Monster Mia - Band 003 - und die ungeheuerliche",
+  "author": {
+    "@type": "Person",
+    "name": "A.B Saddlewick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1bc5c20-dea2-5d4f-bf5e-42ee899f7be6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monster mia - band 003 - und die ungeheuerliche a.b saddlewick buch"
+  }
+}

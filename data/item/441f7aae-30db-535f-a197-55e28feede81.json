@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:441f7aae-30db-535f-a197-55e28feede81",
+  "name": "Asterix - Band 038 - Die Tochter des Vercingetorix",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Yves Ferri"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "441f7aae-30db-535f-a197-55e28feede81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 038 - die tochter des vercingetorix jean-yves ferri buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6678697c-dd54-5e85-a8cf-a5c25aa77b5e",
+  "name": "T-Rex World - Band 4",
+  "author": {
+    "@type": "Person",
+    "name": "Raimund Raimund Frey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6678697c-dd54-5e85-a8cf-a5c25aa77b5e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "t-rex world - band 4 raimund raimund frey buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:90717d42-1cf8-5757-88b6-7136ec6217dd",
+  "name": "Bretonischer Ruhm",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Luc Bannalec"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "90717d42-1cf8-5757-88b6-7136ec6217dd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bretonischer ruhm jean-luc bannalec buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d443b56e-7886-5d0a-8d1b-e70bc1cd4eb0",
+  "name": "Fünf Freunde - Band 127 - und die Teufelsbucht",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin McClean"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d443b56e-7886-5d0a-8d1b-e70bc1cd4eb0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 127 - und die teufelsbucht katrin mcclean buch"
+  }
+}

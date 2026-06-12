@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dccb4f88-e22e-54fd-9c16-207eb7e9abbe",
+  "name": "LESEZUG - Tierisch viel Spaß",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Ammerer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dccb4f88-e22e-54fd-9c16-207eb7e9abbe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lesezug - tierisch viel spaß karin ammerer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2135812c-878c-58c1-b510-e00e0d6e7839",
+  "name": "Night School - Band 001 - Du darfst keinem trauen",
+  "author": {
+    "@type": "Person",
+    "name": "C.J Daugherty"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2135812c-878c-58c1-b510-e00e0d6e7839",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "night school - band 001 - du darfst keinem trauen c.j daugherty buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2f6193c7-529a-57cc-8b6e-6bc78a26bb4a",
+  "name": "Bei Wehwehchen aller Art hilft dir Doktor Ziegenbart!",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Bohlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2f6193c7-529a-57cc-8b6e-6bc78a26bb4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bei wehwehchen aller art hilft dir doktor ziegenbart! sabine bohlmann buch"
+  }
+}

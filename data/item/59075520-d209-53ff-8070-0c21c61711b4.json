@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59075520-d209-53ff-8070-0c21c61711b4",
+  "name": "You will be the death of me",
+  "author": {
+    "@type": "Person",
+    "name": "Karen M. McManus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59075520-d209-53ff-8070-0c21c61711b4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "you will be the death of me karen m. mcmanus buch"
+  }
+}

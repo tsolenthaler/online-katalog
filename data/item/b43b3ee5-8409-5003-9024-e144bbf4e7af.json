@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b43b3ee5-8409-5003-9024-e144bbf4e7af",
+  "name": "Nostalgia Siciliana",
+  "author": {
+    "@type": "Person",
+    "name": "Patrizia Di Stefano"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b43b3ee5-8409-5003-9024-e144bbf4e7af",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nostalgia siciliana patrizia di stefano buch"
+  }
+}

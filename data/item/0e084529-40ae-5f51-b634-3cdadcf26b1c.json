@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0e084529-40ae-5f51-b634-3cdadcf26b1c",
+  "name": "Tausche Büro gegen Boot",
+  "author": {
+    "@type": "Person",
+    "name": "Jens Brambusch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0e084529-40ae-5f51-b634-3cdadcf26b1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tausche buro gegen boot jens brambusch buch"
+  }
+}

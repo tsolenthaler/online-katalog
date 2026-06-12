@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f483725c-eb74-5d0b-8890-5b54ffa6fe60",
+  "name": "Die Sturmschwester",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f483725c-eb74-5d0b-8890-5b54ffa6fe60",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die sturmschwester lucinda riley buch"
+  }
+}

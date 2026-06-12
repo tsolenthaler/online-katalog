@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed44a9b3-793d-5c80-9ed1-6c44374e9583",
+  "name": "Finnas Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Claudia Gürtler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed44a9b3-793d-5c80-9ed1-6c44374e9583",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finnas pferde claudia gurtler buch"
+  }
+}

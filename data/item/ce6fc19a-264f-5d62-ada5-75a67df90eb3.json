@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce6fc19a-264f-5d62-ada5-75a67df90eb3",
+  "name": "TKKG - Band 191 - Nord-Nordwest zum Hexenplatz",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce6fc19a-264f-5d62-ada5-75a67df90eb3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 191 - nord-nordwest zum hexenplatz stefan wolf buch"
+  }
+}

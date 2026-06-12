@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c0231603-0a5e-56ea-9d74-837da5429a6b",
+  "name": "Bretonische Idylle",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Luc Bannalec"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c0231603-0a5e-56ea-9d74-837da5429a6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bretonische idylle jean-luc bannalec buch"
+  }
+}

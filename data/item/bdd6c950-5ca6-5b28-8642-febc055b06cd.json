@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bdd6c950-5ca6-5b28-8642-febc055b06cd",
+  "name": "Die Piratenschiffgäng - Band 001 - Der fiese Admiral",
+  "author": {
+    "@type": "Person",
+    "name": "Irmgard Kramer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bdd6c950-5ca6-5b28-8642-febc055b06cd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die piratenschiffgang - band 001 - der fiese admiral irmgard kramer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bb48b9db-5ada-5f13-a599-8268c6a06b31",
+  "name": "Die Bücherdiebin",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Zusak"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bb48b9db-5ada-5f13-a599-8268c6a06b31",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die bucherdiebin markus zusak buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad6395a7-63fc-5697-ad4c-acb9d632b634",
+  "name": "Wieso, Weshalb, Warum - Das Pony",
+  "author": {
+    "@type": "Person",
+    "name": "Thea Roß"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad6395a7-63fc-5697-ad4c-acb9d632b634",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - das pony thea roß buch"
+  }
+}

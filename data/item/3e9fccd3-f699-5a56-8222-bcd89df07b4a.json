@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3e9fccd3-f699-5a56-8222-bcd89df07b4a",
+  "name": "Betreten der Baustelle verboten",
+  "author": {
+    "@type": "Person",
+    "name": "Lorenz Pauli"
+  },
+  "isbn": "9783715208640",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783715208640",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783715208640"
+  ],
+  "_catalog": {
+    "id": "3e9fccd3-f699-5a56-8222-bcd89df07b4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "betreten der baustelle verboten lorenz pauli 9783715208640 buch"
+  }
+}

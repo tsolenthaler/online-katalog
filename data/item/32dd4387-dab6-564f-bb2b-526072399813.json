@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:32dd4387-dab6-564f-bb2b-526072399813",
+  "name": "Biokisten-Kochbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Cornelia Schinharl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "32dd4387-dab6-564f-bb2b-526072399813",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "biokisten-kochbuch cornelia schinharl buch"
+  }
+}

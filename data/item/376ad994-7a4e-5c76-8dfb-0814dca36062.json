@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:376ad994-7a4e-5c76-8dfb-0814dca36062",
+  "name": "Dork Diaries - Nikkis schlillernde Filmkarriere",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "376ad994-7a4e-5c76-8dfb-0814dca36062",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - nikkis schlillernde filmkarriere rachel russell buch"
+  }
+}

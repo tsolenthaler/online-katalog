@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:19c1155b-0bdc-5fa2-b6d5-1c1e74f9229c",
+  "name": "Cubitus - Band 021 - Katzenmusik",
+  "author": {
+    "@type": "Person",
+    "name": "Dupa"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "19c1155b-0bdc-5fa2-b6d5-1c1e74f9229c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cubitus - band 021 - katzenmusik dupa buch"
+  }
+}

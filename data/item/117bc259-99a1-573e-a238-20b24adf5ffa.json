@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:117bc259-99a1-573e-a238-20b24adf5ffa",
+  "name": "yoko tsuno - Band 020 - Der Astrologe von Brügge",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Leloup"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "117bc259-99a1-573e-a238-20b24adf5ffa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoko tsuno - band 020 - der astrologe von brugge roger leloup buch"
+  }
+}

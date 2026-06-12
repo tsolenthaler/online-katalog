@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4525697e-9f0b-5d6e-90b7-a48d5ed4b809",
+  "name": "Frieden",
+  "author": {
+    "@type": "Person",
+    "name": "Joana Osman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4525697e-9f0b-5d6e-90b7-a48d5ed4b809",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frieden joana osman buch"
+  }
+}

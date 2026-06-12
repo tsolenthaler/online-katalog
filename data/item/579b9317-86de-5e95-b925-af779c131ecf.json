@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:579b9317-86de-5e95-b925-af779c131ecf",
+  "name": "Finsterhaus",
+  "author": {
+    "@type": "Person",
+    "name": "Johanna Mo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "579b9317-86de-5e95-b925-af779c131ecf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "finsterhaus johanna mo buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:957a0cbe-4d8c-51cb-808a-9bf6cd324a30",
+  "name": "Fünf Freunde - Band 058 - und die falsche Prinzessin",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "957a0cbe-4d8c-51cb-808a-9bf6cd324a30",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 058 - und die falsche prinzessin enid blyton buch"
+  }
+}

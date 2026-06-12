@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bada8606-e71c-54dd-9060-249c99c22dad",
+  "name": "Biss zur Mittagsstunde - Band 02",
+  "author": {
+    "@type": "Person",
+    "name": "Stephenie Meyer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bada8606-e71c-54dd-9060-249c99c22dad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "biss zur mittagsstunde - band 02 stephenie meyer buch"
+  }
+}

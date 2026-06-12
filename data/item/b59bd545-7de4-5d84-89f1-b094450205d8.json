@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b59bd545-7de4-5d84-89f1-b094450205d8",
+  "name": "Matti kann schon fast alles",
+  "author": {
+    "@type": "Person",
+    "name": "Lou Peacock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b59bd545-7de4-5d84-89f1-b094450205d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "matti kann schon fast alles lou peacock buch"
+  }
+}

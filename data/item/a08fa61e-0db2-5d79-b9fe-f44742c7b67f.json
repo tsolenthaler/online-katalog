@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a08fa61e-0db2-5d79-b9fe-f44742c7b67f",
+  "name": "Klemmentinis für Kinder",
+  "author": {
+    "@type": "Person",
+    "name": "Kornelia Milan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a08fa61e-0db2-5d79-b9fe-f44742c7b67f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "klemmentinis fur kinder kornelia milan buch"
+  }
+}

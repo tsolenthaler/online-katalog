@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc5ca7bf-a090-5798-8a45-90dd760ce42b",
+  "name": "Everything we left unsaid",
+  "author": {
+    "@type": "Person",
+    "name": "Kathrin Lange"
+  },
+  "isbn": "9783401606774",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783401606774",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783401606774"
+  ],
+  "_catalog": {
+    "id": "cc5ca7bf-a090-5798-8a45-90dd760ce42b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "everything we left unsaid kathrin lange 9783401606774 buch"
+  }
+}

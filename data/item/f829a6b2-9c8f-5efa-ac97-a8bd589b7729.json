@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f829a6b2-9c8f-5efa-ac97-a8bd589b7729",
+  "name": "Albertli",
+  "author": {
+    "@type": "Person",
+    "name": "Albert Manser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f829a6b2-9c8f-5efa-ac97-a8bd589b7729",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "albertli albert manser buch"
+  }
+}

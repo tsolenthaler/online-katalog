@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de151475-ef39-508e-8d25-f09a4402240b",
+  "name": "Spirou + Fantasio - Band 020 - Zauberei in der Abtei",
+  "author": {
+    "@type": "Person",
+    "name": "Fournier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de151475-ef39-508e-8d25-f09a4402240b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 020 - zauberei in der abtei fournier buch"
+  }
+}

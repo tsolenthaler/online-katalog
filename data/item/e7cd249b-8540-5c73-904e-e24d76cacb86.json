@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7cd249b-8540-5c73-904e-e24d76cacb86",
+  "name": "Café Alba; Zeiten in goldenem Glanz",
+  "author": {
+    "@type": "Person",
+    "name": "Emilia Lombardi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7cd249b-8540-5c73-904e-e24d76cacb86",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cafe alba; zeiten in goldenem glanz emilia lombardi buch"
+  }
+}

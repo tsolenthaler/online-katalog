@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf508904-8195-58d4-9068-8a8e310f0917",
+  "name": "Smörgås - Gemeinsam gemütlich geniessen",
+  "author": {
+    "@type": "Person",
+    "name": "Tanja Dusy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf508904-8195-58d4-9068-8a8e310f0917",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "smorgas - gemeinsam gemutlich geniessen tanja dusy buch"
+  }
+}

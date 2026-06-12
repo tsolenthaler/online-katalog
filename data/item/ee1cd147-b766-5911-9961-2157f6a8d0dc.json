@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee1cd147-b766-5911-9961-2157f6a8d0dc",
+  "name": "Der kleine Biber und die Tiere am Fluss",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Reichenstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee1cd147-b766-5911-9961-2157f6a8d0dc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine biber und die tiere am fluss friederun reichenstetter buch"
+  }
+}

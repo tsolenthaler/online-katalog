@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cd7de915-699b-571a-a787-b861095405d2",
+  "name": "Die drei ??? - Band 202 - Das weisse Grab",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Nevis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cd7de915-699b-571a-a787-b861095405d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 202 - das weisse grab ben nevis buch"
+  }
+}

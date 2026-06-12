@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dfc280bf-8b7a-5045-81bd-bcfe4d86e6ba",
+  "name": "Die drei Musketiere",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandre Dumas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dfc280bf-8b7a-5045-81bd-bcfe4d86e6ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei musketiere alexandre dumas buch"
+  }
+}

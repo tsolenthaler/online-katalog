@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9ae516fc-3d65-5bcd-885b-479f1f3230ca",
+  "name": "Asterix - Die Lorbeeren des Cäsar",
+  "author": {
+    "@type": "Person",
+    "name": "Daniela Wakonigg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9ae516fc-3d65-5bcd-885b-479f1f3230ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - die lorbeeren des casar daniela wakonigg buch"
+  }
+}

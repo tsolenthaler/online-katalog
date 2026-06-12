@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1fad7d3e-a774-57de-9a05-70769b2ab36c",
+  "name": "Gregs Tagebuch - Band 007 -Dumm Gelaufen",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1fad7d3e-a774-57de-9a05-70769b2ab36c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tagebuch - band 007 -dumm gelaufen jeff kinney buch"
+  }
+}

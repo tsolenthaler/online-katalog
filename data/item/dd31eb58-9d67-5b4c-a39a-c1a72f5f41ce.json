@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd31eb58-9d67-5b4c-a39a-c1a72f5f41ce",
+  "name": "Kiss the Bodyguard - Band 02 - Kiss me twice",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Tack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd31eb58-9d67-5b4c-a39a-c1a72f5f41ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kiss the bodyguard - band 02 - kiss me twice stella tack buch"
+  }
+}

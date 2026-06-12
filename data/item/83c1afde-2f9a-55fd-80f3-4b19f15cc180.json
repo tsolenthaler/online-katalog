@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:83c1afde-2f9a-55fd-80f3-4b19f15cc180",
+  "name": "Perfect storm",
+  "author": {
+    "@type": "Person",
+    "name": "Dirk Reinhardt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "83c1afde-2f9a-55fd-80f3-4b19f15cc180",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "perfect storm dirk reinhardt buch"
+  }
+}

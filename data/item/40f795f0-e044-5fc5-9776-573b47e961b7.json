@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:40f795f0-e044-5fc5-9776-573b47e961b7",
+  "name": "Der Geisterkickboarder - Band 001 - auf der Jagd",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Baiker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "40f795f0-e044-5fc5-9776-573b47e961b7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geisterkickboarder - band 001 - auf der jagd stefan baiker buch"
+  }
+}

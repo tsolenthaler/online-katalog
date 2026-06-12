@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4e29c624-935b-563c-8c23-388ff479f5d5",
+  "name": "Golden Horses - Gemeinsam dem Horizont entgegen",
+  "author": {
+    "@type": "Person",
+    "name": "Lauren Brooke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4e29c624-935b-563c-8c23-388ff479f5d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "golden horses - gemeinsam dem horizont entgegen lauren brooke buch"
+  }
+}

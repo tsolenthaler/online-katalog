@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cdc3d712-4e73-5273-b797-df0c8ed8e385",
+  "name": "Kopf hoch! Smartphone ist heilbar",
+  "author": {
+    "@type": "Person",
+    "name": "Oli Hilbring"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cdc3d712-4e73-5273-b797-df0c8ed8e385",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kopf hoch! smartphone ist heilbar oli hilbring buch"
+  }
+}

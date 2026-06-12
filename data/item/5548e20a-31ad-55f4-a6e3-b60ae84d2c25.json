@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5548e20a-31ad-55f4-a6e3-b60ae84d2c25",
+  "name": "Das tiefschwarze Herz",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Galbraith"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5548e20a-31ad-55f4-a6e3-b60ae84d2c25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das tiefschwarze herz robert galbraith buch"
+  }
+}

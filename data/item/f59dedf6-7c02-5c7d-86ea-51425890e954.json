@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f59dedf6-7c02-5c7d-86ea-51425890e954",
+  "name": "Expedition Nachtland",
+  "author": {
+    "@type": "Person",
+    "name": "Herbert Osenger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f59dedf6-7c02-5c7d-86ea-51425890e954",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "expedition nachtland herbert osenger buch"
+  }
+}

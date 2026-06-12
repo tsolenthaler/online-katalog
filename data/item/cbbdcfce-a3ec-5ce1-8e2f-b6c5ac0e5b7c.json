@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cbbdcfce-a3ec-5ce1-8e2f-b6c5ac0e5b7c",
+  "name": "So bleibt Ihr Gehirn fit",
+  "author": {
+    "@type": "Person",
+    "name": "Rita Carter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cbbdcfce-a3ec-5ce1-8e2f-b6c5ac0e5b7c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "so bleibt ihr gehirn fit rita carter buch"
+  }
+}

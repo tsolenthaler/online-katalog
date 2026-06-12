@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4c68a068-4137-5c52-8679-d4cbd1656597",
+  "name": "Bis zum letzten Tag",
+  "author": {
+    "@type": "Person",
+    "name": "Nicholas Sparks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4c68a068-4137-5c52-8679-d4cbd1656597",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bis zum letzten tag nicholas sparks buch"
+  }
+}

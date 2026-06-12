@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b19767ac-43f8-519c-a135-8622c4bd47de",
+  "name": "Troubadour",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Walker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b19767ac-43f8-519c-a135-8622c4bd47de",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "troubadour martin walker buch"
+  }
+}

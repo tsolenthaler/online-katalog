@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ab5806be-3a1f-55a3-a0d8-99a1d67698a8",
+  "name": "Die drei !!! - Band 055 - Wildpferd in Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Sol"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ab5806be-3a1f-55a3-a0d8-99a1d67698a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 055 - wildpferd in gefahr mira sol buch"
+  }
+}

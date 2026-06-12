@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d3f52713-a5f0-5580-9023-7fc147175a95",
+  "name": "Jonas Fink - Band 003 - Verdachtsmomente",
+  "author": {
+    "@type": "Person",
+    "name": "Giardino"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d3f52713-a5f0-5580-9023-7fc147175a95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jonas fink - band 003 - verdachtsmomente giardino buch"
+  }
+}

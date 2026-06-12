@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dee6a3ba-3564-5f00-b3a5-14879e33475f",
+  "name": "Das Tor zur Welt - Träume (1)",
+  "author": {
+    "@type": "Person",
+    "name": "Miriam Georg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dee6a3ba-3564-5f00-b3a5-14879e33475f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das tor zur welt - traume (1) miriam georg buch"
+  }
+}

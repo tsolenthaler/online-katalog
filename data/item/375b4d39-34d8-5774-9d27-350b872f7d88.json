@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:375b4d39-34d8-5774-9d27-350b872f7d88",
+  "name": "Kiss the Bodyguard - Band 03 - Kiss Me Now",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Tack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "375b4d39-34d8-5774-9d27-350b872f7d88",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kiss the bodyguard - band 03 - kiss me now stella tack buch"
+  }
+}

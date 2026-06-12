@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9e3e8dcb-15b7-5982-8158-760e2682876d",
+  "name": "WAS IST WAS - Im Reich der Dinosaurier",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Wehrmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9e3e8dcb-15b7-5982-8158-760e2682876d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - im reich der dinosaurier nele wehrmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f0d5e91-591a-570e-9ede-8f7d0f39332a",
+  "name": "TKKG - Band 214 - Diamantenrausch auf der A9",
+  "author": {
+    "@type": "Person",
+    "name": "Wolf Stefan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0f0d5e91-591a-570e-9ede-8f7d0f39332a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg - band 214 - diamantenrausch auf der a9 wolf stefan buch"
+  }
+}

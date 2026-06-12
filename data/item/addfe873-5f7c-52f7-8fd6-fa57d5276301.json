@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:addfe873-5f7c-52f7-8fd6-fa57d5276301",
+  "name": "Wieso, Weshalb, Warum - Die Jahreszeiten",
+  "author": {
+    "@type": "Person",
+    "name": "Constanza Droop"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "addfe873-5f7c-52f7-8fd6-fa57d5276301",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - die jahreszeiten constanza droop buch"
+  }
+}

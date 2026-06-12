@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2bb600f-a3a7-5460-ba94-0b1e213259d9",
+  "name": "Tom Gates - Band 009 - Läuft! (Wohin eigentlich?)",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2bb600f-a3a7-5460-ba94-0b1e213259d9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 009 - lauft! (wohin eigentlich?) liz pichon buch"
+  }
+}

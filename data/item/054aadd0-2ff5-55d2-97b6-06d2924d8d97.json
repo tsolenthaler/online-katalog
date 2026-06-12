@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:054aadd0-2ff5-55d2-97b6-06d2924d8d97",
+  "name": "Zilly und Zingaro; Das Sportfest der Zauberinnen",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Korky"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "054aadd0-2ff5-55d2-97b6-06d2924d8d97",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro; das sportfest der zauberinnen paul korky buch"
+  }
+}

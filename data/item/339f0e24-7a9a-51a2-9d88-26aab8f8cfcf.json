@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:339f0e24-7a9a-51a2-9d88-26aab8f8cfcf",
+  "name": "Rick Nautilus - Band 1 - SOS aus der Tiefe",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "339f0e24-7a9a-51a2-9d88-26aab8f8cfcf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rick nautilus - band 1 - sos aus der tiefe ulf blanck buch"
+  }
+}

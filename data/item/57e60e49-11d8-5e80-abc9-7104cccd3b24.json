@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:57e60e49-11d8-5e80-abc9-7104cccd3b24",
+  "name": "Der fabelhafte Regenschirm, Die verrückte Stadt",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Storm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "57e60e49-11d8-5e80-abc9-7104cccd3b24",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der fabelhafte regenschirm, die verruckte stadt sarah storm buch"
+  }
+}

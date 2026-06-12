@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c95dfc4f-99d4-5408-a316-e87fdd24b06f",
+  "name": "Die drei ??? - Band 206 - die falschen Detektive",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Nevis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c95dfc4f-99d4-5408-a316-e87fdd24b06f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 206 - die falschen detektive ben nevis buch"
+  }
+}

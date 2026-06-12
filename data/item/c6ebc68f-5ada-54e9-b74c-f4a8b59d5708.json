@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c6ebc68f-5ada-54e9-b74c-f4a8b59d5708",
+  "name": "Rache im Blick",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Roberts"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c6ebc68f-5ada-54e9-b74c-f4a8b59d5708",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rache im blick nora roberts buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:87b85cc2-15bb-5c53-948c-410c720cdc8b",
+  "name": "Niniago- Die Meister der dunklen Magie",
+  "author": {
+    "@type": "Person",
+    "name": "Greg Farshtey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "87b85cc2-15bb-5c53-948c-410c720cdc8b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "niniago- die meister der dunklen magie greg farshtey buch"
+  }
+}

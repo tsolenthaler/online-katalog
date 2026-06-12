@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6d94175b-25f0-5a04-ad4d-4bf0d8c872fa",
+  "name": "Drei Wünsche für den Hasen",
+  "author": {
+    "@type": "Person",
+    "name": "Chris Saunders"
+  },
+  "isbn": "9783038762812",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783038762812",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783038762812"
+  ],
+  "_catalog": {
+    "id": "6d94175b-25f0-5a04-ad4d-4bf0d8c872fa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "drei wunsche fur den hasen chris saunders 9783038762812 buch"
+  }
+}

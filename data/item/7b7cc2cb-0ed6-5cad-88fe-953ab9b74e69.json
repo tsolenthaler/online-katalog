@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7b7cc2cb-0ed6-5cad-88fe-953ab9b74e69",
+  "name": "1000 Gefahren Junior - Ein tierisch guter Plan",
+  "author": {
+    "@type": "Person",
+    "name": "Fabian Lenk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7b7cc2cb-0ed6-5cad-88fe-953ab9b74e69",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "1000 gefahren junior - ein tierisch guter plan fabian lenk buch"
+  }
+}

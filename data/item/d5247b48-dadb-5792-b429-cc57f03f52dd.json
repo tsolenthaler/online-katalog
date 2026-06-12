@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5247b48-dadb-5792-b429-cc57f03f52dd",
+  "name": "Morgens bei uns!",
+  "author": {
+    "@type": "Person",
+    "name": "Kim Crocket Corson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5247b48-dadb-5792-b429-cc57f03f52dd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morgens bei uns! kim crocket corson buch"
+  }
+}

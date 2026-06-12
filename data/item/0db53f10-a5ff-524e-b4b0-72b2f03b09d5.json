@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0db53f10-a5ff-524e-b4b0-72b2f03b09d5",
+  "name": "Annemarie Wildeisens Kochen - 2024/12",
+  "author": {
+    "@type": "Person",
+    "name": "Wildeisen Annemarie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0db53f10-a5ff-524e-b4b0-72b2f03b09d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "annemarie wildeisens kochen - 2024/12 wildeisen annemarie buch"
+  }
+}

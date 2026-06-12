@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa929dbf-805b-521e-8053-117fb3109378",
+  "name": "Gangsta-Oma schlägt wieder zu!",
+  "author": {
+    "@type": "Person",
+    "name": "David Walliams"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa929dbf-805b-521e-8053-117fb3109378",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gangsta-oma schlagt wieder zu! david walliams buch"
+  }
+}

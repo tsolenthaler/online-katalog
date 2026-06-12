@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec945b7f-f831-5bf9-b6c0-9d7545a3bbd0",
+  "name": "Der Fänger",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Franz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec945b7f-f831-5bf9-b6c0-9d7545a3bbd0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der fanger andreas franz buch"
+  }
+}

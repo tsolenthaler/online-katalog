@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e8aadc14-641d-5224-9a79-dfee3da5ec20",
+  "name": "Religionen der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Holger Stiegler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e8aadc14-641d-5224-9a79-dfee3da5ec20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "religionen der welt holger stiegler buch"
+  }
+}

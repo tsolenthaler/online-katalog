@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:863f0cad-1a8e-59c8-9b8c-b9737d210c11",
+  "name": "Beat it up",
+  "author": {
+    "@type": "Person",
+    "name": "Stella Tack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "863f0cad-1a8e-59c8-9b8c-b9737d210c11",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beat it up stella tack buch"
+  }
+}

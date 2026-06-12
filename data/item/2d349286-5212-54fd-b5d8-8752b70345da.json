@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2d349286-5212-54fd-b5d8-8752b70345da",
+  "name": "KLAR; Der Cybermobbingalbtraum",
+  "author": {
+    "@type": "Person",
+    "name": "Annette Weber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2d349286-5212-54fd-b5d8-8752b70345da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "klar; der cybermobbingalbtraum annette weber buch"
+  }
+}

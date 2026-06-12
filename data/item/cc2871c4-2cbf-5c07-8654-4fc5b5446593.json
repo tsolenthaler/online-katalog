@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc2871c4-2cbf-5c07-8654-4fc5b5446593",
+  "name": "Der Skandal im Spreepalast",
+  "author": {
+    "@type": "Person",
+    "name": "Kari Erlhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc2871c4-2cbf-5c07-8654-4fc5b5446593",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der skandal im spreepalast kari erlhoff buch"
+  }
+}

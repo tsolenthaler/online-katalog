@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9446bc0a-71c9-5b39-8ace-1e09361e092b",
+  "name": "Tiefes, dunkles Blau",
+  "author": {
+    "@type": "Person",
+    "name": "Seraina Kobler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9446bc0a-71c9-5b39-8ace-1e09361e092b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiefes, dunkles blau seraina kobler buch"
+  }
+}

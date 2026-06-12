@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8bc2a180-2b5c-598a-9567-315950b1576e",
+  "name": "Wie lange ist nie mehr",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Büchel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8bc2a180-2b5c-598a-9567-315950b1576e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie lange ist nie mehr doris buchel buch"
+  }
+}

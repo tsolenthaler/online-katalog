@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dc4963dd-e1b7-59f4-93cc-6fec220ac59a",
+  "name": "Die 95. Minute",
+  "author": {
+    "@type": "Person",
+    "name": "Will Gmehling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dc4963dd-e1b7-59f4-93cc-6fec220ac59a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die 95. minute will gmehling buch"
+  }
+}

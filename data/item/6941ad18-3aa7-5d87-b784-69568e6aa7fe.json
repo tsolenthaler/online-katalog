@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6941ad18-3aa7-5d87-b784-69568e6aa7fe",
+  "name": "Opal; Schattenglanz",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer L. Armentrout"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6941ad18-3aa7-5d87-b784-69568e6aa7fe",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "opal; schattenglanz jennifer l. armentrout buch"
+  }
+}

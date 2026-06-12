@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c811af20-8b32-504f-9e87-c2f3cc8376a8",
+  "name": "Ich kann alles",
+  "author": {
+    "@type": "Person",
+    "name": "Heinz Janisch"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c811af20-8b32-504f-9e87-c2f3cc8376a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich kann alles heinz janisch buch"
+  }
+}

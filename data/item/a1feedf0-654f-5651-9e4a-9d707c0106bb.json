@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1feedf0-654f-5651-9e4a-9d707c0106bb",
+  "name": "Always You",
+  "author": {
+    "@type": "Person",
+    "name": "Samantha Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1feedf0-654f-5651-9e4a-9d707c0106bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "always you samantha young buch"
+  }
+}

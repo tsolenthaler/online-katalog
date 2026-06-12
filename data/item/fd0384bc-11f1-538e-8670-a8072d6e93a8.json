@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd0384bc-11f1-538e-8670-a8072d6e93a8",
+  "name": "Radeln am Bodensee",
+  "author": {
+    "@type": "Person",
+    "name": "Wolfgang Amadeus Müller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd0384bc-11f1-538e-8670-a8072d6e93a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "radeln am bodensee wolfgang amadeus muller buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d4e203e1-7c47-5060-9cb2-52e8710fb951",
+  "name": "Die drei !!! - Band 061 - Der Fall der Dornröschen",
+  "author": {
+    "@type": "Person",
+    "name": "Kari Erlhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d4e203e1-7c47-5060-9cb2-52e8710fb951",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 061 - der fall der dornroschen kari erlhoff buch"
+  }
+}

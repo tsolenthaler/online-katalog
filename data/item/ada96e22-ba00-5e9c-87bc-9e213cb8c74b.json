@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ada96e22-ba00-5e9c-87bc-9e213cb8c74b",
+  "name": "Die Tränen der Maori-Göttin",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Lark"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ada96e22-ba00-5e9c-87bc-9e213cb8c74b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tranen der maori-gottin sarah lark buch"
+  }
+}

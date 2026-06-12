@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb023a1c-1084-5aa2-b45c-4b14044b6a34",
+  "name": "Schicksalssterne",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Lark"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb023a1c-1084-5aa2-b45c-4b14044b6a34",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schicksalssterne sarah lark buch"
+  }
+}

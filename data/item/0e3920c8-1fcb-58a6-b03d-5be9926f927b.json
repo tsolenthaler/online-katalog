@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0e3920c8-1fcb-58a6-b03d-5be9926f927b",
+  "name": "Das kleine Böse Buch - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Magnus Myst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0e3920c8-1fcb-58a6-b03d-5be9926f927b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kleine bose buch - band 1 magnus myst buch"
+  }
+}

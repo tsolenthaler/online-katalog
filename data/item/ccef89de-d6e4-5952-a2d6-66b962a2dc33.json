@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ccef89de-d6e4-5952-a2d6-66b962a2dc33",
+  "name": "No legs, no limits!",
+  "author": {
+    "@type": "Person",
+    "name": "Rüdiger Böhm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ccef89de-d6e4-5952-a2d6-66b962a2dc33",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "no legs, no limits! rudiger bohm buch"
+  }
+}

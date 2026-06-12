@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eab4f27f-2d05-53b1-84d7-1fb0ad8ca6d7",
+  "name": "Kennst du das? Das große Tiere-Bildwörterbuch",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eab4f27f-2d05-53b1-84d7-1fb0ad8ca6d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kennst du das? das große tiere-bildworterbuch buch"
+  }
+}

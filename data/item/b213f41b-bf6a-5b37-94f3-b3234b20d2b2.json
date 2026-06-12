@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b213f41b-bf6a-5b37-94f3-b3234b20d2b2",
+  "name": "Das kleine Böse Buch (5)",
+  "author": {
+    "@type": "Person",
+    "name": "Magnus Myst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b213f41b-bf6a-5b37-94f3-b3234b20d2b2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kleine bose buch (5) magnus myst buch"
+  }
+}

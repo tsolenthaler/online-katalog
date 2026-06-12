@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:256b9eb6-475a-5456-b299-01c1de5b4eee",
+  "name": "Traktoren aus aller Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Joachim M. Köstnick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "256b9eb6-475a-5456-b299-01c1de5b4eee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "traktoren aus aller welt joachim m. kostnick buch"
+  }
+}

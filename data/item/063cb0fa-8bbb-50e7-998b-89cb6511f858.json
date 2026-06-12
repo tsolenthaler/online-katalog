@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:063cb0fa-8bbb-50e7-998b-89cb6511f858",
+  "name": "Globi - und die Tiere im Zoo",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Andreas Müller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "063cb0fa-8bbb-50e7-998b-89cb6511f858",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - und die tiere im zoo walter andreas muller buch"
+  }
+}

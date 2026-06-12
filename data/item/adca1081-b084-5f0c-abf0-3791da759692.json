@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:adca1081-b084-5f0c-abf0-3791da759692",
+  "name": "Robin und der Ritter Ich-Ich-Ich",
+  "author": {
+    "@type": "Person",
+    "name": "Ute Krause"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "adca1081-b084-5f0c-abf0-3791da759692",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "robin und der ritter ich-ich-ich ute krause buch"
+  }
+}

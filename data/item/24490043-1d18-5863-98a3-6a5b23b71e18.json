@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:24490043-1d18-5863-98a3-6a5b23b71e18",
+  "name": "Hella Pfefferkessel - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Britta Sabbag"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "24490043-1d18-5863-98a3-6a5b23b71e18",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hella pfefferkessel - band 1 britta sabbag buch"
+  }
+}

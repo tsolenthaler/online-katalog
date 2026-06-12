@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5d459b2-aab9-5652-ab42-3346a07fe707",
+  "name": "SWITCH YOU. Völlig übergeschnAPPt!",
+  "author": {
+    "@type": "Person",
+    "name": "Nikolai Renger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5d459b2-aab9-5652-ab42-3346a07fe707",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "switch you. vollig ubergeschnappt! nikolai renger buch"
+  }
+}

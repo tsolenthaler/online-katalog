@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7cf7fa43-ee06-5bdb-b2cf-80fa62bec878",
+  "name": "Rodrigo Raubein und Knirps, sein Knappe",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7cf7fa43-ee06-5bdb-b2cf-80fa62bec878",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rodrigo raubein und knirps, sein knappe michael ende buch"
+  }
+}

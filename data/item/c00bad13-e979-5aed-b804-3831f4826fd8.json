@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c00bad13-e979-5aed-b804-3831f4826fd8",
+  "name": "Ever since - I loved you",
+  "author": {
+    "@type": "Person",
+    "name": "Elle Kennedy"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c00bad13-e979-5aed-b804-3831f4826fd8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ever since - i loved you elle kennedy buch"
+  }
+}

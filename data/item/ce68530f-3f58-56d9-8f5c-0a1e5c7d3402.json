@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce68530f-3f58-56d9-8f5c-0a1e5c7d3402",
+  "name": "Elbstürme",
+  "author": {
+    "@type": "Person",
+    "name": "Miriam Georg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce68530f-3f58-56d9-8f5c-0a1e5c7d3402",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "elbsturme miriam georg buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:14a20aac-7ddd-5ad4-8d77-4555f8ff6522",
+  "name": "Warum wir weinen",
+  "author": {
+    "@type": "Person",
+    "name": "Fran Pintadera"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "14a20aac-7ddd-5ad4-8d77-4555f8ff6522",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "warum wir weinen fran pintadera buch"
+  }
+}

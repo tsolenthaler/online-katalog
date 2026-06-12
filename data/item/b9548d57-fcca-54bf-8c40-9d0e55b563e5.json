@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9548d57-fcca-54bf-8c40-9d0e55b563e5",
+  "name": "Lebe nach deinen eigenen Regeln",
+  "author": {
+    "@type": "Person",
+    "name": "Vishen Lakhiani"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9548d57-fcca-54bf-8c40-9d0e55b563e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lebe nach deinen eigenen regeln vishen lakhiani buch"
+  }
+}

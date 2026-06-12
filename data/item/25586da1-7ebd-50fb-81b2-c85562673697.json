@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25586da1-7ebd-50fb-81b2-c85562673697",
+  "name": "Der Bruder",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Brand"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25586da1-7ebd-50fb-81b2-c85562673697",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der bruder christine brand buch"
+  }
+}

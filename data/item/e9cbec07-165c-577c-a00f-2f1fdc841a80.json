@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9cbec07-165c-577c-a00f-2f1fdc841a80",
+  "name": "Der kleine Frosch und seine Freunde",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Reichenstetter"
+  },
+  "isbn": "9787535061997",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9787535061997",
+    "https://portal.dnb.de/opac/simpleSearch?query=9787535061997"
+  ],
+  "_catalog": {
+    "id": "e9cbec07-165c-577c-a00f-2f1fdc841a80",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kleine frosch und seine freunde friederun reichenstetter 9787535061997 buch"
+  }
+}

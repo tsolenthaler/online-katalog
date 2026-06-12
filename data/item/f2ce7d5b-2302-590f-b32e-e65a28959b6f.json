@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2ce7d5b-2302-590f-b32e-e65a28959b6f",
+  "name": "Die 66 verrücktesten Tierstimmen der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Mario Ludwig"
+  },
+  "isbn": "9783835405615",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783835405615",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783835405615"
+  ],
+  "_catalog": {
+    "id": "f2ce7d5b-2302-590f-b32e-e65a28959b6f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die 66 verrucktesten tierstimmen der welt mario ludwig 9783835405615 buch"
+  }
+}

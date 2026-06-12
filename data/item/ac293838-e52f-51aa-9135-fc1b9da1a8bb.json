@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac293838-e52f-51aa-9135-fc1b9da1a8bb",
+  "name": "Sterbekammer",
+  "author": {
+    "@type": "Person",
+    "name": "Romy Fölck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac293838-e52f-51aa-9135-fc1b9da1a8bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sterbekammer romy folck buch"
+  }
+}

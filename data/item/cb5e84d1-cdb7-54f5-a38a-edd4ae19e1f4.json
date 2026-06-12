@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb5e84d1-cdb7-54f5-a38a-edd4ae19e1f4",
+  "name": "De Füürweehrmaa Sämi - Die spannendste Gschichte 3",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb5e84d1-cdb7-54f5-a38a-edd4ae19e1f4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "de fuurweehrmaa sami - die spannendste gschichte 3 buch"
+  }
+}

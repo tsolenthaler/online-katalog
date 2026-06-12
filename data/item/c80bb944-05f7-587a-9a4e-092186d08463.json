@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c80bb944-05f7-587a-9a4e-092186d08463",
+  "name": "Wut ist ein Geschenk",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Gandhi"
+  },
+  "isbn": "9783742403056",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783742403056",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783742403056"
+  ],
+  "_catalog": {
+    "id": "c80bb944-05f7-587a-9a4e-092186d08463",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "wut ist ein geschenk arun gandhi 9783742403056 buch"
+  }
+}

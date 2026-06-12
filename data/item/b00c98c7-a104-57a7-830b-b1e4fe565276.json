@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b00c98c7-a104-57a7-830b-b1e4fe565276",
+  "name": "Hildur – Die Toten am Meer",
+  "author": {
+    "@type": "Person",
+    "name": "Satu Rämö"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b00c98c7-a104-57a7-830b-b1e4fe565276",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hildur – die toten am meer satu ramo buch"
+  }
+}

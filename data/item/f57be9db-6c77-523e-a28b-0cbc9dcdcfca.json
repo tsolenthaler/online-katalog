@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f57be9db-6c77-523e-a28b-0cbc9dcdcfca",
+  "name": "TKKG Junior - Band 011 - Rote Karte für Betrüger",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Brügger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f57be9db-6c77-523e-a28b-0cbc9dcdcfca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 011 - rote karte fur betruger katja brugger buch"
+  }
+}

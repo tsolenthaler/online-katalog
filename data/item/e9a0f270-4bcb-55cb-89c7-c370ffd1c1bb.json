@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9a0f270-4bcb-55cb-89c7-c370ffd1c1bb",
+  "name": "Bomben Badespass",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Bercaw"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e9a0f270-4bcb-55cb-89c7-c370ffd1c1bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bomben badespass isabel bercaw buch"
+  }
+}

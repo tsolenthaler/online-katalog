@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8eb22c08-1a60-52c8-b6e4-ae6ab88cbc58",
+  "name": "Night School - Band 002 - der den Zweifel sät",
+  "author": {
+    "@type": "Person",
+    "name": "C.J Daugherty"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8eb22c08-1a60-52c8-b6e4-ae6ab88cbc58",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "night school - band 002 - der den zweifel sat c.j daugherty buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:45a993f6-af17-5666-bdf8-2a5967dc846a",
+  "name": "Wieso Weshalb Warum - Ängstlich, wütend, fröhlich sein",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Rübel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "45a993f6-af17-5666-bdf8-2a5967dc846a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - angstlich, wutend, frohlich sein doris rubel buch"
+  }
+}

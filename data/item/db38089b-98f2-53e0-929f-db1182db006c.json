@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db38089b-98f2-53e0-929f-db1182db006c",
+  "name": "Ich und meine Gefühle",
+  "author": {
+    "@type": "Person",
+    "name": "Holde Kreul"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db38089b-98f2-53e0-929f-db1182db006c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich und meine gefuhle holde kreul buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4fcc2ffe-f47e-52dc-8836-e03d1e9d49c7",
+  "name": "Globine - Band 001 - und die verschwundenen Pferde",
+  "author": {
+    "@type": "Person",
+    "name": "Kamil Krejci"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4fcc2ffe-f47e-52dc-8836-e03d1e9d49c7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine - band 001 - und die verschwundenen pferde kamil krejci buch"
+  }
+}

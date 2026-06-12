@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9f3fc6ad-1713-551a-a986-b9eb5a2cfd7f",
+  "name": "Die spürst du nicht",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Glattauer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9f3fc6ad-1713-551a-a986-b9eb5a2cfd7f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die spurst du nicht daniel glattauer buch"
+  }
+}

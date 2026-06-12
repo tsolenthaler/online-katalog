@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d728bc37-9999-5501-92c5-b2e6f8cc3512",
+  "name": "Babyjahre",
+  "author": {
+    "@type": "Person",
+    "name": "Remo H. Largo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d728bc37-9999-5501-92c5-b2e6f8cc3512",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "babyjahre remo h. largo buch"
+  }
+}

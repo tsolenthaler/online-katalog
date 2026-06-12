@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4e0bdc6-7bf9-5970-b39e-bd7a0c843c6b",
+  "name": "Die drei ??? Kids - Band 020 - Die geheimen Inseln",
+  "author": {
+    "@type": "Person",
+    "name": "Boris Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4e0bdc6-7bf9-5970-b39e-bd7a0c843c6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 020 - die geheimen inseln boris pfeiffer buch"
+  }
+}

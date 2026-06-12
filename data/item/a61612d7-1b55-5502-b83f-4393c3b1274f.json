@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a61612d7-1b55-5502-b83f-4393c3b1274f",
+  "name": "Gschichte vo zauberhafte Tier verzellt vo de Trudi",
+  "author": {
+    "@type": "Person",
+    "name": "Trudi Gerster"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a61612d7-1b55-5502-b83f-4393c3b1274f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gschichte vo zauberhafte tier verzellt vo de trudi trudi gerster buch"
+  }
+}

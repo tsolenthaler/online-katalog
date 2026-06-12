@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15231c42-3887-59e6-9604-27a6a659e77a",
+  "name": "Don't hate me - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Lena Kiefer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15231c42-3887-59e6-9604-27a6a659e77a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "don't hate me - band 2 lena kiefer buch"
+  }
+}

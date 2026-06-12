@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef7344c9-d83a-5f13-b86f-e62086ceb7b1",
+  "name": "Himmelsblüte - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Roberts"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef7344c9-d83a-5f13-b86f-e62086ceb7b1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "himmelsblute - band 2 nora roberts buch"
+  }
+}

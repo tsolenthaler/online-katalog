@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:15059b4a-e963-5b9a-8e3d-3ec6a77013e5",
+  "name": "De Meischter Eder und sin Pumuckl - Band 018 - E tolli",
+  "author": {
+    "@type": "Person",
+    "name": "Ellis Kaut"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "15059b4a-e963-5b9a-8e3d-3ec6a77013e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "de meischter eder und sin pumuckl - band 018 - e tolli ellis kaut buch"
+  }
+}

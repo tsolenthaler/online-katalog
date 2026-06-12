@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c6536a81-8cef-5767-b532-e9109ca9b4b9",
+  "name": "Globi - Band 094 - und die Ozeane",
+  "author": {
+    "@type": "Person",
+    "name": "Jürg Lendenmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c6536a81-8cef-5767-b532-e9109ca9b4b9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 094 - und die ozeane jurg lendenmann buch"
+  }
+}

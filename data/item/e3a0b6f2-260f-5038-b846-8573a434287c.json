@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3a0b6f2-260f-5038-b846-8573a434287c",
+  "name": "Hin und nicht weg",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Keil"
+  },
+  "isbn": "9783104909943",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783104909943",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783104909943"
+  ],
+  "_catalog": {
+    "id": "e3a0b6f2-260f-5038-b846-8573a434287c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "hin und nicht weg lisa keil 9783104909943 buch"
+  }
+}

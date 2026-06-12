@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5e32a93c-5e81-5ddd-a1e3-85408cb8efb8",
+  "name": "Kräne",
+  "author": {
+    "@type": "Person",
+    "name": "Fleur Star"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5e32a93c-5e81-5ddd-a1e3-85408cb8efb8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krane fleur star buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb5ac35e-65b9-5d84-8c82-e66f9e4f9bab",
+  "name": "Brauchtum im Appenzellerland",
+  "author": {
+    "@type": "Person",
+    "name": "Christine König"
+  },
+  "isbn": "9783858828095",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783858828095",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783858828095"
+  ],
+  "_catalog": {
+    "id": "cb5ac35e-65b9-5d84-8c82-e66f9e4f9bab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "brauchtum im appenzellerland christine konig 9783858828095 buch"
+  }
+}

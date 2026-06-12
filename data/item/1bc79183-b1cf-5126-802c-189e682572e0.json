@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1bc79183-b1cf-5126-802c-189e682572e0",
+  "name": "Gefühle lesen",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Ekman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1bc79183-b1cf-5126-802c-189e682572e0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gefuhle lesen paul ekman buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c900a632-bf59-59ba-a393-becc38ed6a23",
+  "name": "Sternenritter - Band 006 - Die Weltraumfalle",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c900a632-bf59-59ba-a393-becc38ed6a23",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenritter - band 006 - die weltraumfalle michael peinkofer buch"
+  }
+}

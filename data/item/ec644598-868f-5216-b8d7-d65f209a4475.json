@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec644598-868f-5216-b8d7-d65f209a4475",
+  "name": "Unschlagbar - Band 003 - Der Albtraum der Ganoven",
+  "author": {
+    "@type": "Person",
+    "name": "Pascal Jousselin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec644598-868f-5216-b8d7-d65f209a4475",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "unschlagbar - band 003 - der albtraum der ganoven pascal jousselin buch"
+  }
+}

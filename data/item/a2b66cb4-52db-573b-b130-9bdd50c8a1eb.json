@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2b66cb4-52db-573b-b130-9bdd50c8a1eb",
+  "name": "Die drei ??? und der rote Büffel",
+  "author": {
+    "@type": "Person",
+    "name": "André Marx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2b66cb4-52db-573b-b130-9bdd50c8a1eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? und der rote buffel andre marx buch"
+  }
+}

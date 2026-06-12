@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f19d6a15-9606-56e8-94f7-54699a145d16",
+  "name": "Winterland (1)",
+  "author": {
+    "@type": "Person",
+    "name": "Kim Faber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f19d6a15-9606-56e8-94f7-54699a145d16",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "winterland (1) kim faber buch"
+  }
+}

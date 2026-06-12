@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7711bf77-f4a1-5715-bbda-a7b635066437",
+  "name": "Papierkinder",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Kröhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7711bf77-f4a1-5715-bbda-a7b635066437",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papierkinder julia krohn buch"
+  }
+}

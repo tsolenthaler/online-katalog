@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddd7f603-e871-54e9-ab10-d8af4e81f746",
+  "name": "Lotta kommt in den Kindergarten",
+  "author": {
+    "@type": "Person",
+    "name": "Amber Stewart"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddd7f603-e871-54e9-ab10-d8af4e81f746",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lotta kommt in den kindergarten amber stewart buch"
+  }
+}

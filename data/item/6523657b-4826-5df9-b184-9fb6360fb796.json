@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6523657b-4826-5df9-b184-9fb6360fb796",
+  "name": "Sternenschweif - Band 072 - Das Geheimnis der Wölfe",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara van den Speulhof"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6523657b-4826-5df9-b184-9fb6360fb796",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - band 072 - das geheimnis der wolfe barbara van den speulhof buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fee4c350-af42-5949-909d-58c110529fda",
+  "name": "Kräuter & Wildkräuter",
+  "author": {
+    "@type": "Person",
+    "name": "Silke Höpker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fee4c350-af42-5949-909d-58c110529fda",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "krauter & wildkrauter silke hopker buch"
+  }
+}

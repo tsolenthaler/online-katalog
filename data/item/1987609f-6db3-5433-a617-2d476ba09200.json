@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1987609f-6db3-5433-a617-2d476ba09200",
+  "name": "Düstergrab (6)",
+  "author": {
+    "@type": "Person",
+    "name": "Romy Fölck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1987609f-6db3-5433-a617-2d476ba09200",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dustergrab (6) romy folck buch"
+  }
+}

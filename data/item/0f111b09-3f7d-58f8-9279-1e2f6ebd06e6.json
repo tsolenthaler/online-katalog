@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f111b09-3f7d-58f8-9279-1e2f6ebd06e6",
+  "name": "Das Geheimnis der Oaktree-Farm",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Neuhaus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0f111b09-3f7d-58f8-9279-1e2f6ebd06e6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das geheimnis der oaktree-farm nele neuhaus buch"
+  }
+}

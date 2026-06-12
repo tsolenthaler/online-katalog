@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a279632d-51eb-5c81-8b72-91dc9c515217",
+  "name": "Wieso Weshalb Warum - Digitale Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Lena Thiele"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a279632d-51eb-5c81-8b72-91dc9c515217",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - digitale welt lena thiele buch"
+  }
+}

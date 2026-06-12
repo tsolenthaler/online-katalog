@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a269f51a-6528-5eef-b1e3-391d29daa372",
+  "name": "Globis Wald- und Wiesenkochbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Weiss"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a269f51a-6528-5eef-b1e3-391d29daa372",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globis wald- und wiesenkochbuch martin weiss buch"
+  }
+}

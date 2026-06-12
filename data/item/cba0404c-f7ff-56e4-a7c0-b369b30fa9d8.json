@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cba0404c-f7ff-56e4-a7c0-b369b30fa9d8",
+  "name": "Das Haus, in dem das Böse wohnt (2)",
+  "author": {
+    "@type": "Person",
+    "name": "Trude Teige"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cba0404c-f7ff-56e4-a7c0-b369b30fa9d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das haus, in dem das bose wohnt (2) trude teige buch"
+  }
+}

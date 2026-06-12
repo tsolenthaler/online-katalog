@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:711a7fa8-1278-596b-9463-f66023da5d07",
+  "name": "Frag mich was - Ritter",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Piel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "711a7fa8-1278-596b-9463-f66023da5d07",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frag mich was - ritter andreas piel buch"
+  }
+}

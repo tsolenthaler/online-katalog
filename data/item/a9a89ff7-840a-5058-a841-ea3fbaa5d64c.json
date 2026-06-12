@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a9a89ff7-840a-5058-a841-ea3fbaa5d64c",
+  "name": "12 - Das erste Buch der Mitternacht - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Rose Snow"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a9a89ff7-840a-5058-a841-ea3fbaa5d64c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "12 - das erste buch der mitternacht - band 1 rose snow buch"
+  }
+}

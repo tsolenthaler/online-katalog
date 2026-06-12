@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc0581f8-fb35-58de-af77-18934571dded",
+  "name": "Mama, wann kommst du?",
+  "author": {
+    "@type": "Person",
+    "name": "Belinda Rodik"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc0581f8-fb35-58de-af77-18934571dded",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mama, wann kommst du? belinda rodik buch"
+  }
+}

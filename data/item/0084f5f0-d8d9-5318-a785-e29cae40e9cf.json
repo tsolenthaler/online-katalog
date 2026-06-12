@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0084f5f0-d8d9-5318-a785-e29cae40e9cf",
+  "name": "Wölfe",
+  "author": {
+    "@type": "Person",
+    "name": "Mira Meyer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0084f5f0-d8d9-5318-a785-e29cae40e9cf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wolfe mira meyer buch"
+  }
+}

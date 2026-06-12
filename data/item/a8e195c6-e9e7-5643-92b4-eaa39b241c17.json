@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8e195c6-e9e7-5643-92b4-eaa39b241c17",
+  "name": "Killewipps geheimes Bauernhof-Handbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Kennedy Anne Vittur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a8e195c6-e9e7-5643-92b4-eaa39b241c17",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "killewipps geheimes bauernhof-handbuch kennedy anne vittur buch"
+  }
+}

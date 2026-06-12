@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebbe9fc7-7ef1-5d05-85e5-bc5e2ca222ec",
+  "name": "Sternenritter - Band 003 - Der Planet aus Eis",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Peinkofer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ebbe9fc7-7ef1-5d05-85e5-bc5e2ca222ec",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenritter - band 003 - der planet aus eis michael peinkofer buch"
+  }
+}

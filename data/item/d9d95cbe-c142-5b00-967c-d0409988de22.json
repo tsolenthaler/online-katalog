@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9d95cbe-c142-5b00-967c-d0409988de22",
+  "name": "City Spies - Band 2 - Tödliche Jagd",
+  "author": {
+    "@type": "Person",
+    "name": "James Ponti"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9d95cbe-c142-5b00-967c-d0409988de22",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "city spies - band 2 - todliche jagd james ponti buch"
+  }
+}

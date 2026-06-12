@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f20dc9d2-3a7a-50fb-84e5-bfa3e776e2a0",
+  "name": "Johann und Pfiffikus - Band 009 - Der Baron von",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f20dc9d2-3a7a-50fb-84e5-bfa3e776e2a0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "johann und pfiffikus - band 009 - der baron von peyo buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d47f9e42-8cc5-5f97-a2ae-ae03ed645dbb",
+  "name": "Der kleine Drache Kokosnuss - Schulfest auf dem",
+  "author": {
+    "@type": "Person",
+    "name": "Jonathan Evans"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d47f9e42-8cc5-5f97-a2ae-ae03ed645dbb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine drache kokosnuss - schulfest auf dem jonathan evans buch"
+  }
+}

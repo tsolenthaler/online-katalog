@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1d4c0c49-104a-54d5-a2ef-b2ccbc67e849",
+  "name": "Mein Sternenpony",
+  "author": {
+    "@type": "Person",
+    "name": "Harriet Grundmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1d4c0c49-104a-54d5-a2ef-b2ccbc67e849",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein sternenpony harriet grundmann buch"
+  }
+}

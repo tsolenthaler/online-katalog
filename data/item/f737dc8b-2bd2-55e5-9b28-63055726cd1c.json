@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f737dc8b-2bd2-55e5-9b28-63055726cd1c",
+  "name": "Alien Academy",
+  "author": {
+    "@type": "Person",
+    "name": "Jochen Till"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f737dc8b-2bd2-55e5-9b28-63055726cd1c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alien academy jochen till buch"
+  }
+}

@@ -2,10 +2,10 @@
   "@context": "https://schema.org",
   "@type": "Book",
   "@id": "urn:uuid:41c418ce-8224-5c86-8a5b-7ae88c0e5b2d",
-  "name": "Die rote Zora",
+  "name": "DIE ROTE ZORA",
   "author": {
     "@type": "Person",
-    "name": "Kurt Held"
+    "name": ""
   },
   "isbn": "",
   "genre": "",
@@ -21,6 +21,6 @@
     "status": "Keine ISBN ermittelt",
     "metadata_source": "",
     "isbn_source": "",
-    "search_text": "die rote zora kurt held buch"
+    "search_text": "die rote zora buch"
   }
 }

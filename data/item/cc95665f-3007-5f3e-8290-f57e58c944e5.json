@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc95665f-3007-5f3e-8290-f57e58c944e5",
+  "name": "Der Räuber Hotzenplotz",
+  "author": {
+    "@type": "Person",
+    "name": "Ottfried Preussler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc95665f-3007-5f3e-8290-f57e58c944e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der rauber hotzenplotz ottfried preussler buch"
+  }
+}

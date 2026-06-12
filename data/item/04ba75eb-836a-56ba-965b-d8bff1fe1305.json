@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:04ba75eb-836a-56ba-965b-d8bff1fe1305",
+  "name": "Entdecke die Fledermäuse",
+  "author": {
+    "@type": "Person",
+    "name": "Eckhard Grimmberger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "04ba75eb-836a-56ba-965b-d8bff1fe1305",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke die fledermause eckhard grimmberger buch"
+  }
+}

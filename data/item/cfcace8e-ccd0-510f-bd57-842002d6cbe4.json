@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cfcace8e-ccd0-510f-bd57-842002d6cbe4",
+  "name": "Die drei !!! - Band 060 - Liebes Chaos",
+  "author": {
+    "@type": "Person",
+    "name": "Maya Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cfcace8e-ccd0-510f-bd57-842002d6cbe4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 060 - liebes chaos maya vogel buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a6d9d50b-cff1-55b8-99e6-cb239eee841b",
+  "name": "Biss zum Morgengrauen - Band 01",
+  "author": {
+    "@type": "Person",
+    "name": "Stephenie Meyer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a6d9d50b-cff1-55b8-99e6-cb239eee841b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "biss zum morgengrauen - band 01 stephenie meyer buch"
+  }
+}

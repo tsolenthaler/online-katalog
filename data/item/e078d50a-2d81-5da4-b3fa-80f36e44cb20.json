@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e078d50a-2d81-5da4-b3fa-80f36e44cb20",
+  "name": "Sorry, wir haben die Landebahn verfehlt",
+  "author": {
+    "@type": "Person",
+    "name": "Stephan Orth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e078d50a-2d81-5da4-b3fa-80f36e44cb20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sorry, wir haben die landebahn verfehlt stephan orth buch"
+  }
+}

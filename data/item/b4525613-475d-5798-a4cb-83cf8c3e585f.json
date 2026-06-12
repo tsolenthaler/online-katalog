@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4525613-475d-5798-a4cb-83cf8c3e585f",
+  "name": "Café Alba",
+  "author": {
+    "@type": "Person",
+    "name": "Emilia Lombardi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4525613-475d-5798-a4cb-83cf8c3e585f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cafe alba emilia lombardi buch"
+  }
+}

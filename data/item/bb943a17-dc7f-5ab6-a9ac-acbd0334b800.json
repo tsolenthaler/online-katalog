@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bb943a17-dc7f-5ab6-a9ac-acbd0334b800",
+  "name": "Der letzte Feuerfalke - Band 4 - und der geheimnisvolle",
+  "author": {
+    "@type": "Person",
+    "name": "Katrina Charman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bb943a17-dc7f-5ab6-a9ac-acbd0334b800",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der letzte feuerfalke - band 4 - und der geheimnisvolle katrina charman buch"
+  }
+}

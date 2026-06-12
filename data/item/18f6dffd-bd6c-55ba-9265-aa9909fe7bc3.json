@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18f6dffd-bd6c-55ba-9265-aa9909fe7bc3",
+  "name": "Krippenspiel mit Hund",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "9783789105463",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "https://covers.openlibrary.org/b/id/3258136-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783789105463",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783789105463"
+  ],
+  "_catalog": {
+    "id": "18f6dffd-bd6c-55ba-9265-aa9909fe7bc3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "krippenspiel mit hund kirsten boie 9783789105463 buch"
+  }
+}

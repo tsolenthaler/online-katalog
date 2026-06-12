@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1aeee32-bbfa-54a0-b35b-1b83e7db2250",
+  "name": "Guinness World Records - Sport",
+  "author": {
+    "@type": "Person",
+    "name": "Nina Schiefelbein"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1aeee32-bbfa-54a0-b35b-1b83e7db2250",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "guinness world records - sport nina schiefelbein buch"
+  }
+}

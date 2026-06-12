@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f6f69eb4-f79a-50a9-aa4e-ed5f4e2593e7",
+  "name": "Ein Hoch auf die Freundschaft!",
+  "author": {
+    "@type": "Person",
+    "name": "Milla Shan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f6f69eb4-f79a-50a9-aa4e-ed5f4e2593e7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein hoch auf die freundschaft! milla shan buch"
+  }
+}

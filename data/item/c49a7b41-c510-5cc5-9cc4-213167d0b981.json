@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c49a7b41-c510-5cc5-9cc4-213167d0b981",
+  "name": "Die drei ??? - Band 138 - Die geheime Treppe",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Hitchcock"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c49a7b41-c510-5cc5-9cc4-213167d0b981",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 138 - die geheime treppe alfred hitchcock buch"
+  }
+}

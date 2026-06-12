@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e8204205-72c5-5a29-afaf-3196f3ac67f9",
+  "name": "Entdecke die Bionik",
+  "author": {
+    "@type": "Person",
+    "name": "Bernd Hill"
+  },
+  "isbn": "9783866592971",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783866592971",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783866592971"
+  ],
+  "_catalog": {
+    "id": "e8204205-72c5-5a29-afaf-3196f3ac67f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "entdecke die bionik bernd hill 9783866592971 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:871366b6-05af-55d7-99d1-bbf78e49fa20",
+  "name": "Tiptoi - Im Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Inka Friese"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "871366b6-05af-55d7-99d1-bbf78e49fa20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - im wald inka friese buch"
+  }
+}

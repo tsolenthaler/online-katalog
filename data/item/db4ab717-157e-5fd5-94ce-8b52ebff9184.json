@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db4ab717-157e-5fd5-94ce-8b52ebff9184",
+  "name": "Dork diaries - Band 03 - Mach dich zum Dork",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db4ab717-157e-5fd5-94ce-8b52ebff9184",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - band 03 - mach dich zum dork rachel russell buch"
+  }
+}

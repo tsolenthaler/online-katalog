@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d03fce78-77de-5e20-b22a-81773ec77a94",
+  "name": "Hoher Norden",
+  "author": {
+    "@type": "Person",
+    "name": "Daisy Gilardini"
+  },
+  "isbn": "9783506705587",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783506705587",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783506705587"
+  ],
+  "_catalog": {
+    "id": "d03fce78-77de-5e20-b22a-81773ec77a94",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "hoher norden daisy gilardini 9783506705587 buch"
+  }
+}

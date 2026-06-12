@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a46ea342-32c0-5bbb-9bd8-65366546791a",
+  "name": "Im Zoo wird nicht geflunkert!",
+  "author": {
+    "@type": "Person",
+    "name": "Sophie Schoenwald"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a46ea342-32c0-5bbb-9bd8-65366546791a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "im zoo wird nicht geflunkert! sophie schoenwald buch"
+  }
+}

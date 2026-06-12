@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca199fc1-af41-59a3-818b-65606ebd9a76",
+  "name": "Tom Gates - Band 015 - Welches Monster?",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca199fc1-af41-59a3-818b-65606ebd9a76",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 015 - welches monster? liz pichon buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a0193cc5-213b-564b-9ad5-f2b412ca9fe9",
+  "name": "Bretonisches Leuchten",
+  "author": {
+    "@type": "Person",
+    "name": "Jean-Luc Bannalec"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a0193cc5-213b-564b-9ad5-f2b412ca9fe9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bretonisches leuchten jean-luc bannalec buch"
+  }
+}

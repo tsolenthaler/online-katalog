@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6965bd4-2ed1-5fc1-93dc-0fb176969667",
+  "name": "Disney, Die Eiskönigin, völlig unverfroren - Zauberhafte",
+  "author": {
+    "@type": "Person",
+    "name": "THiLO"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6965bd4-2ed1-5fc1-93dc-0fb176969667",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "disney, die eiskonigin, vollig unverfroren - zauberhafte thilo buch"
+  }
+}

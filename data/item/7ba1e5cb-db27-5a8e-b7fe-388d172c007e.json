@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7ba1e5cb-db27-5a8e-b7fe-388d172c007e",
+  "name": "Knoten",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Lowis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7ba1e5cb-db27-5a8e-b7fe-388d172c007e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "knoten ulrike lowis buch"
+  }
+}

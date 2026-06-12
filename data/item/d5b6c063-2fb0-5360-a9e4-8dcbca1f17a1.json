@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5b6c063-2fb0-5360-a9e4-8dcbca1f17a1",
+  "name": "Sams Wal",
+  "author": {
+    "@type": "Person",
+    "name": "Katherine Scholes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5b6c063-2fb0-5360-a9e4-8dcbca1f17a1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sams wal katherine scholes buch"
+  }
+}

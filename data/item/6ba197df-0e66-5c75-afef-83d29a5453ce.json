@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6ba197df-0e66-5c75-afef-83d29a5453ce",
+  "name": "Geheimnis im Möwenweg",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Boie"
+  },
+  "isbn": "9783862740697",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783862740697",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783862740697"
+  ],
+  "_catalog": {
+    "id": "6ba197df-0e66-5c75-afef-83d29a5453ce",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "geheimnis im mowenweg kirsten boie 9783862740697 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5bc7511-8ca3-5430-ba66-7eef2442e165",
+  "name": "Pferdeflüsterer Academy - Band 01 - Reise nach",
+  "author": {
+    "@type": "Person",
+    "name": "Gina Mayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5bc7511-8ca3-5430-ba66-7eef2442e165",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pferdeflusterer academy - band 01 - reise nach gina mayer buch"
+  }
+}

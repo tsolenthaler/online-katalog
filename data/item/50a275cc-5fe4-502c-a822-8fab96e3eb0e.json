@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:50a275cc-5fe4-502c-a822-8fab96e3eb0e",
+  "name": "Die Olchis im Land der Ritter",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "9783789121210",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783789121210",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783789121210"
+  ],
+  "_catalog": {
+    "id": "50a275cc-5fe4-502c-a822-8fab96e3eb0e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die olchis im land der ritter erhard dietl 9783789121210 buch"
+  }
+}

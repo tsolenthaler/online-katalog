@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad62fd0b-eca7-5ead-94b0-300090d97a8a",
+  "name": "Dork Diaries - Nikki als graziöse Eisprinzessin",
+  "author": {
+    "@type": "Person",
+    "name": "Rachel Russell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad62fd0b-eca7-5ead-94b0-300090d97a8a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dork diaries - nikki als graziose eisprinzessin rachel russell buch"
+  }
+}

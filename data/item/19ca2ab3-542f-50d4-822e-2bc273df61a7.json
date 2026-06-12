@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:19ca2ab3-542f-50d4-822e-2bc273df61a7",
+  "name": "Asterix - Band 035 - bei den Pikten",
+  "author": {
+    "@type": "Person",
+    "name": "Conrad, Didier / Ferri, Jean-Yves"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "19ca2ab3-542f-50d4-822e-2bc273df61a7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 035 - bei den pikten conrad, didier / ferri, jean-yves buch"
+  }
+}

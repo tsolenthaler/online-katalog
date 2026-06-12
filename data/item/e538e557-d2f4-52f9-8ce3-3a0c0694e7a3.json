@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e538e557-d2f4-52f9-8ce3-3a0c0694e7a3",
+  "name": "Globi - Band 090 - im Spital",
+  "author": {
+    "@type": "Person",
+    "name": "Boni Koller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e538e557-d2f4-52f9-8ce3-3a0c0694e7a3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 090 - im spital boni koller buch"
+  }
+}

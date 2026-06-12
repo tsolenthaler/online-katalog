@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b93093eb-1164-5b4e-8628-0cb720c63448",
+  "name": "Die letzte Witwe",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Slaughter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b93093eb-1164-5b4e-8628-0cb720c63448",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die letzte witwe karin slaughter buch"
+  }
+}

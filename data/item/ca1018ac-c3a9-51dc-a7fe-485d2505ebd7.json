@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca1018ac-c3a9-51dc-a7fe-485d2505ebd7",
+  "name": "Der Geisterkickboarder - Band 009 - wird vermisst",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Baiker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca1018ac-c3a9-51dc-a7fe-485d2505ebd7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geisterkickboarder - band 009 - wird vermisst stefan baiker buch"
+  }
+}

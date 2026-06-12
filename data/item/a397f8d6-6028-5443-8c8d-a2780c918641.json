@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a397f8d6-6028-5443-8c8d-a2780c918641",
+  "name": "Cool bleiben, Hugo",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Zett"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a397f8d6-6028-5443-8c8d-a2780c918641",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cool bleiben, hugo sabine zett buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5fefb70-e392-5b44-ae35-8bc28506be9a",
+  "name": "Tief in den Wäldern",
+  "author": {
+    "@type": "Person",
+    "name": "Chevy Stevens"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5fefb70-e392-5b44-ae35-8bc28506be9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tief in den waldern chevy stevens buch"
+  }
+}

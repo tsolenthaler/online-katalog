@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fbbbf269-8457-534e-9acd-acfd0de491d2",
+  "name": "Die drei ??? - Band 212 - und der weisse Leopard",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Arthur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fbbbf269-8457-534e-9acd-acfd0de491d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 212 - und der weisse leopard robert arthur buch"
+  }
+}

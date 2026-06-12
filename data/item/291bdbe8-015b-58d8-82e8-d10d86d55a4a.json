@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:291bdbe8-015b-58d8-82e8-d10d86d55a4a",
+  "name": "Traumspringer",
+  "author": {
+    "@type": "Person",
+    "name": "Alex Rühle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "291bdbe8-015b-58d8-82e8-d10d86d55a4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "traumspringer alex ruhle buch"
+  }
+}

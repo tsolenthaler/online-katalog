@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da5974e6-5c88-52d1-925d-59bc46575247",
+  "name": "Liliane Susewind - Band 009 - Ein Pinguin will hoch hinaus",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da5974e6-5c88-52d1-925d-59bc46575247",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - band 009 - ein pinguin will hoch hinaus tanya stewner buch"
+  }
+}

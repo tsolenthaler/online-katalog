@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb3d6912-234c-5d9e-a553-6598b95374e6",
+  "name": "Das Manuskript",
+  "author": {
+    "@type": "Person",
+    "name": "John Grisham"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb3d6912-234c-5d9e-a553-6598b95374e6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das manuskript john grisham buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0c36ceb6-00cd-5d4c-baf7-0e6cd724c913",
+  "name": "Entdecke, was dir schmeckt",
+  "author": {
+    "@type": "Person",
+    "name": "Leitzgen Anke M."
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0c36ceb6-00cd-5d4c-baf7-0e6cd724c913",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke, was dir schmeckt leitzgen anke m. buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:28b12fe1-7093-5ca3-b0d8-49b9c6318e63",
+  "name": "Die letzten Meter bis zum Friedhof",
+  "author": {
+    "@type": "Person",
+    "name": "Antti Tuomainen"
+  },
+  "isbn": "9783965191419",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783965191419",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783965191419"
+  ],
+  "_catalog": {
+    "id": "28b12fe1-7093-5ca3-b0d8-49b9c6318e63",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die letzten meter bis zum friedhof antti tuomainen 9783965191419 buch"
+  }
+}

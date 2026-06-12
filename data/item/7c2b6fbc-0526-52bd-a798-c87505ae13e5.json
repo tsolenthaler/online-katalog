@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7c2b6fbc-0526-52bd-a798-c87505ae13e5",
+  "name": "Luftschlösser sind schwer zu knacken",
+  "author": {
+    "@type": "Person",
+    "name": "Antje Leser"
+  },
+  "isbn": "9783734804168",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783734804168",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783734804168"
+  ],
+  "_catalog": {
+    "id": "7c2b6fbc-0526-52bd-a798-c87505ae13e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "luftschlosser sind schwer zu knacken antje leser 9783734804168 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef3fb46d-ad58-51b9-bd3f-4344da13b165",
+  "name": "Der Nachbar",
+  "author": {
+    "@type": "Person",
+    "name": "Sebastian Fitzek"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef3fb46d-ad58-51b9-bd3f-4344da13b165",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der nachbar sebastian fitzek buch"
+  }
+}

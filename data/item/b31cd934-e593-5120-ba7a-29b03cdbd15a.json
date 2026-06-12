@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b31cd934-e593-5120-ba7a-29b03cdbd15a",
+  "name": "Der Grüffelo",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Scheffler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b31cd934-e593-5120-ba7a-29b03cdbd15a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der gruffelo axel scheffler buch"
+  }
+}

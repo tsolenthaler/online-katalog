@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1e55112-385d-56f4-9a74-0e56f4f7719b",
+  "name": "Einsame Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Charlotte Link"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1e55112-385d-56f4-9a74-0e56f4f7719b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "einsame nacht charlotte link buch"
+  }
+}

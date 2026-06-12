@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fcd40ba4-dd8b-554b-ba46-bfcc5df342e1",
+  "name": "Wo holt der Nikolaus seine guten Sachen?",
+  "author": {
+    "@type": "Person",
+    "name": "Silvia Hüsler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fcd40ba4-dd8b-554b-ba46-bfcc5df342e1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wo holt der nikolaus seine guten sachen? silvia husler buch"
+  }
+}

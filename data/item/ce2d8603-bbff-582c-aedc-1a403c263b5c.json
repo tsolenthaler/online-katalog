@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce2d8603-bbff-582c-aedc-1a403c263b5c",
+  "name": "WAS IST WAS Junior - Was macht die Feuerwehr?",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Strunck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce2d8603-bbff-582c-aedc-1a403c263b5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was junior - was macht die feuerwehr? angela strunck buch"
+  }
+}

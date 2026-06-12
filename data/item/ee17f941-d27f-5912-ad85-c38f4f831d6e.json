@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee17f941-d27f-5912-ad85-c38f4f831d6e",
+  "name": "Kleines Einhorn Funkelstern - Mit dir werden Wünsche",
+  "author": {
+    "@type": "Person",
+    "name": "Mila Berg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee17f941-d27f-5912-ad85-c38f4f831d6e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleines einhorn funkelstern - mit dir werden wunsche mila berg buch"
+  }
+}

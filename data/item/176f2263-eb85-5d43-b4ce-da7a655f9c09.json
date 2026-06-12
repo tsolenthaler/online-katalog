@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:176f2263-eb85-5d43-b4ce-da7a655f9c09",
+  "name": "WAS IST WAS - Zukunft",
+  "author": {
+    "@type": "Person",
+    "name": "Bernd Flessner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "176f2263-eb85-5d43-b4ce-da7a655f9c09",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - zukunft bernd flessner buch"
+  }
+}

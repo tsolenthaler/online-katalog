@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8b2bf587-a459-5042-a71b-763c926341ee",
+  "name": "Jim Knopf und Lukas der Lokomotivführer",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "9789939872803",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9789939872803",
+    "https://portal.dnb.de/opac/simpleSearch?query=9789939872803"
+  ],
+  "_catalog": {
+    "id": "8b2bf587-a459-5042-a71b-763c926341ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "jim knopf und lukas der lokomotivfuhrer michael ende 9789939872803 buch"
+  }
+}

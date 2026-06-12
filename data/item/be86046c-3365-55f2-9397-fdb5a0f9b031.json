@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:be86046c-3365-55f2-9397-fdb5a0f9b031",
+  "name": "Ich will aber nicht schlafen!, sagte der Igel",
+  "author": {
+    "@type": "Person",
+    "name": "Stephanie Polk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "be86046c-3365-55f2-9397-fdb5a0f9b031",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich will aber nicht schlafen!, sagte der igel stephanie polk buch"
+  }
+}

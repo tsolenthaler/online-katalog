@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3b9ab4a8-10f6-51a1-a4fe-0fbb85c14683",
+  "name": "WAS IST WAS - Klima / Natur schützen",
+  "author": {
+    "@type": "Person",
+    "name": "Kurt Haderer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3b9ab4a8-10f6-51a1-a4fe-0fbb85c14683",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - klima / natur schutzen kurt haderer buch"
+  }
+}

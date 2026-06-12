@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2ce4c993-71af-56b3-920c-9d8d55da93c8",
+  "name": "WAS IST WAS ERSTLESER - Tiere in der Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Sonja Meierjürgen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2ce4c993-71af-56b3-920c-9d8d55da93c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was erstleser - tiere in der nacht sonja meierjurgen buch"
+  }
+}

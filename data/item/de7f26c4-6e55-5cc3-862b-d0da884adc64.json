@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de7f26c4-6e55-5cc3-862b-d0da884adc64",
+  "name": "Die kleine Ente und ihre Freunde am See",
+  "author": {
+    "@type": "Person",
+    "name": "Friederun Riechenstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de7f26c4-6e55-5cc3-862b-d0da884adc64",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kleine ente und ihre freunde am see friederun riechenstetter buch"
+  }
+}

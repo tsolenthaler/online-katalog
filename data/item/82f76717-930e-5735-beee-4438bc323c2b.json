@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:82f76717-930e-5735-beee-4438bc323c2b",
+  "name": "Harry Potter und die Heiligtümer des Todes 6 / Teil 1",
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "82f76717-930e-5735-beee-4438bc323c2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter und die heiligtumer des todes 6 / teil 1 buch"
+  }
+}

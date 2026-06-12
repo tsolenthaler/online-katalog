@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8a4b529e-47cf-50f8-9979-a8f33e34e184",
+  "name": "Scarlett & Browne - Band 001 - Die Outlaws",
+  "author": {
+    "@type": "Person",
+    "name": "Jonathan Stroud"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8a4b529e-47cf-50f8-9979-a8f33e34e184",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "scarlett & browne - band 001 - die outlaws jonathan stroud buch"
+  }
+}

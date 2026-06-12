@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f4ece3b6-945f-5baf-8fbe-5a9835be03db",
+  "name": "Madita",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Lindgren"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f4ece3b6-945f-5baf-8fbe-5a9835be03db",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "madita astrid lindgren buch"
+  }
+}

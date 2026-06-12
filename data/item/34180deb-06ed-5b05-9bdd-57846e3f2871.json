@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:34180deb-06ed-5b05-9bdd-57846e3f2871",
+  "name": "Percy Pickwick - Band 012 - Der grosse Wilkinson",
+  "author": {
+    "@type": "Person",
+    "name": "Turk & de Groot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "34180deb-06ed-5b05-9bdd-57846e3f2871",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 012 - der grosse wilkinson turk & de groot buch"
+  }
+}

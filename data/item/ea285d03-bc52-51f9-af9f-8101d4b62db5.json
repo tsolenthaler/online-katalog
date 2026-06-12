@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea285d03-bc52-51f9-af9f-8101d4b62db5",
+  "name": "Yoga Town",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Speck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea285d03-bc52-51f9-af9f-8101d4b62db5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yoga town daniel speck buch"
+  }
+}

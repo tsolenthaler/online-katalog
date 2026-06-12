@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:467883f8-f912-576b-9499-3acca290e2d4",
+  "name": "Annemarie Wildeisens Kochen - 2025/1-2",
+  "author": {
+    "@type": "Person",
+    "name": "Wildeisen Annemarie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "467883f8-f912-576b-9499-3acca290e2d4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "annemarie wildeisens kochen - 2025/1-2 wildeisen annemarie buch"
+  }
+}

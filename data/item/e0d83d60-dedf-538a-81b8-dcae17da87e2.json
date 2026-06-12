@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0d83d60-dedf-538a-81b8-dcae17da87e2",
+  "name": "Der Puppenmacher",
+  "author": {
+    "@type": "Person",
+    "name": "André Marx"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0d83d60-dedf-538a-81b8-dcae17da87e2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der puppenmacher andre marx buch"
+  }
+}

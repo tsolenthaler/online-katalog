@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:18b4ae62-1906-5a1e-8e84-aee30120ff7d",
+  "name": "Der Junge aus dem Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Harlan Coben"
+  },
+  "isbn": "9783844539646",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844539646",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844539646"
+  ],
+  "_catalog": {
+    "id": "18b4ae62-1906-5a1e-8e84-aee30120ff7d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der junge aus dem wald harlan coben 9783844539646 buch"
+  }
+}

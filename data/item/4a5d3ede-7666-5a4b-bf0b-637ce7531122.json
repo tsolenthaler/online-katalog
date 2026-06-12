@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4a5d3ede-7666-5a4b-bf0b-637ce7531122",
+  "name": "Mein Haus ist zu eng und zu klein",
+  "author": {
+    "@type": "Person",
+    "name": "Axel Scheffler"
+  },
+  "isbn": "9783939375807",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783939375807",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783939375807"
+  ],
+  "_catalog": {
+    "id": "4a5d3ede-7666-5a4b-bf0b-637ce7531122",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "mein haus ist zu eng und zu klein axel scheffler 9783939375807 buch"
+  }
+}

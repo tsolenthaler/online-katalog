@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0c4947a7-c8f0-5039-8fcc-e4be7587d92a",
+  "name": "Meja Meergrün - so ein Nixentheater!",
+  "author": {
+    "@type": "Person",
+    "name": "Erik Ole Lindström"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0c4947a7-c8f0-5039-8fcc-e4be7587d92a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "meja meergrun - so ein nixentheater! erik ole lindstrom buch"
+  }
+}

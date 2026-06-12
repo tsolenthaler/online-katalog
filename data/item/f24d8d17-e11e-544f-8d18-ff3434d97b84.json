@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f24d8d17-e11e-544f-8d18-ff3434d97b84",
+  "name": "Bibi & Tina - der mysteriöse Fremde",
+  "author": {
+    "@type": "Person",
+    "name": "Stephan Gürtler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f24d8d17-e11e-544f-8d18-ff3434d97b84",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - der mysteriose fremde stephan gurtler buch"
+  }
+}

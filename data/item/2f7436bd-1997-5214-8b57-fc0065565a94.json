@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2f7436bd-1997-5214-8b57-fc0065565a94",
+  "name": "Racheherbst 2",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Gruber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2f7436bd-1997-5214-8b57-fc0065565a94",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "racheherbst 2 andreas gruber buch"
+  }
+}

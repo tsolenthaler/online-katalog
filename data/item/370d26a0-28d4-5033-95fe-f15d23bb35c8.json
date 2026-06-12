@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:370d26a0-28d4-5033-95fe-f15d23bb35c8",
+  "name": "Buddhismus & Psychotherapie",
+  "author": {
+    "@type": "Person",
+    "name": "John Welwood"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "370d26a0-28d4-5033-95fe-f15d23bb35c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "buddhismus & psychotherapie john welwood buch"
+  }
+}

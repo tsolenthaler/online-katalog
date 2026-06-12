@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2d2c67c-087e-5c49-b1cb-36ef8f368f50",
+  "name": "Tafiti - Der Löwe mit dem Wackelzahn",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Boehme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2d2c67c-087e-5c49-b1cb-36ef8f368f50",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tafiti - der lowe mit dem wackelzahn julia boehme buch"
+  }
+}

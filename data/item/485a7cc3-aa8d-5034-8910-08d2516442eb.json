@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:485a7cc3-aa8d-5034-8910-08d2516442eb",
+  "name": "Das Orchideenhaus",
+  "author": {
+    "@type": "Person",
+    "name": "Lucinda Riley"
+  },
+  "isbn": "9783844531855",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844531855",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844531855"
+  ],
+  "_catalog": {
+    "id": "485a7cc3-aa8d-5034-8910-08d2516442eb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das orchideenhaus lucinda riley 9783844531855 buch"
+  }
+}

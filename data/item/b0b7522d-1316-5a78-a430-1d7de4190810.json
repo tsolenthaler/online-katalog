@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b0b7522d-1316-5a78-a430-1d7de4190810",
+  "name": "So viel Müll!",
+  "author": {
+    "@type": "Person",
+    "name": "Jess French"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b0b7522d-1316-5a78-a430-1d7de4190810",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "so viel mull! jess french buch"
+  }
+}

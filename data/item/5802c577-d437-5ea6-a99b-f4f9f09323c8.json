@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5802c577-d437-5ea6-a99b-f4f9f09323c8",
+  "name": "Sunrise Africa - Band 002 - Die Nacht der Jäger",
+  "author": {
+    "@type": "Person",
+    "name": "Ross Christopher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5802c577-d437-5ea6-a99b-f4f9f09323c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sunrise africa - band 002 - die nacht der jager ross christopher buch"
+  }
+}

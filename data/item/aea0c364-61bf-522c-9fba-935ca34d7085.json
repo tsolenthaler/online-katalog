@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aea0c364-61bf-522c-9fba-935ca34d7085",
+  "name": "Yakari - Best of Yakari",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Karallus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "aea0c364-61bf-522c-9fba-935ca34d7085",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yakari - best of yakari thomas karallus buch"
+  }
+}

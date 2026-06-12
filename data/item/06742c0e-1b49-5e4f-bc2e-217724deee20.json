@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:06742c0e-1b49-5e4f-bc2e-217724deee20",
+  "name": "Mikroskopieren",
+  "author": {
+    "@type": "Person",
+    "name": "Annerose Bommer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "06742c0e-1b49-5e4f-bc2e-217724deee20",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mikroskopieren annerose bommer buch"
+  }
+}

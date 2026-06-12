@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f0987bf1-020e-5046-8f58-3f8e586eedba",
+  "name": "Alfie Bloom - Band 002 - Jagd nach dem magischen",
+  "author": {
+    "@type": "Person",
+    "name": "Gabrielle Kent"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f0987bf1-020e-5046-8f58-3f8e586eedba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alfie bloom - band 002 - jagd nach dem magischen gabrielle kent buch"
+  }
+}

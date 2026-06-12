@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:16e349a5-84c9-51b7-9910-2cf8987b2b35",
+  "name": "Liliane Susewind - Ein Nilpferd auf dem Zebrastreifen -",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "16e349a5-84c9-51b7-9910-2cf8987b2b35",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - ein nilpferd auf dem zebrastreifen - tanya stewner buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fe94317b-7ab7-54ca-ac64-0deb482ed451",
+  "name": "Pettersson und Findus - Ein Feuerwerk für den Fuchs",
+  "author": {
+    "@type": "Person",
+    "name": "Sven Nordqvist"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fe94317b-7ab7-54ca-ac64-0deb482ed451",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pettersson und findus - ein feuerwerk fur den fuchs sven nordqvist buch"
+  }
+}

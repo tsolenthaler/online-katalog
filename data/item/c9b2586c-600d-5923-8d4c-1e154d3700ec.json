@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9b2586c-600d-5923-8d4c-1e154d3700ec",
+  "name": "Die drei??? und der Geisterbunker",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Nevis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9b2586c-600d-5923-8d4c-1e154d3700ec",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei??? und der geisterbunker ben nevis buch"
+  }
+}

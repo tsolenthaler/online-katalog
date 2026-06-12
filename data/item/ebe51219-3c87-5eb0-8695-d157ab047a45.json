@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebe51219-3c87-5eb0-8695-d157ab047a45",
+  "name": "Mein Name ist Emilia del Valle",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Allende"
+  },
+  "isbn": "9783844554397",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783844554397",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783844554397"
+  ],
+  "_catalog": {
+    "id": "ebe51219-3c87-5eb0-8695-d157ab047a45",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "mein name ist emilia del valle isabel allende 9783844554397 buch"
+  }
+}

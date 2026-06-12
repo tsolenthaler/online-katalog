@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e501f102-6272-52e2-bf0f-8fc90561f1cb",
+  "name": "111 ungenutzte Pflanzen, die man gegessen haben",
+  "author": {
+    "@type": "Person",
+    "name": "Marisa Becker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e501f102-6272-52e2-bf0f-8fc90561f1cb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "111 ungenutzte pflanzen, die man gegessen haben marisa becker buch"
+  }
+}

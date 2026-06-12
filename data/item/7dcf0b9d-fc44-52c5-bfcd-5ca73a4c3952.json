@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7dcf0b9d-fc44-52c5-bfcd-5ca73a4c3952",
+  "name": "DER BÜCHERBÄR - Paul und Sina retten den Reiterhof",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Bosse"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7dcf0b9d-fc44-52c5-bfcd-5ca73a4c3952",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der bucherbar - paul und sina retten den reiterhof sarah bosse buch"
+  }
+}

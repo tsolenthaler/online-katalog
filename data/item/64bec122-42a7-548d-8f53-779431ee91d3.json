@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:64bec122-42a7-548d-8f53-779431ee91d3",
+  "name": "Das Fundament der Hoffnung",
+  "author": {
+    "@type": "Person",
+    "name": "Ladina Bordoli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "64bec122-42a7-548d-8f53-779431ee91d3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das fundament der hoffnung ladina bordoli buch"
+  }
+}

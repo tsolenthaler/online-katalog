@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7440ee2-1d48-5f9c-a175-230f480a9fd5",
+  "name": "Grimms Märchen No. 7",
+  "author": {
+    "@type": "Person",
+    "name": "Gebrüder Grimm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7440ee2-1d48-5f9c-a175-230f480a9fd5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "grimms marchen no. 7 gebruder grimm buch"
+  }
+}

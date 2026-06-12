@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a96f0657-4920-5cd2-81d5-5a8fb21e265e",
+  "name": "Tom Gates - Band 2 - Eins-a-Ausreden (und anderes",
+  "author": {
+    "@type": "Person",
+    "name": "Liz Pichon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a96f0657-4920-5cd2-81d5-5a8fb21e265e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tom gates - band 2 - eins-a-ausreden (und anderes liz pichon buch"
+  }
+}

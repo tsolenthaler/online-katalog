@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5082743-6e25-5268-b415-7ee082a5b0fd",
+  "name": "Zerbrich uns, nicht",
+  "author": {
+    "@type": "Person",
+    "name": "Laura Kneidl"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5082743-6e25-5268-b415-7ee082a5b0fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zerbrich uns, nicht laura kneidl buch"
+  }
+}

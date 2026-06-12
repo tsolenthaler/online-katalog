@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5f86689-29ec-5d0d-8372-b1bcd2090db6",
+  "name": "Der kleine Ritter",
+  "author": {
+    "@type": "Person",
+    "name": "Daniela Römer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5f86689-29ec-5d0d-8372-b1bcd2090db6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine ritter daniela romer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8330356-f895-5fa8-a794-2a0ee716f7e9",
+  "name": "Wenn du zurückkehrst",
+  "author": {
+    "@type": "Person",
+    "name": "Nicholas Sparks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8330356-f895-5fa8-a794-2a0ee716f7e9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wenn du zuruckkehrst nicholas sparks buch"
+  }
+}

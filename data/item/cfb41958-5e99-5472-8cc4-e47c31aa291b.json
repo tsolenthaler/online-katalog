@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cfb41958-5e99-5472-8cc4-e47c31aa291b",
+  "name": "Globi - Band 073 - beim Roten Kreuz",
+  "author": {
+    "@type": "Person",
+    "name": "Heiri Schmid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cfb41958-5e99-5472-8cc4-e47c31aa291b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 073 - beim roten kreuz heiri schmid buch"
+  }
+}

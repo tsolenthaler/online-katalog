@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:aee6a601-19cc-51d4-87a3-d820e519b630",
+  "name": "Max im Krankenhaus",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Tielmann"
+  },
+  "isbn": "9783867424851",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783867424851",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783867424851"
+  ],
+  "_catalog": {
+    "id": "aee6a601-19cc-51d4-87a3-d820e519b630",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "max im krankenhaus christian tielmann 9783867424851 buch"
+  }
+}

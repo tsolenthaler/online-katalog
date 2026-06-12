@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:182d8de1-bad2-5e2b-984a-a8cd8ece0a57",
+  "name": "Piratten - Band 02 - Gefangen auf Rattuga",
+  "author": {
+    "@type": "Person",
+    "name": "Peinkofer Michael"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "182d8de1-bad2-5e2b-984a-a8cd8ece0a57",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "piratten - band 02 - gefangen auf rattuga peinkofer michael buch"
+  }
+}

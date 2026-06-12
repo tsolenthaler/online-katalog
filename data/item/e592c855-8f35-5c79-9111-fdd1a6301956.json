@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e592c855-8f35-5c79-9111-fdd1a6301956",
+  "name": "Die drei !!! - Band 034 - Brandgefährlich",
+  "author": {
+    "@type": "Person",
+    "name": "von Vogel Maja"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e592c855-8f35-5c79-9111-fdd1a6301956",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 034 - brandgefahrlich von vogel maja buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0db2b1f5-aa4b-56c3-801b-5bb7392da616",
+  "name": "Globi - Band 088 - und die Tiere im Zoo",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel Glättli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0db2b1f5-aa4b-56c3-801b-5bb7392da616",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 088 - und die tiere im zoo samuel glattli buch"
+  }
+}

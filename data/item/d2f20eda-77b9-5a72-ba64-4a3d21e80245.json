@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2f20eda-77b9-5a72-ba64-4a3d21e80245",
+  "name": "Die Australierin - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Renk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2f20eda-77b9-5a72-ba64-4a3d21e80245",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die australierin - band 1 ulrike renk buch"
+  }
+}

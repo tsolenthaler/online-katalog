@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:00909467-9c6e-5ac3-b192-4e3f95ac8509",
+  "name": "Mayfair House",
+  "author": {
+    "@type": "Person",
+    "name": "Alex Hay"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "00909467-9c6e-5ac3-b192-4e3f95ac8509",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mayfair house alex hay buch"
+  }
+}

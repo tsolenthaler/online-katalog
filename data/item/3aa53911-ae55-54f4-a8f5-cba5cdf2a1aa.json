@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3aa53911-ae55-54f4-a8f5-cba5cdf2a1aa",
+  "name": "Hunderassen",
+  "author": {
+    "@type": "Person",
+    "name": "Eva-Maria Krämer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3aa53911-ae55-54f4-a8f5-cba5cdf2a1aa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hunderassen eva-maria kramer buch"
+  }
+}

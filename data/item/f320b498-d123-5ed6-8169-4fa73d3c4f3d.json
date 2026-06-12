@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f320b498-d123-5ed6-8169-4fa73d3c4f3d",
+  "name": "Petterson und Findus - Findus zieht um",
+  "author": {
+    "@type": "Person",
+    "name": "Sven Nordqvist"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f320b498-d123-5ed6-8169-4fa73d3c4f3d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "petterson und findus - findus zieht um sven nordqvist buch"
+  }
+}

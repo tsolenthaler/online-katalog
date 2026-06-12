@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25059b91-ac9a-5441-8365-27ce9261a86e",
+  "name": "Zilly und Zingaro - Zilly, die Zauberin",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Korky"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25059b91-ac9a-5441-8365-27ce9261a86e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zilly und zingaro - zilly, die zauberin paul korky buch"
+  }
+}

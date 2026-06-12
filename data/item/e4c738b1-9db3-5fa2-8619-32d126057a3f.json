@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4c738b1-9db3-5fa2-8619-32d126057a3f",
+  "name": "Die unglaubliche Geschichte von der Riesenbirne (oder",
+  "author": {
+    "@type": "Person",
+    "name": "Jakob Martin Strid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4c738b1-9db3-5fa2-8619-32d126057a3f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die unglaubliche geschichte von der riesenbirne (oder jakob martin strid buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a801739e-b4ad-57c2-a23c-cddccac32329",
+  "name": "Die drei ??? - Band 208 - Kelch des Schicksals",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Arthur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a801739e-b4ad-57c2-a23c-cddccac32329",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 208 - kelch des schicksals robert arthur buch"
+  }
+}

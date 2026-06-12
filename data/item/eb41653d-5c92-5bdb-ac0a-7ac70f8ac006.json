@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb41653d-5c92-5bdb-ac0a-7ac70f8ac006",
+  "name": "Das Lied von Eis und Feuer - Band 2 - Das Erbe von",
+  "author": {
+    "@type": "Person",
+    "name": "George R. R. Martin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb41653d-5c92-5bdb-ac0a-7ac70f8ac006",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das lied von eis und feuer - band 2 - das erbe von george r. r. martin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d854be15-0a91-54dd-a6ad-fbdd3beda271",
+  "name": "Der kleine Vampir - Band 001",
+  "author": {
+    "@type": "Person",
+    "name": "Angela Sommer-Bodenburg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d854be15-0a91-54dd-a6ad-fbdd3beda271",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine vampir - band 001 angela sommer-bodenburg buch"
+  }
+}

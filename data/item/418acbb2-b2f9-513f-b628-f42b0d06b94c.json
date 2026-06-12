@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:418acbb2-b2f9-513f-b628-f42b0d06b94c",
+  "name": "Die schönsten Insekten der Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Marent"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "418acbb2-b2f9-513f-b628-f42b0d06b94c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten insekten der schweiz thomas marent buch"
+  }
+}

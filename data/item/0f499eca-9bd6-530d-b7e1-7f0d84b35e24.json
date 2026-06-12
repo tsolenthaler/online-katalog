@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0f499eca-9bd6-530d-b7e1-7f0d84b35e24",
+  "name": "Vielleicht die letzte Liebe",
+  "author": {
+    "@type": "Person",
+    "name": "Rainer Moritz"
+  },
+  "isbn": "9783311151593",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783311151593",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783311151593"
+  ],
+  "_catalog": {
+    "id": "0f499eca-9bd6-530d-b7e1-7f0d84b35e24",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "",
+    "isbn_source": "dnb",
+    "search_text": "vielleicht die letzte liebe rainer moritz 9783311151593 buch"
+  }
+}

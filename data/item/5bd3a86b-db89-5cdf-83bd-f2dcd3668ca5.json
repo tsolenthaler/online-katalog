@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5bd3a86b-db89-5cdf-83bd-f2dcd3668ca5",
+  "name": "Die drei !!! : Band 095 : Falle im alten Kino",
+  "author": {
+    "@type": "Person",
+    "name": "Maja von Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5bd3a86b-db89-5cdf-83bd-f2dcd3668ca5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! : band 095 : falle im alten kino maja von vogel buch"
+  }
+}

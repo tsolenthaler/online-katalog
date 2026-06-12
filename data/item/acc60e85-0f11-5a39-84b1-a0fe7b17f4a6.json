@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:acc60e85-0f11-5a39-84b1-a0fe7b17f4a6",
+  "name": "Bibi & Tina - Ein schlimmer Verdacht",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias von Bornstädt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "acc60e85-0f11-5a39-84b1-a0fe7b17f4a6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - ein schlimmer verdacht matthias von bornstadt buch"
+  }
+}

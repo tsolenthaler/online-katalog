@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8172f74c-6e6e-58a3-a26c-67f62440781e",
+  "name": "Globi - Band 015 - treibt Sport",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Lips"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8172f74c-6e6e-58a3-a26c-67f62440781e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 015 - treibt sport robert lips buch"
+  }
+}

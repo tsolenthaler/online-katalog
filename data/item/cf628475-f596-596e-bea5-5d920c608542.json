@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cf628475-f596-596e-bea5-5d920c608542",
+  "name": "The Lazy Gardener",
+  "author": {
+    "@type": "Person",
+    "name": "Remo Vetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cf628475-f596-596e-bea5-5d920c608542",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the lazy gardener remo vetter buch"
+  }
+}

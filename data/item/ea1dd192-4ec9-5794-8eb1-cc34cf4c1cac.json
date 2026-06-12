@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea1dd192-4ec9-5794-8eb1-cc34cf4c1cac",
+  "name": "Woher wir Menschen kommen",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine Barr"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea1dd192-4ec9-5794-8eb1-cc34cf4c1cac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "woher wir menschen kommen catherine barr buch"
+  }
+}

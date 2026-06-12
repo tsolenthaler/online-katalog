@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:74fefcc4-4907-5be4-9ebe-511904aebd77",
+  "name": "Prinzessin Trülilü auf der Suche nach der Zauberblume",
+  "author": {
+    "@type": "Person",
+    "name": "Jacqueline Kauer"
+  },
+  "isbn": "9783952391204",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783952391204",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783952391204"
+  ],
+  "_catalog": {
+    "id": "74fefcc4-4907-5be4-9ebe-511904aebd77",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "prinzessin trulilu auf der suche nach der zauberblume jacqueline kauer 9783952391204 buch"
+  }
+}

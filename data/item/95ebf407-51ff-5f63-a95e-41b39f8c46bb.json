@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95ebf407-51ff-5f63-a95e-41b39f8c46bb",
+  "name": "Lass mich nicht los",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Alderson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "95ebf407-51ff-5f63-a95e-41b39f8c46bb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lass mich nicht los sarah alderson buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:227389b7-0b04-58ab-a1ce-87d3011f538f",
+  "name": "Das kleine Böse Buch - Teuflisch gut!",
+  "author": {
+    "@type": "Person",
+    "name": "Magnus Myst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "227389b7-0b04-58ab-a1ce-87d3011f538f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kleine bose buch - teuflisch gut! magnus myst buch"
+  }
+}

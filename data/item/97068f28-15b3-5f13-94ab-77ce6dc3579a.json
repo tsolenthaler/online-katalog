@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97068f28-15b3-5f13-94ab-77ce6dc3579a",
+  "name": "Die Olchis feiern Geburtstag",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "9783960525677",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783960525677",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783960525677"
+  ],
+  "_catalog": {
+    "id": "97068f28-15b3-5f13-94ab-77ce6dc3579a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die olchis feiern geburtstag erhard dietl 9783960525677 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4fb4d92-417c-5a46-a8d4-c68e0b8dcec0",
+  "name": "Die Kaminski-Kids - Band 007 - Auf heisser Spur",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4fb4d92-417c-5a46-a8d4-c68e0b8dcec0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kaminski-kids - band 007 - auf heisser spur carlo meier buch"
+  }
+}

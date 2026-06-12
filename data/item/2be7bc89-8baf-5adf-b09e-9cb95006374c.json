@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2be7bc89-8baf-5adf-b09e-9cb95006374c",
+  "name": "Baumstarke Minis",
+  "author": {
+    "@type": "Person",
+    "name": "Martina Schröder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2be7bc89-8baf-5adf-b09e-9cb95006374c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "baumstarke minis martina schroder buch"
+  }
+}

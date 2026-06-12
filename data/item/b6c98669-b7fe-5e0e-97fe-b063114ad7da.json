@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6c98669-b7fe-5e0e-97fe-b063114ad7da",
+  "name": "codewort 007 , Alarm im Advent",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Michaelis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6c98669-b7fe-5e0e-97fe-b063114ad7da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "codewort 007 , alarm im advent antonia michaelis buch"
+  }
+}

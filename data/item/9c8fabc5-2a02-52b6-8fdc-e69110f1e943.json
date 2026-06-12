@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9c8fabc5-2a02-52b6-8fdc-e69110f1e943",
+  "name": "WOW! - Tolle Tiere, fantastische Phänomene,",
+  "author": {
+    "@type": "Person",
+    "name": "Kelly Hargrave"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9c8fabc5-2a02-52b6-8fdc-e69110f1e943",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wow! - tolle tiere, fantastische phanomene, kelly hargrave buch"
+  }
+}

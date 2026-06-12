@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:86da0bde-b20e-5d5f-92a1-e44aa3c44ba3",
+  "name": "Chili und die Stadtpiraten - Dunkle Wege",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "86da0bde-b20e-5d5f-92a1-e44aa3c44ba3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "chili und die stadtpiraten - dunkle wege thomas brezina buch"
+  }
+}

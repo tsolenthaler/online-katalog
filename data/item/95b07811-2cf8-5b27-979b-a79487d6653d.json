@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95b07811-2cf8-5b27-979b-a79487d6653d",
+  "name": "Der Sternenbaum",
+  "author": {
+    "@type": "Person",
+    "name": "Elisabeth Cölle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "95b07811-2cf8-5b27-979b-a79487d6653d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der sternenbaum elisabeth colle buch"
+  }
+}

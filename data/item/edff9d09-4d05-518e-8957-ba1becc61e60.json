@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:edff9d09-4d05-518e-8957-ba1becc61e60",
+  "name": "Die Klapperschlangen, Eine Bandenchefin sieht grün",
+  "author": {
+    "@type": "Person",
+    "name": "Angie Westhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "edff9d09-4d05-518e-8957-ba1becc61e60",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die klapperschlangen, eine bandenchefin sieht grun angie westhoff buch"
+  }
+}

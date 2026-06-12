@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b8ee0c1f-5b50-5068-9d79-163291c0bea6",
+  "name": "Pin Kaiser und Fip Husar",
+  "author": {
+    "@type": "Person",
+    "name": "Dieter Wiesmüller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b8ee0c1f-5b50-5068-9d79-163291c0bea6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pin kaiser und fip husar dieter wiesmuller buch"
+  }
+}

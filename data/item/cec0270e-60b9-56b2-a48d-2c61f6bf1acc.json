@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cec0270e-60b9-56b2-a48d-2c61f6bf1acc",
+  "name": "Eine Freundin für Mia",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Fischer-Hunold"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cec0270e-60b9-56b2-a48d-2c61f6bf1acc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine freundin fur mia alexandra fischer-hunold buch"
+  }
+}

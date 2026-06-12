@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a73cb43d-20f5-59db-aaa6-549ea548e5a9",
+  "name": "Violetta - Band 003 - Die Eisenkralle",
+  "author": {
+    "@type": "Person",
+    "name": "Fabrice Tarrin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a73cb43d-20f5-59db-aaa6-549ea548e5a9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "violetta - band 003 - die eisenkralle fabrice tarrin buch"
+  }
+}

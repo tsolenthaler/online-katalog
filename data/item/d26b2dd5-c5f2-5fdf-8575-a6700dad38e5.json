@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d26b2dd5-c5f2-5fdf-8575-a6700dad38e5",
+  "name": "Ponyhof Apfelblüte - Band 001 - Lena und Samson",
+  "author": {
+    "@type": "Person",
+    "name": "Pippa Young"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d26b2dd5-c5f2-5fdf-8575-a6700dad38e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ponyhof apfelblute - band 001 - lena und samson pippa young buch"
+  }
+}

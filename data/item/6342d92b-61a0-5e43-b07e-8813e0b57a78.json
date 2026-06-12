@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6342d92b-61a0-5e43-b07e-8813e0b57a78",
+  "name": "Eisland",
+  "author": {
+    "@type": "Person",
+    "name": "Kim Faber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6342d92b-61a0-5e43-b07e-8813e0b57a78",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eisland kim faber buch"
+  }
+}

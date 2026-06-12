@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5c99ed04-4be3-50c4-9884-3a88412a9bee",
+  "name": "Sharing – Willst du wirklich alles teilen?",
+  "author": {
+    "@type": "Person",
+    "name": "Arno Strobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5c99ed04-4be3-50c4-9884-3a88412a9bee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sharing – willst du wirklich alles teilen? arno strobel buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e62d7b05-80de-56e5-bc19-6a61a07fbf13",
+  "name": "Thorgal - Band 027 - Der Barbar",
+  "author": {
+    "@type": "Person",
+    "name": "Rosinski - Van Hamme"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e62d7b05-80de-56e5-bc19-6a61a07fbf13",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "thorgal - band 027 - der barbar rosinski - van hamme buch"
+  }
+}

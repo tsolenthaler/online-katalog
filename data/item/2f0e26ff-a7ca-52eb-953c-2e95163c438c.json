@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2f0e26ff-a7ca-52eb-953c-2e95163c438c",
+  "name": "Der Zauberschüler - Band 5 - Im Kerker der Hexenburg",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Taube"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2f0e26ff-a7ca-52eb-953c-2e95163c438c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der zauberschuler - band 5 - im kerker der hexenburg anna taube buch"
+  }
+}

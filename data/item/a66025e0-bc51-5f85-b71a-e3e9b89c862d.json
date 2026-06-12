@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a66025e0-bc51-5f85-b71a-e3e9b89c862d",
+  "name": "The Secret of Secrets",
+  "author": {
+    "@type": "Person",
+    "name": "Dan Brown"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a66025e0-bc51-5f85-b71a-e3e9b89c862d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the secret of secrets dan brown buch"
+  }
+}

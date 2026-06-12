@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:40449e1f-17f3-560c-9ceb-d0f40ba800f8",
+  "name": "Geschichten aus der Autowerkstatt",
+  "author": {
+    "@type": "Person",
+    "name": "THiLO"
+  },
+  "isbn": "9783785580820",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783785580820",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783785580820"
+  ],
+  "_catalog": {
+    "id": "40449e1f-17f3-560c-9ceb-d0f40ba800f8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "geschichten aus der autowerkstatt thilo 9783785580820 buch"
+  }
+}

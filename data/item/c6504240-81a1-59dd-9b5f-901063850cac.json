@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c6504240-81a1-59dd-9b5f-901063850cac",
+  "name": "Santo Fiore - Band 3 -",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Riepp"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c6504240-81a1-59dd-9b5f-901063850cac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "santo fiore - band 3 - antonia riepp buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:874b70a2-da3f-5656-85fe-213ed4cf4467",
+  "name": "Jommeke - Band 002 - Das Jampuddinggespenst",
+  "author": {
+    "@type": "Person",
+    "name": "Jef Nys"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "874b70a2-da3f-5656-85fe-213ed4cf4467",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jommeke - band 002 - das jampuddinggespenst jef nys buch"
+  }
+}

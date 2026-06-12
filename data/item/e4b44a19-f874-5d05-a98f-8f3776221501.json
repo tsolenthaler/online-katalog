@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e4b44a19-f874-5d05-a98f-8f3776221501",
+  "name": "Liliane Susewind - Ein Hase fällt nicht auf die Nase",
+  "author": {
+    "@type": "Person",
+    "name": "Marlene Jablonski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e4b44a19-f874-5d05-a98f-8f3776221501",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - ein hase fallt nicht auf die nase marlene jablonski buch"
+  }
+}

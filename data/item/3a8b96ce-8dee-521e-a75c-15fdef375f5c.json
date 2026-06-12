@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a8b96ce-8dee-521e-a75c-15fdef375f5c",
+  "name": "Die Fotografin - Band 3 - Die Welt von morgen",
+  "author": {
+    "@type": "Person",
+    "name": "Petra Durst-Benning"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3a8b96ce-8dee-521e-a75c-15fdef375f5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die fotografin - band 3 - die welt von morgen petra durst-benning buch"
+  }
+}

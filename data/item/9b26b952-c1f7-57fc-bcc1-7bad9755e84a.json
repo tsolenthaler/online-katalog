@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9b26b952-c1f7-57fc-bcc1-7bad9755e84a",
+  "name": "Alma und Zina",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Walser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9b26b952-c1f7-57fc-bcc1-7bad9755e84a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alma und zina doris walser buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3fb9e442-0c40-5ad6-8f80-4f9d8f6a5975",
+  "name": "Sternenschweif - das Zauber-Zebra - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Carola von Kessel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3fb9e442-0c40-5ad6-8f80-4f9d8f6a5975",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - das zauber-zebra - band 3 carola von kessel buch"
+  }
+}

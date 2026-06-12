@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:afef3391-6d5b-50c6-a355-7ffbc24ff78a",
+  "name": "Nichts ruht für immer",
+  "author": {
+    "@type": "Person",
+    "name": "Harlan Coben"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "afef3391-6d5b-50c6-a355-7ffbc24ff78a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nichts ruht fur immer harlan coben buch"
+  }
+}

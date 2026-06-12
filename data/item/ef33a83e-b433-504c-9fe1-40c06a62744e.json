@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef33a83e-b433-504c-9fe1-40c06a62744e",
+  "name": "Das große Neuseeland Kochbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Murray Thom"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef33a83e-b433-504c-9fe1-40c06a62744e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das große neuseeland kochbuch murray thom buch"
+  }
+}

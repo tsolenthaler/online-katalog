@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7611725-e232-57f8-b51d-84e8a5088830",
+  "name": "Eine Liebe in Kairo",
+  "author": {
+    "@type": "Person",
+    "name": "Amir Hassan Cheheltan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7611725-e232-57f8-b51d-84e8a5088830",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine liebe in kairo amir hassan cheheltan buch"
+  }
+}

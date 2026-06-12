@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9bcf8b2e-983b-5333-a48e-c9b8fca4bcfa",
+  "name": "Mirella und das Nixengeheimnis",
+  "author": {
+    "@type": "Person",
+    "name": "Patricia Schröder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9bcf8b2e-983b-5333-a48e-c9b8fca4bcfa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mirella und das nixengeheimnis patricia schroder buch"
+  }
+}

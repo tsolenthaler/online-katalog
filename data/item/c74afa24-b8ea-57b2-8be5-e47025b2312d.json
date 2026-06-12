@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c74afa24-b8ea-57b2-8be5-e47025b2312d",
+  "name": "Kasperlitheater - Band 010 - De Velochlauer chunnt is",
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Schneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c74afa24-b8ea-57b2-8be5-e47025b2312d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kasperlitheater - band 010 - de velochlauer chunnt is jorg schneider buch"
+  }
+}

@@ -5,7 +5,7 @@
   "name": "Der Medicus",
   "author": {
     "@type": "Person",
-    "name": "Noah Gordon"
+    "name": ""
   },
   "isbn": "",
   "genre": "",
@@ -21,6 +21,6 @@
     "status": "Keine ISBN ermittelt",
     "metadata_source": "",
     "isbn_source": "",
-    "search_text": "der medicus noah gordon buch"
+    "search_text": "der medicus buch"
   }
 }

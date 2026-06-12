@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3a55b40-89a9-5767-be48-f3e9def6f412",
+  "name": "Johann und Pfiffikus - Band 013 - Die Wüstenrose",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3a55b40-89a9-5767-be48-f3e9def6f412",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "johann und pfiffikus - band 013 - die wustenrose peyo buch"
+  }
+}

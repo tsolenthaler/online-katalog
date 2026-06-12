@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7f3ecd6-9f0b-5ced-88ee-494fd0d16cb6",
+  "name": "Die Geschichte eines neuen Namens",
+  "author": {
+    "@type": "Person",
+    "name": "Elena Ferrante"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7f3ecd6-9f0b-5ced-88ee-494fd0d16cb6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die geschichte eines neuen namens elena ferrante buch"
+  }
+}

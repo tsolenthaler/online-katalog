@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e8e9fa26-dc7e-51b0-af6d-177fee3582c4",
+  "name": "Mein erster Naturführer, Was lebt im Wald?",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Hiller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e8e9fa26-dc7e-51b0-af6d-177fee3582c4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein erster naturfuhrer, was lebt im wald? julia hiller buch"
+  }
+}

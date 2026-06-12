@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0b3f965-1134-534c-8b19-8a02ec72dc9d",
+  "name": "Wo die Moltebeeren leuchten (Die Norrland-Saga, Bd.",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrika Lagerlöf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0b3f965-1134-534c-8b19-8a02ec72dc9d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wo die moltebeeren leuchten (die norrland-saga, bd. ulrika lagerlof buch"
+  }
+}

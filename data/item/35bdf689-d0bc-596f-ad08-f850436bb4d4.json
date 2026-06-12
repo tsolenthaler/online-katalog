@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35bdf689-d0bc-596f-ad08-f850436bb4d4",
+  "name": "Winterzauber",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Rogge"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "35bdf689-d0bc-596f-ad08-f850436bb4d4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "winterzauber anne rogge buch"
+  }
+}

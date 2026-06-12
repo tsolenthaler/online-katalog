@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9d5abd25-3986-57c8-a00f-1a08d7bac8f5",
+  "name": "Fabiola - Ein Hauch von Chaos",
+  "author": {
+    "@type": "Person",
+    "name": "Hilke Rosenboom"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9d5abd25-3986-57c8-a00f-1a08d7bac8f5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fabiola - ein hauch von chaos hilke rosenboom buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d8467901-0195-5edf-96c2-e7a18938dbe4",
+  "name": "Marsupilami - Band 002 - Die Robinson-Akademie",
+  "author": {
+    "@type": "Person",
+    "name": "Franquin,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d8467901-0195-5edf-96c2-e7a18938dbe4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 002 - die robinson-akademie franquin, buch"
+  }
+}

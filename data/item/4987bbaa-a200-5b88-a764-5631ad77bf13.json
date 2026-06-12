@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4987bbaa-a200-5b88-a764-5631ad77bf13",
+  "name": "Loveless",
+  "author": {
+    "@type": "Person",
+    "name": "Alice Oseman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4987bbaa-a200-5b88-a764-5631ad77bf13",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "loveless alice oseman buch"
+  }
+}

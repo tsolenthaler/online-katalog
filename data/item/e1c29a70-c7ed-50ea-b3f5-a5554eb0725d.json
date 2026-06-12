@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1c29a70-c7ed-50ea-b3f5-a5554eb0725d",
+  "name": "Das Erdmännchen",
+  "author": {
+    "@type": "Person",
+    "name": "Jens R. Poschadel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1c29a70-c7ed-50ea-b3f5-a5554eb0725d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das erdmannchen jens r. poschadel buch"
+  }
+}

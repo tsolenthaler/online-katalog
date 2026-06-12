@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ca1aab3f-a67c-53e2-8af8-c2224c7c55f6",
+  "name": "Emily Seymour - Totenbeschwörung für Anfänger",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer Alice Jager"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ca1aab3f-a67c-53e2-8af8-c2224c7c55f6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "emily seymour - totenbeschworung fur anfanger jennifer alice jager buch"
+  }
+}

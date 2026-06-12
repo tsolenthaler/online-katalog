@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e425bc0d-b256-5ccc-b35a-78fad9ceb244",
+  "name": "Simon Enzler - Wedeschegg",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Enzler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e425bc0d-b256-5ccc-b35a-78fad9ceb244",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "simon enzler - wedeschegg simon enzler buch"
+  }
+}

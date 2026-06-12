@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1fb43651-9f59-550c-bdaf-f77d0b5c0928",
+  "name": "Der Satsuma-Komplex oder Der Tag, an dem Gary zum",
+  "author": {
+    "@type": "Person",
+    "name": "Bob Mortimer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1fb43651-9f59-550c-bdaf-f77d0b5c0928",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der satsuma-komplex oder der tag, an dem gary zum bob mortimer buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e9c30ce4-7cce-5904-8d35-2be96a94af65",
+  "name": "Endlich beliebt ! - Band 005",
+  "author": {
+    "@type": "Person",
+    "name": "Amy Ignatow"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e9c30ce4-7cce-5904-8d35-2be96a94af65",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "endlich beliebt ! - band 005 amy ignatow buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:86dc5d66-b660-531c-ac83-8d90499a8c1f",
+  "name": "SpooKI : Band 2 : Ins Netz gegangen",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Rahlff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "86dc5d66-b660-531c-ac83-8d90499a8c1f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spooki : band 2 : ins netz gegangen ruth rahlff buch"
+  }
+}

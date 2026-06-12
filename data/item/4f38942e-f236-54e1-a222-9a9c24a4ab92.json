@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4f38942e-f236-54e1-a222-9a9c24a4ab92",
+  "name": "IZARA - Band 001 - Das ewige Feuer",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Dippel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4f38942e-f236-54e1-a222-9a9c24a4ab92",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "izara - band 001 - das ewige feuer julia dippel buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a06ba43d-6e28-5116-85f1-19984913de6a",
+  "name": "Spirit Animals - Band 005 - Die Maske fällt",
+  "author": {
+    "@type": "Person",
+    "name": "Sutherland Tui T."
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a06ba43d-6e28-5116-85f1-19984913de6a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirit animals - band 005 - die maske fallt sutherland tui t. buch"
+  }
+}

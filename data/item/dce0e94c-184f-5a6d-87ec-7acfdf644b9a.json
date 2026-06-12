@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dce0e94c-184f-5a6d-87ec-7acfdf644b9a",
+  "name": "Todesspur",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Gruber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dce0e94c-184f-5a6d-87ec-7acfdf644b9a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "todesspur andreas gruber buch"
+  }
+}

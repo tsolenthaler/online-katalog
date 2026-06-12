@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8d9ae3d8-c729-5fb3-944f-f94b5694d75d",
+  "name": "13 Bauwerke die du kennen solltest",
+  "author": {
+    "@type": "Person",
+    "name": "Annette Roeder"
+  },
+  "isbn": "9783791340395",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783791340395",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783791340395"
+  ],
+  "_catalog": {
+    "id": "8d9ae3d8-c729-5fb3-944f-f94b5694d75d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "13 bauwerke die du kennen solltest annette roeder 9783791340395 buch"
+  }
+}

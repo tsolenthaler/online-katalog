@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:71735522-faa8-5d2b-9f75-eea58da397b7",
+  "name": "Boys of Tommen - Band 2 - Keeping 13",
+  "author": {
+    "@type": "Person",
+    "name": "Chloe Walsh"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "71735522-faa8-5d2b-9f75-eea58da397b7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boys of tommen - band 2 - keeping 13 chloe walsh buch"
+  }
+}

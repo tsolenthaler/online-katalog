@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e758223f-66a1-5981-b0f4-4d415dac1a25",
+  "name": "Lesezug - Ritter Rudi",
+  "author": {
+    "@type": "Person",
+    "name": "Franz Sales Sklenitzka"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e758223f-66a1-5981-b0f4-4d415dac1a25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lesezug - ritter rudi franz sales sklenitzka buch"
+  }
+}

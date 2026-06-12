@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d37d7540-a162-5c66-9b11-b56fddad697b",
+  "name": "Vögel",
+  "author": {
+    "@type": "Person",
+    "name": "Michel Luchesi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d37d7540-a162-5c66-9b11-b56fddad697b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "vogel michel luchesi buch"
+  }
+}

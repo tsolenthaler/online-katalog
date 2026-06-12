@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:585455d3-28c5-5ea8-bf71-a184d0a23bba",
+  "name": "Hühner halten",
+  "author": {
+    "@type": "Person",
+    "name": "Katrin Juliane Schiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "585455d3-28c5-5ea8-bf71-a184d0a23bba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "huhner halten katrin juliane schiffer buch"
+  }
+}

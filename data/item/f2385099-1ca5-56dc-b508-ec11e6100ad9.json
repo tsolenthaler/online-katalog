@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f2385099-1ca5-56dc-b508-ec11e6100ad9",
+  "name": "Wälti wird Geissbub",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Antilli Frick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f2385099-1ca5-56dc-b508-ec11e6100ad9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "walti wird geissbub karin antilli frick buch"
+  }
+}

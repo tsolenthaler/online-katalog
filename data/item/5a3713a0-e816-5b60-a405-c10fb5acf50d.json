@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5a3713a0-e816-5b60-a405-c10fb5acf50d",
+  "name": "Sommer ohne Plan",
+  "author": {
+    "@type": "Person",
+    "name": "Johanna Swanberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5a3713a0-e816-5b60-a405-c10fb5acf50d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sommer ohne plan johanna swanberg buch"
+  }
+}

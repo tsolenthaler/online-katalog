@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9877a39d-542c-5625-bb06-22e9b1bc58c8",
+  "name": "Das Glück hat acht Arme",
+  "author": {
+    "@type": "Person",
+    "name": "Shelby Van Pelt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9877a39d-542c-5625-bb06-22e9b1bc58c8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das gluck hat acht arme shelby van pelt buch"
+  }
+}

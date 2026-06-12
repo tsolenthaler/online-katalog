@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed93e56e-8064-52c5-88f9-7cb84010dfdf",
+  "name": "Die Schule der magischen Tiere 3",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Baumgartner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed93e56e-8064-52c5-88f9-7cb84010dfdf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schule der magischen tiere 3 andrea baumgartner buch"
+  }
+}

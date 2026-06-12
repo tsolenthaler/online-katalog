@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:92843665-4645-571f-9c86-1ebf34298041",
+  "name": "Der kleine Major Tom - Band 001 - Völlig losgelöst",
+  "author": {
+    "@type": "Person",
+    "name": "Bernd Flessner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "92843665-4645-571f-9c86-1ebf34298041",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine major tom - band 001 - vollig losgelost bernd flessner buch"
+  }
+}

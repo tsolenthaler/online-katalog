@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b004d517-20cb-5221-98dc-8a6fb80f4c12",
+  "name": "Die spannendsten griechischen Sagen",
+  "author": {
+    "@type": "Person",
+    "name": "Dimiter Inkiow"
+  },
+  "isbn": "9783731394730",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783731394730",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783731394730"
+  ],
+  "_catalog": {
+    "id": "b004d517-20cb-5221-98dc-8a6fb80f4c12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die spannendsten griechischen sagen dimiter inkiow 9783731394730 buch"
+  }
+}

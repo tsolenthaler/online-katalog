@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d75ee768-4bb8-512d-bdf5-cde9e45bbfd7",
+  "name": "Die Schule der Alyxa - Band 03 - Der sechste Sinn",
+  "author": {
+    "@type": "Person",
+    "name": "R. L. Ferguson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d75ee768-4bb8-512d-bdf5-cde9e45bbfd7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schule der alyxa - band 03 - der sechste sinn r. l. ferguson buch"
+  }
+}

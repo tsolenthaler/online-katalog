@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f566156d-09bc-5db1-9477-7c9cb7f360e6",
+  "name": "Eine ponystarke Freundschaft",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Giebken"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f566156d-09bc-5db1-9477-7c9cb7f360e6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine ponystarke freundschaft sabine giebken buch"
+  }
+}

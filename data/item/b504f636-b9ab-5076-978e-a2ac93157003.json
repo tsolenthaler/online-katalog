@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b504f636-b9ab-5076-978e-a2ac93157003",
+  "name": "Farben-Buch",
+  "author": {
+    "@type": "Person",
+    "name": "Hervé Tullet"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b504f636-b9ab-5076-978e-a2ac93157003",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "farben-buch herve tullet buch"
+  }
+}

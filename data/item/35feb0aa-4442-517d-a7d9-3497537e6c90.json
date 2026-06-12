@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:35feb0aa-4442-517d-a7d9-3497537e6c90",
+  "name": "Bibi & Tina - Die Urlaubsüberraschung",
+  "author": {
+    "@type": "Person",
+    "name": "Markus Dittrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "35feb0aa-4442-517d-a7d9-3497537e6c90",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - die urlaubsuberraschung markus dittrich buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4a68a70b-c68e-5681-a076-a4882d9c5356",
+  "name": "Weck den Weihnachtsmann",
+  "author": {
+    "@type": "Person",
+    "name": "Anka Schwelgin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4a68a70b-c68e-5681-a076-a4882d9c5356",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weck den weihnachtsmann anka schwelgin buch"
+  }
+}

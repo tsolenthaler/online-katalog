@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ef4e3772-13f4-5ee2-9f5a-21e246c63ae5",
+  "name": "Ein Mord im November",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Mason"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ef4e3772-13f4-5ee2-9f5a-21e246c63ae5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein mord im november simon mason buch"
+  }
+}

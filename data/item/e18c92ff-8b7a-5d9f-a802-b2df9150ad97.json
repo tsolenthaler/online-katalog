@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e18c92ff-8b7a-5d9f-a802-b2df9150ad97",
+  "name": "Donald - Band 018",
+  "author": {
+    "@type": "Person",
+    "name": "Carl Barks"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e18c92ff-8b7a-5d9f-a802-b2df9150ad97",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "donald - band 018 carl barks buch"
+  }
+}

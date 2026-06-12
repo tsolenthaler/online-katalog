@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f5dc9799-b8bc-579a-b0b9-572fcb78a187",
+  "name": "Die Darm-Hirn Connection",
+  "author": {
+    "@type": "Person",
+    "name": "Gregor Hasler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f5dc9799-b8bc-579a-b0b9-572fcb78a187",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die darm-hirn connection gregor hasler buch"
+  }
+}

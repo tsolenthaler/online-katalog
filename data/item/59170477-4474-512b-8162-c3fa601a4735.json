@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:59170477-4474-512b-8162-c3fa601a4735",
+  "name": "Bibi & Tina - Graf für einen Tag",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias von Bornstädt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "59170477-4474-512b-8162-c3fa601a4735",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi & tina - graf fur einen tag matthias von bornstadt buch"
+  }
+}

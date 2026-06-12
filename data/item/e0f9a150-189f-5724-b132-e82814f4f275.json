@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0f9a150-189f-5724-b132-e82814f4f275",
+  "name": "Sommer der Wahrheit",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Neuhaus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0f9a150-189f-5724-b132-e82814f4f275",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sommer der wahrheit nele neuhaus buch"
+  }
+}

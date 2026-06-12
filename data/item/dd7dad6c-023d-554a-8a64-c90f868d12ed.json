@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd7dad6c-023d-554a-8a64-c90f868d12ed",
+  "name": "Zwei Meerschweinchen im Klassenzimmer",
+  "author": {
+    "@type": "Person",
+    "name": "Judith Allert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd7dad6c-023d-554a-8a64-c90f868d12ed",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zwei meerschweinchen im klassenzimmer judith allert buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5180e6f5-0dfe-5442-b66c-a7d4d9e1667e",
+  "name": "Heimelig",
+  "author": {
+    "@type": "Person",
+    "name": "Blanca Imboden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5180e6f5-0dfe-5442-b66c-a7d4d9e1667e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heimelig blanca imboden buch"
+  }
+}

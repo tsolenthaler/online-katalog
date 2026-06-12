@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e51619f0-b747-5d53-9e0c-538db0cad978",
+  "name": "Wie wir waren",
+  "author": {
+    "@type": "Person",
+    "name": "Heike Duken"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e51619f0-b747-5d53-9e0c-538db0cad978",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie wir waren heike duken buch"
+  }
+}

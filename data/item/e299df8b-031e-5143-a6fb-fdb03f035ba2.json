@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e299df8b-031e-5143-a6fb-fdb03f035ba2",
+  "name": "Herzlichen Glückwunsch, Sie haben gewonnen!",
+  "author": {
+    "@type": "Person",
+    "name": "Dora Heldt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e299df8b-031e-5143-a6fb-fdb03f035ba2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "herzlichen gluckwunsch, sie haben gewonnen! dora heldt buch"
+  }
+}

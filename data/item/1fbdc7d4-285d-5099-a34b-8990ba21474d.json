@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1fbdc7d4-285d-5099-a34b-8990ba21474d",
+  "name": "Die Stadt der wilden Götter - Teil 2",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Allende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1fbdc7d4-285d-5099-a34b-8990ba21474d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die stadt der wilden gotter - teil 2 isabel allende buch"
+  }
+}

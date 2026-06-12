@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d5b49aaa-7879-570a-ac30-02c3b53cbb0d",
+  "name": "25 Prozent aller Kinder glauben, dass an Ostern der",
+  "author": {
+    "@type": "Person",
+    "name": "Karl Freitag"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d5b49aaa-7879-570a-ac30-02c3b53cbb0d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "25 prozent aller kinder glauben, dass an ostern der karl freitag buch"
+  }
+}

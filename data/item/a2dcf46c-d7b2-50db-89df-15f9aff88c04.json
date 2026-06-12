@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2dcf46c-d7b2-50db-89df-15f9aff88c04",
+  "name": "Monsta",
+  "author": {
+    "@type": "Person",
+    "name": "Dita Zipfel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2dcf46c-d7b2-50db-89df-15f9aff88c04",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monsta dita zipfel buch"
+  }
+}

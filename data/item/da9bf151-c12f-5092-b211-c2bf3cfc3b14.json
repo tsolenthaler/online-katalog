@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da9bf151-c12f-5092-b211-c2bf3cfc3b14",
+  "name": "Spirit Animals - Band 003 - Das Böse erhebt sich",
+  "author": {
+    "@type": "Person",
+    "name": "Brandon Mull"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da9bf151-c12f-5092-b211-c2bf3cfc3b14",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirit animals - band 003 - das bose erhebt sich brandon mull buch"
+  }
+}

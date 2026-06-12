@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2aa0a697-58f8-5e88-afa9-43d6f9706b8a",
+  "name": "Undercover City, Der Unsichtbare im Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Gabi Neumayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2aa0a697-58f8-5e88-afa9-43d6f9706b8a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "undercover city, der unsichtbare im wald gabi neumayer buch"
+  }
+}

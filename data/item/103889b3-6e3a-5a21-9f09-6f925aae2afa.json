@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:103889b3-6e3a-5a21-9f09-6f925aae2afa",
+  "name": "Globi bei der Müllabfuhr - Band 99",
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Frick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "103889b3-6e3a-5a21-9f09-6f925aae2afa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi bei der mullabfuhr - band 99 daniel frick buch"
+  }
+}

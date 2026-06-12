@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:033d8511-345c-5d97-9d16-a96ff3bb8887",
+  "name": "Leopeule",
+  "author": {
+    "@type": "Person",
+    "name": "Nina Hundertschnee"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "033d8511-345c-5d97-9d16-a96ff3bb8887",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "leopeule nina hundertschnee buch"
+  }
+}

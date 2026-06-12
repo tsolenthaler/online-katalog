@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eea63efb-34ce-5386-aed2-c19dfc0ddbdf",
+  "name": "WAS IST WAS - Natur entdecken",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Braun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eea63efb-34ce-5386-aed2-c19dfc0ddbdf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - natur entdecken christina braun buch"
+  }
+}

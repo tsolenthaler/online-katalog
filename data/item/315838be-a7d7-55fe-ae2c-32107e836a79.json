@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:315838be-a7d7-55fe-ae2c-32107e836a79",
+  "name": "Molli Minipony - Band 002 - Eine Schultüte voller",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Schütze"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "315838be-a7d7-55fe-ae2c-32107e836a79",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "molli minipony - band 002 - eine schultute voller andrea schutze buch"
+  }
+}

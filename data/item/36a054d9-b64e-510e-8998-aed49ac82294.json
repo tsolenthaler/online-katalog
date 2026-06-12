@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:36a054d9-b64e-510e-8998-aed49ac82294",
+  "name": "Laura",
+  "author": {
+    "@type": "Person",
+    "name": "Irene Hofstetter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "36a054d9-b64e-510e-8998-aed49ac82294",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "laura irene hofstetter buch"
+  }
+}

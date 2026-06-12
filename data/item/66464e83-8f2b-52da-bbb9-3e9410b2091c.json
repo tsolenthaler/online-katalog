@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:66464e83-8f2b-52da-bbb9-3e9410b2091c",
+  "name": "Der Eisbär",
+  "author": {
+    "@type": "Person",
+    "name": "Jenni Desmond"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "66464e83-8f2b-52da-bbb9-3e9410b2091c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der eisbar jenni desmond buch"
+  }
+}

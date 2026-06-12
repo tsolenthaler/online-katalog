@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1230b38-6518-5efd-94d8-2cbae75b2559",
+  "name": "Superchecker! - Piraten",
+  "author": {
+    "@type": "Person",
+    "name": "E.T. Fox"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1230b38-6518-5efd-94d8-2cbae75b2559",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superchecker! - piraten e.t. fox buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:63d1a7a4-c440-528a-8f89-b90bbda94c14",
+  "name": "Mirella Manusch - Hilfe, mein Kater kann sprechen!",
+  "author": {
+    "@type": "Person",
+    "name": "Christin-Marie Below"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "63d1a7a4-c440-528a-8f89-b90bbda94c14",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mirella manusch - hilfe, mein kater kann sprechen! christin-marie below buch"
+  }
+}

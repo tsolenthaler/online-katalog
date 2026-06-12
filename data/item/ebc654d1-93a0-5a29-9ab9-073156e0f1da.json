@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ebc654d1-93a0-5a29-9ab9-073156e0f1da",
+  "name": "Die Frauen von Kopenhagen",
+  "author": {
+    "@type": "Person",
+    "name": "Gertrud Tinning"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ebc654d1-93a0-5a29-9ab9-073156e0f1da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die frauen von kopenhagen gertrud tinning buch"
+  }
+}

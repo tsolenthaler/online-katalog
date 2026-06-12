@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:95fa70be-3c26-5e02-80f7-8aaab958dc94",
+  "name": "Die Spiele",
+  "author": {
+    "@type": "Person",
+    "name": "Stephan Thome"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "95fa70be-3c26-5e02-80f7-8aaab958dc94",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die spiele stephan thome buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9b3e51b-953a-5f97-8865-e038b8f7921a",
+  "name": "Benjamin Blümchen - Band 144 - Der Zuckerstückchen-",
+  "author": {
+    "@type": "Person",
+    "name": "Vincent Andreas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f9b3e51b-953a-5f97-8865-e038b8f7921a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "benjamin blumchen - band 144 - der zuckerstuckchen- vincent andreas buch"
+  }
+}

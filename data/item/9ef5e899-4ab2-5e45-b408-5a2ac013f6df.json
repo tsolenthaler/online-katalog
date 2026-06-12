@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9ef5e899-4ab2-5e45-b408-5a2ac013f6df",
+  "name": "Prinzässin Lillifee und de chli Drache",
+  "author": {
+    "@type": "Person",
+    "name": "Monika Finsterbusch"
+  },
+  "isbn": "9783037185728",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783037185728",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783037185728"
+  ],
+  "_catalog": {
+    "id": "9ef5e899-4ab2-5e45-b408-5a2ac013f6df",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "prinzassin lillifee und de chli drache monika finsterbusch 9783037185728 buch"
+  }
+}

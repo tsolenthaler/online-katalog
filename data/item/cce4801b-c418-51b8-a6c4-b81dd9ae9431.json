@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cce4801b-c418-51b8-a6c4-b81dd9ae9431",
+  "name": "SCHULKLASSENGESCHICHTEN",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Reider"
+  },
+  "isbn": "9783785587010",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783785587010",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783785587010"
+  ],
+  "_catalog": {
+    "id": "cce4801b-c418-51b8-a6c4-b81dd9ae9431",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "schulklassengeschichten katja reider 9783785587010 buch"
+  }
+}

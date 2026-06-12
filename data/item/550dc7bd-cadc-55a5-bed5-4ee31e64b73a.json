@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:550dc7bd-cadc-55a5-bed5-4ee31e64b73a",
+  "name": "TKKG Junior - Detektive auf Tauchstation",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Schreuder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "550dc7bd-cadc-55a5-bed5-4ee31e64b73a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - detektive auf tauchstation benjamin schreuder buch"
+  }
+}

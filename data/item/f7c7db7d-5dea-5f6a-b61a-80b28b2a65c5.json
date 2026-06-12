@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7c7db7d-5dea-5f6a-b61a-80b28b2a65c5",
+  "name": "Starke Stimmen",
+  "author": {
+    "@type": "Person",
+    "name": "Hoss Nina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7c7db7d-5dea-5f6a-b61a-80b28b2a65c5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "starke stimmen hoss nina buch"
+  }
+}

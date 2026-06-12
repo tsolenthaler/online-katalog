@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97548251-6bbc-5db3-aa7e-60207b95dcdd",
+  "name": "Anima - schwarze Seele weisses Herz",
+  "author": {
+    "@type": "Person",
+    "name": "Kim Kestner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97548251-6bbc-5db3-aa7e-60207b95dcdd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "anima - schwarze seele weisses herz kim kestner buch"
+  }
+}

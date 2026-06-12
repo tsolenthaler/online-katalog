@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:17772204-fdf9-5868-9f3d-0cf4beca249c",
+  "name": "Matterhorn",
+  "author": {
+    "@type": "Person",
+    "name": "Kurt Lauber"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "17772204-fdf9-5868-9f3d-0cf4beca249c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "matterhorn kurt lauber buch"
+  }
+}

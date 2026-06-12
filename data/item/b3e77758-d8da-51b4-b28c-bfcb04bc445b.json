@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3e77758-d8da-51b4-b28c-bfcb04bc445b",
+  "name": "Jommeke - Band 026 - Die Plastikjäger",
+  "author": {
+    "@type": "Person",
+    "name": "Jef Nys"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b3e77758-d8da-51b4-b28c-bfcb04bc445b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jommeke - band 026 - die plastikjager jef nys buch"
+  }
+}

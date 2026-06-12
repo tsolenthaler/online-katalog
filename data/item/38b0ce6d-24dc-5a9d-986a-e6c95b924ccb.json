@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38b0ce6d-24dc-5a9d-986a-e6c95b924ccb",
+  "name": "Lieblingssuppen",
+  "author": {
+    "@type": "Person",
+    "name": "Janneke Philippi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38b0ce6d-24dc-5a9d-986a-e6c95b924ccb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lieblingssuppen janneke philippi buch"
+  }
+}

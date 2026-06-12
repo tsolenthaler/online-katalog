@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4bacf260-c818-5e99-affd-835895ef2ecb",
+  "name": "Frostglut",
+  "author": {
+    "@type": "Person",
+    "name": "Jennifer Estep"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4bacf260-c818-5e99-affd-835895ef2ecb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frostglut jennifer estep buch"
+  }
+}

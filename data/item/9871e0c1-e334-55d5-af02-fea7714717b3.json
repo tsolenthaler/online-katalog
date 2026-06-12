@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9871e0c1-e334-55d5-af02-fea7714717b3",
+  "name": "Lied der Rache (3)",
+  "author": {
+    "@type": "Person",
+    "name": "Iny Lorentz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9871e0c1-e334-55d5-af02-fea7714717b3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lied der rache (3) iny lorentz buch"
+  }
+}

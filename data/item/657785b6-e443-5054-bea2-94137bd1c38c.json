@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:657785b6-e443-5054-bea2-94137bd1c38c",
+  "name": "Die 6 Säulen des Selbstwertgefühls",
+  "author": {
+    "@type": "Person",
+    "name": "Nathaniel Branden"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "657785b6-e443-5054-bea2-94137bd1c38c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die 6 saulen des selbstwertgefuhls nathaniel branden buch"
+  }
+}

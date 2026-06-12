@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1f4adaff-41ed-545f-9e9f-b21749b2e831",
+  "name": "Erwischt",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Alves"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1f4adaff-41ed-545f-9e9f-b21749b2e831",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erwischt katja alves buch"
+  }
+}

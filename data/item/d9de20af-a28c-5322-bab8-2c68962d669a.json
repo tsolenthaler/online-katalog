@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9de20af-a28c-5322-bab8-2c68962d669a",
+  "name": "Hexe Lilli - und das magische Schwert",
+  "author": {
+    "@type": "Person",
+    "name": "Knister"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9de20af-a28c-5322-bab8-2c68962d669a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hexe lilli - und das magische schwert knister buch"
+  }
+}

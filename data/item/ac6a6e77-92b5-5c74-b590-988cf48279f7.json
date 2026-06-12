@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ac6a6e77-92b5-5c74-b590-988cf48279f7",
+  "name": "WAS IST WAS - Wunderbare Pferde / Reitervolk",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Baur"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ac6a6e77-92b5-5c74-b590-988cf48279f7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - wunderbare pferde / reitervolk manfred baur buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:25983026-754d-580f-ba78-47925dbf2c6d",
+  "name": "Tiptoi - Sicher im Straßenverkehr",
+  "author": {
+    "@type": "Person",
+    "name": "Guido Wandrey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "25983026-754d-580f-ba78-47925dbf2c6d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - sicher im straßenverkehr guido wandrey buch"
+  }
+}

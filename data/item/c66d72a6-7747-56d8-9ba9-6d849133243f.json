@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c66d72a6-7747-56d8-9ba9-6d849133243f",
+  "name": "Lesezug - Mutig und frech",
+  "author": {
+    "@type": "Person",
+    "name": "Hertha Kratzer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c66d72a6-7747-56d8-9ba9-6d849133243f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lesezug - mutig und frech hertha kratzer buch"
+  }
+}

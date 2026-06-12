@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6d92aa6a-8201-50fc-b9bf-ce533e519ca4",
+  "name": "Der Esel Pferdinand - Band 002 - Ein Esel zum",
+  "author": {
+    "@type": "Person",
+    "name": "Suza Kolb"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6d92aa6a-8201-50fc-b9bf-ce533e519ca4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der esel pferdinand - band 002 - ein esel zum suza kolb buch"
+  }
+}

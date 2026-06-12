@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7d2c4ee-0b53-512d-9c38-5aadde4a042c",
+  "name": "Über selbstbestimmtes Sterben",
+  "author": {
+    "@type": "Person",
+    "name": "Heinz Rüegger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7d2c4ee-0b53-512d-9c38-5aadde4a042c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "uber selbstbestimmtes sterben heinz ruegger buch"
+  }
+}

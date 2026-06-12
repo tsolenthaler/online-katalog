@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7194f017-193d-5ff5-ae7c-c52df46b2876",
+  "name": "Papa Moll - Band 024 - im Verkehrshaus",
+  "author": {
+    "@type": "Person",
+    "name": "Edith Jonas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7194f017-193d-5ff5-ae7c-c52df46b2876",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 024 - im verkehrshaus edith jonas buch"
+  }
+}

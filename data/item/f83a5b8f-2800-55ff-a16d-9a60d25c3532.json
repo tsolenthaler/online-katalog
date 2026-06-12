@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f83a5b8f-2800-55ff-a16d-9a60d25c3532",
+  "name": "Papa Moll - Band 028 - im Schnee",
+  "author": {
+    "@type": "Person",
+    "name": "Kamil Krejci"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f83a5b8f-2800-55ff-a16d-9a60d25c3532",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 028 - im schnee kamil krejci buch"
+  }
+}

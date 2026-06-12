@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a62c0654-792d-57b1-8b5c-e07caf58fc8d",
+  "name": "Die Freunde im Zauberwald - der gestohlene",
+  "author": {
+    "@type": "Person",
+    "name": "Nortrud Boge-Erli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a62c0654-792d-57b1-8b5c-e07caf58fc8d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die freunde im zauberwald - der gestohlene nortrud boge-erli buch"
+  }
+}

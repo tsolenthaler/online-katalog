@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:12f7dca7-bef6-5477-998e-73679588ec3a",
+  "name": "Lust auf Wandern",
+  "author": {
+    "@type": "Person",
+    "name": "Natascha Knecht"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "12f7dca7-bef6-5477-998e-73679588ec3a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lust auf wandern natascha knecht buch"
+  }
+}

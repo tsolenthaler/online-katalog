@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae876983-9158-5a6e-b475-df10f8dd2ec7",
+  "name": "Eine andere Geschichte",
+  "author": {
+    "@type": "Person",
+    "name": "Charles Lewinsky"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae876983-9158-5a6e-b475-df10f8dd2ec7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine andere geschichte charles lewinsky buch"
+  }
+}

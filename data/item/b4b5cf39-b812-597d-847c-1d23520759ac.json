@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b4b5cf39-b812-597d-847c-1d23520759ac",
+  "name": "Mix it - love it!",
+  "author": {
+    "@type": "Person",
+    "name": "Katie Caldesi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b4b5cf39-b812-597d-847c-1d23520759ac",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mix it - love it! katie caldesi buch"
+  }
+}

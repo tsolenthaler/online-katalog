@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ad89f9d9-33d5-5431-8651-c7ee1f81caaf",
+  "name": "Die drei !!! - Tatort Tierarztpraxis",
+  "author": {
+    "@type": "Person",
+    "name": "Ann-Katrin Heger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ad89f9d9-33d5-5431-8651-c7ee1f81caaf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - tatort tierarztpraxis ann-katrin heger buch"
+  }
+}

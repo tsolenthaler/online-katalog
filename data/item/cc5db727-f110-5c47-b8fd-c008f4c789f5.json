@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cc5db727-f110-5c47-b8fd-c008f4c789f5",
+  "name": "Wieso, Weshalb, Warum - Autos und Laster",
+  "author": {
+    "@type": "Person",
+    "name": "Ursula Weller"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cc5db727-f110-5c47-b8fd-c008f4c789f5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - autos und laster ursula weller buch"
+  }
+}

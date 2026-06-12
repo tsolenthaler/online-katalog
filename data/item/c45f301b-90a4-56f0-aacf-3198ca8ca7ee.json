@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c45f301b-90a4-56f0-aacf-3198ca8ca7ee",
+  "name": "Pssst! Unser Geheimnis - Band 008 - Immer diese Eltern",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c45f301b-90a4-56f0-aacf-3198ca8ca7ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pssst! unser geheimnis - band 008 - immer diese eltern thomas brezina buch"
+  }
+}

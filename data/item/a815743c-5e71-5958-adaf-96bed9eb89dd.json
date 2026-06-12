@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a815743c-5e71-5958-adaf-96bed9eb89dd",
+  "name": "Fünf Freunde - Band 001 - erforschen die Schatzinsel",
+  "author": {
+    "@type": "Person",
+    "name": "Béja"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a815743c-5e71-5958-adaf-96bed9eb89dd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 001 - erforschen die schatzinsel beja buch"
+  }
+}

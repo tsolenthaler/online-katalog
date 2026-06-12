@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f402f2c2-b3e1-5db0-a5ea-e34cf132ba5e",
+  "name": "Takeover",
+  "author": {
+    "@type": "Person",
+    "name": "Jussi Adler-Olsen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f402f2c2-b3e1-5db0-a5ea-e34cf132ba5e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "takeover jussi adler-olsen buch"
+  }
+}

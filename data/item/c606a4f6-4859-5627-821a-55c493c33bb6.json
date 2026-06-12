@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c606a4f6-4859-5627-821a-55c493c33bb6",
+  "name": "Zoo - exklusive Einblicke!",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Ffrancon Davies"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c606a4f6-4859-5627-821a-55c493c33bb6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zoo - exklusive einblicke! ben ffrancon davies buch"
+  }
+}

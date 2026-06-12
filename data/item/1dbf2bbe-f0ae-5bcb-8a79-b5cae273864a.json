@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1dbf2bbe-f0ae-5bcb-8a79-b5cae273864a",
+  "name": "Stinknormal ist anders",
+  "author": {
+    "@type": "Person",
+    "name": "Nina George"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1dbf2bbe-f0ae-5bcb-8a79-b5cae273864a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "stinknormal ist anders nina george buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b6b8addc-2c8a-570e-b9ee-36b433e94dda",
+  "name": "Atlas der Säugetiere – Schweiz und Liechtenstein",
+  "author": {
+    "@type": "Person",
+    "name": "Roland Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b6b8addc-2c8a-570e-b9ee-36b433e94dda",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "atlas der saugetiere – schweiz und liechtenstein roland graf buch"
+  }
+}

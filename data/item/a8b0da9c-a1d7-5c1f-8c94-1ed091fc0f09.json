@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8b0da9c-a1d7-5c1f-8c94-1ed091fc0f09",
+  "name": "Die Kuh, die weinte",
+  "author": {
+    "@type": "Person",
+    "name": "Ajahn Brahm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a8b0da9c-a1d7-5c1f-8c94-1ed091fc0f09",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kuh, die weinte ajahn brahm buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bb20f1de-ff76-5640-8dbc-88043259ed72",
+  "name": "Chaosküsse mit Croissant",
+  "author": {
+    "@type": "Person",
+    "name": "Hortense Ullrich"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bb20f1de-ff76-5640-8dbc-88043259ed72",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "chaoskusse mit croissant hortense ullrich buch"
+  }
+}

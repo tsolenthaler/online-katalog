@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:deddc0b6-1b02-5134-ba67-72b8bc4fe55f",
+  "name": "Boule & Bill - Band 029 - So ein Zirkus",
+  "author": {
+    "@type": "Person",
+    "name": "Jean Roba"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "deddc0b6-1b02-5134-ba67-72b8bc4fe55f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boule & bill - band 029 - so ein zirkus jean roba buch"
+  }
+}

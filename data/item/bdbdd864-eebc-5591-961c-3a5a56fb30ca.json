@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bdbdd864-eebc-5591-961c-3a5a56fb30ca",
+  "name": "Augenweiden",
+  "author": {
+    "@type": "Person",
+    "name": "Alfred Haefeli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bdbdd864-eebc-5591-961c-3a5a56fb30ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "augenweiden alfred haefeli buch"
+  }
+}

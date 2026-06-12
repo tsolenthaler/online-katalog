@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e5717d11-4638-58da-b33b-d34be9930637",
+  "name": "Reckless - Band 2 -lebendige Schatten",
+  "author": {
+    "@type": "Person",
+    "name": "Cornelia Funke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e5717d11-4638-58da-b33b-d34be9930637",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "reckless - band 2 -lebendige schatten cornelia funke buch"
+  }
+}

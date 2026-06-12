@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1b4f527c-0e42-5462-a931-1ee8178cb6c3",
+  "name": "Marsupilami - Band 009 - Operation Attila",
+  "author": {
+    "@type": "Person",
+    "name": "Batem,"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1b4f527c-0e42-5462-a931-1ee8178cb6c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "marsupilami - band 009 - operation attila batem, buch"
+  }
+}

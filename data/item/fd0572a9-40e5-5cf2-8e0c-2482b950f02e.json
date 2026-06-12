@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fd0572a9-40e5-5cf2-8e0c-2482b950f02e",
+  "name": "NACHT",
+  "author": {
+    "@type": "Person",
+    "name": "Yrsa Sigurardttir"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fd0572a9-40e5-5cf2-8e0c-2482b950f02e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nacht yrsa sigurardttir buch"
+  }
+}

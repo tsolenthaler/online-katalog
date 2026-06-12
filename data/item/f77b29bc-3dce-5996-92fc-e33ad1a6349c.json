@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f77b29bc-3dce-5996-92fc-e33ad1a6349c",
+  "name": "Garten-Deko aus Beton selbstgemacht",
+  "author": {
+    "@type": "Person",
+    "name": "Malin Nilsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f77b29bc-3dce-5996-92fc-e33ad1a6349c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "garten-deko aus beton selbstgemacht malin nilsson buch"
+  }
+}

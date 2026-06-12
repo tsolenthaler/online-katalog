@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ddaf3fb1-c1f9-5a08-a32d-da470c95b1d7",
+  "name": "Orphan Train - Band 003 - Lisa",
+  "author": {
+    "@type": "Person",
+    "name": "Philippe Charlot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ddaf3fb1-c1f9-5a08-a32d-da470c95b1d7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "orphan train - band 003 - lisa philippe charlot buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:06d77b90-299d-5bad-942a-356cc8933719",
+  "name": "Der kleine Gärtner",
+  "author": {
+    "@type": "Person",
+    "name": "Friederike Steil"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "06d77b90-299d-5bad-942a-356cc8933719",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine gartner friederike steil buch"
+  }
+}

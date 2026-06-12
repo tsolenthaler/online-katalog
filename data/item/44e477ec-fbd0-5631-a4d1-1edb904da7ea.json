@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:44e477ec-fbd0-5631-a4d1-1edb904da7ea",
+  "name": "Das Lied von Eis und Feuer - Band 4 - Die Saat des",
+  "author": {
+    "@type": "Person",
+    "name": "George R. R. Martin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "44e477ec-fbd0-5631-a4d1-1edb904da7ea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das lied von eis und feuer - band 4 - die saat des george r. r. martin buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:825d8059-8004-524c-ba0d-2ba7448d647f",
+  "name": "Rosa Rosenherz - Im Zauberschloss der Herzenswünsche",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Dahle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "825d8059-8004-524c-ba0d-2ba7448d647f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "rosa rosenherz - im zauberschloss der herzenswunsche stefanie dahle buch"
+  }
+}

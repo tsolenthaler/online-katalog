@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:57bb9aa3-5e39-52e2-a2fd-2c01ffd9437c",
+  "name": "Tür an Tür mit Al Capone",
+  "author": {
+    "@type": "Person",
+    "name": "Gennifer Choldenko"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "57bb9aa3-5e39-52e2-a2fd-2c01ffd9437c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tur an tur mit al capone gennifer choldenko buch"
+  }
+}

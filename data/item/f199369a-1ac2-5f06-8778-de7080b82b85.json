@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f199369a-1ac2-5f06-8778-de7080b82b85",
+  "name": "Tores Traktorschule",
+  "author": {
+    "@type": "Person",
+    "name": "Emelie Andrén"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f199369a-1ac2-5f06-8778-de7080b82b85",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tores traktorschule emelie andren buch"
+  }
+}

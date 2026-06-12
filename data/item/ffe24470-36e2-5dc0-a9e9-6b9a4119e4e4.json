@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ffe24470-36e2-5dc0-a9e9-6b9a4119e4e4",
+  "name": "Papa Moll - Band 029 - und das Kochmobil",
+  "author": {
+    "@type": "Person",
+    "name": "Rolf Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ffe24470-36e2-5dc0-a9e9-6b9a4119e4e4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 029 - und das kochmobil rolf meier buch"
+  }
+}

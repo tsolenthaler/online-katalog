@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f9409742-cc80-5a3a-aca7-eb62fe671a36",
+  "name": "Ich geh doch nicht mit jedem mit!",
+  "author": {
+    "@type": "Person",
+    "name": "Dagmar Geisler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f9409742-cc80-5a3a-aca7-eb62fe671a36",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich geh doch nicht mit jedem mit! dagmar geisler buch"
+  }
+}

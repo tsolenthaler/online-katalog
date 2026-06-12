@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:32e050b5-0478-5109-8f45-1d9266775ea5",
+  "name": "Der Kojote",
+  "author": {
+    "@type": "Person",
+    "name": "Lee Child"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "32e050b5-0478-5109-8f45-1d9266775ea5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kojote lee child buch"
+  }
+}

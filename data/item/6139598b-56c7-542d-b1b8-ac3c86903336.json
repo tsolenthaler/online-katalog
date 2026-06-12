@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6139598b-56c7-542d-b1b8-ac3c86903336",
+  "name": "Boule & Bill - Band 001",
+  "author": {
+    "@type": "Person",
+    "name": "Roba"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6139598b-56c7-542d-b1b8-ac3c86903336",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boule & bill - band 001 roba buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ecf23779-7200-5806-b7e5-b068e2fc2389",
+  "name": "Globine - Band 8 - und der Heissluftballon",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel Glättli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ecf23779-7200-5806-b7e5-b068e2fc2389",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine - band 8 - und der heissluftballon samuel glattli buch"
+  }
+}

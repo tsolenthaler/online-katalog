@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f1daa660-6ca7-56f5-ad4d-f71020005339",
+  "name": "Die Regenbogentruppe",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Hirata"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f1daa660-6ca7-56f5-ad4d-f71020005339",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die regenbogentruppe andrea hirata buch"
+  }
+}

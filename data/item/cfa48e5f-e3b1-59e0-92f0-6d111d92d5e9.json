@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cfa48e5f-e3b1-59e0-92f0-6d111d92d5e9",
+  "name": "WAS IST WAS - Haustiere - unsere liebsten Freunde",
+  "author": {
+    "@type": "Person",
+    "name": "Annette Hackbarth"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cfa48e5f-e3b1-59e0-92f0-6d111d92d5e9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - haustiere - unsere liebsten freunde annette hackbarth buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ccf20be-e11a-5f8b-b6c2-2ce328f65f16",
+  "name": "Voll verliebt im Tor",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Bliefert"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8ccf20be-e11a-5f8b-b6c2-2ce328f65f16",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "voll verliebt im tor ulrike bliefert buch"
+  }
+}

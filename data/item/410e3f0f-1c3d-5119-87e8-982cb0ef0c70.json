@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:410e3f0f-1c3d-5119-87e8-982cb0ef0c70",
+  "name": "Der kleine Igel und das besondere",
+  "author": {
+    "@type": "Person",
+    "name": "M. Christina Butler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "410e3f0f-1c3d-5119-87e8-982cb0ef0c70",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kleine igel und das besondere m. christina butler buch"
+  }
+}

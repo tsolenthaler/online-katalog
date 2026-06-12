@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bbeaf078-41d8-5b10-bd25-6988253a23b8",
+  "name": "Was tummelt sich am Teich?",
+  "author": {
+    "@type": "Person",
+    "name": "Jana Walczyk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bbeaf078-41d8-5b10-bd25-6988253a23b8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was tummelt sich am teich? jana walczyk buch"
+  }
+}

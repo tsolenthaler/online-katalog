@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a7925ad8-7591-5fa6-85d7-e1d85950bc81",
+  "name": "Geschenke im Glas selbstgemacht",
+  "author": {
+    "@type": "Person",
+    "name": "A Diepolder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a7925ad8-7591-5fa6-85d7-e1d85950bc81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "geschenke im glas selbstgemacht a diepolder buch"
+  }
+}

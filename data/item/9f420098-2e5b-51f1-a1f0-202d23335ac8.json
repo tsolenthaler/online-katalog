@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9f420098-2e5b-51f1-a1f0-202d23335ac8",
+  "name": "Töchter der Sünde",
+  "author": {
+    "@type": "Person",
+    "name": "Iny Lorentz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9f420098-2e5b-51f1-a1f0-202d23335ac8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tochter der sunde iny lorentz buch"
+  }
+}

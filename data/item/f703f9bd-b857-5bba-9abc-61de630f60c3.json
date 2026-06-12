@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f703f9bd-b857-5bba-9abc-61de630f60c3",
+  "name": "Nightmares - Band 003 - Die Stunde der Ungeheuer",
+  "author": {
+    "@type": "Person",
+    "name": "Jason Segel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f703f9bd-b857-5bba-9abc-61de630f60c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nightmares - band 003 - die stunde der ungeheuer jason segel buch"
+  }
+}

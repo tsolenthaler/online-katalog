@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a1d7d2a3-0863-5d24-aed5-3523994d8ee8",
+  "name": "Gefährliche Berufe",
+  "author": {
+    "@type": "Person",
+    "name": "Thomazeau Anne-Marie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a1d7d2a3-0863-5d24-aed5-3523994d8ee8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gefahrliche berufe thomazeau anne-marie buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ec6691bd-7216-5647-9730-0e80ca9f1748",
+  "name": "Worst Week Ever - Band 2 - Dienstag",
+  "author": {
+    "@type": "Person",
+    "name": "Matt Cosgrove"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ec6691bd-7216-5647-9730-0e80ca9f1748",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "worst week ever - band 2 - dienstag matt cosgrove buch"
+  }
+}

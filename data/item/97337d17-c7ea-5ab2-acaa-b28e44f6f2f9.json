@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:97337d17-c7ea-5ab2-acaa-b28e44f6f2f9",
+  "name": "Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Adriana Czupryn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "97337d17-c7ea-5ab2-acaa-b28e44f6f2f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schweiz adriana czupryn buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5ae15c88-d832-5126-83d3-32201faa19d2",
+  "name": "Lola auf Hochzeitsreise",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Abedi"
+  },
+  "isbn": "9783732004119",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783732004119",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783732004119"
+  ],
+  "_catalog": {
+    "id": "5ae15c88-d832-5126-83d3-32201faa19d2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "lola auf hochzeitsreise isabel abedi 9783732004119 buch"
+  }
+}

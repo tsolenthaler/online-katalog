@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7d643e23-f40b-5588-af0c-83f03326d212",
+  "name": "Simon Enzler - Der Retter des Enzians",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Enzler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7d643e23-f40b-5588-af0c-83f03326d212",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "simon enzler - der retter des enzians simon enzler buch"
+  }
+}

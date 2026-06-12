@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:86791546-aae9-569c-90c5-01c4de182ed4",
+  "name": "Alpstein",
+  "author": {
+    "@type": "Person",
+    "name": "Silvia Götschi"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "86791546-aae9-569c-90c5-01c4de182ed4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "alpstein silvia gotschi buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a66b7cab-b99a-5653-bd61-7a51e43e1bba",
+  "name": "MOMO",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a66b7cab-b99a-5653-bd61-7a51e43e1bba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "momo michael ende buch"
+  }
+}

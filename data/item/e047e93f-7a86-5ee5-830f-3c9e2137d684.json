@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e047e93f-7a86-5ee5-830f-3c9e2137d684",
+  "name": "Harry Potter und der Gefangene von Askaban",
+  "author": {
+    "@type": "Person",
+    "name": "Joanne K. Rowling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e047e93f-7a86-5ee5-830f-3c9e2137d684",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "harry potter und der gefangene von askaban joanne k. rowling buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7dbb158-f312-5d5e-b8c4-1ebca2bb92a6",
+  "name": "Die Frauen der Familie Flores",
+  "author": {
+    "@type": "Person",
+    "name": "Angélica Lopes"
+  },
+  "isbn": "9783754021125",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783754021125",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783754021125"
+  ],
+  "_catalog": {
+    "id": "e7dbb158-f312-5d5e-b8c4-1ebca2bb92a6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die frauen der familie flores angelica lopes 9783754021125 buch"
+  }
+}

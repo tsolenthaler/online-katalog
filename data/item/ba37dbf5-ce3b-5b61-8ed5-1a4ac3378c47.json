@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba37dbf5-ce3b-5b61-8ed5-1a4ac3378c47",
+  "name": "Clever & Smart - Band 011 - Die Erfindungen des Dr.",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco Ibez"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba37dbf5-ce3b-5b61-8ed5-1a4ac3378c47",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "clever & smart - band 011 - die erfindungen des dr. francisco ibez buch"
+  }
+}

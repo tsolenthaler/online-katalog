@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f985e96a-8b3b-5f94-bbe6-20c6d90a8f96",
+  "name": "Glücksorte in der Provence",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Reidt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f985e96a-8b3b-5f94-bbe6-20c6d90a8f96",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "glucksorte in der provence andrea reidt buch"
+  }
+}

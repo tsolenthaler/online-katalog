@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e29dfd72-ac9f-52ed-aea2-4dbb274bc247",
+  "name": "Lucky Luke - Band 032 - Im Schatten der Bohrtürme",
+  "author": {
+    "@type": "Person",
+    "name": "Laurent Gerra"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e29dfd72-ac9f-52ed-aea2-4dbb274bc247",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 032 - im schatten der bohrturme laurent gerra buch"
+  }
+}

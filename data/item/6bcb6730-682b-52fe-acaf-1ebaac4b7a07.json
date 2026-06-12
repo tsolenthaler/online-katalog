@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6bcb6730-682b-52fe-acaf-1ebaac4b7a07",
+  "name": "WAS IST WAS - Planeten",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Braun"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6bcb6730-682b-52fe-acaf-1ebaac4b7a07",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - planeten christina braun buch"
+  }
+}

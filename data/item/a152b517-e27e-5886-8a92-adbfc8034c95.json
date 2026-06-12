@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a152b517-e27e-5886-8a92-adbfc8034c95",
+  "name": "Jäger in der Tiefe",
+  "author": {
+    "@type": "Person",
+    "name": "Steve Cole"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a152b517-e27e-5886-8a92-adbfc8034c95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jager in der tiefe steve cole buch"
+  }
+}

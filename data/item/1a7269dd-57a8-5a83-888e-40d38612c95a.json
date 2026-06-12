@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1a7269dd-57a8-5a83-888e-40d38612c95a",
+  "name": "Ki-ke-ri-ki-hu-huuu!",
+  "author": {
+    "@type": "Person",
+    "name": "Mick Manning"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1a7269dd-57a8-5a83-888e-40d38612c95a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ki-ke-ri-ki-hu-huuu! mick manning buch"
+  }
+}

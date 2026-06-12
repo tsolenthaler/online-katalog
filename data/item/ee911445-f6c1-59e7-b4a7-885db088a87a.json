@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee911445-f6c1-59e7-b4a7-885db088a87a",
+  "name": "Wolfenblut",
+  "author": {
+    "@type": "Person",
+    "name": "Di Toft"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee911445-f6c1-59e7-b4a7-885db088a87a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wolfenblut di toft buch"
+  }
+}

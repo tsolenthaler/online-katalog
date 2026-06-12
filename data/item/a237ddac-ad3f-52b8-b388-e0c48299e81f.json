@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a237ddac-ad3f-52b8-b388-e0c48299e81f",
+  "name": "No Jungs! - Zutritt nur für Hexen - Wie hext man einen",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a237ddac-ad3f-52b8-b388-e0c48299e81f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "no jungs! - zutritt nur fur hexen - wie hext man einen thomas brezina buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7b341760-7310-56f1-bf50-ba2b6f537b3b",
+  "name": "Giganten der Urzeit",
+  "author": {
+    "@type": "Person",
+    "name": "Christa Pöppelmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7b341760-7310-56f1-bf50-ba2b6f537b3b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "giganten der urzeit christa poppelmann buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea1790f2-716a-593e-884f-565fffa8d4da",
+  "name": "Mein Leben in deinem",
+  "author": {
+    "@type": "Person",
+    "name": "Jojo Moyes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea1790f2-716a-593e-884f-565fffa8d4da",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein leben in deinem jojo moyes buch"
+  }
+}

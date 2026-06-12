@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee67272a-330e-5b05-a8b7-f3da9b114ec3",
+  "name": "Die Amazonas-Detektive - Band 2 -Tatort Naturreservat",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Michaelis"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee67272a-330e-5b05-a8b7-f3da9b114ec3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die amazonas-detektive - band 2 -tatort naturreservat antonia michaelis buch"
+  }
+}

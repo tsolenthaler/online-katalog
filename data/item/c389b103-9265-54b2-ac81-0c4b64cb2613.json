@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c389b103-9265-54b2-ac81-0c4b64cb2613",
+  "name": "Spirou + Fantasio - Band 052 - Der Page der Sniper Alley",
+  "author": {
+    "@type": "Person",
+    "name": "Yoann Vehlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c389b103-9265-54b2-ac81-0c4b64cb2613",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 052 - der page der sniper alley yoann vehlmann buch"
+  }
+}

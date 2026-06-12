@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:796cc903-dca1-5f51-b77c-0b273a3dbe25",
+  "name": "Tage des Lichts - Band 3",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Renk"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "796cc903-dca1-5f51-b77c-0b273a3dbe25",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tage des lichts - band 3 ulrike renk buch"
+  }
+}

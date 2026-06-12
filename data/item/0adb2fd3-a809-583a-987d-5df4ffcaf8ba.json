@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0adb2fd3-a809-583a-987d-5df4ffcaf8ba",
+  "name": "Der Kreative Tisch",
+  "author": {
+    "@type": "Person",
+    "name": "Emilie Guelpa"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0adb2fd3-a809-583a-987d-5df4ffcaf8ba",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der kreative tisch emilie guelpa buch"
+  }
+}

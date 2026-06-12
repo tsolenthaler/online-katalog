@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:69c51c51-0fa9-56de-b041-34b9c8e12742",
+  "name": "Happy Easter – die besten Eier zur Osterfeier",
+  "author": {
+    "@type": "Person",
+    "name": "Wiebke Schröder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "69c51c51-0fa9-56de-b041-34b9c8e12742",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "happy easter – die besten eier zur osterfeier wiebke schroder buch"
+  }
+}

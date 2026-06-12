@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6a1cb239-47e3-5409-b68b-90d3b2acfc17",
+  "name": "Tiptoi - Wir lernen Englisch",
+  "author": {
+    "@type": "Person",
+    "name": "Constanze Schargan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6a1cb239-47e3-5409-b68b-90d3b2acfc17",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - wir lernen englisch constanze schargan buch"
+  }
+}

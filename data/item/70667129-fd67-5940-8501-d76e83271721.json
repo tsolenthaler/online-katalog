@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:70667129-fd67-5940-8501-d76e83271721",
+  "name": "Mörderfinder – Mit den Augen des Opfers",
+  "author": {
+    "@type": "Person",
+    "name": "Arno Strobel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "70667129-fd67-5940-8501-d76e83271721",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morderfinder – mit den augen des opfers arno strobel buch"
+  }
+}

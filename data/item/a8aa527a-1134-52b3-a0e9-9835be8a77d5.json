@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8aa527a-1134-52b3-a0e9-9835be8a77d5",
+  "name": "Die beste Zeit ist am Ende der Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Sara Barnard"
+  },
+  "isbn": "9783038800453",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783038800453",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783038800453"
+  ],
+  "_catalog": {
+    "id": "a8aa527a-1134-52b3-a0e9-9835be8a77d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die beste zeit ist am ende der welt sara barnard 9783038800453 buch"
+  }
+}

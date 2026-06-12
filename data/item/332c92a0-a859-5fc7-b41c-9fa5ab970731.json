@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:332c92a0-a859-5fc7-b41c-9fa5ab970731",
+  "name": "Percy Jackson - Band 001 - Diebe im Olymp",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Venditti"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "332c92a0-a859-5fc7-b41c-9fa5ab970731",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy jackson - band 001 - diebe im olymp robert venditti buch"
+  }
+}

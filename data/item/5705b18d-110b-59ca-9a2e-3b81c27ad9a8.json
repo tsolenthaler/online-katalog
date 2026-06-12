@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5705b18d-110b-59ca-9a2e-3b81c27ad9a8",
+  "name": "Never be my enemy - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Kate Corell"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "5705b18d-110b-59ca-9a2e-3b81c27ad9a8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "never be my enemy - band 2 kate corell buch"
+  }
+}

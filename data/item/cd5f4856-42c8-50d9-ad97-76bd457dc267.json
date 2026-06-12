@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cd5f4856-42c8-50d9-ad97-76bd457dc267",
+  "name": "Ich, Prinzessin aus dem Hause Al Saud",
+  "author": {
+    "@type": "Person",
+    "name": "Jean P. Sasson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cd5f4856-42c8-50d9-ad97-76bd457dc267",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich, prinzessin aus dem hause al saud jean p. sasson buch"
+  }
+}

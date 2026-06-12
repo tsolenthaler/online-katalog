@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1674973-fdaf-5b26-b38e-8a4ce92b7e4b",
+  "name": "Bruch - In eisigen Nächten",
+  "author": {
+    "@type": "Person",
+    "name": "Frank Goldammer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1674973-fdaf-5b26-b38e-8a4ce92b7e4b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bruch - in eisigen nachten frank goldammer buch"
+  }
+}

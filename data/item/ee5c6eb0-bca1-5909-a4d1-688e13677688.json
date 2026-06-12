@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ee5c6eb0-bca1-5909-a4d1-688e13677688",
+  "name": "Hotzenplotz 3",
+  "author": {
+    "@type": "Person",
+    "name": "Otfried Preußler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ee5c6eb0-bca1-5909-a4d1-688e13677688",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hotzenplotz 3 otfried preußler buch"
+  }
+}

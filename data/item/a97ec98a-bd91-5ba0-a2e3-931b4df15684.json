@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a97ec98a-bd91-5ba0-a2e3-931b4df15684",
+  "name": "Die Glücksbäckerei - Band 004 - Die magische",
+  "author": {
+    "@type": "Person",
+    "name": "Kathryn Littlewood"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a97ec98a-bd91-5ba0-a2e3-931b4df15684",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die glucksbackerei - band 004 - die magische kathryn littlewood buch"
+  }
+}

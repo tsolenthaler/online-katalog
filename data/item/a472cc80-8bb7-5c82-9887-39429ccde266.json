@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a472cc80-8bb7-5c82-9887-39429ccde266",
+  "name": "Lucky Luke - Band 092 - Ein Menü mit blauen Bohnen",
+  "author": {
+    "@type": "Person",
+    "name": "Morris"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a472cc80-8bb7-5c82-9887-39429ccde266",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 092 - ein menu mit blauen bohnen morris buch"
+  }
+}

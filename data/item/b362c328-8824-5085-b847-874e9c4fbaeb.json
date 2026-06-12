@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b362c328-8824-5085-b847-874e9c4fbaeb",
+  "name": "Maria, ihm schmeckts nicht!",
+  "author": {
+    "@type": "Person",
+    "name": "Jan Weiler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b362c328-8824-5085-b847-874e9c4fbaeb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "maria, ihm schmeckts nicht! jan weiler buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e8087244-e751-5811-911f-771eb065cdda",
+  "name": "Zwingli",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Haupt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e8087244-e751-5811-911f-771eb065cdda",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zwingli stefan haupt buch"
+  }
+}

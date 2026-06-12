@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a0fef13b-8752-5a2d-a449-c9e9c74051c4",
+  "name": "Die drei !!! - Gefahr im Smart Home",
+  "author": {
+    "@type": "Person",
+    "name": "Kari Erlhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a0fef13b-8752-5a2d-a449-c9e9c74051c4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - gefahr im smart home kari erlhoff buch"
+  }
+}

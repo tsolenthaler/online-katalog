@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:73ddc86f-5a22-500c-a0c2-9721ec929439",
+  "name": "WAS IST WAS - Bären",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Mayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "73ddc86f-5a22-500c-a0c2-9721ec929439",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - baren alexandra mayer buch"
+  }
+}

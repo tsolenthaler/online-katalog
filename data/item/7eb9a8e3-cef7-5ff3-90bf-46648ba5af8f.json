@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7eb9a8e3-cef7-5ff3-90bf-46648ba5af8f",
+  "name": "Der Gesang der Flusskrebse",
+  "author": {
+    "@type": "Person",
+    "name": "Delia Owens"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7eb9a8e3-cef7-5ff3-90bf-46648ba5af8f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der gesang der flusskrebse delia owens buch"
+  }
+}

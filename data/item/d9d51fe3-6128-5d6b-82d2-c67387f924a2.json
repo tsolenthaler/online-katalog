@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9d51fe3-6128-5d6b-82d2-c67387f924a2",
+  "name": "Der Zauberschüler - Band 1 - Fluch des Hexenmeisters",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Taube"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9d51fe3-6128-5d6b-82d2-c67387f924a2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der zauberschuler - band 1 - fluch des hexenmeisters anna taube buch"
+  }
+}

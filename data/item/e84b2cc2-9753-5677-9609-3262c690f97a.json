@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e84b2cc2-9753-5677-9609-3262c690f97a",
+  "name": "Natürlich Weihnachten",
+  "author": {
+    "@type": "Person",
+    "name": "Gerlinde Auenhammer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e84b2cc2-9753-5677-9609-3262c690f97a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "naturlich weihnachten gerlinde auenhammer buch"
+  }
+}

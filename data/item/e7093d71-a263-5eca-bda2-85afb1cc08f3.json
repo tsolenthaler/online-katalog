@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e7093d71-a263-5eca-bda2-85afb1cc08f3",
+  "name": "Endgame - die Hoffnung",
+  "author": {
+    "@type": "Person",
+    "name": "James Frey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e7093d71-a263-5eca-bda2-85afb1cc08f3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "endgame - die hoffnung james frey buch"
+  }
+}

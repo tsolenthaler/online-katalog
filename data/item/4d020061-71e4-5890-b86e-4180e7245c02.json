@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4d020061-71e4-5890-b86e-4180e7245c02",
+  "name": "Asterix - Band 016 - bei den Schweizern",
+  "author": {
+    "@type": "Person",
+    "name": "René Goscinny"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4d020061-71e4-5890-b86e-4180e7245c02",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 016 - bei den schweizern rene goscinny buch"
+  }
+}

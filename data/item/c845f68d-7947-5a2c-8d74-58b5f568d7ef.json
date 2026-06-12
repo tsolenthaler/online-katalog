@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c845f68d-7947-5a2c-8d74-58b5f568d7ef",
+  "name": "Schnee",
+  "author": {
+    "@type": "Person",
+    "name": "Yrsa Sigurdardottir"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c845f68d-7947-5a2c-8d74-58b5f568d7ef",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schnee yrsa sigurdardottir buch"
+  }
+}

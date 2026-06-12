@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:680c864c-ed95-57f8-bcf4-b16b4426e61a",
+  "name": "Percy Pickwick - Band 013 - Der falsche Lord",
+  "author": {
+    "@type": "Person",
+    "name": "Turk & de Groot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "680c864c-ed95-57f8-bcf4-b16b4426e61a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "percy pickwick - band 013 - der falsche lord turk & de groot buch"
+  }
+}

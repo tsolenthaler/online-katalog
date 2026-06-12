@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65a5b866-1209-52a8-815a-962eaa75da32",
+  "name": "Das (kleine) Böse Buch: Jetzt noch gefährlicher!",
+  "author": {
+    "@type": "Person",
+    "name": "Magnus Myst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65a5b866-1209-52a8-815a-962eaa75da32",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das (kleine) bose buch: jetzt noch gefahrlicher! magnus myst buch"
+  }
+}

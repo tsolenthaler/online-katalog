@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d3451b44-d599-550e-8852-2cb42e05e16c",
+  "name": "Mein Pampa Leben : Band 2 : Eine Pfütze macht noch",
+  "author": {
+    "@type": "Person",
+    "name": "Silke Antelmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d3451b44-d599-550e-8852-2cb42e05e16c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mein pampa leben : band 2 : eine pfutze macht noch silke antelmann buch"
+  }
+}

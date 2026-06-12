@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c17efebc-c80c-5b39-9bf6-b265777bef5c",
+  "name": "Die Grünen Piraten : Band 1 : Jagd auf die Müllmafia",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Poßberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c17efebc-c80c-5b39-9bf6-b265777bef5c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die grunen piraten : band 1 : jagd auf die mullmafia andrea poßberg buch"
+  }
+}

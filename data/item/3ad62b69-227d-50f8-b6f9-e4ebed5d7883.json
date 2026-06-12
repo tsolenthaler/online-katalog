@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3ad62b69-227d-50f8-b6f9-e4ebed5d7883",
+  "name": "Fünf Freunde - Band 140 - und das geheimnisvolle Licht",
+  "author": {
+    "@type": "Person",
+    "name": "Enid Blyton"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3ad62b69-227d-50f8-b6f9-e4ebed5d7883",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "funf freunde - band 140 - und das geheimnisvolle licht enid blyton buch"
+  }
+}

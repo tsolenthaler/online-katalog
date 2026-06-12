@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:381553a0-4df4-5d11-af63-78e639a6eb80",
+  "name": "Weshalb Weshalb Warum - Was ziehen wir an?",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Rübel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "381553a0-4df4-5d11-af63-78e639a6eb80",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weshalb weshalb warum - was ziehen wir an? doris rubel buch"
+  }
+}

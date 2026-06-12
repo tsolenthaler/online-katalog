@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:12aadd17-efd7-54d9-ae47-02b8c11f4106",
+  "name": "Am Biberteich",
+  "author": {
+    "@type": "Person",
+    "name": "Eva Sixt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "12aadd17-efd7-54d9-ae47-02b8c11f4106",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "am biberteich eva sixt buch"
+  }
+}

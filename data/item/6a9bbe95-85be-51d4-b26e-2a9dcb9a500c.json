@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6a9bbe95-85be-51d4-b26e-2a9dcb9a500c",
+  "name": "Der Donnerstagsmordclub",
+  "author": {
+    "@type": "Person",
+    "name": "Richard Osman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6a9bbe95-85be-51d4-b26e-2a9dcb9a500c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der donnerstagsmordclub richard osman buch"
+  }
+}

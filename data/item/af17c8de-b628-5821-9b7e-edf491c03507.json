@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:af17c8de-b628-5821-9b7e-edf491c03507",
+  "name": "Zeit der Schwestern",
+  "author": {
+    "@type": "Person",
+    "name": "Tanja Huthmacher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "af17c8de-b628-5821-9b7e-edf491c03507",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zeit der schwestern tanja huthmacher buch"
+  }
+}

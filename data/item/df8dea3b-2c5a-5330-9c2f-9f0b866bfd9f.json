@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df8dea3b-2c5a-5330-9c2f-9f0b866bfd9f",
+  "name": "TKKG Junior - Band 016 - Trügerischer Paddelspass",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Wolf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df8dea3b-2c5a-5330-9c2f-9f0b866bfd9f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 016 - trugerischer paddelspass stefan wolf buch"
+  }
+}

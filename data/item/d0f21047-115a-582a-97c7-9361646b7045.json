@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0f21047-115a-582a-97c7-9361646b7045",
+  "name": "Das Gedächtnis des Herzens",
+  "author": {
+    "@type": "Person",
+    "name": "Jan-Philipp Sendker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0f21047-115a-582a-97c7-9361646b7045",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das gedachtnis des herzens jan-philipp sendker buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ff232f40-aa27-53e0-9475-3f90a96945c3",
+  "name": "Das etwas andere Nähbuch",
+  "author": {
+    "@type": "Person",
+    "name": "Poppy Treffry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ff232f40-aa27-53e0-9475-3f90a96945c3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das etwas andere nahbuch poppy treffry buch"
+  }
+}

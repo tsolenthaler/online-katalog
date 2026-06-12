@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:08016ae2-4b01-58fc-acb7-93de389eaf1a",
+  "name": "Appenzellische Volksmusik",
+  "author": {
+    "@type": "Person",
+    "name": "Joe Manser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "08016ae2-4b01-58fc-acb7-93de389eaf1a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "appenzellische volksmusik joe manser buch"
+  }
+}

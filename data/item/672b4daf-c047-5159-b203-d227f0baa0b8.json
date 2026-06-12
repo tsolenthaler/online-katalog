@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:672b4daf-c047-5159-b203-d227f0baa0b8",
+  "name": "Die Rückkehr der Kraniche",
+  "author": {
+    "@type": "Person",
+    "name": "Romy Fölck"
+  },
+  "isbn": "9783644014459",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783644014459",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783644014459"
+  ],
+  "_catalog": {
+    "id": "672b4daf-c047-5159-b203-d227f0baa0b8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die ruckkehr der kraniche romy folck 9783644014459 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:65e645f5-d682-5803-8e75-a58799887e5d",
+  "name": "Monstersee",
+  "author": {
+    "@type": "Person",
+    "name": "Leo Timmers"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "65e645f5-d682-5803-8e75-a58799887e5d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "monstersee leo timmers buch"
+  }
+}

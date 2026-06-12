@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e8859c2c-6af6-50c5-947d-8c1d32b042e5",
+  "name": "Bibi Blocksberg - Das wilde Schlittenrennen",
+  "author": {
+    "@type": "Person",
+    "name": "Stephan Gürtler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e8859c2c-6af6-50c5-947d-8c1d32b042e5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bibi blocksberg - das wilde schlittenrennen stephan gurtler buch"
+  }
+}

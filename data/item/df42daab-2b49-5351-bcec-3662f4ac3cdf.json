@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:df42daab-2b49-5351-bcec-3662f4ac3cdf",
+  "name": "Traktor, Bagger & Laster",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Haldane"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "df42daab-2b49-5351-bcec-3662f4ac3cdf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "traktor, bagger & laster elizabeth haldane buch"
+  }
+}

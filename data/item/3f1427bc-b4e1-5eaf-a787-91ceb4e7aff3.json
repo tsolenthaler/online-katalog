@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3f1427bc-b4e1-5eaf-a787-91ceb4e7aff3",
+  "name": "Die wilden Küken - Band 003 - Endlich Ferien",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Schmid"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3f1427bc-b4e1-5eaf-a787-91ceb4e7aff3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die wilden kuken - band 003 - endlich ferien thomas schmid buch"
+  }
+}

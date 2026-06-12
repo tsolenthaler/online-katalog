@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:55c839b1-381e-55d7-b0a2-7dc386a54da2",
+  "name": "Das kleine Böse Buch - Monstermässig Fies - Band 6",
+  "author": {
+    "@type": "Person",
+    "name": "Magnus Myst"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "55c839b1-381e-55d7-b0a2-7dc386a54da2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das kleine bose buch - monstermassig fies - band 6 magnus myst buch"
+  }
+}

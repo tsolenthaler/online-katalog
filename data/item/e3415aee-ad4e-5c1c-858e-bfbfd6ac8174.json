@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e3415aee-ad4e-5c1c-858e-bfbfd6ac8174",
+  "name": "Als Opa alles auf den Kopf stellte",
+  "author": {
+    "@type": "Person",
+    "name": "Marianne Musgrove"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e3415aee-ad4e-5c1c-858e-bfbfd6ac8174",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "als opa alles auf den kopf stellte marianne musgrove buch"
+  }
+}

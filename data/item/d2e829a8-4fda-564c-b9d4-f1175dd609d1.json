@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d2e829a8-4fda-564c-b9d4-f1175dd609d1",
+  "name": "Memo Wissen entdecken - Das alte Rom",
+  "author": {
+    "@type": "Person",
+    "name": "Simon James"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d2e829a8-4fda-564c-b9d4-f1175dd609d1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen entdecken - das alte rom simon james buch"
+  }
+}

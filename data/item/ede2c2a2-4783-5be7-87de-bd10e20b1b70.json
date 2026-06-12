@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ede2c2a2-4783-5be7-87de-bd10e20b1b70",
+  "name": "Die drei ??? - Die Salztote",
+  "author": {
+    "@type": "Person",
+    "name": "Kari Erlhoff"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ede2c2a2-4783-5be7-87de-bd10e20b1b70",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - die salztote kari erlhoff buch"
+  }
+}

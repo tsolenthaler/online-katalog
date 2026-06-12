@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7fad1385-b4b4-5224-8281-e8005b8bb407",
+  "name": "Bis die Bären tanzen",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Hugentobler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7fad1385-b4b4-5224-8281-e8005b8bb407",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bis die baren tanzen michael hugentobler buch"
+  }
+}

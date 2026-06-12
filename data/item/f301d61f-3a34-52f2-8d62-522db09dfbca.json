@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f301d61f-3a34-52f2-8d62-522db09dfbca",
+  "name": "Globine - und der Zirkus - Band 2",
+  "author": {
+    "@type": "Person",
+    "name": "Sibylle Aeberli"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f301d61f-3a34-52f2-8d62-522db09dfbca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globine - und der zirkus - band 2 sibylle aeberli buch"
+  }
+}

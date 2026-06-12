@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cda399c8-ed24-5237-bc39-bb8a37ecb14e",
+  "name": "Mensch töte dich nicht! (9)",
+  "author": {
+    "@type": "Person",
+    "name": "Philipp Gurt"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cda399c8-ed24-5237-bc39-bb8a37ecb14e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "mensch tote dich nicht! (9) philipp gurt buch"
+  }
+}

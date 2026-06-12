@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bb3e09dd-5117-5a5d-a44c-a16eef5c7f6d",
+  "name": "Jommeke - Band 003 - Kinderherrschaft",
+  "author": {
+    "@type": "Person",
+    "name": "Jef Nys"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bb3e09dd-5117-5a5d-a44c-a16eef5c7f6d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jommeke - band 003 - kinderherrschaft jef nys buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9571acef-260f-5773-b935-d9636c9d7ebb",
+  "name": "Fack ju Göhte 3",
+  "author": {
+    "@type": "Person",
+    "name": "Bora Dagtekin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9571acef-260f-5773-b935-d9636c9d7ebb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fack ju gohte 3 bora dagtekin buch"
+  }
+}

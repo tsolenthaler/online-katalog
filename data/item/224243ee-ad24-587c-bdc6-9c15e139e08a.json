@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:224243ee-ad24-587c-bdc6-9c15e139e08a",
+  "name": "Weihnachtliche Grusskarten",
+  "author": {
+    "@type": "Person",
+    "name": "Birgit Utermarck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "224243ee-ad24-587c-bdc6-9c15e139e08a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "weihnachtliche grusskarten birgit utermarck buch"
+  }
+}

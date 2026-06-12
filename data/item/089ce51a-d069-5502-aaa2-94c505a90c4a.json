@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:089ce51a-d069-5502-aaa2-94c505a90c4a",
+  "name": "Strandgut",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander Oetker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "089ce51a-d069-5502-aaa2-94c505a90c4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "strandgut alexander oetker buch"
+  }
+}

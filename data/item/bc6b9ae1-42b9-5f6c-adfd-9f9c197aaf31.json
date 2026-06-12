@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc6b9ae1-42b9-5f6c-adfd-9f9c197aaf31",
+  "name": "Barry",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Cratzius"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bc6b9ae1-42b9-5f6c-adfd-9f9c197aaf31",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "barry barbara cratzius buch"
+  }
+}

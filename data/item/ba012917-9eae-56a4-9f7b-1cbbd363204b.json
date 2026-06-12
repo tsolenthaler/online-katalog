@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba012917-9eae-56a4-9f7b-1cbbd363204b",
+  "name": "Erdbeerinchen Erdbeerfee - Ein geheimnisvolles",
+  "author": {
+    "@type": "Person",
+    "name": "Stefanie Dahle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba012917-9eae-56a4-9f7b-1cbbd363204b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "erdbeerinchen erdbeerfee - ein geheimnisvolles stefanie dahle buch"
+  }
+}

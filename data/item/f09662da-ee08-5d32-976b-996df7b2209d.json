@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f09662da-ee08-5d32-976b-996df7b2209d",
+  "name": "Schwangerschafts-Diabetes im Griff",
+  "author": {
+    "@type": "Person",
+    "name": "Bettina Snowdon"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f09662da-ee08-5d32-976b-996df7b2209d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schwangerschafts-diabetes im griff bettina snowdon buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:868c9fed-7760-5ab4-b79a-103d07b2aeec",
+  "name": "Liliane Susewind - Band 011 - Ein Eisbär kriegt keine",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Stewner"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "868c9fed-7760-5ab4-b79a-103d07b2aeec",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "liliane susewind - band 011 - ein eisbar kriegt keine tanya stewner buch"
+  }
+}

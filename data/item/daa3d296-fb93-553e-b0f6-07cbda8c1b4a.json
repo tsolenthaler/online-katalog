@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:daa3d296-fb93-553e-b0f6-07cbda8c1b4a",
+  "name": "Was ist was - Entdecke die Erde",
+  "author": {
+    "@type": "Person",
+    "name": "Nele Wehrmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "daa3d296-fb93-553e-b0f6-07cbda8c1b4a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - entdecke die erde nele wehrmann buch"
+  }
+}

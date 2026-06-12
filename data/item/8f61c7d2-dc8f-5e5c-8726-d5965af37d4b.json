@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8f61c7d2-dc8f-5e5c-8726-d5965af37d4b",
+  "name": "Das Dings-Dibum-Ding",
+  "author": {
+    "@type": "Person",
+    "name": "Kathleen Doherty"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8f61c7d2-dc8f-5e5c-8726-d5965af37d4b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das dings-dibum-ding kathleen doherty buch"
+  }
+}

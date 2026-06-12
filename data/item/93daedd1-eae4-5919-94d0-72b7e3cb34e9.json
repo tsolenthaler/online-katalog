@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:93daedd1-eae4-5919-94d0-72b7e3cb34e9",
+  "name": "Die Halbwertszeit von Glück",
+  "author": {
+    "@type": "Person",
+    "name": "Louise Pelt"
+  },
+  "isbn": "9783754012864",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783754012864",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783754012864"
+  ],
+  "_catalog": {
+    "id": "93daedd1-eae4-5919-94d0-72b7e3cb34e9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die halbwertszeit von gluck louise pelt 9783754012864 buch"
+  }
+}

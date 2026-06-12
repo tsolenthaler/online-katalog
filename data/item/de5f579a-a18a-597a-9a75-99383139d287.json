@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:de5f579a-a18a-597a-9a75-99383139d287",
+  "name": "Entdecke die Hunde",
+  "author": {
+    "@type": "Person",
+    "name": "Lina Köhler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "de5f579a-a18a-597a-9a75-99383139d287",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "entdecke die hunde lina kohler buch"
+  }
+}

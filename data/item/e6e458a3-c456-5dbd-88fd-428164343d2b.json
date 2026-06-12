@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e6e458a3-c456-5dbd-88fd-428164343d2b",
+  "name": "Rätselhaftes Saint-Rémy",
+  "author": {
+    "@type": "Person",
+    "name": "Cay Rademacher"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e6e458a3-c456-5dbd-88fd-428164343d2b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ratselhaftes saint-remy cay rademacher buch"
+  }
+}

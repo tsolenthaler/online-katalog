@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e55f5add-e48c-506a-a31f-860de806e903",
+  "name": "Klassenreise an die See",
+  "author": {
+    "@type": "Person",
+    "name": "Heike Wiechmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e55f5add-e48c-506a-a31f-860de806e903",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "klassenreise an die see heike wiechmann buch"
+  }
+}

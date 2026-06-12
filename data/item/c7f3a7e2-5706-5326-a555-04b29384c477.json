@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c7f3a7e2-5706-5326-a555-04b29384c477",
+  "name": "Morlot, Detektive schalfen nie",
+  "author": {
+    "@type": "Person",
+    "name": "Katharina Reschke"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c7f3a7e2-5706-5326-a555-04b29384c477",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "morlot, detektive schalfen nie katharina reschke buch"
+  }
+}

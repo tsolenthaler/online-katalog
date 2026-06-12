@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fdfb82e8-8e15-53bd-ab5c-744565126843",
+  "name": "Das Chaos eines Augenblicks",
+  "author": {
+    "@type": "Person",
+    "name": "Becky Hunter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fdfb82e8-8e15-53bd-ab5c-744565126843",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das chaos eines augenblicks becky hunter buch"
+  }
+}

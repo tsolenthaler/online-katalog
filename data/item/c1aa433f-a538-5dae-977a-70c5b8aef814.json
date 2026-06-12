@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c1aa433f-a538-5dae-977a-70c5b8aef814",
+  "name": "Karlsson fliegt wieder",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Lindgren"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c1aa433f-a538-5dae-977a-70c5b8aef814",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "karlsson fliegt wieder astrid lindgren buch"
+  }
+}

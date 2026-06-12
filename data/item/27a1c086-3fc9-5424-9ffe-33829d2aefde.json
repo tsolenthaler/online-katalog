@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:27a1c086-3fc9-5424-9ffe-33829d2aefde",
+  "name": "Himmelschlüssel - Band 4",
+  "author": {
+    "@type": "Person",
+    "name": "Kristina Ohlsson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "27a1c086-3fc9-5424-9ffe-33829d2aefde",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "himmelschlussel - band 4 kristina ohlsson buch"
+  }
+}

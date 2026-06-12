@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:09bbc1db-f583-5eae-af03-0a069405a0e2",
+  "name": "Lucky Luke - Band 048 - Die Verlobte von Lucky Luke",
+  "author": {
+    "@type": "Person",
+    "name": "Morris"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "09bbc1db-f583-5eae-af03-0a069405a0e2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucky luke - band 048 - die verlobte von lucky luke morris buch"
+  }
+}

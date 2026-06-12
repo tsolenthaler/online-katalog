@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b58cfc13-edd9-58ce-85aa-be6db91dc34e",
+  "name": "Lucy Longfinger – Band 1 - einfach unfassbar!:",
+  "author": {
+    "@type": "Person",
+    "name": "Anja Habschick"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b58cfc13-edd9-58ce-85aa-be6db91dc34e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lucy longfinger – band 1 - einfach unfassbar!: anja habschick buch"
+  }
+}

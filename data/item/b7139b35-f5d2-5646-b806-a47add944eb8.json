@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7139b35-f5d2-5646-b806-a47add944eb8",
+  "name": "Kaninchen halten für Einsteiger",
+  "author": {
+    "@type": "Person",
+    "name": "Frederick Buschmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7139b35-f5d2-5646-b806-a47add944eb8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kaninchen halten fur einsteiger frederick buschmann buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:76a9e56e-5a4f-5ca6-80b2-bbb50dd21b52",
+  "name": "Das total verrückte Küchenlabor",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Gates"
+  },
+  "isbn": "9783831039210",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783831039210",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783831039210"
+  ],
+  "_catalog": {
+    "id": "76a9e56e-5a4f-5ca6-80b2-bbb50dd21b52",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das total verruckte kuchenlabor stefan gates 9783831039210 buch"
+  }
+}

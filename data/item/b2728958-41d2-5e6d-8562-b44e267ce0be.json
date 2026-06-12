@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b2728958-41d2-5e6d-8562-b44e267ce0be",
+  "name": "Die dei ??? Kids - Band 8 - Nacht unter Wölfen",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b2728958-41d2-5e6d-8562-b44e267ce0be",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die dei ??? kids - band 8 - nacht unter wolfen ulf blanck buch"
+  }
+}

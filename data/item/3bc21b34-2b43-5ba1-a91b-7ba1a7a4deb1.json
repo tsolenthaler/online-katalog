@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3bc21b34-2b43-5ba1-a91b-7ba1a7a4deb1",
+  "name": "Schwapp, der Geheimschleim – Band 3 - Ein",
+  "author": {
+    "@type": "Person",
+    "name": "Tina Schilp"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3bc21b34-2b43-5ba1-a91b-7ba1a7a4deb1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schwapp, der geheimschleim – band 3 - ein tina schilp buch"
+  }
+}

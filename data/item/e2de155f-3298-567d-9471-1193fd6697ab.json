@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e2de155f-3298-567d-9471-1193fd6697ab",
+  "name": "Der brennende See",
+  "author": {
+    "@type": "Person",
+    "name": "John von Düffel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e2de155f-3298-567d-9471-1193fd6697ab",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der brennende see john von duffel buch"
+  }
+}

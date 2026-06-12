@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c3ce3e3a-22ec-5728-9da7-19b3c54ec470",
+  "name": "Hugos geniale Welt",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Zett"
+  },
+  "isbn": "9787520715119",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9787520715119",
+    "https://portal.dnb.de/opac/simpleSearch?query=9787520715119"
+  ],
+  "_catalog": {
+    "id": "c3ce3e3a-22ec-5728-9da7-19b3c54ec470",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "hugos geniale welt sabine zett 9787520715119 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:9e5f2225-8907-5a31-8c6a-8d6c1847f95d",
+  "name": "Gregs Tagebuch - Band 015 - Halt mal die Luft an!",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Kinney"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "9e5f2225-8907-5a31-8c6a-8d6c1847f95d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gregs tagebuch - band 015 - halt mal die luft an! jeff kinney buch"
+  }
+}

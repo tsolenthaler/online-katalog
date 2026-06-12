@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0eb7b1c2-b0ec-5b3d-849b-49d0eee62917",
+  "name": "Edison",
+  "author": {
+    "@type": "Person",
+    "name": "Torben Kuhlmann"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0eb7b1c2-b0ec-5b3d-849b-49d0eee62917",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "edison torben kuhlmann buch"
+  }
+}

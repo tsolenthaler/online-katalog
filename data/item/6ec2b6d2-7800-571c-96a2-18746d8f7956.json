@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:6ec2b6d2-7800-571c-96a2-18746d8f7956",
+  "name": "Asterix - Band 000 - im Reich der Mitte",
+  "author": {
+    "@type": "Person",
+    "name": "Olivier Gay"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "6ec2b6d2-7800-571c-96a2-18746d8f7956",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 000 - im reich der mitte olivier gay buch"
+  }
+}

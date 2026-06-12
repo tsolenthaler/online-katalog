@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c786e20a-8dd8-53ee-9435-9dc1bb0915b6",
+  "name": "Wasser ist Leben",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Garré"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c786e20a-8dd8-53ee-9435-9dc1bb0915b6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wasser ist leben sarah garre buch"
+  }
+}

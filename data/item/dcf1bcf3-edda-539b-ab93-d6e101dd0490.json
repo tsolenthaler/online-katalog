@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcf1bcf3-edda-539b-ab93-d6e101dd0490",
+  "name": "Geschenke aus den Bergen",
+  "author": {
+    "@type": "Person",
+    "name": "Renate Fink"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcf1bcf3-edda-539b-ab93-d6e101dd0490",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "geschenke aus den bergen renate fink buch"
+  }
+}

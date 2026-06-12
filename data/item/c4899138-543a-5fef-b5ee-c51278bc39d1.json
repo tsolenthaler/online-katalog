@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c4899138-543a-5fef-b5ee-c51278bc39d1",
+  "name": "101 Monster und alles, was du über sie wissen musst!",
+  "author": {
+    "@type": "Person",
+    "name": "Alexandra Helm"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c4899138-543a-5fef-b5ee-c51278bc39d1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "101 monster und alles, was du uber sie wissen musst! alexandra helm buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3648ba47-ca9d-5193-8729-b08362b20f7b",
+  "name": "Sternenschweif - die Suche nach dem Feuerdrachen -",
+  "author": {
+    "@type": "Person",
+    "name": "Ulrike Leistenschneider"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3648ba47-ca9d-5193-8729-b08362b20f7b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sternenschweif - die suche nach dem feuerdrachen - ulrike leistenschneider buch"
+  }
+}

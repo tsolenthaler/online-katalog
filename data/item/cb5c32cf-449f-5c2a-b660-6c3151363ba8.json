@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb5c32cf-449f-5c2a-b660-6c3151363ba8",
+  "name": "Das Geschenk",
+  "author": {
+    "@type": "Person",
+    "name": "Gaea Schoeters"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb5c32cf-449f-5c2a-b660-6c3151363ba8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das geschenk gaea schoeters buch"
+  }
+}

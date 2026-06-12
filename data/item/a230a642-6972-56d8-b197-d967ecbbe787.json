@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a230a642-6972-56d8-b197-d967ecbbe787",
+  "name": "Coole Fahrzeuge",
+  "author": {
+    "@type": "Person",
+    "name": "Line Halsnes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a230a642-6972-56d8-b197-d967ecbbe787",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "coole fahrzeuge line halsnes buch"
+  }
+}

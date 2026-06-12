@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1e7ec1af-67c2-53e8-9c4e-98a9433f0f81",
+  "name": "Schauen und Wissen! - Der Dachs",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Rath"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1e7ec1af-67c2-53e8-9c4e-98a9433f0f81",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schauen und wissen! - der dachs barbara rath buch"
+  }
+}

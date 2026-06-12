@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f58d0740-af2d-5fe8-a6b6-ace9b94effaf",
+  "name": "Kinderleichtes Weihnachtsbasteln",
+  "author": {
+    "@type": "Person",
+    "name": "Christina Pfeiffer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f58d0740-af2d-5fe8-a6b6-ace9b94effaf",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kinderleichtes weihnachtsbasteln christina pfeiffer buch"
+  }
+}

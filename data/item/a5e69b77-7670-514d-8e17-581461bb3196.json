@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a5e69b77-7670-514d-8e17-581461bb3196",
+  "name": "Was ist was - Religionen",
+  "author": {
+    "@type": "Person",
+    "name": "Martina Gorgas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a5e69b77-7670-514d-8e17-581461bb3196",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "was ist was - religionen martina gorgas buch"
+  }
+}

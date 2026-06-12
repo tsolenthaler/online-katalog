@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0555beea-68e5-52e2-8631-fa828f13feb2",
+  "name": "Eine zweite Chance",
+  "author": {
+    "@type": "Person",
+    "name": "Karin Alvtegen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0555beea-68e5-52e2-8631-fa828f13feb2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "eine zweite chance karin alvtegen buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:323187c2-3aae-553d-97aa-704137256ffa",
+  "name": "Ein halbes Herz",
+  "author": {
+    "@type": "Person",
+    "name": "Sofia Lundberg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "323187c2-3aae-553d-97aa-704137256ffa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein halbes herz sofia lundberg buch"
+  }
+}

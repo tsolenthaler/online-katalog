@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38f0ee50-6b00-5cd4-9d30-74d22b964373",
+  "name": "Ein Hund namens Money",
+  "author": {
+    "@type": "Person",
+    "name": "Bodo Schäfer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38f0ee50-6b00-5cd4-9d30-74d22b964373",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein hund namens money bodo schafer buch"
+  }
+}

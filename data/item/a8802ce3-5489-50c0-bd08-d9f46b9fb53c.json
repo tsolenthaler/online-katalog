@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8802ce3-5489-50c0-bd08-d9f46b9fb53c",
+  "name": "Memo Wissen Entdecken Kids - Flüsse und Seen",
+  "author": {
+    "@type": "Person",
+    "name": "Sarah Larter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a8802ce3-5489-50c0-bd08-d9f46b9fb53c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "memo wissen entdecken kids - flusse und seen sarah larter buch"
+  }
+}

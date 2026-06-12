@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ccda33ac-7bea-5794-b4ae-3a31626c7bb4",
+  "name": "Die drei ??? Kids - Band 072 - Die Laser-Falle",
+  "author": {
+    "@type": "Person",
+    "name": "BORIS PFEIFFER"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ccda33ac-7bea-5794-b4ae-3a31626c7bb4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 072 - die laser-falle boris pfeiffer buch"
+  }
+}

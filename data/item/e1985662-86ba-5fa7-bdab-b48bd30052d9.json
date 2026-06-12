@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1985662-86ba-5fa7-bdab-b48bd30052d9",
+  "name": "Die drei !!! - Band 058 - Gorilla in Not",
+  "author": {
+    "@type": "Person",
+    "name": "Heger Ann-Katrin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1985662-86ba-5fa7-bdab-b48bd30052d9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 058 - gorilla in not heger ann-katrin buch"
+  }
+}

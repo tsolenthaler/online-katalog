@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d90cf26f-abe4-57ab-9dd0-1a8a9deeaeaa",
+  "name": "Die drei !!! - Band 081 - Geheimnis im Spukhotel",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Guder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d90cf26f-abe4-57ab-9dd0-1a8a9deeaeaa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 081 - geheimnis im spukhotel christoph guder buch"
+  }
+}

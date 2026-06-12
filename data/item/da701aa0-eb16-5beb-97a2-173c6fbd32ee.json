@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:da701aa0-eb16-5beb-97a2-173c6fbd32ee",
+  "name": "Der Geisterkickboarder - Band 007 - auf Mission",
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Baiker"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "da701aa0-eb16-5beb-97a2-173c6fbd32ee",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der geisterkickboarder - band 007 - auf mission stefan baiker buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:69798e67-6ba0-5ab9-b060-d7c28c83e3c2",
+  "name": "Dragon Girls - Naomi, der Regenbogendrache",
+  "author": {
+    "@type": "Person",
+    "name": "Maddy Mara"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "69798e67-6ba0-5ab9-b060-d7c28c83e3c2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "dragon girls - naomi, der regenbogendrache maddy mara buch"
+  }
+}

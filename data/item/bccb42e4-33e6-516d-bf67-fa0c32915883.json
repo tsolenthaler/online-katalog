@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bccb42e4-33e6-516d-bf67-fa0c32915883",
+  "name": "Hat hier wer gelacht?",
+  "author": {
+    "@type": "Person",
+    "name": "Sean Hegarty"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bccb42e4-33e6-516d-bf67-fa0c32915883",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "hat hier wer gelacht? sean hegarty buch"
+  }
+}

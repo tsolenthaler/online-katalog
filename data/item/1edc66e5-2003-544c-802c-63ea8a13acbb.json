@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:1edc66e5-2003-544c-802c-63ea8a13acbb",
+  "name": "Die drei ??? - Band 167- und das blaue Biest",
+  "author": {
+    "@type": "Person",
+    "name": "Hendrik Buchna"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "1edc66e5-2003-544c-802c-63ea8a13acbb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? - band 167- und das blaue biest hendrik buchna buch"
+  }
+}

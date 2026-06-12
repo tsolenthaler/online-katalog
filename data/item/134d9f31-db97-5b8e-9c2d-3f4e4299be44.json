@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:134d9f31-db97-5b8e-9c2d-3f4e4299be44",
+  "name": "Hühner halten im Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Suzie Baldwin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "134d9f31-db97-5b8e-9c2d-3f4e4299be44",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "huhner halten im garten suzie baldwin buch"
+  }
+}

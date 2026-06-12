@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dfdbc71d-50b1-50a0-8e34-7a2ca8885d16",
+  "name": "Der Dorfladen - Wie das Schicksal spielt",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Jacobs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dfdbc71d-50b1-50a0-8e34-7a2ca8885d16",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der dorfladen - wie das schicksal spielt anne jacobs buch"
+  }
+}

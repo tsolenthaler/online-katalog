@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b059c8fb-cca3-59d4-8913-b747ed0a2245",
+  "name": "Einfach erklärt - Künstliche Intelligenz - Fake News -",
+  "author": {
+    "@type": "Person",
+    "name": "Manfred Theisen"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b059c8fb-cca3-59d4-8913-b747ed0a2245",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "einfach erklart - kunstliche intelligenz - fake news - manfred theisen buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:0d13f478-9eb2-5827-a9b2-8595b7b72ad0",
+  "name": "Permakultur für Einsteiger",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Mikolajski"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "0d13f478-9eb2-5827-a9b2-8595b7b72ad0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "permakultur fur einsteiger andrew mikolajski buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ae186fd2-6a5e-5761-8863-221b688a0ca0",
+  "name": "Philip Maloney - No.15",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Graf"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ae186fd2-6a5e-5761-8863-221b688a0ca0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "philip maloney - no.15 roger graf buch"
+  }
+}

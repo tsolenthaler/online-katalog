@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c4cc040c-c74f-5703-9588-691ad5835d91",
+  "name": "SUPERLESER! MARVEL Spider-Man Superhelden und",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine Saunders"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c4cc040c-c74f-5703-9588-691ad5835d91",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "superleser! marvel spider-man superhelden und catherine saunders buch"
+  }
+}

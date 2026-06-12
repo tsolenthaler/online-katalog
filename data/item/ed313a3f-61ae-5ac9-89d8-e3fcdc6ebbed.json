@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed313a3f-61ae-5ac9-89d8-e3fcdc6ebbed",
+  "name": "Beast Quest - Band 043 - Serpentix Reißzahn des Meeres",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Blade"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed313a3f-61ae-5ac9-89d8-e3fcdc6ebbed",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "beast quest - band 043 - serpentix reißzahn des meeres adam blade buch"
+  }
+}

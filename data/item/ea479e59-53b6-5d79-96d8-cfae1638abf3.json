@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea479e59-53b6-5d79-96d8-cfae1638abf3",
+  "name": "Sherlock Holmes Academy",
+  "author": {
+    "@type": "Person",
+    "name": "Holly Watson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea479e59-53b6-5d79-96d8-cfae1638abf3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "sherlock holmes academy holly watson buch"
+  }
+}

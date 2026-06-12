@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:89251047-fc8e-5c9a-999b-cc069ee860e7",
+  "name": "Wie Basel zur Schweiz kam ...",
+  "author": {
+    "@type": "Person",
+    "name": "E Pini"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "89251047-fc8e-5c9a-999b-cc069ee860e7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie basel zur schweiz kam ... e pini buch"
+  }
+}

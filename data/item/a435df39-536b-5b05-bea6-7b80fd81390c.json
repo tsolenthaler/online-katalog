@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a435df39-536b-5b05-bea6-7b80fd81390c",
+  "name": "TKKG Junior - Band 23 - Heiße Spur im Nebelhafen",
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Schreuder"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a435df39-536b-5b05-bea6-7b80fd81390c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tkkg junior - band 23 - heiße spur im nebelhafen benjamin schreuder buch"
+  }
+}

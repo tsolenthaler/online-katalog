@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:defd9431-5171-5bb9-a178-a0b92d1a0410",
+  "name": "Tiptoi - Mein großer Weltatlas",
+  "author": {
+    "@type": "Person",
+    "name": "Constanze Schargan"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "defd9431-5171-5bb9-a178-a0b92d1a0410",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tiptoi - mein großer weltatlas constanze schargan buch"
+  }
+}

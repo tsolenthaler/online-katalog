@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:db9663ba-9f12-54ec-8b9d-a08249d3fc91",
+  "name": "Die drei !!! - Band 063 - Flammen in der Nacht",
+  "author": {
+    "@type": "Person",
+    "name": "Maja von Vogel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "db9663ba-9f12-54ec-8b9d-a08249d3fc91",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei !!! - band 063 - flammen in der nacht maja von vogel buch"
+  }
+}

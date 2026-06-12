@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d7ba1f3f-1ad4-59de-9a49-674f21656010",
+  "name": "Tierisch was los! Im Wald",
+  "author": {
+    "@type": "Person",
+    "name": "Gareth Lucas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d7ba1f3f-1ad4-59de-9a49-674f21656010",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tierisch was los! im wald gareth lucas buch"
+  }
+}

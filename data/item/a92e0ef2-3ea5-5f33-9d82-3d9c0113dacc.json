@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a92e0ef2-3ea5-5f33-9d82-3d9c0113dacc",
+  "name": "Das Jahr ohne Sonne",
+  "author": {
+    "@type": "Person",
+    "name": "Therese Bichsel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a92e0ef2-3ea5-5f33-9d82-3d9c0113dacc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das jahr ohne sonne therese bichsel buch"
+  }
+}

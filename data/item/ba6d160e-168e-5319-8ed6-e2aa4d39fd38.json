@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ba6d160e-168e-5319-8ed6-e2aa4d39fd38",
+  "name": "Überfall aufs Samichlaushaus",
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Külling"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ba6d160e-168e-5319-8ed6-e2aa4d39fd38",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "uberfall aufs samichlaushaus andrea kulling buch"
+  }
+}

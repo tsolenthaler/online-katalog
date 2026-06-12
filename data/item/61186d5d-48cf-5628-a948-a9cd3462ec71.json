@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:61186d5d-48cf-5628-a948-a9cd3462ec71",
+  "name": "Die Olchis finden einen Schatz und andere krötige",
+  "author": {
+    "@type": "Person",
+    "name": "Erhard Dietl"
+  },
+  "isbn": "9783751203555",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783751203555",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783751203555"
+  ],
+  "_catalog": {
+    "id": "61186d5d-48cf-5628-a948-a9cd3462ec71",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die olchis finden einen schatz und andere krotige erhard dietl 9783751203555 buch"
+  }
+}

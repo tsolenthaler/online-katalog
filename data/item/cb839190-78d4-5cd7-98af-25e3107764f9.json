@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:cb839190-78d4-5cd7-98af-25e3107764f9",
+  "name": "Heute bin ich",
+  "author": {
+    "@type": "Person",
+    "name": "Mies van Hout"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "cb839190-78d4-5cd7-98af-25e3107764f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "heute bin ich mies van hout buch"
+  }
+}

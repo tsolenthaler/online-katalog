@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:af5fe265-ee3d-55fc-b8c8-28315f0ccf6b",
+  "name": "Die drei ??? Kids - Band 091 - Gefahr im Spiegelkabinett",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "af5fe265-ee3d-55fc-b8c8-28315f0ccf6b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die drei ??? kids - band 091 - gefahr im spiegelkabinett ulf blanck buch"
+  }
+}

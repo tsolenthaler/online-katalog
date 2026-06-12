@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9937091-b682-5b63-a22b-9c162ff73d4b",
+  "name": "Zwischen Ende und Anfang",
+  "author": {
+    "@type": "Person",
+    "name": "Jojo Moyes"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9937091-b682-5b63-a22b-9c162ff73d4b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zwischen ende und anfang jojo moyes buch"
+  }
+}

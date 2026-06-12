@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:240d7aa4-6f91-5739-af5e-8a7f48b85d51",
+  "name": "Boule & Bill - Band 004",
+  "author": {
+    "@type": "Person",
+    "name": "Roba"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "240d7aa4-6f91-5739-af5e-8a7f48b85d51",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "boule & bill - band 004 roba buch"
+  }
+}

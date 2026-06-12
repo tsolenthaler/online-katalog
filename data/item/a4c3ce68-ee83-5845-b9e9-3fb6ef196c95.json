@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a4c3ce68-ee83-5845-b9e9-3fb6ef196c95",
+  "name": "Lillys magische Schuhe - Band 05 - Der funkelnde Berg",
+  "author": {
+    "@type": "Person",
+    "name": "Usch Luhn"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a4c3ce68-ee83-5845-b9e9-3fb6ef196c95",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lillys magische schuhe - band 05 - der funkelnde berg usch luhn buch"
+  }
+}

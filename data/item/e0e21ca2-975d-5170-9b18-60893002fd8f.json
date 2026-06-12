@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e0e21ca2-975d-5170-9b18-60893002fd8f",
+  "name": "Blaue Wunder",
+  "author": {
+    "@type": "Person",
+    "name": "Kürthy von Ildiko"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e0e21ca2-975d-5170-9b18-60893002fd8f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "blaue wunder kurthy von ildiko buch"
+  }
+}

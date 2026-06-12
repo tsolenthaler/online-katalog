@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ffe2099a-6a1f-5a5d-a6ab-f64a91fe6beb",
+  "name": "Die kleine Weihnachtseule",
+  "author": {
+    "@type": "Person",
+    "name": "Ellen Kalish"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ffe2099a-6a1f-5a5d-a6ab-f64a91fe6beb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die kleine weihnachtseule ellen kalish buch"
+  }
+}

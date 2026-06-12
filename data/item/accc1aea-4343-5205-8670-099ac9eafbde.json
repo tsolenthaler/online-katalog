@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:accc1aea-4343-5205-8670-099ac9eafbde",
+  "name": "Der kleine Drache Kokosnuss und der Schatz im",
+  "author": {
+    "@type": "Person",
+    "name": "Ingo Siegner"
+  },
+  "isbn": "9783570176986",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783570176986",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783570176986"
+  ],
+  "_catalog": {
+    "id": "accc1aea-4343-5205-8670-099ac9eafbde",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der kleine drache kokosnuss und der schatz im ingo siegner 9783570176986 buch"
+  }
+}

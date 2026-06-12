@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8ebff051-5d6b-5196-aa77-109c9601e16a",
+  "name": "Ein Fall für die Kichererbsen",
+  "author": {
+    "@type": "Person",
+    "name": "Katja Reider"
+  },
+  "isbn": "9783619144815",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783619144815",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783619144815"
+  ],
+  "_catalog": {
+    "id": "8ebff051-5d6b-5196-aa77-109c9601e16a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein fall fur die kichererbsen katja reider 9783619144815 buch"
+  }
+}

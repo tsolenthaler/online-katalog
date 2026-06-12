@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f8a137a8-e305-55fb-893a-7bcc40527d30",
+  "name": "Lautlose Feinde",
+  "author": {
+    "@type": "Person",
+    "name": "Gil Ribeiro"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f8a137a8-e305-55fb-893a-7bcc40527d30",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lautlose feinde gil ribeiro buch"
+  }
+}

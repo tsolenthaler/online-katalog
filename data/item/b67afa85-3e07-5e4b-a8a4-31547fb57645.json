@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b67afa85-3e07-5e4b-a8a4-31547fb57645",
+  "name": "Die 3 Fragezeichen Kids - Der Wüstengeist",
+  "author": {
+    "@type": "Person",
+    "name": "Ulf Blanck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b67afa85-3e07-5e4b-a8a4-31547fb57645",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die 3 fragezeichen kids - der wustengeist ulf blanck buch"
+  }
+}

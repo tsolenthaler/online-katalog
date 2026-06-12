@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2fbb32d-7874-5ef8-a5b4-c05045a8f643",
+  "name": "Gummi Boot Führer Schweiz",
+  "author": {
+    "@type": "Person",
+    "name": "Iwona Eberle"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a2fbb32d-7874-5ef8-a5b4-c05045a8f643",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "gummi boot fuhrer schweiz iwona eberle buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:295478e7-d90f-5b95-b8ef-089a19255527",
+  "name": "Asterix - Band 005 -Die goldene Sichel",
+  "author": {
+    "@type": "Person",
+    "name": "Goscinny René"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "295478e7-d90f-5b95-b8ef-089a19255527",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "asterix - band 005 -die goldene sichel goscinny rene buch"
+  }
+}

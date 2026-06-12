@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:53e5f219-280b-582e-9f98-939da56eeaf8",
+  "name": "Magic Girls, der dunkle Verräter",
+  "author": {
+    "@type": "Person",
+    "name": "Marliese Arold"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "53e5f219-280b-582e-9f98-939da56eeaf8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "magic girls, der dunkle verrater marliese arold buch"
+  }
+}

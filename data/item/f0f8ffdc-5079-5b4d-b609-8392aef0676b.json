@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f0f8ffdc-5079-5b4d-b609-8392aef0676b",
+  "name": "Orphan Train - Band 002 - Harvey",
+  "author": {
+    "@type": "Person",
+    "name": "Philippe Charlot"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f0f8ffdc-5079-5b4d-b609-8392aef0676b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "orphan train - band 002 - harvey philippe charlot buch"
+  }
+}

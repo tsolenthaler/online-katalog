@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c89ed5d0-f1e6-5d95-8e5f-0436bbace2d8",
+  "name": "Ich kann über 80 Tiere malen",
+  "author": {
+    "@type": "Person",
+    "name": "Emily Fellah"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c89ed5d0-f1e6-5d95-8e5f-0436bbace2d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ich kann uber 80 tiere malen emily fellah buch"
+  }
+}

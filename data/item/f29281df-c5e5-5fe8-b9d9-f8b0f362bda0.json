@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f29281df-c5e5-5fe8-b9d9-f8b0f362bda0",
+  "name": "Globi - Band 016 - will ins Schlaraffenland",
+  "author": {
+    "@type": "Person",
+    "name": "Müller Walter Andreas"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f29281df-c5e5-5fe8-b9d9-f8b0f362bda0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "globi - band 016 - will ins schlaraffenland muller walter andreas buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5abdfbf7-02b0-5366-8d49-914ebea54c89",
+  "name": "Die Liebe an miesen Tagen",
+  "author": {
+    "@type": "Person",
+    "name": "Ewald Arenz"
+  },
+  "isbn": "9783742426642",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783742426642",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783742426642"
+  ],
+  "_catalog": {
+    "id": "5abdfbf7-02b0-5366-8d49-914ebea54c89",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die liebe an miesen tagen ewald arenz 9783742426642 buch"
+  }
+}

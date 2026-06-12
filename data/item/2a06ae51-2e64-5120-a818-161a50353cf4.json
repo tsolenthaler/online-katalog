@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:2a06ae51-2e64-5120-a818-161a50353cf4",
+  "name": "IZARA - Band 003 - Sturmluft",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Dippel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "2a06ae51-2e64-5120-a818-161a50353cf4",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "izara - band 003 - sturmluft julia dippel buch"
+  }
+}

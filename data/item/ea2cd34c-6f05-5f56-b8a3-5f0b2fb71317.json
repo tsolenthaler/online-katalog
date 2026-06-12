@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ea2cd34c-6f05-5f56-b8a3-5f0b2fb71317",
+  "name": "Die Tiere Afrikas",
+  "author": {
+    "@type": "Person",
+    "name": "Laura Bour"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ea2cd34c-6f05-5f56-b8a3-5f0b2fb71317",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die tiere afrikas laura bour buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:315427cb-68a5-5c9c-9257-6baad18ee079",
+  "name": "Eddy Stone und der Pirat in der Badewanne",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Cherry"
+  },
+  "isbn": "9783732529360",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783732529360",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783732529360"
+  ],
+  "_catalog": {
+    "id": "315427cb-68a5-5c9c-9257-6baad18ee079",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "eddy stone und der pirat in der badewanne simon cherry 9783732529360 buch"
+  }
+}

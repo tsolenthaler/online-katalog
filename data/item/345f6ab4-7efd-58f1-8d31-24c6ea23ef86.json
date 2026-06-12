@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:345f6ab4-7efd-58f1-8d31-24c6ea23ef86",
+  "name": "Cornwall College - Band 001 - Was verbirgt Cara",
+  "author": {
+    "@type": "Person",
+    "name": "Annika Harper"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "345f6ab4-7efd-58f1-8d31-24c6ea23ef86",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "cornwall college - band 001 - was verbirgt cara annika harper buch"
+  }
+}

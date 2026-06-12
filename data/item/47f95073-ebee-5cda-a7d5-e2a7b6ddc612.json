@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:47f95073-ebee-5cda-a7d5-e2a7b6ddc612",
+  "name": "Nein heißt Nein, sagt die Maus",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Fuchs"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "47f95073-ebee-5cda-a7d5-e2a7b6ddc612",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "nein heißt nein, sagt die maus martin fuchs buch"
+  }
+}

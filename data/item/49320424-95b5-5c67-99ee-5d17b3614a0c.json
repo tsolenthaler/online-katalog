@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:49320424-95b5-5c67-99ee-5d17b3614a0c",
+  "name": "Die Welt - Das Buch",
+  "author": {
+    "@type": "Person",
+    "name": "Sabine Bösz"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "49320424-95b5-5c67-99ee-5d17b3614a0c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die welt - das buch sabine bosz buch"
+  }
+}

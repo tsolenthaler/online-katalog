@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:76b84d2c-6ae9-557d-85ae-9707c535f494",
+  "name": "Wenn du Sorgen hast, rolle einen Schneeball",
+  "author": {
+    "@type": "Person",
+    "name": "Sang-gn Kim"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "76b84d2c-6ae9-557d-85ae-9707c535f494",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wenn du sorgen hast, rolle einen schneeball sang-gn kim buch"
+  }
+}

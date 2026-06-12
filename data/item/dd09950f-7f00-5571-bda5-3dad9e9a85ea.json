@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dd09950f-7f00-5571-bda5-3dad9e9a85ea",
+  "name": "Das Krawall-Kehlchen",
+  "author": {
+    "@type": "Person",
+    "name": "Madlen Ottenschläger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dd09950f-7f00-5571-bda5-3dad9e9a85ea",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das krawall-kehlchen madlen ottenschlager buch"
+  }
+}

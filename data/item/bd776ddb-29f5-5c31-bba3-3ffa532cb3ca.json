@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bd776ddb-29f5-5c31-bba3-3ffa532cb3ca",
+  "name": "Zwei an einem Tag",
+  "author": {
+    "@type": "Person",
+    "name": "David Nicholls"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bd776ddb-29f5-5c31-bba3-3ffa532cb3ca",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "zwei an einem tag david nicholls buch"
+  }
+}

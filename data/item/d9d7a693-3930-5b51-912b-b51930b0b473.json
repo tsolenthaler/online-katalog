@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d9d7a693-3930-5b51-912b-b51930b0b473",
+  "name": "Der Baum",
+  "author": {
+    "@type": "Person",
+    "name": "de Bourgoing Pascale"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d9d7a693-3930-5b51-912b-b51930b0b473",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der baum de bourgoing pascale buch"
+  }
+}

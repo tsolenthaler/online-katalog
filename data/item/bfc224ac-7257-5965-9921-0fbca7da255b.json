@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bfc224ac-7257-5965-9921-0fbca7da255b",
+  "name": "Ein Fall für Kwiatkowski - Band 008 - Duell der Detektive",
+  "author": {
+    "@type": "Person",
+    "name": "Jürgen Banscherus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "bfc224ac-7257-5965-9921-0fbca7da255b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "ein fall fur kwiatkowski - band 008 - duell der detektive jurgen banscherus buch"
+  }
+}

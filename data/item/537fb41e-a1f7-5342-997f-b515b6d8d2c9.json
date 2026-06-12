@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:537fb41e-a1f7-5342-997f-b515b6d8d2c9",
+  "name": "1001 Ausflugsziele mit den schönsten KIDS Ausflügen der",
+  "author": {
+    "@type": "Person",
+    "name": "Ronald Gohl"
+  },
+  "isbn": "9783038127925",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783038127925",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783038127925"
+  ],
+  "_catalog": {
+    "id": "537fb41e-a1f7-5342-997f-b515b6d8d2c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "1001 ausflugsziele mit den schonsten kids ausflugen der ronald gohl 9783038127925 buch"
+  }
+}

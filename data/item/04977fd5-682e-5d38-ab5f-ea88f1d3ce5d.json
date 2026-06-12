@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:04977fd5-682e-5d38-ab5f-ea88f1d3ce5d",
+  "name": "Fences",
+  "author": {
+    "@type": "Person",
+    "name": "Denzel Washington"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "04977fd5-682e-5d38-ab5f-ea88f1d3ce5d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fences denzel washington buch"
+  }
+}

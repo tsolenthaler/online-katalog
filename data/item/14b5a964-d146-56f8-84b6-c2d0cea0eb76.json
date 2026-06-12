@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:14b5a964-d146-56f8-84b6-c2d0cea0eb76",
+  "name": "Teufelskicker - Kampf der Maskottchen",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Krallus"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "14b5a964-d146-56f8-84b6-c2d0cea0eb76",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "teufelskicker - kampf der maskottchen thomas krallus buch"
+  }
+}

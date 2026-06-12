@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:eb13798e-51fe-566f-97e4-cadab654bb2c",
+  "name": "Stromschnelle - Sport - Krimi",
+  "author": {
+    "@type": "Person",
+    "name": "Andreas Schlüter"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "eb13798e-51fe-566f-97e4-cadab654bb2c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "stromschnelle - sport - krimi andreas schluter buch"
+  }
+}

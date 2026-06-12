@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b7d10352-c784-51e0-a692-0e582426ea7f",
+  "name": "Kleine Monster",
+  "author": {
+    "@type": "Person",
+    "name": "Jessica Lind"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b7d10352-c784-51e0-a692-0e582426ea7f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleine monster jessica lind buch"
+  }
+}

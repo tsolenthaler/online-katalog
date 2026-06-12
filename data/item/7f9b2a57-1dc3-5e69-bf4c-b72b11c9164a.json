@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:7f9b2a57-1dc3-5e69-bf4c-b72b11c9164a",
+  "name": "Pssst! Unser Geheimnis - Brillenschlange und",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Brezina"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "7f9b2a57-1dc3-5e69-bf4c-b72b11c9164a",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "pssst! unser geheimnis - brillenschlange und thomas brezina buch"
+  }
+}

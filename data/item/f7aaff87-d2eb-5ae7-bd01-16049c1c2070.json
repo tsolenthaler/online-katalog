@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f7aaff87-d2eb-5ae7-bd01-16049c1c2070",
+  "name": "Schlank und gesund mit Säften & Smoothies",
+  "author": {
+    "@type": "Person",
+    "name": "Christine Bailey"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "f7aaff87-d2eb-5ae7-bd01-16049c1c2070",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "schlank und gesund mit saften & smoothies christine bailey buch"
+  }
+}

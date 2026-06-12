@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:38c4d711-0915-52e8-9f66-08fd4f2bb4d6",
+  "name": "Worst Week Ever - Band 1 - Montag",
+  "author": {
+    "@type": "Person",
+    "name": "Matt Cosgrove"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "38c4d711-0915-52e8-9f66-08fd4f2bb4d6",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "worst week ever - band 1 - montag matt cosgrove buch"
+  }
+}

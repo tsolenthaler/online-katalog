@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e1a33783-7e8a-5739-ba0a-e590fb527171",
+  "name": "Yeti-Ritter-Schneegewitter - Band 1",
+  "author": {
+    "@type": "Person",
+    "name": "Charlotte Habersack"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e1a33783-7e8a-5739-ba0a-e590fb527171",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "yeti-ritter-schneegewitter - band 1 charlotte habersack buch"
+  }
+}

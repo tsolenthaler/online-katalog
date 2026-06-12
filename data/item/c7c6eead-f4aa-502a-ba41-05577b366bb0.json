@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c7c6eead-f4aa-502a-ba41-05577b366bb0",
+  "name": "Tut's noch weh? fragt das Reh",
+  "author": {
+    "@type": "Person",
+    "name": "Kathrin Wessel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c7c6eead-f4aa-502a-ba41-05577b366bb0",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "tut's noch weh? fragt das reh kathrin wessel buch"
+  }
+}

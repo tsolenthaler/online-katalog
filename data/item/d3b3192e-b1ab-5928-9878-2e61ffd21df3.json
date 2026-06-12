@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d3b3192e-b1ab-5928-9878-2e61ffd21df3",
+  "name": "Ein neues Haus für Charlie",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Lecher"
+  },
+  "isbn": "9783407761255",
+  "genre": "",
+  "keywords": [],
+  "description": "Source title: Ein neues Haus für Charlie: Vierfarbiges Bilderbuch",
+  "image": "https://covers.openlibrary.org/b/id/9029969-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783407761255",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783407761255"
+  ],
+  "_catalog": {
+    "id": "d3b3192e-b1ab-5928-9878-2e61ffd21df3",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "ein neues haus fur charlie doris lecher 9783407761255 buch"
+  }
+}

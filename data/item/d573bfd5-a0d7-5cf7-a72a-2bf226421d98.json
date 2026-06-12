@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d573bfd5-a0d7-5cf7-a72a-2bf226421d98",
+  "name": "Das Weihnachtsdorf",
+  "author": {
+    "@type": "Person",
+    "name": "Petra Durst-Benning"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d573bfd5-a0d7-5cf7-a72a-2bf226421d98",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das weihnachtsdorf petra durst-benning buch"
+  }
+}

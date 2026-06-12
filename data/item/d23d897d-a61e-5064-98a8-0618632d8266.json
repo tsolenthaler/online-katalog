@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d23d897d-a61e-5064-98a8-0618632d8266",
+  "name": "Spirou + Fantasio - Band 043 - Mafia, Mädchen und",
+  "author": {
+    "@type": "Person",
+    "name": "Tome u. Janry"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d23d897d-a61e-5064-98a8-0618632d8266",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "spirou + fantasio - band 043 - mafia, madchen und tome u. janry buch"
+  }
+}

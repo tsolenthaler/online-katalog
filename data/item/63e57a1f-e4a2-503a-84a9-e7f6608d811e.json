@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:63e57a1f-e4a2-503a-84a9-e7f6608d811e",
+  "name": "Wunder",
+  "author": {
+    "@type": "Person",
+    "name": "Raquel J. Palacio"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "63e57a1f-e4a2-503a-84a9-e7f6608d811e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wunder raquel j. palacio buch"
+  }
+}

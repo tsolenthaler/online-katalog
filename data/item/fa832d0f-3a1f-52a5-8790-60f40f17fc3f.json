@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:fa832d0f-3a1f-52a5-8790-60f40f17fc3f",
+  "name": "Die Reisgöttin",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Dörrie"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "fa832d0f-3a1f-52a5-8790-60f40f17fc3f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die reisgottin doris dorrie buch"
+  }
+}

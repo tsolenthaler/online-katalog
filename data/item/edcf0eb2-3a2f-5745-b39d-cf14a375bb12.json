@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:edcf0eb2-3a2f-5745-b39d-cf14a375bb12",
+  "name": "Das Licht zwischen den Schatten",
+  "author": {
+    "@type": "Person",
+    "name": "Michaela Beck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "edcf0eb2-3a2f-5745-b39d-cf14a375bb12",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "das licht zwischen den schatten michaela beck buch"
+  }
+}

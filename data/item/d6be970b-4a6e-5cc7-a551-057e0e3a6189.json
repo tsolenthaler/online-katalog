@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6be970b-4a6e-5cc7-a551-057e0e3a6189",
+  "name": "Mädchenfeuer",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Jansson"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6be970b-4a6e-5cc7-a551-057e0e3a6189",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "madchenfeuer anna jansson buch"
+  }
+}

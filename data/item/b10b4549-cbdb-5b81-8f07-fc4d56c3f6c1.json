@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b10b4549-cbdb-5b81-8f07-fc4d56c3f6c1",
+  "name": "Jungs verstehen das nicht!",
+  "author": {
+    "@type": "Person",
+    "name": "Emma Flint"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b10b4549-cbdb-5b81-8f07-fc4d56c3f6c1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "jungs verstehen das nicht! emma flint buch"
+  }
+}

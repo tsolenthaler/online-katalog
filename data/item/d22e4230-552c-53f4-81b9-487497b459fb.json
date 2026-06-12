@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d22e4230-552c-53f4-81b9-487497b459fb",
+  "name": "Das kleine Haus am Sonnenhang",
+  "author": {
+    "@type": "Person",
+    "name": "Alex Capus"
+  },
+  "isbn": "9783446279414",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783446279414",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783446279414"
+  ],
+  "_catalog": {
+    "id": "d22e4230-552c-53f4-81b9-487497b459fb",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "",
+    "isbn_source": "dnb",
+    "search_text": "das kleine haus am sonnenhang alex capus 9783446279414 buch"
+  }
+}

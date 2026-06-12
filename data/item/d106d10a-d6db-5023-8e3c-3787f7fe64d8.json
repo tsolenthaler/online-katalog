@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d106d10a-d6db-5023-8e3c-3787f7fe64d8",
+  "name": "The wrong girl",
+  "author": {
+    "@type": "Person",
+    "name": "Megan Goldin"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d106d10a-d6db-5023-8e3c-3787f7fe64d8",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "the wrong girl megan goldin buch"
+  }
+}

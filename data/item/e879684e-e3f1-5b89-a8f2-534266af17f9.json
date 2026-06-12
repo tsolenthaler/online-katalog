@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:e879684e-e3f1-5b89-a8f2-534266af17f9",
+  "name": "Papa Moll - Band 034 - im Garten",
+  "author": {
+    "@type": "Person",
+    "name": "Rolf Meier"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "e879684e-e3f1-5b89-a8f2-534266af17f9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "papa moll - band 034 - im garten rolf meier buch"
+  }
+}

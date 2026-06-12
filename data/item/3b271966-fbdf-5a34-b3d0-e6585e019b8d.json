@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3b271966-fbdf-5a34-b3d0-e6585e019b8d",
+  "name": "Endecke Die Igel",
+  "author": {
+    "@type": "Person",
+    "name": "Ralf Klinger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "3b271966-fbdf-5a34-b3d0-e6585e019b8d",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "endecke die igel ralf klinger buch"
+  }
+}

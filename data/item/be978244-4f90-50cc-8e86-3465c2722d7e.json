@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:be978244-4f90-50cc-8e86-3465c2722d7e",
+  "name": "Die verborgene Tochter",
+  "author": {
+    "@type": "Person",
+    "name": "Soraya Lane"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "be978244-4f90-50cc-8e86-3465c2722d7e",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die verborgene tochter soraya lane buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c9420365-2061-534b-b7e0-0369aac320f1",
+  "name": "Wieso Weshalb Warum - Die Polizei",
+  "author": {
+    "@type": "Person",
+    "name": "Wolfgang Metzger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c9420365-2061-534b-b7e0-0369aac320f1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso weshalb warum - die polizei wolfgang metzger buch"
+  }
+}

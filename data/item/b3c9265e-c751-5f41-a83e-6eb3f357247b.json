@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b3c9265e-c751-5f41-a83e-6eb3f357247b",
+  "name": "Der letzte Feuerfalke - und das Wolkenland -Band 7",
+  "author": {
+    "@type": "Person",
+    "name": "Katrina Charman"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b3c9265e-c751-5f41-a83e-6eb3f357247b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der letzte feuerfalke - und das wolkenland -band 7 katrina charman buch"
+  }
+}

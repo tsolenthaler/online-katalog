@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:bc9102ec-5e6a-5649-a461-bef6adf4d18c",
+  "name": "Detektivinnen in Gefahr",
+  "author": {
+    "@type": "Person",
+    "name": "Kirsten Vogel"
+  },
+  "isbn": "9783440174906",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783440174906",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783440174906"
+  ],
+  "_catalog": {
+    "id": "bc9102ec-5e6a-5649-a461-bef6adf4d18c",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "detektivinnen in gefahr kirsten vogel 9783440174906 buch"
+  }
+}

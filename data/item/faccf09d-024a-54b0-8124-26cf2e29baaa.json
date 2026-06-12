@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:faccf09d-024a-54b0-8124-26cf2e29baaa",
+  "name": "Wir mussten flüchten",
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Drösser"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "faccf09d-024a-54b0-8124-26cf2e29baaa",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wir mussten fluchten christoph drosser buch"
+  }
+}

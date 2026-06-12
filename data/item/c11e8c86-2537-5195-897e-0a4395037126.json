@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:c11e8c86-2537-5195-897e-0a4395037126",
+  "name": "Fridas Köchin",
+  "author": {
+    "@type": "Person",
+    "name": "Florencia Etcheves"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "c11e8c86-2537-5195-897e-0a4395037126",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "fridas kochin florencia etcheves buch"
+  }
+}

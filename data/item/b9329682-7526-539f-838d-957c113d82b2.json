@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b9329682-7526-539f-838d-957c113d82b2",
+  "name": "Wieso, Weshalb, Warum - Kennst du Formen, Farben,",
+  "author": {
+    "@type": "Person",
+    "name": "Doris Rübel"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b9329682-7526-539f-838d-957c113d82b2",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wieso, weshalb, warum - kennst du formen, farben, doris rubel buch"
+  }
+}

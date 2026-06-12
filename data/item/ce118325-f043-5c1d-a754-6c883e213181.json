@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ce118325-f043-5c1d-a754-6c883e213181",
+  "name": "Wie die Römer lebten",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre-Marie Valat"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ce118325-f043-5c1d-a754-6c883e213181",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "wie die romer lebten pierre-marie valat buch"
+  }
+}

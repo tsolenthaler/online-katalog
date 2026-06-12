@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:53cc1400-a164-5b97-b55a-89e63fbaa5fd",
+  "name": "Life in Balance",
+  "author": {
+    "@type": "Person",
+    "name": "Donna Hay"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "53cc1400-a164-5b97-b55a-89e63fbaa5fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "life in balance donna hay buch"
+  }
+}

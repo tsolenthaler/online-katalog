@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:8a2c327b-0423-5b7f-ace2-cca8382fe21f",
+  "name": "Der magische Blumenladen - Band 001 - Ein Geheimnis",
+  "author": {
+    "@type": "Person",
+    "name": "Gina Mayer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "8a2c327b-0423-5b7f-ace2-cca8382fe21f",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "der magische blumenladen - band 001 - ein geheimnis gina mayer buch"
+  }
+}

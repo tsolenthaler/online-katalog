@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f771917e-64c1-5821-bbb3-a50870521451",
+  "name": "Das Lied des Waldes",
+  "author": {
+    "@type": "Person",
+    "name": "Klara Jahn"
+  },
+  "isbn": "9783837159301",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837159301",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837159301"
+  ],
+  "_catalog": {
+    "id": "f771917e-64c1-5821-bbb3-a50870521451",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das lied des waldes klara jahn 9783837159301 buch"
+  }
+}

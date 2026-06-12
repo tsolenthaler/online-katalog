@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d6b64772-e355-503a-a36f-bddde52847a7",
+  "name": "Brücken",
+  "author": {
+    "@type": "Person",
+    "name": "Roman Beljaev"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d6b64772-e355-503a-a36f-bddde52847a7",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "brucken roman beljaev buch"
+  }
+}

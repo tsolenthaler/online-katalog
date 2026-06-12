@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b5ace989-6c5b-5a86-b778-bf5965dc5f72",
+  "name": "Kleines Einhorn Funkelstern - Vorlesegeschichten von",
+  "author": {
+    "@type": "Person",
+    "name": "Mila Berg"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b5ace989-6c5b-5a86-b778-bf5965dc5f72",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "kleines einhorn funkelstern - vorlesegeschichten von mila berg buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:ed2d2d62-bfe6-599b-8ded-2839927b84fd",
+  "name": "Welches Tier ist anders hier?",
+  "author": {
+    "@type": "Person",
+    "name": "Bernd Penners"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "ed2d2d62-bfe6-599b-8ded-2839927b84fd",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "welches tier ist anders hier? bernd penners buch"
+  }
+}

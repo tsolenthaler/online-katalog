@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:252336c4-541d-55b5-b6d9-5f4858aaf416",
+  "name": "Eine Million Dollar",
+  "author": {
+    "@type": "Person",
+    "name": "Carlo Meier"
+  },
+  "isbn": "9783906876306",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783906876306",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783906876306"
+  ],
+  "_catalog": {
+    "id": "252336c4-541d-55b5-b6d9-5f4858aaf416",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "eine million dollar carlo meier 9783906876306 buch"
+  }
+}

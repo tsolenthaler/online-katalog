@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:dcd25a31-4d34-59ae-baf0-921476649c22",
+  "name": "Benni Bärenstark - Band 008 - Bennis grosser Auftritt",
+  "author": {
+    "@type": "Person",
+    "name": "Peyo"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "dcd25a31-4d34-59ae-baf0-921476649c22",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "benni barenstark - band 008 - bennis grosser auftritt peyo buch"
+  }
+}

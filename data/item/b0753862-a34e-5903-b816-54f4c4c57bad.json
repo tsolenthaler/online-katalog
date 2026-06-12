@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:b0753862-a34e-5903-b816-54f4c4c57bad",
+  "name": "Lake Paradise – Ein Ort für Träume",
+  "author": {
+    "@type": "Person",
+    "name": "Manuela Inusa"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "b0753862-a34e-5903-b816-54f4c4c57bad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "lake paradise – ein ort fur traume manuela inusa buch"
+  }
+}

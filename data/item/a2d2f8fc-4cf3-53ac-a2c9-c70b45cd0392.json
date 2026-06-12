@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a2d2f8fc-4cf3-53ac-a2c9-c70b45cd0392",
+  "name": "Der heimliche Beobachter",
+  "author": {
+    "@type": "Person",
+    "name": "Lisa Unger"
+  },
+  "isbn": "9783754010181",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783754010181",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783754010181"
+  ],
+  "_catalog": {
+    "id": "a2d2f8fc-4cf3-53ac-a2c9-c70b45cd0392",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "",
+    "isbn_source": "dnb",
+    "search_text": "der heimliche beobachter lisa unger 9783754010181 buch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d0cf7710-d92c-515e-86ca-0252058d6b62",
+  "name": "Catching feelings",
+  "author": {
+    "@type": "Person",
+    "name": "Kira Licht"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d0cf7710-d92c-515e-86ca-0252058d6b62",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "catching feelings kira licht buch"
+  }
+}

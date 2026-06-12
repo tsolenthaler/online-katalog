@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:976ab3f1-5dd4-5fca-bd4c-288c4c36dfc1",
+  "name": "Platzspitzbaby",
+  "author": {
+    "@type": "Person",
+    "name": "Michelle Halbheer"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "976ab3f1-5dd4-5fca-bd4c-288c4c36dfc1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "platzspitzbaby michelle halbheer buch"
+  }
+}
