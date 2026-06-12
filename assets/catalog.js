@@ -28,6 +28,50 @@
   if (isNewInput) isNewInput.checked = state.isNew;
 
   let items = [];
+  let flexIndex = null; // FlexSearch Document index, built lazily
+
+  // Load FlexSearch from CDN and build the in-memory index from search_index.json.
+  // Falls back gracefully to simple substring search if FlexSearch is unavailable.
+  async function initFlexSearch() {
+    if (flexIndex !== null) return;
+    try {
+      // Load FlexSearch bundle if not already present
+      if (typeof FlexSearch === 'undefined') {
+        await new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = 'https://cdn.jsdelivr.net/npm/flexsearch@0.7.43/dist/flexsearch.bundle.min.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+      }
+
+      const res = await fetch('data/search_index.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('search_index.json nicht gefunden');
+      const indexData = await res.json();
+      const cfg = (indexData.flexsearch_config || {}).document || {};
+
+      flexIndex = new FlexSearch.Document({
+        document: {
+          id: 'id',
+          index: cfg.index || [
+            { field: 'title', tokenize: 'forward', resolution: 9 },
+            { field: 'author', tokenize: 'forward', resolution: 5 },
+            { field: 'genre', tokenize: 'strict', resolution: 3 },
+            { field: 'description', tokenize: 'strict', resolution: 1 },
+          ],
+        },
+      });
+
+      for (const doc of indexData.documents || []) {
+        flexIndex.add(doc);
+      }
+    } catch (e) {
+      console.warn('FlexSearch konnte nicht initialisiert werden, verwende Fallback-Suche.', e);
+      flexIndex = null;
+    }
+  }
+
   try {
     const res = await fetch('data/catalog.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('catalog.json konnte nicht geladen werden');
@@ -88,6 +132,10 @@
   }
 
   function applyFilters() {
+  async function applyFilters() {
+    // Ensure FlexSearch is initialised before the first search
+    await initFlexSearch();
+
     state.q = qInput?.value?.trim() || '';
     state.type = typeInput?.value || '';
     state.genre = genreInput?.value || '';
@@ -95,16 +143,36 @@
     state.status = statusInput?.value || '';
     state.isNew = (isNewInput?.checked || false) || page === 'new';
 
-    const q = state.q.toLowerCase();
-    const filtered = items.filter((item) => {
+    const q = state.q.trim();
+
+    // Structural (non-text) filters applied to the full items array
+    let candidates = items.filter((item) => {
       if (state.isNew && !item.is_new) return false;
       if (state.type && (item.type || '') !== state.type) return false;
       if (state.genre && (item.genre || '') !== state.genre) return false;
       if (state.owner && (item.owner || '') !== state.owner) return false;
       if (state.status && (item.status || 'OK') !== state.status) return false;
-      if (q && !(item.search_text || '').toLowerCase().includes(q)) return false;
       return true;
     });
+
+    // Full-text search via FlexSearch (when available) or plain substring fallback
+    let filtered;
+    if (q) {
+      if (flexIndex) {
+        const hits = flexIndex.search(q, { limit: candidates.length, enrich: false });
+        // hits is [{field, result:[id,...]}, ...] – collect unique IDs
+        const matchedIds = new Set(hits.flatMap((h) => h.result));
+        const itemById = Object.fromEntries(candidates.map((i) => [i.id, i]));
+        filtered = [...matchedIds].map((id) => itemById[id]).filter(Boolean);
+      } else {
+        const ql = q.toLowerCase();
+        filtered = candidates.filter((item) =>
+          (item.search_text || '').toLowerCase().includes(ql)
+        );
+      }
+    } else {
+      filtered = candidates;
+    }
 
     helpers.setQuery({
       q: state.q,
@@ -128,7 +196,7 @@
     .filter(Boolean)
     .forEach((el) => {
       const eventName = el.tagName === 'INPUT' && el.type === 'search' ? 'input' : 'change';
-      el.addEventListener(eventName, applyFilters);
+      el.addEventListener(eventName, () => applyFilters());
     });
 
   if (shareButton) {
@@ -142,6 +210,11 @@
       }
     });
   }
+
+  applyFilters();
+  // Kick off FlexSearch initialisation in the background immediately after
+  // catalog.json has loaded so the index is likely ready before the user types.
+  initFlexSearch();
 
   applyFilters();
 })();

@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a27bf8a5-86c8-5e96-ac1e-f32b1f54a0b1",
+  "name": "Die unendliche Geschichte",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ende"
+  },
+  "isbn": "9783522202602",
+  "genre": "Phantastische Reisen",
+  "keywords": [
+    "Phantastische Reisen",
+    "Gut und Böse",
+    "Abenteuer",
+    "Jugendroman",
+    "Abenteuergeschichten",
+    "Fantasy",
+    "Spanischsprachige Materialien",
+    "Jugendliteratur",
+    "Fantasy-Roman",
+    "Belletristik",
+    "Kinder- und Jugendbücher: Action & Abenteuer",
+    "Kreaturen",
+    "Wölfe",
+    "Orakel",
+    "Schildkröten",
+    "Mut",
+    "Fantastic fiction",
+    "Vorstellungskraft",
+    "Wünsche",
+    "Deutsche Kindergeschichten",
+    "Kinderliteratur",
+    "Magie (Fiktion)",
+    "Deutsche Literatur",
+    "Bücher und Lesen",
+    "Helden"
+  ],
+  "description": "",
+  "image": "https://covers.openlibrary.org/b/id/10716677-L.jpg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783522202602",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783522202602"
+  ],
+  "_catalog": {
+    "id": "a27bf8a5-86c8-5e96-ac1e-f32b1f54a0b1",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "die unendliche geschichte michael ende 9783522202602 buch phantastische reisen phantastische reisen gut und bose abenteuer jugendroman abenteuergeschichten fantasy spanischsprachige materialien jugendliteratur fantasy-roman belletristik kinder- und jugendbucher: action & abenteuer kreaturen wolfe orakel schildkroten mut fantastic fiction vorstellungskraft wunsche deutsche kindergeschichten kinderliteratur magie (fiktion) deutsche literatur bucher und lesen helden"
+  }
+}

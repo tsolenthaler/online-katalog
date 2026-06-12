@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:5e3c80e3-6c41-54b3-8db9-d7c47eac3b92",
+  "name": "Das doppelte Lottchen",
+  "author": {
+    "@type": "Person",
+    "name": "Erich Kästner"
+  },
+  "isbn": "9789941119231",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9789941119231",
+    "https://portal.dnb.de/opac/simpleSearch?query=9789941119231"
+  ],
+  "_catalog": {
+    "id": "5e3c80e3-6c41-54b3-8db9-d7c47eac3b92",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "das doppelte lottchen erich kastner 9789941119231 buch"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:84e7ccb3-4213-55c8-936b-538c71fbf2ad",
+  "name": "Der Medicus von Saragossa",
+  "author": {
+    "@type": "Person",
+    "name": "Noah Gordon"
+  },
+  "isbn": "9783837130270",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783837130270",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783837130270"
+  ],
+  "_catalog": {
+    "id": "84e7ccb3-4213-55c8-936b-538c71fbf2ad",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "der medicus von saragossa noah gordon 9783837130270 buch"
+  }
+}

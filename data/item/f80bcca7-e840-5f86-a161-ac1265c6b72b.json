@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:f80bcca7-e840-5f86-a161-ac1265c6b72b",
+  "name": "Ronja Räubertochter",
+  "author": {
+    "@type": "Person",
+    "name": "Astrid Lindgren"
+  },
+  "isbn": "9783960521198",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9783960521198",
+    "https://portal.dnb.de/opac/simpleSearch?query=9783960521198"
+  ],
+  "_catalog": {
+    "id": "f80bcca7-e840-5f86-a161-ac1265c6b72b",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "2026-05-20",
+    "is_new": true,
+    "status": "OK",
+    "metadata_source": "dnb",
+    "isbn_source": "manual_override",
+    "search_text": "ronja raubertochter astrid lindgren 9783960521198 buch"
+  }
+}

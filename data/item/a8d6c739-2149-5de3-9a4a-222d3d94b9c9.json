@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:a8d6c739-2149-5de3-9a4a-222d3d94b9c9",
+  "name": "Bad Sonder",
+  "author": {
+    "@type": "Person",
+    "name": "Catherine de Clercq"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "a8d6c739-2149-5de3-9a4a-222d3d94b9c9",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "bad sonder catherine de clercq buch"
+  }
+}

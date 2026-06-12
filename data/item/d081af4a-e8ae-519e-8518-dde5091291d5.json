@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:d081af4a-e8ae-519e-8518-dde5091291d5",
+  "name": "Frohe Weihnachten, liebes Christkind!",
+  "author": {
+    "@type": "Person",
+    "name": "Sigrid Heuck"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "d081af4a-e8ae-519e-8518-dde5091291d5",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "frohe weihnachten, liebes christkind! sigrid heuck buch"
+  }
+}

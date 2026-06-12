@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:3a31e7ec-7aaf-5a1b-abd0-99d0bc2df095",
+  "name": "Lola macht Schlagzeilen",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Abedi"
+  },
+  "isbn": "9787558302466",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "sameAs": [
+    "https://openlibrary.org/isbn/9787558302466",
+    "https://portal.dnb.de/opac/simpleSearch?query=9787558302466"
+  ],
+  "_catalog": {
+    "id": "3a31e7ec-7aaf-5a1b-abd0-99d0bc2df095",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "OK",
+    "metadata_source": "openlibrary",
+    "isbn_source": "dnb",
+    "search_text": "lola macht schlagzeilen isabel abedi 9787558302466 buch"
+  }
+}

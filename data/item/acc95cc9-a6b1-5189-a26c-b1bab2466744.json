@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:acc95cc9-a6b1-5189-a26c-b1bab2466744",
+  "name": "Engel, Hase, Bommelmütze",
+  "author": {
+    "@type": "Person",
+    "name": "Brigitte Weninger"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "acc95cc9-a6b1-5189-a26c-b1bab2466744",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "engel, hase, bommelmutze brigitte weninger buch"
+  }
+}

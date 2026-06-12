@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:uuid:4d6a78f5-fa42-582b-a4dc-5838626bf0fc",
+  "name": "Die schönsten Frühlings und Ostergeschichten",
+  "author": {
+    "@type": "Person",
+    "name": "Corinna Gieseler"
+  },
+  "isbn": "",
+  "genre": "",
+  "keywords": [],
+  "description": "",
+  "image": "assets/placeholder-cover.svg",
+  "_catalog": {
+    "id": "4d6a78f5-fa42-582b-a4dc-5838626bf0fc",
+    "type": "Buch",
+    "owner": "",
+    "date_added": "",
+    "is_new": false,
+    "status": "Keine ISBN ermittelt",
+    "metadata_source": "",
+    "isbn_source": "",
+    "search_text": "die schonsten fruhlings und ostergeschichten corinna gieseler buch"
+  }
+}
