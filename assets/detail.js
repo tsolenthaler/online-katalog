@@ -29,9 +29,11 @@
 
     const title = item.title || 'Unbekanntes Medium';
     const author = item.author || 'Unbekannt';
+    const isbn = (item.isbn || '').trim();
     const cover = item.cover_url || 'assets/placeholder-cover.svg';
     const description = item.description || 'Keine Beschreibung vorhanden.';
     const summary = `${title} von ${author} - ${description.slice(0, 120)}`;
+    const googleBooksLink = item.google_books_link || (isbn ? `https://books.google.ch/books?vid=ISBN${encodeURIComponent(isbn)}&hl=de` : '');
 
     document.title = `${title} - Bibliothek Stein AR`;
 
@@ -57,7 +59,7 @@
           <p>${helpers.escapeHtml(description)}</p>
 
           <ul class="meta-list">
-            <li><strong>ISBN:</strong> ${helpers.escapeHtml(item.isbn || '-')}</li>
+            <li><strong>ISBN:</strong> ${helpers.escapeHtml(isbn || '-')}</li>
             <li><strong>Typ:</strong> ${helpers.escapeHtml(item.type || 'Buch')}</li>
             <li><strong>Genre:</strong> ${helpers.escapeHtml(item.genre || '-')}</li>
             <li><strong>Besitzer:</strong> ${helpers.escapeHtml(item.owner || '-')}</li>
@@ -66,7 +68,7 @@
 
           <div class="link-row">
             ${item.openlibrary_link ? `<a class="button-secondary" href="${helpers.escapeHtml(item.openlibrary_link)}" target="_blank" rel="noopener">Open Library</a>` : ''}
-            ${item.google_books_link ? `<a class="button-secondary" href="${helpers.escapeHtml(item.google_books_link)}" target="_blank" rel="noopener">Google Books</a>` : ''}
+            ${googleBooksLink ? `<a class="button-secondary" href="${helpers.escapeHtml(googleBooksLink)}" target="_blank" rel="noopener">Google Books</a>` : ''}
             ${item.dnb_link ? `<a class="button-secondary" href="${helpers.escapeHtml(item.dnb_link)}" target="_blank" rel="noopener">DNB</a>` : ''}
           </div>
 
