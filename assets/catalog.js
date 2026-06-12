@@ -7,6 +7,7 @@
   const typeInput = helpers.qs('#type');
   const genreInput = helpers.qs('#genre');
   const ownerInput = helpers.qs('#owner');
+  const statusInput = helpers.qs('#status');
   const isNewInput = helpers.qs('#isNew');
   const results = helpers.qs('#results');
   const resultCount = helpers.qs('#resultCount');
@@ -17,11 +18,13 @@
     type: helpers.params.get('type') || '',
     genre: helpers.params.get('genre') || '',
     owner: helpers.params.get('owner') || '',
+    status: helpers.params.get('status') || '',
     isNew: helpers.params.get('isNew') === '1' || page === 'new',
   };
 
   if (qInput) qInput.value = state.q;
   if (typeInput) typeInput.value = state.type;
+  if (statusInput) statusInput.value = state.status;
   if (isNewInput) isNewInput.checked = state.isNew;
 
   let items = [];
@@ -89,6 +92,7 @@
     state.type = typeInput?.value || '';
     state.genre = genreInput?.value || '';
     state.owner = ownerInput?.value || '';
+    state.status = statusInput?.value || '';
     state.isNew = (isNewInput?.checked || false) || page === 'new';
 
     const q = state.q.toLowerCase();
@@ -97,6 +101,7 @@
       if (state.type && (item.type || '') !== state.type) return false;
       if (state.genre && (item.genre || '') !== state.genre) return false;
       if (state.owner && (item.owner || '') !== state.owner) return false;
+      if (state.status && (item.status || 'OK') !== state.status) return false;
       if (q && !(item.search_text || '').toLowerCase().includes(q)) return false;
       return true;
     });
@@ -106,6 +111,7 @@
       type: state.type,
       genre: state.genre,
       owner: state.owner,
+      status: state.status,
       isNew: state.isNew && page !== 'new' ? '1' : '',
     });
 
@@ -118,7 +124,7 @@
     results.innerHTML = filtered.map(card).join('');
   }
 
-  [qInput, typeInput, genreInput, ownerInput, isNewInput]
+  [qInput, typeInput, genreInput, ownerInput, statusInput, isNewInput]
     .filter(Boolean)
     .forEach((el) => {
       const eventName = el.tagName === 'INPUT' && el.type === 'search' ? 'input' : 'change';
