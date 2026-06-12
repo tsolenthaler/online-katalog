@@ -20,8 +20,8 @@ Die Datengenerierung läuft lokal auf dem Bibliotheksrechner.
 ## Seiten
 
 - `index.html`: Startseite mit Hauptsuche
-- `catalog.html`: kompletter Katalog mit Filtern
-- `search.html`: Suchergebnisseite
+- `catalog.html`: kompletter Katalog mit Filtern und Suchergebnissen
+- `search.html`: Legacy-Weiterleitung auf `catalog.html` (für bestehende Links)
 - `new.html`: Neuheiten-Ansicht
 - `detail.html`: Detailseite eines Mediums (`?id=...`)
 - `contributions.html`: Meldeseite inkl. CSV-Export

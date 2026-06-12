@@ -36,8 +36,8 @@ Katalog erstellt: data/catalog.json
 | Seite | Test | Status |
 |-------|------|--------|
 | **Homepage** | Hero-Suche, Feature-Cards, Navigation | ✅ Funktioniert |
-| **Katalog** | 5566 Bücher angezeigt, Live-Filter (Suche, Typ, Genre) | ✅ Funktioniert |
-| **Suche** | "Harry Potter" → 14 Treffer gefunden | ✅ Funktioniert |
+| **Katalog** | 5566 Bücher angezeigt, Live-Filter (Suche, Typ, Genre, Status) | ✅ Funktioniert |
+| **Suche** | In Katalog integriert; alte `search.html`-Links leiten weiter | ✅ Funktioniert |
 | **Detail** | Buch-Metadaten, Cover, WhatsApp-Share, Zurück-Link | ✅ Funktioniert |
 | **Neuheiten** | Zeigt 1 neues Medium (aus manual_overrides) | ✅ Funktioniert |
 | **Contributions** | Form, Tabelle, localStorage, CSV-Download | ✅ Funktioniert |
@@ -56,8 +56,8 @@ Katalog erstellt: data/catalog.json
 
 **Dateien:**
 - `index.html` - Startseite mit Hero-Suche
-- `catalog.html` - Katalog mit Sidebar-Filtern
-- `search.html` - Search Results Layout
+- `catalog.html` - Katalog mit Sidebar-Filtern und Suchansicht
+- `search.html` - Legacy-Weiterleitung auf `catalog.html`
 - `new.html` - Neuheiten-Gefilterte View
 - `detail.html` - Einzelnes Buch mit Metadaten
 - `contributions.html` - Community-Beitrag-Formular
@@ -155,8 +155,8 @@ Dauert ~5-10 Minuten, fetcht Metadaten für alle 199 ISBNs.
 ```
 d:/project/privat/bibliothek-stein-ar/online-katalog/
 ├── index.html                      # Startseite
-├── catalog.html                    # Katalog-View
-├── search.html                     # Suche-Results
+├── catalog.html                    # Katalog + Suche
+├── search.html                     # Redirect auf catalog.html
 ├── new.html                        # Neuheiten
 ├── detail.html                     # Buch-Detail
 ├── contributions.html              # Beitrag-Formular

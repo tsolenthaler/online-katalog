@@ -44,11 +44,12 @@ Die Seite soll folgende HTML-Seiten enthalten:
 	- Besitzer (optional, wenn vorhanden)
 - Checkbox: "Neu hinzugefügt" (basierend auf einem `date_added`-Feld).
 - Suchfunktion direkt auf dieser Seite (client-seitig über JS oder durch Neuladen mit Parametern).
+- Status-Filter mit den Optionen "Keine ISBN ermittelt" und "OK".
 
 ### Suchergebnisseite (`search.html`)
 
-- Wird von der Startseite bei Klick erreicht.
-- Zeigt Ergebnisse für die Query sowie aktive Filter.
+- Wird als Legacy-URL beibehalten und auf `catalog.html` weitergeleitet.
+- Alle Suchergebnisse und aktiven Filter werden auf `catalog.html` angezeigt.
 
 ### Neuheiten-Seite (`new.html`)
 
