@@ -3027,5 +3027,16 @@
     "google_books_link": "",
     "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783960521198",
     "metadata_source": "dnb"
+  },
+  "9783836960823": {
+    "title": "",
+    "author": "",
+    "description": "",
+    "genres": [],
+    "cover_url": "",
+    "openlibrary_link": "https://openlibrary.org/isbn/9783836960823",
+    "google_books_link": "",
+    "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783836960823",
+    "metadata_source": "dnb"
   }
 }

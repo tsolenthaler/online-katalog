@@ -1,12 +1,15 @@
 {
-  "title": "The Diary of a Young Girl Book and MP3 Pack",
-  "id": "item-the-diary-of-a-young-girl-book-a-23b425875b77",
-  "type": "Buch",
-  "description": "",
-  "status": "OK",
-  "author": "Anne Frank",
-  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9781408294277",
+  "isbn_source": "dnb",
   "is_new": false,
+  "metadata_source": "openlibrary",
+  "google_books_link": "",
+  "owner": "",
+  "author": "Anne Frank",
+  "description": "",
+  "genre": "autobiographies",
+  "isbn": "9781408294277",
+  "cover_url": "https://covers.openlibrary.org/b/id/7732930-L.jpg",
+  "title": "The Diary of a Young Girl Book and MP3 Pack",
   "genres": [
     "autobiographies",
     "ethnic relations",
@@ -86,14 +89,11 @@
     "Girls",
     "Anne Frank House"
   ],
-  "isbn": "9781408294277",
-  "cover_url": "https://covers.openlibrary.org/b/id/7732930-L.jpg",
-  "metadata_source": "openlibrary",
-  "genre": "autobiographies",
-  "owner": "",
-  "google_books_link": "",
-  "date_added": "",
-  "isbn_source": "dnb",
+  "status": "OK",
+  "search_text": "the diary of a young girl book and mp3 pack anne frank 9781408294277 buch autobiographies autobiographies ethnic relations dutch literature jews-netherlands german occupation library staff picks race relations jews diaries jewish personal narratives holocaust jewish girls open_syllabus_project world war, 1939-1945 persecutions holocaust, jewish (1939-1945) juvenile literature personal narratives biography history dagbocker personliga berattelser forintelsen holocaust, 1939-1945 judenvernichtung jewish holocaust (1933-1945) genocide historia guerra mundial ii, 1939-1945 judios jewis personal narratives holocaust, jewish (1939-1945) fast (ocolc)fst00958866 holocaust, jewish (1939-1945), personal narratives jews, europe jews, persecutions frank, anne, 1929-1945 world war, 1939-1945, personal narratives frank, anne, 1929-1945, juvenile literature world war, 1939-1945, jews world war, 1939-1945, juvenile literature netherlands, history netherlands, juvenile literature jews, netherlands large type books bucher und lesen reading (elementary) language arts (elementary) children world war, 1939-1945, personal narratives, jewish world war, 1939-1945, netherlands ri ji ti xiao shuo suo xie ben juvenile nonfiction biography & autobiography science & technology people & places german language books korean language materials bilingual world war 1939-45 reading level-grade 11 reading level-grade 12 spanischsprachige materialien women, biography, juvenile literature women, biography judenverfolgung biografia holocauste, 1939-1945 recits personnels juifs persecutions journaux intimes guerre mondiale, 1939-1945 histoire holocaust, jewish (1939-1945) fast (ocolc)fst00958866 (uri) http://id.worldcat.org/fast/fst00958866 girls anne frank house",
   "openlibrary_link": "https://openlibrary.org/isbn/9781408294277",
-  "search_text": "the diary of a young girl book and mp3 pack anne frank 9781408294277 buch autobiographies autobiographies ethnic relations dutch literature jews-netherlands german occupation library staff picks race relations jews diaries jewish personal narratives holocaust jewish girls open_syllabus_project world war, 1939-1945 persecutions holocaust, jewish (1939-1945) juvenile literature personal narratives biography history dagbocker personliga berattelser forintelsen holocaust, 1939-1945 judenvernichtung jewish holocaust (1933-1945) genocide historia guerra mundial ii, 1939-1945 judios jewis personal narratives holocaust, jewish (1939-1945) fast (ocolc)fst00958866 holocaust, jewish (1939-1945), personal narratives jews, europe jews, persecutions frank, anne, 1929-1945 world war, 1939-1945, personal narratives frank, anne, 1929-1945, juvenile literature world war, 1939-1945, jews world war, 1939-1945, juvenile literature netherlands, history netherlands, juvenile literature jews, netherlands large type books bucher und lesen reading (elementary) language arts (elementary) children world war, 1939-1945, personal narratives, jewish world war, 1939-1945, netherlands ri ji ti xiao shuo suo xie ben juvenile nonfiction biography & autobiography science & technology people & places german language books korean language materials bilingual world war 1939-45 reading level-grade 11 reading level-grade 12 spanischsprachige materialien women, biography, juvenile literature women, biography judenverfolgung biografia holocauste, 1939-1945 recits personnels juifs persecutions journaux intimes guerre mondiale, 1939-1945 histoire holocaust, jewish (1939-1945) fast (ocolc)fst00958866 (uri) http://id.worldcat.org/fast/fst00958866 girls anne frank house"
+  "date_added": "",
+  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9781408294277",
+  "id": "item-the-diary-of-a-young-girl-book-a-23b425875b77",
+  "type": "Buch"
 }
