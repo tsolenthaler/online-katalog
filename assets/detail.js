@@ -59,6 +59,22 @@
     return REPORT_FIELDS.find((field) => field.value === fieldName)?.label || fieldName;
   }
 
+  function applyChangeToItem(item, change) {
+    const fieldName = change.field_name;
+    if (!fieldName) return;
+
+    if (fieldName === 'genre') {
+      item.genre = change.proposed_value;
+      item.genres = change.proposed_value
+        .split(',')
+        .map((value) => value.trim())
+        .filter(Boolean);
+      return;
+    }
+
+    item[fieldName] = change.proposed_value;
+  }
+
   function setReportOpen(isOpen) {
     if (!reportPanel || !reportToggle) return;
     reportPanel.hidden = !isOpen;
@@ -85,7 +101,7 @@
       })
       .filter((entry) => entry.field_name && entry.proposed_value);
 
-    return {
+    const reportPayload = {
       report_id: `report-${item.id}-${Date.now()}`,
       created_at: new Date().toISOString(),
       item_id: item.id,
@@ -97,6 +113,16 @@
       reporter_email: (formData.get('reporter_email') || '').toString().trim(),
       note: (formData.get('note') || '').toString().trim(),
       changes,
+    };
+
+    const replacementItem = JSON.parse(JSON.stringify(item));
+    for (const change of changes) {
+      applyChangeToItem(replacementItem, change);
+    }
+
+    return {
+      ...reportPayload,
+      replacement_item: replacementItem,
     };
   }
 
@@ -135,14 +161,7 @@
   }
 
   function fileBaseName(item) {
-    const slug = `${item.title || 'medium'}-${item.id || 'meldung'}`
-      .toLowerCase()
-      .normalize('NFKD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-+|-+$/g, '')
-      .slice(0, 80);
-    return `${formatTimestamp(new Date())}-${slug || 'meldung'}`;
+    return item.id || `item-${formatTimestamp(new Date())}`;
   }
 
   function addReportRow(rowsHost, item, selectedField = 'description') {
@@ -203,6 +222,10 @@
       <form id="detailReportForm" class="detail-report-form">
         <div class="report-grid compact">
           <label>
+            ID
+            <input value="${helpers.escapeHtml(item.id || '')}" readonly />
+          </label>
+          <label>
             Medium
             <input value="${helpers.escapeHtml(item.title || '')}" readonly />
           </label>
@@ -245,7 +268,7 @@
         </div>
 
         <p class="report-help">
-          Die erzeugte Datei kann per Mail weitergeleitet und anschließend im Repository unter <strong>data/reports</strong> abgelegt werden.
+          Die JSON-Datei entspricht direkt dem Datensatz unter <strong>data/item/${helpers.escapeHtml(item.id || 'ITEM_ID')}.json</strong> und kann dort ersetzt werden.
         </p>
       </form>
     `;
@@ -276,10 +299,10 @@
       const payload = currentPayload();
       if (!payload) return;
       createDownload(
-        new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json;charset=utf-8' }),
+        new Blob([JSON.stringify(payload.replacement_item, null, 2)], { type: 'application/json;charset=utf-8' }),
         `${fileBaseName(item)}.json`,
       );
-      message.textContent = 'JSON-Datei wurde heruntergeladen.';
+      message.textContent = 'Datensatz-JSON wurde heruntergeladen und kann in data/item ersetzt werden.';
     });
 
     downloadCsv?.addEventListener('click', () => {

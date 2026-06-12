@@ -1,0 +1,21 @@
+{
+  "title": "Das Lied des Waldes",
+  "id": "item-das-lied-des-waldes-53e9d616dc28",
+  "type": "Buch",
+  "description": "",
+  "status": "OK",
+  "author": "Klara Jahn",
+  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783837159301",
+  "is_new": false,
+  "genres": [],
+  "isbn": "9783837159301",
+  "cover_url": "assets/placeholder-cover.svg",
+  "metadata_source": "openlibrary",
+  "genre": "",
+  "owner": "",
+  "google_books_link": "",
+  "date_added": "",
+  "isbn_source": "dnb",
+  "openlibrary_link": "https://openlibrary.org/isbn/9783837159301",
+  "search_text": "das lied des waldes klara jahn 9783837159301 buch"
+}

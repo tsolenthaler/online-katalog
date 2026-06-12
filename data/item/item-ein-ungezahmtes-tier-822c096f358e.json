@@ -1,0 +1,21 @@
+{
+  "title": "Ein ungezähmtes Tier",
+  "id": "item-ein-ungezahmtes-tier-822c096f358e",
+  "type": "Buch",
+  "description": "",
+  "status": "OK",
+  "author": "Joël Dicker",
+  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783844941562",
+  "is_new": false,
+  "genres": [],
+  "isbn": "9783844941562",
+  "cover_url": "assets/placeholder-cover.svg",
+  "metadata_source": "openlibrary",
+  "genre": "",
+  "owner": "",
+  "google_books_link": "",
+  "date_added": "",
+  "isbn_source": "dnb",
+  "openlibrary_link": "https://openlibrary.org/isbn/9783844941562",
+  "search_text": "ein ungezahmtes tier joel dicker 9783844941562 buch"
+}

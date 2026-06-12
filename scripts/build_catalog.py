@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import hashlib
 import json
 import re
 import unicodedata
@@ -38,6 +39,28 @@ REPORT_OVERRIDE_FIELDS = {
     "cover_url",
     "genre",
     "status",
+}
+
+ITEM_FIELDS = {
+    "id",
+    "title",
+    "author",
+    "isbn",
+    "type",
+    "owner",
+    "date_added",
+    "is_new",
+    "cover_url",
+    "description",
+    "genres",
+    "genre",
+    "metadata_source",
+    "isbn_source",
+    "status",
+    "openlibrary_link",
+    "google_books_link",
+    "dnb_link",
+    "search_text",
 }
 
 
@@ -606,6 +629,102 @@ def entry_search_text(entry: dict[str, Any]) -> str:
     return normalize_text(" ".join(values))
 
 
+def make_item_id(title: str, author: str, media_type: str) -> str:
+    stable_key = f"{normalize_text(title)}|{normalize_text(author)}|{normalize_text(media_type)}"
+    digest = hashlib.sha1(stable_key.encode("utf-8")).hexdigest()[:12]
+
+    slug_base = normalize_text(title) or "eintrag"
+    slug = re.sub(r"[^a-z0-9]+", "-", slug_base).strip("-")[:32] or "eintrag"
+    return f"item-{slug}-{digest}"
+
+
+def sanitize_item_record(item: dict[str, Any], cutoff: dt.date) -> dict[str, Any]:
+    normalized: dict[str, Any] = {}
+    for field in ITEM_FIELDS:
+        if field in item:
+            normalized[field] = item[field]
+
+    normalized["id"] = clean_text(str(normalized.get("id", "") or ""))
+    normalized["title"] = clean_text(str(normalized.get("title", "") or ""))
+    normalized["author"] = clean_text(str(normalized.get("author", "") or ""))
+    normalized["isbn"] = normalize_isbn(str(normalized.get("isbn", "") or ""))
+    normalized["type"] = clean_text(str(normalized.get("type", "") or "")) or "Buch"
+    normalized["owner"] = clean_text(str(normalized.get("owner", "") or ""))
+    normalized["date_added"] = clean_text(str(normalized.get("date_added", "") or ""))
+    normalized["cover_url"] = clean_text(str(normalized.get("cover_url", "") or "")) or DEFAULT_PLACEHOLDER_COVER
+    normalized["description"] = clean_text(str(normalized.get("description", "") or ""))
+    normalized["genre"] = clean_text(str(normalized.get("genre", "") or ""))
+    normalized["metadata_source"] = clean_text(str(normalized.get("metadata_source", "") or ""))
+    normalized["isbn_source"] = clean_text(str(normalized.get("isbn_source", "") or ""))
+    normalized["status"] = clean_text(str(normalized.get("status", "") or ""))
+    normalized["openlibrary_link"] = clean_text(str(normalized.get("openlibrary_link", "") or ""))
+    normalized["google_books_link"] = clean_text(str(normalized.get("google_books_link", "") or ""))
+    normalized["dnb_link"] = clean_text(str(normalized.get("dnb_link", "") or ""))
+
+    raw_genres = normalized.get("genres")
+    if isinstance(raw_genres, list):
+        genres = [clean_text(str(g)) for g in raw_genres if clean_text(str(g))]
+    elif isinstance(raw_genres, str):
+        genres = [clean_text(part) for part in raw_genres.split(",") if clean_text(part)]
+    else:
+        genres = []
+    normalized["genres"] = genres
+
+    if not normalized["genre"] and genres:
+        normalized["genre"] = genres[0]
+
+    parsed_date = parse_iso_date(normalized["date_added"])
+    normalized["is_new"] = bool(parsed_date and parsed_date >= cutoff)
+
+    if not normalized["status"]:
+        normalized["status"] = "OK" if normalized["isbn"] else "Keine ISBN ermittelt"
+
+    if normalized["isbn"] and not normalized["openlibrary_link"]:
+        normalized["openlibrary_link"] = f"https://openlibrary.org/isbn/{normalized['isbn']}"
+    if normalized["isbn"] and not normalized["dnb_link"]:
+        normalized["dnb_link"] = f"https://portal.dnb.de/opac/simpleSearch?query={normalized['isbn']}"
+
+    normalized["search_text"] = entry_search_text(normalized)
+    return normalized
+
+
+def load_item_file(path: Path) -> dict[str, Any]:
+    with path.open("r", encoding="utf-8") as handle:
+        payload = json.load(handle)
+    if not isinstance(payload, dict):
+        raise ValueError(f"Item file is not an object: {path}")
+    return payload
+
+
+def prune_item_dir(item_dir: Path, keep_ids: set[str]) -> None:
+    for path in item_dir.glob("*.json"):
+        if path.stem not in keep_ids:
+            path.unlink()
+
+
+def load_items_from_dir(item_dir: Path, cutoff: dt.date) -> list[dict[str, Any]]:
+    items: list[dict[str, Any]] = []
+    if not item_dir.exists():
+        return items
+
+    for path in sorted(item_dir.glob("*.json")):
+        try:
+            raw_item = load_item_file(path)
+        except (OSError, ValueError, json.JSONDecodeError):
+            continue
+
+        if not raw_item.get("id"):
+            raw_item["id"] = path.stem
+
+        item = sanitize_item_record(raw_item, cutoff)
+        if not item["id"]:
+            continue
+        items.append(item)
+
+    items.sort(key=lambda x: (normalize_text(x.get("title", "")), normalize_text(x.get("author", ""))))
+    return items
+
+
 def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
     pdf_entries = load_source_rows(args)
     if args.max_rows:
@@ -617,9 +736,8 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
         if fallback.exists():
             manual_path = fallback
     overrides = load_manual_overrides(manual_path)
-    report_overrides = load_report_overrides(Path(args.reports_dir))
-    for key, values in report_overrides.items():
-        overrides.setdefault(key, {}).update(values)
+    item_dir = Path(args.item_dir)
+    item_dir.mkdir(parents=True, exist_ok=True)
 
     metadata_cache = load_json(Path(args.cache), default={})
     isbn_cache = load_isbn_cache(Path(args.isbn_cache))
@@ -630,7 +748,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
     now = dt.datetime.now(dt.UTC)
     cutoff = now.date() - dt.timedelta(days=args.days_new)
 
-    items: list[dict[str, Any]] = []
+    managed_item_ids: set[str] = set()
     stats = {
         "rows_with_isbn": 0,
         "rows_without_isbn": 0,
@@ -754,8 +872,10 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
         if isbn and (description or genres or metadata.get("cover_url")):
             stats["rows_with_metadata"] += 1
 
-        item_id = isbn or source.row_id
-        item = {
+        item_id = make_item_id(source.title, source.author, source.media_type)
+        managed_item_ids.add(item_id)
+
+        base_item = {
             "id": item_id,
             "title": title,
             "author": author,
@@ -775,16 +895,31 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
             "google_books_link": metadata.get("google_books_link", ""),
             "dnb_link": metadata.get("dnb_link", f"https://portal.dnb.de/opac/simpleSearch?query={isbn}" if isbn else ""),
         }
-        item["search_text"] = entry_search_text(item)
-        items.append(item)
+        item_path = item_dir / f"{item_id}.json"
 
-    items.sort(key=lambda x: (normalize_text(x.get("title", "")), normalize_text(x.get("author", ""))))
+        if item_path.exists():
+            try:
+                existing_item = load_item_file(item_path)
+            except (OSError, ValueError, json.JSONDecodeError):
+                existing_item = {}
+            merged_item = {**base_item, **existing_item}
+            merged_item["id"] = item_id
+        else:
+            merged_item = base_item
+
+        final_item = sanitize_item_record(merged_item, cutoff)
+        save_json(item_path, final_item)
+
+    if not args.keep_orphans:
+        prune_item_dir(item_dir, managed_item_ids)
+
+    items = load_items_from_dir(item_dir, cutoff)
 
     output = {
         "generated_at": now.isoformat(),
         "source_pdf": args.pdf,
         "manual_overrides": str(manual_path),
-        "reports_folder": args.reports_dir,
+        "item_folder": str(item_dir),
         "total_rows": len(items),
         **stats,
         "items": items,
@@ -802,9 +937,10 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--csv", default="", help="Input titles CSV (title,author,...); overrides --pdf when given")
     parser.add_argument("--manual", default="data/manual_overrides.csv", help="Manual overrides CSV")
     parser.add_argument("--out", default="data/catalog.json", help="Output catalog JSON")
+    parser.add_argument("--item-dir", default="data/item", help="Folder with one JSON file per item")
     parser.add_argument("--cache", default="data/catalog_metadata_cache.json", help="Metadata cache JSON")
     parser.add_argument("--isbn-cache", default="data/isbn_cache.csv", help="ISBN lookup cache CSV")
-    parser.add_argument("--reports-dir", default="data/reports", help="Folder with JSON/CSV issue reports")
+    parser.add_argument("--keep-orphans", action="store_true", help="Keep item JSON files not present in source rows")
     parser.add_argument("--days-new", type=int, default=90, help="Days considered new")
     parser.add_argument("--max-rows", type=int, default=0, help="Only process first N rows")
     parser.add_argument("--offline", action="store_true", help="Disable external API requests")

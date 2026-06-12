@@ -1,7 +1,8 @@
-Lege hier exportierte Meldedateien aus der Detail-Seite ab.
+Dieser Ordner ist nur noch fuer Legacy-Meldungen.
 
-Unterstuetzt werden:
-- JSON-Dateien aus dem Detail-Meldeformular
-- CSV-Dateien aus dem Detail-Meldeformular
+Neuer Ablauf:
+- Das Detail-Meldeformular erzeugt eine Datensatz-Datei mit der stabilen ID als Dateiname.
+- Diese Datei wird direkt in `data/item/<id>.json` ersetzt.
+- `python scripts/build_catalog.py` erstellt danach `data/catalog.json` aus allen Dateien in `data/item/`.
 
-Beim naechsten Lauf von `python scripts/build_catalog.py` werden die gemeldeten Werte als Overrides in `data/catalog.json` uebernommen.
+Hinweis: Dateien in `data/reports/` werden vom Build-Skript nicht mehr ausgewertet.

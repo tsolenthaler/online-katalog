@@ -1,0 +1,21 @@
+{
+  "title": "Green Book",
+  "id": "item-green-book-63c668ee9d17",
+  "type": "Buch",
+  "description": "",
+  "status": "Keine ISBN ermittelt",
+  "author": "Viggo Mortensen",
+  "dnb_link": "",
+  "is_new": false,
+  "genres": [],
+  "isbn": "",
+  "cover_url": "assets/placeholder-cover.svg",
+  "metadata_source": "",
+  "genre": "",
+  "owner": "",
+  "google_books_link": "",
+  "date_added": "",
+  "isbn_source": "",
+  "openlibrary_link": "",
+  "search_text": "green book viggo mortensen buch"
+}

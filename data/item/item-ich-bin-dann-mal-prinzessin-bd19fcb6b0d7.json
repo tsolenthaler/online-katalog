@@ -1,0 +1,21 @@
+{
+  "title": "Ich bin dann mal Prinzessin",
+  "id": "item-ich-bin-dann-mal-prinzessin-bd19fcb6b0d7",
+  "type": "Buch",
+  "description": "",
+  "status": "OK",
+  "author": "Meg Cabot",
+  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783423434003",
+  "is_new": false,
+  "genres": [],
+  "isbn": "9783423434003",
+  "cover_url": "assets/placeholder-cover.svg",
+  "metadata_source": "openlibrary",
+  "genre": "",
+  "owner": "",
+  "google_books_link": "",
+  "date_added": "",
+  "isbn_source": "dnb",
+  "openlibrary_link": "https://openlibrary.org/isbn/9783423434003",
+  "search_text": "ich bin dann mal prinzessin meg cabot 9783423434003 buch"
+}

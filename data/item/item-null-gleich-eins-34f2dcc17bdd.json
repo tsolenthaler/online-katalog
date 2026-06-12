@@ -1,0 +1,21 @@
+{
+  "title": "Null gleich eins",
+  "id": "item-null-gleich-eins-34f2dcc17bdd",
+  "type": "Buch",
+  "description": "",
+  "status": "OK",
+  "author": "Arne Dahl",
+  "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9783844923247",
+  "is_new": false,
+  "genres": [],
+  "isbn": "9783844923247",
+  "cover_url": "assets/placeholder-cover.svg",
+  "metadata_source": "openlibrary",
+  "genre": "",
+  "owner": "",
+  "google_books_link": "",
+  "date_added": "",
+  "isbn_source": "dnb",
+  "openlibrary_link": "https://openlibrary.org/isbn/9783844923247",
+  "search_text": "null gleich eins arne dahl 9783844923247 buch"
+}

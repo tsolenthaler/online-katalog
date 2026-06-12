@@ -10,7 +10,8 @@ Die Datengenerierung läuft lokal auf dem Bibliotheksrechner.
 	- Manuelle Korrekturen laden: `data/manual_overrides.csv`
 	- ISBN pro Eintrag ermitteln (Override -> Cache -> DNB/Google)
 	- Metadaten nur über ISBN abrufen (Open Library, Google Books, DNB)
-	- Ergebnis schreiben nach `data/catalog.json`
+	- Pro Datensatz eine Datei schreiben nach `data/item/<id>.json`
+	- `data/catalog.json` aus allen Dateien in `data/item/` erstellen
 
 2. Laufzeit (GitHub Pages):
 	- Nur statische Dateien (`.html`, `.css`, `.js`, `.json`)
@@ -37,7 +38,7 @@ python -m pip install -r requirements.txt
 2. Katalogdaten erzeugen:
 
 ```bash
-python scripts/build_catalog.py --pdf data/Titelliste.pdf --manual data/manual_overrides.csv --out data/catalog.json
+python scripts/build_catalog.py --pdf data/Titelliste.pdf --manual data/manual_overrides.csv --item-dir data/item --out data/catalog.json
 ```
 
 Optional offline (nur Cache + lokale Heuristik):
@@ -57,7 +58,8 @@ Dann im Browser öffnen: `http://localhost:8000`
 ## Wichtige Dateien
 
 - `scripts/build_catalog.py`: Build-Skript für PDF/ISBN/Metadaten
-- `data/catalog.json`: statische Katalogdaten für die Website
+- `data/item/`: eine JSON-Datei pro Datensatz (Quelle der Wahrheit)
+- `data/catalog.json`: aus `data/item/` aggregierte Katalogdaten für die Website
 - `data/catalog_metadata_cache.json`: Metadaten-Cache
 - `data/isbn_cache.csv`: ISBN-Cache
 - `assets/catalog.js`: Suche, Filter, Rendering
@@ -68,3 +70,5 @@ Dann im Browser öffnen: `http://localhost:8000`
 
 Wenn keine ISBN ermittelt werden kann, bleibt der Eintrag erhalten und erhält den Status `Keine ISBN ermittelt`.
 Diese Einträge können über `data/manual_overrides.csv` manuell ergänzt werden.
+
+Korrekturen aus dem Detail-Formular werden als Datensatz-Datei mit der stabilen ID exportiert (z. B. `item-...json`) und können direkt in `data/item/` ersetzt werden.
