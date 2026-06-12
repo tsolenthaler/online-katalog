@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-12T08:53:23.714614+00:00",
+  "generated_at": "2026-06-12T09:08:15.546394+00:00",
   "source_pdf": "data/Titelliste.pdf",
   "manual_overrides": "data\\manual_overrides.csv",
   "reports_folder": "data/reports",
   "total_rows": 5566,
   "rows_with_isbn": 199,
   "rows_without_isbn": 5367,
-  "rows_with_metadata": 12,
+  "rows_with_metadata": 13,
   "items": [
     {
       "id": "row-3382",
@@ -2214,25 +2214,25 @@
       "search_text": "alles echt wahr! oder rabenstarke schwindeleien fur alle nele moost buch"
     },
     {
-      "id": "9786267206065",
+      "id": "9783836960823",
       "title": "Alles Geld der Welt",
       "author": "Vitali Konstantinov",
-      "isbn": "9786267206065",
+      "isbn": "9783836960823",
       "type": "Buch",
       "owner": "",
       "date_added": "",
       "is_new": false,
       "cover_url": "assets/placeholder-cover.svg",
-      "description": "",
+      "description": "\"Euro, Dollar, Yen, Franken, Schilling, Pound - in aller Welt gibt es Geld. Doch was ist »Geld« eigentlich? Münzen, Scheine, Guthaben auf der Bank? Kreditkarten und Kryptowährung? Wer hat all das wann und wo erfunden? Regiert Geld wirklich die Welt, wie das Sprichwort sagt? Und wer bestimmt dafür die Regeln? Wie funktionierte Handel, bevor es Geld gab? Warum ist Geld eigentlich so ungerecht verteilt? Und wäre eine Welt ohne Geld möglich? Höchste Zeit, mit diesen ebenso unterhaltsamen wie informativen Bildtableaus des Künstlers Vitali Konstantinov auf all das eine Antwort zu finden und zu einem echten Experten in Sachen Geld zu werden!\" (www.Buchhandel.de)",
       "genres": [],
       "genre": "",
-      "metadata_source": "openlibrary",
-      "isbn_source": "dnb",
+      "metadata_source": "",
+      "isbn_source": "manual_override",
       "status": "OK",
-      "openlibrary_link": "https://openlibrary.org/isbn/9786267206065",
+      "openlibrary_link": "",
       "google_books_link": "",
-      "dnb_link": "https://portal.dnb.de/opac/simpleSearch?query=9786267206065",
-      "search_text": "alles geld der welt vitali konstantinov 9786267206065 buch"
+      "dnb_link": "",
+      "search_text": "alles geld der welt vitali konstantinov 9783836960823 buch"
     },
     {
       "id": "row-2054",

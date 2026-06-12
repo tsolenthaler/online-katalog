@@ -239,11 +239,16 @@ def load_source_rows(args: argparse.Namespace) -> list[Entry]:
             return parse_csv_rows(csv_path)
         raise FileNotFoundError(f"CSV not found: {csv_path}")
 
-    # If a CSV with the same stem exists next to the PDF, prefer it.
     pdf_path = Path(args.pdf)
-    sibling_csv = pdf_path.with_suffix(".csv")
-    if sibling_csv.exists():
-        return parse_csv_rows(sibling_csv)
+
+    # Prefer known CSV sources before falling back to PDF parsing.
+    candidate_csvs = [
+        pdf_path.with_suffix(".csv"),
+        Path("archiv/books.csv"),
+    ]
+    for candidate_csv in candidate_csvs:
+        if candidate_csv.exists():
+            return parse_csv_rows(candidate_csv)
 
     # Fallback: parse the PDF.
     return parse_pdf_rows(pdf_path)
