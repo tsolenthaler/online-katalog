@@ -1,77 +1,70 @@
-# Übersicht
+# Online-Katalog Bibliothek Stein AR
 
+Dieses Projekt erstellt und veröffentlicht einen statischen Online-Katalog auf GitHub Pages.
+Die Datengenerierung läuft lokal auf dem Bibliotheksrechner.
 
-## Ziele
+## Architektur
 
-* Online-Katalog aller Bücher der Biliothek Stein AR
-* Suche nach Title
-* Suche nach ISBN
-* Suche nach Genre / Rubrik
-* Suche nach Autor
-* Suche in einem Eingabe-Feld
-* Responsive / Als Mobile Web App abrufbar
-* Statistik nach Autor
-* Statistik nach Genre
+1. Build-Prozess (lokal):
+	- PDF auslesen: `data/Titelliste.pdf`
+	- Manuelle Korrekturen laden: `data/manual_overrides.csv`
+	- ISBN pro Eintrag ermitteln (Override -> Cache -> DNB/Google)
+	- Metadaten nur über ISBN abrufen (Open Library, Google Books, DNB)
+	- Ergebnis schreiben nach `data/catalog.json`
 
+2. Laufzeit (GitHub Pages):
+	- Nur statische Dateien (`.html`, `.css`, `.js`, `.json`)
+	- Browser lädt `data/catalog.json` und filtert clientseitig
+	- Keine API-Aufrufe im Browser der Besucher
 
-## Anforderungen
+## Seiten
 
-* Statische Seite -> Githube Page
+- `index.html`: Startseite mit Hauptsuche
+- `catalog.html`: kompletter Katalog mit Filtern
+- `search.html`: Suchergebnisseite
+- `new.html`: Neuheiten-Ansicht
+- `detail.html`: Detailseite eines Mediums (`?id=...`)
+- `contributions.html`: Meldeseite inkl. CSV-Export
 
+## Lokaler Ablauf
 
-## Web-Katalog starten
-
-1. Katalogdaten erzeugen:
+1. Abhängigkeiten installieren:
 
 ```bash
-python3 build_catalog.py --in data/books_with_isbn.csv --out data/catalog.json
+python -m pip install -r requirements.txt
 ```
 
-2. Lokal testen (statischer Server):
+2. Katalogdaten erzeugen:
 
 ```bash
-python3 -m http.server 8000
+python scripts/build_catalog.py --pdf data/Titelliste.pdf --manual data/manual_overrides.csv --out data/catalog.json
 ```
 
-Dann im Browser aufrufen: `http://localhost:8000`
+Optional offline (nur Cache + lokale Heuristik):
 
-## Web-Katalog Dateien
+```bash
+python scripts/build_catalog.py --offline
+```
 
-* `index.html`: UI fuer Suche, Filter und Statistik
-* `book.html`: Detailansicht eines einzelnen Buchs
-* `assets/styles.css`: responsives Design
-* `assets/app.js`: Laden von `data/catalog.json`, Filterlogik, Rendering
-* `assets/book.js`: Routing und Rendering fuer Detailseite
+3. Lokal testen:
 
-## Detailseiten-Routing
+```bash
+python -m http.server 8000
+```
 
-Die Detailseite wird ueber den Query-Parameter `book` aufgerufen:
+Dann im Browser öffnen: `http://localhost:8000`
 
-* Mit ISBN: `book.html?book=9783522202602`
-* Ohne ISBN (Fallback auf interne ID): `book.html?book=row-12`
+## Wichtige Dateien
 
-Beim Wechsel von der Suche zur Detailseite wird der aktuelle Filterzustand als
-`returnTo` mitgegeben. Der Link "Zurueck zur Suche" stellt diesen Zustand wieder her.
+- `scripts/build_catalog.py`: Build-Skript für PDF/ISBN/Metadaten
+- `data/catalog.json`: statische Katalogdaten für die Website
+- `data/catalog_metadata_cache.json`: Metadaten-Cache
+- `data/isbn_cache.csv`: ISBN-Cache
+- `assets/catalog.js`: Suche, Filter, Rendering
+- `assets/detail.js`: Detailseite + Share/OpenGraph im DOM
+- `assets/contributions.js`: Community-Beiträge + CSV-Export
 
-## Deep-Link Suche
+## Datenqualität und Nachpflege
 
-Die Suchseite akzeptiert URL-Parameter und aktualisiert sie live beim Filtern:
-
-* `q`: Suchtext
-* `author`: exakter Autorname
-* `genre`: exaktes Genre
-
-Beispiel:
-
-`index.html?q=geschichte&author=Ende,%20Michael&genre=Fantasy`
-
-In der Suche gibt es zusaetzlich den Button "Link teilen", der den aktuellen
-Filter-Link in die Zwischenablage kopiert.
-
-## Quellen auf Detailseite
-
-Auf `book.html` werden klickbare Quellenlinks angezeigt, z. B.:
-
-* OpenLibrary
-* DNB
-* Google Books (wenn vorhanden)
+Wenn keine ISBN ermittelt werden kann, bleibt der Eintrag erhalten und erhält den Status `Keine ISBN ermittelt`.
+Diese Einträge können über `data/manual_overrides.csv` manuell ergänzt werden.

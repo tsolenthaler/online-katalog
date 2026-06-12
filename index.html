@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bibliothek Stein AR - Online-Katalog</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header shell">
+      <a class="brand" href="index.html">Bibliothek Stein AR</a>
+      <nav class="nav">
+        <a href="catalog.html">Katalog</a>
+        <a href="new.html">Neuheiten</a>
+        <a href="contributions.html">Buch melden</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <section class="hero reveal">
+        <p class="eyebrow">Willkommen</p>
+        <h1>Online-Katalog der Bibliothek Stein AR</h1>
+        <p class="lead">
+          Stöbern Sie in unserem Bestand, entdecken Sie Neuheiten und finden Sie Bücher schnell per Titel, Autor oder Genre.
+        </p>
+
+        <form class="hero-search" action="search.html" method="get">
+          <label class="sr-only" for="hero-query">Suche nach Titel, Autor...</label>
+          <input
+            id="hero-query"
+            name="q"
+            type="search"
+            placeholder="Suche nach Titel, Autor..."
+            autocomplete="off"
+            required
+          />
+          <button type="submit">Suchen</button>
+        </form>
+
+        <div class="hero-actions">
+          <a class="button-secondary" href="catalog.html">Kompletten Katalog ansehen</a>
+          <a class="button-secondary" href="contributions.html">Neues Medium melden</a>
+        </div>
+      </section>
+
+      <section class="cards-intro reveal" style="--delay: 120ms">
+        <article class="info-card">
+          <h2>Einfach finden</h2>
+          <p>Suche, Filter und klare Detailseiten helfen Ihnen in wenigen Klicks zum passenden Medium.</p>
+        </article>
+        <article class="info-card">
+          <h2>Regelmäßig ergänzt</h2>
+          <p>Neu hinzugefügte Bücher sind separat verfügbar, damit Sie nichts verpassen.</p>
+        </article>
+        <article class="info-card">
+          <h2>Von der Gemeinde</h2>
+          <p>Vorschläge aus der Bevölkerung können direkt als Beitrag eingereicht werden.</p>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer shell">
+      <p>Bibliothek Stein AR · Öffentlicher Online-Katalog</p>
+    </footer>
+
+    <script src="assets/site.js" defer></script>
+  </body>
+</html>

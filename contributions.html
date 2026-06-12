@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Medium melden - Bibliothek Stein AR</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body data-page="contrib">
+    <header class="site-header shell">
+      <a class="brand" href="index.html">Bibliothek Stein AR</a>
+      <nav class="nav">
+        <a href="catalog.html">Katalog</a>
+        <a href="new.html">Neuheiten</a>
+        <a class="active" href="contributions.html">Buch melden</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <section class="reveal">
+        <h1>Neues Medium melden</h1>
+        <p class="lead">
+          Tragen Sie Medienvorschläge ein. Die Daten werden lokal als CSV-Datei vorbereitet und können anschließend an die Bibliothek gesendet werden.
+        </p>
+      </section>
+
+      <section class="contrib-card reveal" style="--delay: 120ms">
+        <form id="contribForm">
+          <label for="cTitle">Titel</label>
+          <input id="cTitle" name="title" required />
+
+          <label for="cAuthor">Autor</label>
+          <input id="cAuthor" name="author" required />
+
+          <label for="cType">Typ</label>
+          <select id="cType" name="type" required>
+            <option value="Buch">Buch</option>
+            <option value="CD">CD</option>
+            <option value="Zeitschrift">Zeitschrift</option>
+            <option value="Spiel">Spiel/Kartenspiel</option>
+          </select>
+
+          <label for="cOwner">Besitzer (optional)</label>
+          <input id="cOwner" name="owner" />
+
+          <label class="check">
+            <input id="cTrade" name="trade_interest" type="checkbox" />
+            Tauschwunsch vorhanden
+          </label>
+
+          <button type="submit">Eintrag hinzufügen</button>
+        </form>
+
+        <div class="contrib-actions">
+          <button id="downloadCsv" type="button" class="button-secondary">CSV herunterladen</button>
+          <p id="contribMessage" aria-live="polite"></p>
+        </div>
+
+        <div class="table-wrap">
+          <table id="contribTable">
+            <thead>
+              <tr>
+                <th>Titel</th>
+                <th>Autor</th>
+                <th>Typ</th>
+                <th>Besitzer</th>
+                <th>Tauschwunsch</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer shell">
+      <p>Bibliothek Stein AR · Öffentlicher Online-Katalog</p>
+    </footer>
+
+    <script src="assets/site.js" defer></script>
+    <script src="assets/contributions.js" defer></script>
+  </body>
+</html>

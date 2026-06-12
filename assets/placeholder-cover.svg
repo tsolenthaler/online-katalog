@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="Kein Cover verfügbar">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#0b5d55" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g)" />
+  <rect x="36" y="36" width="328" height="528" rx="20" fill="none" stroke="#9fe3dc" stroke-width="3" />
+  <g fill="#d8f7f3">
+    <rect x="80" y="130" width="240" height="14" rx="7" />
+    <rect x="80" y="160" width="190" height="14" rx="7" opacity="0.9" />
+    <rect x="80" y="220" width="240" height="190" rx="16" opacity="0.25" />
+    <rect x="80" y="440" width="230" height="12" rx="6" opacity="0.75" />
+    <rect x="80" y="465" width="170" height="12" rx="6" opacity="0.75" />
+  </g>
+  <text x="200" y="536" text-anchor="middle" fill="#d8f7f3" font-size="19" font-family="Manrope, Arial, sans-serif">Kein Cover verfügbar</text>
+</svg>
