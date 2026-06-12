@@ -27,6 +27,18 @@ from pypdf import PdfReader
 
 
 DEFAULT_PLACEHOLDER_COVER = "assets/placeholder-cover.svg"
+REPORT_OVERRIDE_FIELDS = {
+    "title",
+    "author",
+    "isbn",
+    "type",
+    "owner",
+    "date_added",
+    "description",
+    "cover_url",
+    "genre",
+    "status",
+}
 
 
 @dataclass
@@ -251,6 +263,10 @@ def load_manual_overrides(path: Path) -> dict[tuple[str, str], dict[str, str]]:
             media_type = clean_text(row.get("type", "Buch")) or "Buch"
             owner = clean_text(row.get("owner", ""))
             date_added = clean_text(row.get("date_added", ""))
+            description = clean_text(row.get("description", ""))
+            cover_url = clean_text(row.get("cover_url", ""))
+            genre = clean_text(row.get("genre", ""))
+            status = clean_text(row.get("status", ""))
 
             if not title:
                 continue
@@ -258,10 +274,105 @@ def load_manual_overrides(path: Path) -> dict[tuple[str, str], dict[str, str]]:
             key = (normalize_text(title), normalize_text(author))
             overrides[key] = {
                 "isbn": isbn,
+                "title": title,
+                "author": author,
                 "type": media_type,
                 "owner": owner,
                 "date_added": date_added,
+                "description": description,
+                "cover_url": cover_url,
+                "genre": genre,
+                "status": status,
             }
+    return overrides
+
+
+def merge_entry_override(
+    target: dict[tuple[str, str], dict[str, str]],
+    key: tuple[str, str],
+    values: dict[str, str],
+) -> None:
+    cleaned = {
+        field: clean_text(value)
+        for field, value in values.items()
+        if field in REPORT_OVERRIDE_FIELDS and clean_text(value)
+    }
+    if not cleaned:
+        return
+    target.setdefault(key, {}).update(cleaned)
+
+
+def apply_report_change(target: dict[str, str], field_name: str, proposed_value: str) -> None:
+    normalized_field = clean_text(field_name).lower()
+    if not normalized_field:
+        return
+
+    aliases = {
+        "titel": "title",
+        "autor": "author",
+        "beschreibung": "description",
+        "cover": "cover_url",
+        "cover-url": "cover_url",
+        "cover_url": "cover_url",
+        "genre": "genre",
+        "typ": "type",
+        "besitzer": "owner",
+        "status": "status",
+        "isbn": "isbn",
+    }
+    canonical = aliases.get(normalized_field, normalized_field)
+    if canonical == "isbn":
+        normalized_isbn = normalize_isbn(proposed_value)
+        if normalized_isbn:
+            target[canonical] = normalized_isbn
+        return
+    if canonical in REPORT_OVERRIDE_FIELDS:
+        target[canonical] = clean_text(proposed_value)
+
+
+def load_report_overrides(reports_dir: Path) -> dict[tuple[str, str], dict[str, str]]:
+    overrides: dict[tuple[str, str], dict[str, str]] = {}
+    if not reports_dir.exists():
+        return overrides
+
+    for path in sorted(reports_dir.iterdir()):
+        if not path.is_file() or path.suffix.lower() not in {".json", ".csv"}:
+            continue
+
+        if path.suffix.lower() == ".json":
+            with path.open("r", encoding="utf-8") as handle:
+                payload = json.load(handle)
+
+            title = clean_text(payload.get("title", ""))
+            author = clean_text(payload.get("author", ""))
+            if not title:
+                continue
+
+            values: dict[str, str] = {}
+            if payload.get("isbn"):
+                apply_report_change(values, "isbn", str(payload.get("isbn", "")))
+            for change in payload.get("changes", []):
+                apply_report_change(values, str(change.get("field_name", "")), str(change.get("proposed_value", "")))
+            merge_entry_override(overrides, (normalize_text(title), normalize_text(author)), values)
+            continue
+
+        with path.open("r", encoding="utf-8-sig", newline="") as handle:
+            reader = csv.DictReader(handle)
+            rows_by_key: dict[tuple[str, str], dict[str, str]] = {}
+            for row in reader:
+                title = clean_text(row.get("title", ""))
+                author = clean_text(row.get("author", ""))
+                if not title:
+                    continue
+                key = (normalize_text(title), normalize_text(author))
+                current = rows_by_key.setdefault(key, {})
+                if row.get("isbn"):
+                    apply_report_change(current, "isbn", row.get("isbn", ""))
+                apply_report_change(current, row.get("field_name", ""), row.get("proposed_value", ""))
+
+            for key, values in rows_by_key.items():
+                merge_entry_override(overrides, key, values)
+
     return overrides
 
 
@@ -501,6 +612,9 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
         if fallback.exists():
             manual_path = fallback
     overrides = load_manual_overrides(manual_path)
+    report_overrides = load_report_overrides(Path(args.reports_dir))
+    for key, values in report_overrides.items():
+        overrides.setdefault(key, {}).update(values)
 
     metadata_cache = load_json(Path(args.cache), default={})
     isbn_cache = load_isbn_cache(Path(args.isbn_cache))
@@ -521,6 +635,8 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
     for source in pdf_entries:
         key = f"{normalize_text(source.title)}|{normalize_text(source.author)}"
         override = overrides.get((normalize_text(source.title), normalize_text(source.author)), {})
+        source_title = override.get("title") or source.title
+        source_author = override.get("author") or source.author
 
         isbn = ""
         isbn_source = ""
@@ -538,7 +654,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
 
         if not isbn and not args.offline:
             try:
-                isbn = dnb_search_isbn(session, source.title, source.author)
+                isbn = dnb_search_isbn(session, source_title, source_author)
                 if isbn:
                     isbn_source = "dnb"
             except requests.RequestException:
@@ -546,7 +662,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
 
         if not isbn and not args.offline:
             try:
-                isbn = google_isbn_search(session, source.title, source.author)
+                isbn = google_isbn_search(session, source_title, source_author)
                 if isbn:
                     isbn_source = "google_books"
             except requests.RequestException:
@@ -623,12 +739,12 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
                 metadata["metadata_source"] = metadata_source
                 metadata_cache[isbn] = metadata
 
-        title = metadata.get("title") or source.title
-        author = metadata.get("author") or source.author
+        title = override.get("title") or metadata.get("title") or source.title
+        author = override.get("author") or metadata.get("author") or source.author
         genres = [clean_text(g) for g in (metadata.get("genres") or []) if clean_text(g)]
-        genre = genres[0] if genres else ""
-        description = metadata.get("description") or ""
-        cover_url = metadata.get("cover_url") or DEFAULT_PLACEHOLDER_COVER
+        genre = override.get("genre") or (genres[0] if genres else "")
+        description = override.get("description") or metadata.get("description") or ""
+        cover_url = override.get("cover_url") or metadata.get("cover_url") or DEFAULT_PLACEHOLDER_COVER
 
         if isbn and (description or genres or metadata.get("cover_url")):
             stats["rows_with_metadata"] += 1
@@ -649,7 +765,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
             "genre": genre,
             "metadata_source": metadata_source,
             "isbn_source": isbn_source,
-            "status": "OK" if isbn else "Keine ISBN ermittelt",
+            "status": override.get("status") or ("OK" if isbn else "Keine ISBN ermittelt"),
             "openlibrary_link": metadata.get("openlibrary_link", f"https://openlibrary.org/isbn/{isbn}" if isbn else ""),
             "google_books_link": metadata.get("google_books_link", ""),
             "dnb_link": metadata.get("dnb_link", f"https://portal.dnb.de/opac/simpleSearch?query={isbn}" if isbn else ""),
@@ -663,6 +779,7 @@ def build_catalog(args: argparse.Namespace) -> dict[str, Any]:
         "generated_at": now.isoformat(),
         "source_pdf": args.pdf,
         "manual_overrides": str(manual_path),
+        "reports_folder": args.reports_dir,
         "total_rows": len(items),
         **stats,
         "items": items,
@@ -682,6 +799,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--out", default="data/catalog.json", help="Output catalog JSON")
     parser.add_argument("--cache", default="data/catalog_metadata_cache.json", help="Metadata cache JSON")
     parser.add_argument("--isbn-cache", default="data/isbn_cache.csv", help="ISBN lookup cache CSV")
+    parser.add_argument("--reports-dir", default="data/reports", help="Folder with JSON/CSV issue reports")
     parser.add_argument("--days-new", type=int, default=90, help="Days considered new")
     parser.add_argument("--max-rows", type=int, default=0, help="Only process first N rows")
     parser.add_argument("--offline", action="store_true", help="Disable external API requests")

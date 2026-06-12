@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-06-12T07:31:56.212052+00:00",
+  "generated_at": "2026-06-12T08:53:23.714614+00:00",
   "source_pdf": "data/Titelliste.pdf",
   "manual_overrides": "data\\manual_overrides.csv",
+  "reports_folder": "data/reports",
   "total_rows": 5566,
   "rows_with_isbn": 199,
   "rows_without_isbn": 5367,

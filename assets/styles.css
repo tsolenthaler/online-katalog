@@ -134,12 +134,17 @@ button {
 }
 
 input,
-select {
+select,
+textarea {
   width: 100%;
   border: 1px solid var(--line);
   border-radius: 10px;
   padding: 0.7rem 0.85rem;
   background: #fff;
+}
+
+textarea {
+  resize: vertical;
 }
 
 button,
@@ -351,6 +356,65 @@ button {
   flex-wrap: wrap;
 }
 
+.detail-report-form {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.report-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.report-grid.compact {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.report-grid label,
+.report-row-grid label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.report-rows {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.report-row {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0.85rem;
+  background: #fafdfd;
+}
+
+.report-row-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.report-row-actions,
+.report-actions-inline {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.65rem;
+}
+
+.report-help {
+  margin: 0;
+  color: var(--muted);
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.is-hidden {
+  display: none;
+}
+
 .contrib-card {
   margin-top: 0.9rem;
   padding: 1rem;
@@ -434,5 +498,15 @@ td {
 
   .hero-search {
     grid-template-columns: 1fr;
+  }
+
+  .report-grid,
+  .report-grid.compact,
+  .report-row-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .span-2 {
+    grid-column: auto;
   }
 }
