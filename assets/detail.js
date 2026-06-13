@@ -11,7 +11,7 @@
   const returnTo = helpers.params.get('returnTo');
   const REPORT_FIELDS = [
     { value: 'isbn', label: 'ISBN' },
-    { value: 'title', label: 'Titel' },
+    { value: 'name', label: 'Name' },
     { value: 'author', label: 'Autor' },
     { value: 'description', label: 'Beschreibung' },
     { value: 'cover_url', label: 'Cover-URL' },
@@ -63,7 +63,7 @@
 
   function buildSearchText(item, keywords) {
     return normalizeSearchText([
-      item.title || '',
+      item.name || item.title || '',
       item.author || '',
       item.isbn || '',
       item.type || '',
@@ -82,7 +82,7 @@
       '@context': 'https://schema.org',
       '@type': 'Book',
       '@id': `urn:uuid:${item.id || ''}`,
-      name: item.title || '',
+      name: item.name || item.title || '',
       author: {
         '@type': 'Person',
         name: item.author || '',
@@ -119,6 +119,7 @@
   function currentFieldValue(item, fieldName) {
     if (!fieldName || fieldName === 'custom') return '';
     if (fieldName === 'genre') return item.genre || (item.genres || []).join(', ');
+    if (fieldName === 'name') return item.name || item.title || '';
     return item[fieldName] ?? '';
   }
 
@@ -172,7 +173,7 @@
     const reportPayload = {
       created_at: new Date().toISOString(),
       source_url: window.location.href,
-      title: item.title || '',
+      name: item.name || item.title || '',
       author: item.author || '',
       isbn: item.isbn || '',
       reporter_name: (formData.get('reporter_name') || '').toString().trim(),
@@ -258,8 +259,8 @@
             <input value="${helpers.escapeHtml(item.id || '')}" readonly />
           </label>
           <label>
-            Medium
-            <input value="${helpers.escapeHtml(item.title || '')}" readonly />
+            Name
+            <input value="${helpers.escapeHtml(item.name || item.title || '')}" readonly />
           </label>
           <label>
             Autor
@@ -340,14 +341,14 @@
       const payload = currentPayload();
       if (!payload) return;
 
-      const subject = `Katalogmeldung: ${payload.title || item.id || 'Medium'}`;
+      const subject = `Katalogmeldung: ${payload.name || item.id || 'Medium'}`;
       const body = [
         'Guten Tag',
         '',
         'ich moechte eine Korrektur zu diesem Medium melden.',
         '',
         `ID: ${item.id || '-'}`,
-        `Titel: ${payload.title}`,
+        `Name: ${payload.name}`,
         `Autor: ${payload.author}`,
         `ISBN: ${payload.isbn || '-'}`,
         `Link: ${payload.source_url}`,
