@@ -36,6 +36,82 @@
     return `${date.getFullYear()}${pad(date.getMonth() + 1)}${pad(date.getDate())}-${pad(date.getHours())}${pad(date.getMinutes())}${pad(date.getSeconds())}`;
   }
 
+  function normalizeSearchText(value) {
+    return String(value ?? '')
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/ß/g, 'ss')
+      .replace(/[^0-9a-zA-Z]+/g, ' ')
+      .trim()
+      .toLowerCase();
+  }
+
+  function extractKeywords(item) {
+    if (Array.isArray(item.genres)) {
+      return item.genres.map((value) => String(value || '').trim()).filter(Boolean);
+    }
+
+    if (item.genre) {
+      return String(item.genre)
+        .split(',')
+        .map((value) => value.trim())
+        .filter(Boolean);
+    }
+
+    return [];
+  }
+
+  function buildSearchText(item, keywords) {
+    return normalizeSearchText([
+      item.title || '',
+      item.author || '',
+      item.isbn || '',
+      item.type || '',
+      item.owner || '',
+      item.genre || '',
+      (keywords || []).join(' '),
+    ].join(' '));
+  }
+
+  function buildSchemaOrgBook(item) {
+    const keywords = extractKeywords(item);
+    const sameAs = [item.openlibrary_link, item.dnb_link, item.google_books_link].filter(Boolean);
+    const searchText = buildSearchText(item, keywords);
+
+    const schemaItem = {
+      '@context': 'https://schema.org',
+      '@type': 'Book',
+      '@id': `urn:uuid:${item.id || ''}`,
+      name: item.title || '',
+      author: {
+        '@type': 'Person',
+        name: item.author || '',
+      },
+      isbn: item.isbn || '',
+      genre: item.genre || '',
+      keywords,
+      description: item.description || '',
+      image: item.cover_url || 'assets/placeholder-cover.svg',
+      _catalog: {
+        id: item.id || '',
+        type: item.type || 'Buch',
+        owner: item.owner || '',
+        date_added: item.date_added || '',
+        is_new: Boolean(item.is_new),
+        status: item.status || (item.isbn ? 'OK' : 'Keine ISBN ermittelt'),
+        metadata_source: item.metadata_source || '',
+        isbn_source: item.isbn_source || '',
+        search_text: searchText,
+      },
+    };
+
+    if (sameAs.length) {
+      schemaItem.sameAs = sameAs;
+    }
+
+    return schemaItem;
+  }
+
   function createFieldOptions(selected = 'description') {
     return REPORT_FIELDS.map((field) => `<option value="${field.value}"${field.value === selected ? ' selected' : ''}>${helpers.escapeHtml(field.label)}</option>`).join('');
   }
@@ -112,7 +188,7 @@
 
     return {
       ...reportPayload,
-      replacement_item: replacementItem,
+      replacement_item: buildSchemaOrgBook(replacementItem),
     };
   }
 
@@ -223,7 +299,7 @@
         </div>
 
         <p class="report-help">
-          Die JSON-Datei entspricht direkt dem Datensatz unter <strong>data/item/${helpers.escapeHtml(item.id || 'ITEM_ID')}.json</strong> und kann dort ersetzt werden.
+          Die JSON-Datei ist als <code>schema.org/Book</code> aufgebaut und entspricht direkt dem Datensatz unter <strong>data/item/${helpers.escapeHtml(item.id || 'ITEM_ID')}.json</strong>.
         </p>
       </form>
     `;
@@ -256,7 +332,7 @@
         new Blob([JSON.stringify(payload.replacement_item, null, 2)], { type: 'application/json;charset=utf-8' }),
         `${fileBaseName(item)}.json`,
       );
-      message.textContent = 'Datensatz-JSON wurde heruntergeladen und kann in data/item ersetzt werden.';
+      message.textContent = 'Schema.org-Book-JSON wurde heruntergeladen und kann direkt data/item/<id>.json ersetzen.';
     });
 
     form?.addEventListener('submit', (event) => {
@@ -285,7 +361,7 @@
       ].filter(Boolean).join('\n');
 
       window.location.href = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-      message.textContent = 'Mail wurde vorbereitet. Falls noetig, die heruntergeladene Datei manuell anhaengen.';
+      message.textContent = 'Mail wurde vorbereitet. Die JSON-Datei kann direkt in data/item ersetzt werden.';
     });
   }
 
